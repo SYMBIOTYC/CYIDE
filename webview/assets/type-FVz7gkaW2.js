@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`HALF_FULL_ADDER_LOGIC`,n=`half-full-adder-logic-v1`,r={a:{kind:`boolean`,defaultValue:!0},b:{kind:`boolean`,defaultValue:!1},carryIn:{kind:`boolean`,defaultValue:!0}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-FVz7gkaW2.js.map

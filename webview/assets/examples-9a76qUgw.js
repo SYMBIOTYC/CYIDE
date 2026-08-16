@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{reference_amount_mol:.25,reference_volume_l:1}},{name:`Maximum supported values`,initialValues:{reference_amount_mol:5,reference_volume_l:120}},{name:`Argon comparison`,initialValues:{reference_amount_mol:2.45,reference_volume_l:89}}]}))();export{t as default};
+//# sourceMappingURL=examples-9a76qUgw.js.map

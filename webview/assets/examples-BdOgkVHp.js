@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_example: lactic acid`,initialValues:{initial_example:`lactic acid`}}]}))();export{t as default};
+//# sourceMappingURL=examples-BdOgkVHp.js.map

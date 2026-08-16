@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{input_energy_joules:1,initial_efficiency_percent:0}},{name:`Maximum supported values`,initialValues:{input_energy_joules:1e4,initial_efficiency_percent:100}},{name:`energy_system: electric motor`,initialValues:{energy_system:`electric motor`}},{name:`energy_system: car engine`,initialValues:{energy_system:`car engine`}}]}))();export{t as default};
+//# sourceMappingURL=examples-BIm5Wege.js.map
