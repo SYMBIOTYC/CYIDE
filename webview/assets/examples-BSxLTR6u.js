@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`neighbor_count: 0`,initialValues:{neighbor_count:`0`}},{name:`neighbor_count: 1`,initialValues:{neighbor_count:`1`}},{name:`neighbor_count: 3`,initialValues:{neighbor_count:`3`}},{name:`neighbor_count: 4`,initialValues:{neighbor_count:`4`}},{name:`neighbor_count: 6`,initialValues:{neighbor_count:`6`}}]}))();export{t as default};
+//# sourceMappingURL=examples-BSxLTR6u.js.map

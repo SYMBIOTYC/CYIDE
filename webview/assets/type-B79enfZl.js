@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o=e((()=>{t=`SPECIFIC_HEAT`,n=`specific-heat-v2`,r=`\\Delta T = \\frac{q}{mc}`,i={material:{kind:`enum`,defaultValue:`water`,allowedValues:[`copper`,`sand`,`water`]},heatKj:{kind:`number`,defaultValue:40,min:0,max:60}},a={type:t,version:1,thumbnailAssetKey:n,canonicalFormula:r,parameters:i}}));export{a as n,o as t};
+//# sourceMappingURL=type-B79enfZl.js.map

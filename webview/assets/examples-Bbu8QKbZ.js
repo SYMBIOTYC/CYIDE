@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{temperature_c:-80,pressure_kpa:.001}},{name:`Maximum supported values`,initialValues:{temperature_c:450,pressure_kpa:5e4}},{name:`Normal boiling point`,initialValues:{temperature_c:100,pressure_kpa:101.325}},{name:`Triple point`,initialValues:{temperature_c:.01,pressure_kpa:.611}},{name:`Critical point`,initialValues:{temperature_c:374,pressure_kpa:22064}}]}))();export{t as default};
+//# sourceMappingURL=examples-Bbu8QKbZ.js.map

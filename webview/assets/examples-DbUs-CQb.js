@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{content:`\\sqrt{x} = x^{1/2}`},{content:`x^{1/2} = \\sqrt{x}`}]}))();export{t as default};
+//# sourceMappingURL=examples-DbUs-CQb.js.map

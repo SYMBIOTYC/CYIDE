@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{content:`\\varepsilon = -\\frac{d\\Phi}{dt}`},{content:`\\epsilon = -N\\frac{d\\Phi_B}{dt}`},{content:`\\boxed{\\varepsilon = -\\frac{d\\Phi}{dt}}`}]}))();export{t as default};
+//# sourceMappingURL=examples-BoLhXTtG.js.map

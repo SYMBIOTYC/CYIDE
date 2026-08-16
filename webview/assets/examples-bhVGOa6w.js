@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{producer_energy:1e3,transfer_efficiency_percent:5}},{name:`Maximum supported values`,initialValues:{producer_energy:1e5,transfer_efficiency_percent:20}},{name:`High producer energy, low transfer`,initialValues:{producer_energy:1e5,transfer_efficiency_percent:5}}]}))();export{t as default};
+//# sourceMappingURL=examples-bhVGOa6w.js.map

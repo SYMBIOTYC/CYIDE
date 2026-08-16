@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`DIVIDE_CONQUER_RECURRENCE_TREE`,n=`divide-conquer-recurrence-tree-v1`,r={recurrence_example:{kind:`enum`,defaultValue:`T(n) = 2T(n/2) + n`,allowedValues:[`T(n) = 2T(n/2) + 1`,`T(n) = 2T(n/2) + n`,`T(n) = 2T(n/2) + n^2`]}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-BpV4vOFK.js.map

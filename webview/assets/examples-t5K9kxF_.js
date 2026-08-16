@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{fieldStrengthNewtonsPerCoulomb:0,areaSquareMeters:.5,angleDegrees:0}},{name:`Maximum supported values`,initialValues:{fieldStrengthNewtonsPerCoulomb:10,areaSquareMeters:5,angleDegrees:90}}]}))();export{t as default};
+//# sourceMappingURL=examples-t5K9kxF_.js.map

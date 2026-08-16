@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{pKa:2,baseToAcidRatio:.01}},{name:`Maximum supported values`,initialValues:{pKa:12,baseToAcidRatio:100}},{name:`Tenfold weak-acid excess`,initialValues:{baseToAcidRatio:.1}},{name:`Tenfold conjugate-base excess`,initialValues:{baseToAcidRatio:10}}]}))();export{t as default};
+//# sourceMappingURL=examples-CfOHFoD1.js.map

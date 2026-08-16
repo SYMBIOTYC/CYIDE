@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{population:1e3,landAreaSquareKilometers:5}},{name:`Maximum supported values`,initialValues:{population:1e6,landAreaSquareKilometers:1e3}}]}))();export{t as default};
+//# sourceMappingURL=examples-Dss3zryB.js.map
