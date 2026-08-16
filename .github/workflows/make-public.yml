@@ -1,11 +1,9 @@
 # .github/workflows/make-public.yml
 name: Make cy.CY public
 
-# Sets the PublishedExtensionFlags.Public (256) bit on cy.CY so it becomes
-# visible in the public VS Code Marketplace gallery. Auth uses the publisher
-# PAT (VSCE_PAT) which exists as a repo secret.
-#
-# Triggered by push to this branch (no workflow_dispatch API scope needed).
+# Attempts to set the PublishedExtensionFlags.Public (256) bit on cy.CY and
+# dumps the authenticated gallery state. Auth uses the publisher PAT (VSCE_PAT),
+# which exists as a repo secret. Triggered by push to this branch.
 on:
   workflow_dispatch:
   push:
@@ -31,19 +29,18 @@ jobs:
         with:
           node-version: 20
 
-      - name: Set extension public
+      - name: Diagnose + set public
         run: |
           npm install @vscode/vsce >/dev/null 2>&1
           node -e '
           const fs = require("fs");
           const { getGalleryAPI } = require("@vscode/vsce/out/util");
           const { PublishedExtensionFlags } = require("azure-devops-node-api/interfaces/GalleryInterfaces");
-          const PUB = "cy", NAME = "CY";
-          const Public = PublishedExtensionFlags.Public;       // 256
+          const PUB = "cy", NAME = "CY", Public = PublishedExtensionFlags.Public;
           const out = [];
-          async function qdump(api, ft, val, label){
+          async function qdump(api, ft, val, label, acct){
             try {
-              const q = await api.queryExtensions(null, {filters:[{criteria:[{filterType:ft,value:val}]}],flags:2119,assetTypes:[]}, undefined, undefined);
+              const q = await api.queryExtensions(null, {filters:[{criteria:[{filterType:ft,value:val}]}],flags:2119,assetTypes:[]}, acct, acct ? ("Bearer "+acct) : undefined);
               out.push(label + " results=" + (q.results ? q.results.length : "?"));
               for (const r of (q.results||[])) {
                 out.push(label + " exts_len=" + (r.extensions ? r.extensions.length : "undef"));
@@ -57,11 +54,12 @@ jobs:
             if (!process.env.VSCE_PAT) throw new Error("VSCE_PAT missing");
             const api = await getGalleryAPI(process.env.VSCE_PAT);
             await qdump(api, 7, "cy.CY", "F7");
-            await qdump(api, 18, "cy", "F18pub");
-            await qdump(api, 24, "CY", "F24name");
+            await qdump(api, 3, "cy", "F3priv");
+            await qdump(api, 7, "cy.CY", "F7acct", "cy");
+            await qdump(api, 18, "cy", "F18pub", "cy");
             const res = await api.updateExtensionProperties(PUB, NAME, Public);
             out.push("update res flags=" + (res && res.flags));
-            await qdump(api, 7, "cy.CY", "noop");
+            await qdump(api, 7, "cy.CY", "F7after", "cy");
             out.push("RESULT: OK");
           })().catch(e => { out.push("RESULT: FAIL " + (e.message||e)); })
             .finally(() => { fs.writeFileSync("make-public-status.txt", out.join("\n") + "\n"); });
