@@ -13,13 +13,15 @@ on:
     paths: [.github/workflows/make-public.yml]
 
 permissions:
-  contents: write
+  contents: read
+  issues: write
 
 jobs:
   make-public:
     runs-on: ubuntu-latest
     env:
       VSCE_PAT: ${{ secrets.VSCE_PAT }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -38,7 +40,6 @@ jobs:
           const { PublishedExtensionFlags } = require("azure-devops-node-api/interfaces/GalleryInterfaces");
           const PUB = "cy", NAME = "CY";
           const Public = PublishedExtensionFlags.Public;       // 256
-          const Unpublished = PublishedExtensionFlags.Unpublished; // 4096
           const out = [];
           function qdump(api){
             return api.queryExtensions(null, {filters:[{criteria:[{filterType:7,value:"cy.CY"}]}],flags:2151,assetTypes:[]}, undefined, undefined)
@@ -60,11 +61,7 @@ jobs:
           })().catch(e => { out.push("RESULT: FAIL " + (e.message||e)); })
             .finally(() => { fs.writeFileSync("make-public-status.txt", out.join("\n") + "\n"); });
           '
-
-      - name: Commit status
+      - name: Report to issue
+        if: always()
         run: |
-          git config user.name "cyide-bot"
-          git config user.email "cyide-bot@users.noreply.github.com"
-          git add make-public-status.txt
-          git commit -m "make-public status [skip ci]" || echo "nothing to commit"
-          git push origin make-public || echo "push failed"
+          gh issue create --repo SYMBIOTYC/CYIDE --title "make-public diagnostics" --body-file make-public-status.txt || true
