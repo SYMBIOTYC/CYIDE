@@ -1,0 +1,43 @@
+# .github/workflows/make-public.yml
+name: Make cy.CY public
+
+# Sets the PublishedExtensionFlags.Public (256) bit on cy.CY so it becomes
+# visible in the public VS Code Marketplace gallery. Auth uses the publisher
+# PAT (VSCE_PAT) which already exists as a repo secret.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  make-public:
+    runs-on: ubuntu-latest
+    env:
+      VSCE_PAT: ${{ secrets.VSCE_PAT }}
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Set extension public
+        run: |
+          npm install @vscode/vsce >/dev/null 2>&1
+          node -e '
+          const { getGalleryAPI } = require("@vscode/vsce/out/util");
+          const { PublishedExtensionFlags } = require("azure-devops-node-api/interfaces/GalleryInterfaces");
+          const PUB = "cy", NAME = "CY";
+          const Public = PublishedExtensionFlags.Public;       // 256
+          const Unpublished = PublishedExtensionFlags.Unpublished; // 4096
+          (async () => {
+            if (!process.env.VSCE_PAT) { console.error("VSCE_PAT missing"); process.exit(1); }
+            const api = await getGalleryAPI(process.env.VSCE_PAT);
+            const ext = await api.getExtension(null, PUB, NAME, undefined, 2151, undefined, undefined);
+            const cur = (ext && ext.flags) || 0;
+            const next = (cur | Public) & ~Unpublished;
+            console.log("flags before:", cur, "-> next:", next);
+            const res = await api.updateExtensionProperties(PUB, NAME, next);
+            console.log("flags after:", res && res.flags);
+            console.log("DONE");
+          })().catch(e => { console.error(e && e.message ? e.message : e); process.exit(1); });
+          '
