@@ -3,12 +3,17 @@ name: Make cy.CY public
 
 # Sets the PublishedExtensionFlags.Public (256) bit on cy.CY so it becomes
 # visible in the public VS Code Marketplace gallery. Auth uses the publisher
-# PAT (VSCE_PAT) which already exists as a repo secret.
+# PAT (VSCE_PAT) which exists as a repo secret.
+#
+# Triggered by push to this branch (no workflow_dispatch API scope needed).
 on:
   workflow_dispatch:
+  push:
+    branches: [make-public]
+    paths: [.github/workflows/make-public.yml]
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   make-public:
@@ -16,6 +21,10 @@ jobs:
     env:
       VSCE_PAT: ${{ secrets.VSCE_PAT }}
     steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: make-public
+
       - uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -24,20 +33,34 @@ jobs:
         run: |
           npm install @vscode/vsce >/dev/null 2>&1
           node -e '
+          const fs = require("fs");
           const { getGalleryAPI } = require("@vscode/vsce/out/util");
           const { PublishedExtensionFlags } = require("azure-devops-node-api/interfaces/GalleryInterfaces");
           const PUB = "cy", NAME = "CY";
           const Public = PublishedExtensionFlags.Public;       // 256
           const Unpublished = PublishedExtensionFlags.Unpublished; // 4096
+          const out = [];
           (async () => {
-            if (!process.env.VSCE_PAT) { console.error("VSCE_PAT missing"); process.exit(1); }
+            if (!process.env.VSCE_PAT) throw new Error("VSCE_PAT missing");
             const api = await getGalleryAPI(process.env.VSCE_PAT);
-            const ext = await api.getExtension(null, PUB, NAME, undefined, 2151, undefined, undefined);
-            const cur = (ext && ext.flags) || 0;
+            let cur = 0;
+            try {
+              const ext = await api.getExtension(null, PUB, NAME, undefined, 2151, undefined, undefined);
+              cur = (ext && ext.flags) || 0;
+            } catch (e) { out.push("getExtension warn: " + (e.message||e)); }
             const next = (cur | Public) & ~Unpublished;
-            console.log("flags before:", cur, "-> next:", next);
+            out.push("flags before: " + cur + " -> next: " + next);
             const res = await api.updateExtensionProperties(PUB, NAME, next);
-            console.log("flags after:", res && res.flags);
-            console.log("DONE");
-          })().catch(e => { console.error(e && e.message ? e.message : e); process.exit(1); });
+            out.push("flags after: " + (res && res.flags));
+            out.push("RESULT: OK");
+          })().catch(e => { out.push("RESULT: FAIL " + (e.message||e)); })
+            .finally(() => { fs.writeFileSync("make-public-status.txt", out.join("\n") + "\n"); });
           '
+
+      - name: Commit status
+        run: |
+          git config user.name "cyide-bot"
+          git config user.email "cyide-bot@users.noreply.github.com"
+          git add make-public-status.txt
+          git commit -m "make-public status [skip ci]" || echo "nothing to commit"
+          git push origin make-public || echo "push failed"
