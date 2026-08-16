@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{ZM as t,hN as n}from"./app-initial-CireNHNv.js";import{Ert as r,Trt as i,gat as a,hat as o}from"./app-initial-BYsFXcPC.js";var s,c,l=e((()=>{t(),r(),a(),s=[`hotkey-window-hotkey-state`],c=n(o,()=>({queryKey:s,queryFn:async()=>{let e=i.hotkeyWindowHotkeys;return e==null?{supported:!1,configuredHotkey:null,isGateEnabled:!1,isDevMode:!1,isDevOverrideEnabled:!1,isActive:!1}:e.getState()}}))}));export{c as n,l as r,s as t};
+//# sourceMappingURL=hotkey-window-state-C9gllint.js.map

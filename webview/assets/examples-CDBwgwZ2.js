@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{content:`f(x) = x^3 - 3x`},{content:`f(x) = x^2`},{content:`f(x) = \\sin(x)`},{content:`f(x) = \\cos(x)`},{content:`f(x) = e^x`},{content:`f(x) = \\ln(x)`},{content:`f(x) = |x|`},{content:`f(x) = \\frac{1}{x}`}]}))();export{t as default};
+//# sourceMappingURL=examples-CDBwgwZ2.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_pattern: stationary`,initialValues:{initial_pattern:`stationary`}},{name:`initial_pattern: constrictive`,initialValues:{initial_pattern:`constrictive`}}]}))();export{t as default};
+//# sourceMappingURL=examples-8GzkI5j12.js.map

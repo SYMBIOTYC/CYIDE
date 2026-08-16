@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o=e((()=>{t={min:1,max:8,step:1,defaultValue:5,thumbnailValue:4},n=(e,t,n)=>Math.min(Math.max(e,t),n),r=e=>{let r=typeof e==`number`&&Number.isFinite(e)?e:t.defaultValue;return n(Math.round(r),t.min,t.max)},i=e=>({n:r(e.n)}),a=e=>{let{n:t}=i(e),n=Array.from({length:t},(e,t)=>t*2+1),r=n[n.length-1]??1,a=t*t;return{n:t,newestOddNumber:r,squareArea:a,terms:n,sumLatex:`${n.join(`+`)}=${a}=${t}^{2}`}}}));export{r as i,a as n,o as r,t};
+//# sourceMappingURL=model-71KhJMOF.js.map

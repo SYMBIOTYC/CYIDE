@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`terrain_example: single-hill`,initialValues:{terrain_example:`single-hill`}},{name:`terrain_example: valley-and-ridge`,initialValues:{terrain_example:`valley-and-ridge`}}]}))();export{t as default};
+//# sourceMappingURL=examples-Cm_utIWS.js.map

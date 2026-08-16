@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{score:0}},{name:`Maximum supported values`,initialValues:{score:100}},{name:`Immediately below the inclusive boundary`,initialValues:{score:59}},{name:`At the inclusive boundary`,initialValues:{score:60}}]}))();export{t as default};
+//# sourceMappingURL=examples-BpBSZ8Oc.js.map

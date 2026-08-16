@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`contaminant: methylmercury`,initialValues:{contaminant:`methylmercury`}},{name:`contaminant: PCBs`,initialValues:{contaminant:`PCBs`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DU78YvLR.js.map
