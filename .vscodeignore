@@ -1,0 +1,21 @@
+# Files excluded from the published VSIX (keeps the package small & dev-only).
+# The large codex binaries are fetched at runtime via bin/fetch-codex.sh.
+
+bin/macos-x86_64/
+bin/macos-arm64/
+bin/linux-x64/
+bin/linux-arm64/
+bin/win32-x64/
+bin/win32-arm64/
+
+codex-home/
+node_modules/
+scripts/
+.github/
+docs/
+AGENTS.md
+.gitignore
+.vscodeignore
+*.vsix
+*.log
+.DS_Store

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{n as t,t as n}from"./square-divide-GNb9aAMR-BsY_Pv6S.js";e((()=>{n()}))();export{t as default};
+//# sourceMappingURL=divide-square-Cy3WRoST-kIdF_gPT.js.map

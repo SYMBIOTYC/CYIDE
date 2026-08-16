@@ -1,0 +1,1 @@
+import{n as e,t}from"./shopping-bag-DDl9sQbL-D_VG_KRw.js";t();export{e as default};

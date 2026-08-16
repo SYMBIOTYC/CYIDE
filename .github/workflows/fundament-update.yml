@@ -1,0 +1,77 @@
+name: Fundament Update
+
+on:
+  schedule:
+    # Daily at 02:00 UTC — checks for a new openai.chatgpt release.
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-fundament:
+    runs-on: macos-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Configure git
+        run: |
+          git config user.name "cyide-bot"
+          git config user.email "cyide-bot@users.noreply.github.com"
+
+      - name: Run fundament update
+        env:
+          SU_CODEX_VSIX_URL: ${{ vars.SU_CODEX_VSIX_URL }}
+        run: bash scripts/update-fundament.sh
+
+      - name: Detect changes
+        id: changes
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No fundament changes detected."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Open PR
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BRANCH="fundament/$(date +%Y%m%d-%H%M%S)"
+          git checkout -b "$BRANCH"
+          git add -A
+          UP=$(cat UPSTREAM_VERSION 2>/dev/null || echo unknown)
+          LOCAL=$(node -e "console.log(require('./package.json').version)")
+          git commit -m "chore(fundament): sync to openai.chatgpt $UP (cy.su $LOCAL)"
+          git push origin "$BRANCH"
+          gh pr create \
+            --title "Fundament update → openai.chatgpt $UP" \
+            --body "Automated sync of the openai.chatgpt fundament into cy.su.
+
+            - Upstream version: **$UP**
+            - Local version: **$LOCAL**
+            - Rebranded extension.js + webview, portable cliExecutable, built VSIX.
+
+            Validate activation before merging." \
+            --label fundament-update
+
+      - name: Upload VSIX artifact
+        if: steps.changes.outputs.changed == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: su-vsix
+          path: "su-*.vsix"
+          if-no-files-found: warn

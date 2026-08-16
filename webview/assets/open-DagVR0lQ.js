@@ -1,0 +1,1 @@
+import{n as e,t}from"./open-BWi5DNhu.js";t();export{e as openImagePreview};
