@@ -290,5 +290,12 @@
     "installedTimestamp": 1786549324291,
     "targetPlatform": "darwin-x64",
     "size": 466332084
+  },
+  "scripts": {
+    "test": "vitest run",
+    "lint": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^2.1.0"
   }
 }
