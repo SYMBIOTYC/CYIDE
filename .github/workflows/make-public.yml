@@ -41,25 +41,27 @@ jobs:
           const PUB = "cy", NAME = "CY";
           const Public = PublishedExtensionFlags.Public;       // 256
           const out = [];
-          function qdump(api, label){
-            return api.queryExtensions(null, {filters:[{criteria:[{filterType:7,value:"cy.CY"}]}],flags:2119,assetTypes:[]}, undefined, undefined)
-              .then(q => {
-                out.push(label + " results=" + q.results.length);
-                for (const r of q.results) {
-                  out.push(label + " exts_len=" + (r.extensions ? r.extensions.length : "undef"));
-                  for (const e of (r.extensions||[])) {
-                    out.push(label + " EXT " + JSON.stringify({name:e.extensionName,pub:e.publisher&&e.publisher.publisherName,flags:e.flags,published:e.published,validationResult:e.validationResult,state:e.state,lastUpdated:e.lastUpdated,versions:(e.versions||[]).map(v=>v.version)}));
-                  }
+          async function qdump(api, ft, val, label){
+            try {
+              const q = await api.queryExtensions(null, {filters:[{criteria:[{filterType:ft,value:val}]}],flags:2119,assetTypes:[]}, undefined, undefined);
+              out.push(label + " results=" + (q.results ? q.results.length : "?"));
+              for (const r of (q.results||[])) {
+                out.push(label + " exts_len=" + (r.extensions ? r.extensions.length : "undef"));
+                for (const e of (r.extensions||[])) {
+                  out.push(label + " EXT " + JSON.stringify({name:e.extensionName,pub:e.publisher&&e.publisher.publisherName,flags:e.flags,published:e.published,validationResult:e.validationResult,state:e.state,lastUpdated:e.lastUpdated,versions:(e.versions||[]).map(v=>v.version)}));
                 }
-              });
+              }
+            } catch(err){ out.push(label + " ERR " + (err.message||err)); }
           }
           (async () => {
             if (!process.env.VSCE_PAT) throw new Error("VSCE_PAT missing");
             const api = await getGalleryAPI(process.env.VSCE_PAT);
-            await qdump(api, "Q1");
+            await qdump(api, 7, "cy.CY", "F7");
+            await qdump(api, 18, "cy", "F18pub");
+            await qdump(api, 24, "CY", "F24name");
             const res = await api.updateExtensionProperties(PUB, NAME, Public);
             out.push("update res flags=" + (res && res.flags));
-            await qdump(api, "Q2");
+            await qdump(api, 7, "cy.CY", "noop");
             out.push("RESULT: OK");
           })().catch(e => { out.push("RESULT: FAIL " + (e.message||e)); })
             .finally(() => { fs.writeFileSync("make-public-status.txt", out.join("\n") + "\n"); });
