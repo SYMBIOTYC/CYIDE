@@ -1,9 +1,9 @@
 {
-  "name": "su",
+  "name": "CY",
   "publisher": "cy",
   "version": "26.803.61603",
-  "displayName": "SU – CY coding agent",
-  "description": "SU: OpenAI Codex extension rebranded to run on the CY/Kilo gateway.",
+  "displayName": "CY coding agent",
+  "description": "CY extension to the CYGateway.",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",

@@ -71,8 +71,8 @@ jobs:
       - name: Upload VSIX artifact
         uses: actions/upload-artifact@v4
         with:
-          name: su-${{ steps.pkg.outputs.version }}.vsix
-          path: su-*.vsix
+          name: CY-${{ steps.pkg.outputs.version }}.vsix
+          path: CY-*.vsix
           if-no-files-found: error
 
       - name: Create GitHub Release
@@ -81,11 +81,11 @@ jobs:
           tag_name: v${{ steps.pkg.outputs.version }}
           name: CY IDE v${{ steps.pkg.outputs.version }}
           target_commitish: release/v${{ steps.pkg.outputs.version }}
-          files: su-*.vsix
+          files: CY-*.vsix
           generate_release_notes: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish to VS Code Marketplace
         if: ${{ env.VSCE_PAT != '' }}
-        run: npx --yes @vscode/vsce publish --allow-all-proposed-apis --packagePath "su-${{ steps.pkg.outputs.version }}.vsix" --pat "$VSCE_PAT"
+        run: npx --yes @vscode/vsce publish --allow-all-proposed-apis --packagePath "CY-${{ steps.pkg.outputs.version }}.vsix" --pat "$VSCE_PAT"
