@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r=e((()=>{t=[`aldehyde`,`ketone`],n=e=>({substrateClass:t.includes(e.substrate_class)?e.substrate_class:`aldehyde`,stage:Number.isFinite(e.stage)?Math.max(0,Math.min(3,Math.round(e.stage))):0})}));export{r as n,n as r,t};
+//# sourceMappingURL=model-CEgfI0M3.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{turnsRatio:.1,loadResistanceOhms:1}},{name:`Maximum supported values`,initialValues:{turnsRatio:10,loadResistanceOhms:1e4}}]}))();export{t as default};
+//# sourceMappingURL=examples-CSgaMr_J.js.map

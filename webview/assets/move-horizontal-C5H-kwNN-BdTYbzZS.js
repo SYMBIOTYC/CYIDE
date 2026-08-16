@@ -1,0 +1,1 @@
+import{n as e,t}from"./move-horizontal-C5H-kwNN-dSrsUfaw.js";e();export{t as default};

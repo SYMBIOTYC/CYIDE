@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{sample_size:1}},{name:`Maximum supported values`,initialValues:{sample_size:100}},{name:`population_shape: uniform`,initialValues:{population_shape:`uniform`}},{name:`population_shape: bimodal`,initialValues:{population_shape:`bimodal`}},{name:`population_shape: normal`,initialValues:{population_shape:`normal`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CbiF0y-_.js.map

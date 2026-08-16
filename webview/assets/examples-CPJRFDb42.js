@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`pollination_type: self-pollination`,initialValues:{pollination_type:`self-pollination`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CPJRFDb42.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{n as t,t as n}from"./user-round-check-D7hrPlza-B6c5rm0y.js";e((()=>{n()}))();export{t as default};
+//# sourceMappingURL=user-check-2-khKrUMIH-DK25nPmc.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_pattern: group-a-lower`,initialValues:{initial_pattern:`group-a-lower`}},{name:`initial_pattern: group-a-higher`,initialValues:{initial_pattern:`group-a-higher`}},{name:`initial_pattern: ties`,initialValues:{initial_pattern:`ties`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DppJESme2.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{mean_annual_temperature_c:-15,annual_precipitation_cm:0}},{name:`Maximum supported values`,initialValues:{mean_annual_temperature_c:30,annual_precipitation_cm:450}},{name:`Cold boreal climate`,initialValues:{mean_annual_temperature_c:-2,annual_precipitation_cm:120}},{name:`Warm wet rainforest climate`,initialValues:{mean_annual_temperature_c:24,annual_precipitation_cm:350}}]}))();export{t as default};
+//# sourceMappingURL=examples-sxpB3dkv2.js.map

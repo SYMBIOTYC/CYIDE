@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`ROC_CURVE`,n=`roc-curve-v1`,r={auroc:{kind:`number`,defaultValue:.75,min:.5,max:.95},threshold:{kind:`number`,defaultValue:.5,min:0,max:1}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-E4uzidb7.js.map

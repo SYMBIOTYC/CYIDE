@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`operation: delete`,initialValues:{operation:`delete`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DDVZ09Rw.js.map

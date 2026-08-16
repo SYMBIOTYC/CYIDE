@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{velocityAngleDegrees:0}},{name:`Maximum supported values`,initialValues:{velocityAngleDegrees:360}},{name:`fieldDirection: out-of-page`,initialValues:{fieldDirection:`out-of-page`}},{name:`chargeSign: negative`,initialValues:{chargeSign:`negative`}}]}))();export{t as default};
+//# sourceMappingURL=examples-BDIqSq6T.js.map

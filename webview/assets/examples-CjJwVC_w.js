@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`waterBody: estuary`,initialValues:{waterBody:`estuary`}},{name:`waterBody: coastal bay`,initialValues:{waterBody:`coastal bay`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CjJwVC_w.js.map
