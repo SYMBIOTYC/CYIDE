@@ -3,7 +3,7 @@ name: Publish CYIDE Extension
 on:
   push:
     tags:
-      - 'v*'
+      - 'v*' 
   workflow_dispatch:
 
 jobs:
@@ -21,6 +21,29 @@ jobs:
       - run: npm test
 
       - run: npx @vscode/vsce package --no-dependencies --allow-missing-repository
+
+      - name: Get release notes
+        id: release_notes
+        run: |
+          TAG_MESSAGE=$(git tag -l --format='%(contents)' ${{ github.ref_name }})
+          TAG_MESSAGE=$(echo \"$TAG_MESSAGE\" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//'))
+          if [ -z \"$TAG_MESSAGE\" ]; then
+            echo \"notes<<EOF\" >> $GITHUB_OUTPUT
+            echo \"Release ${{ github.ref_name }}\" >> $GITHUB_OUTPUT
+            echo \"EOF\" >> $GITHUB_OUTPUT
+          else
+            echo \"notes<<EOF\" >> $GITHUB_OUTPUT
+            echo \"$TAG_MESSAGE\" >> $GITHUB_OUTPUT
+            echo \"EOF\" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.ref_name }}
+          release_name: Release ${{ github.ref_name }}
+          body: ${{ steps.release_notes.outputs.notes }}
+          files: su-*.vsix
 
       - name: Upload VSIX artifact
         uses: actions/upload-artifact@v4
