@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Build -> (optional) install -> verify for the SU (cy.su) extension.
+# Build -> (optional) install -> verify for the CY (CY.ai) extension.
 #
 # Usage:
 #   ./release.sh              # auto-bump patch version, package VSIX
@@ -41,10 +41,10 @@ if [ "${INSTALL:-0}" = "1" ]; then
   CODE_BIN="$(command -v code || command -v codium || true)"
   if [ -n "$CODE_BIN" ]; then
     echo "==> installing via $CODE_BIN ..."
-    "$CODE_BIN" --install-extension "su-$VER.vsix" --force
+    "$CODE_BIN" --install-extension "ai-$VER.vsix" --force
   else
     echo "==> 'code'/'codium' CLI not found; skipping install." >&2
   fi
 fi
 
-echo "==> done: su-$VER.vsix"
+echo "==> done: ai-$VER.vsix"

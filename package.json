@@ -1,7 +1,7 @@
 {
-  "name": "CY",
-  "publisher": "cy",
-  "version": "26.803.61603",
+  "name": "ai",
+  "publisher": "CY",
+  "version": "1.803.61603",
   "displayName": "CY coding agent",
   "description": "CY extension to the CYGateway.",
   "license": "SEE LICENSE IN LICENSE.md",
