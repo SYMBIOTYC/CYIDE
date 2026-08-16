@@ -9,17 +9,20 @@ gateway** instead of OpenAI.
 - A VS Code extension that adds a CY sidebar/panel, chat, and agentic coding.
 - Ships the real Rust `codex` binary, but routes it through a local adapter
   (`bin/su-adapter.mjs`) that translates OpenAI's **Responses API** into the
-  CY gateway's **Chat Completions API**.
+  CY gateway's **Chat Completions API`.
 - Visible "Codex" text is swapped to "CY" at runtime via
   `webview/assets/rebrand-CY.js`.
+- Includes resilience in the adapter: retry with exponential backoff,
+  circuit-breaker, config file loading, streaming, and tool/function call
+  translation.
 
 ## Architecture
 
 ```
 VS Code (cy.su)
   └─ su.cliExecutable ─▶ bin/su-codex-wrapper.sh
-                            ├─ starts bin/su-adapter.mjs (:8788)
-                            ├─ fetches bin/<platform>/codex if missing
+                            ├─ ensures bin/su-adapter.mjs is listening (:8788)
+                            ├─ lazily fetches bin/<platform>/codex if missing
                             └─ exec bin/<platform>/codex
   codex (Rust) ─▶ POST /v1/responses ─▶ su-adapter.mjs ─▶ POST /v1/chat/completions ─▶ CY gateway
 ```
@@ -27,8 +30,10 @@ VS Code (cy.su)
 ## Quick start (development)
 
 ```bash
-cd codex-clone
-bash ./release.sh            # packages su-<ver>.vsix (auto-bumps patch)
+git clone https://github.com/SYMBIOTYC/CYIDE.git
+cd CYIDE
+npm ci
+bash ./release.sh            # packages su-<ver>.vsix
 INSTALL=1 bash ./release.sh  # also installs into VS Code / VSCodium
 ```
 
@@ -37,18 +42,22 @@ Set the CY gateway connection via environment before launching VS Code:
 ```bash
 export CY_API_BASE_URL=http://127.0.0.1:8787/v1
 export CY_API_KEY=...
+export CY_MODEL=stepfun/step-3.7-flash:free
 ```
 
 The `codex` binary is fetched automatically on first launch
 (`bin/fetch-codex.sh`) — it is **not** committed to git.
 
-## CI/CD — fundament auto-updates
+## Documentation
 
-A daily GitHub Actions workflow (`.github/workflows/fundament-update.yml`)
-downloads the latest `openai.chatgpt` VSIX, rebrands it into `cy.su`
-(`scripts/rebrand.js`), builds the VSIX, and opens a PR when the fundament
-changes. See [`docs/FUNDAMENT_UPDATE.md`](docs/FUNDAMENT_UPDATE.md) for the full
-pipeline.
+- `AGENTS.md` — single source of truth for architecture, env vars, commands, and repo hygiene.
+- `docs/DEVELOPER.md` — local setup, build, test, and publishing.
+- `docs/FUNDAMENT_UPDATE.md` — automated upstream sync pipeline details.
+
+## CI/CD
+
+- `.github/workflows/fundament-update.yml` — daily 02:00 UTC + manual dispatch.
+- `.github/workflows/publish.yml` — publish VSIX on tag push or manual dispatch.
 
 ## Repository layout
 
@@ -62,6 +71,7 @@ pipeline.
 | `release.sh` | VSIX packaging |
 | `scripts/rebrand.js` | Deterministic rebrand of upstream fundament |
 | `scripts/update-fundament.sh` | Pull + rebrand + build upstream |
+| `tests/adapter.test.js` | Adapter smoke checks |
 | `AGENTS.md` | Single source of truth for agents |
 
 ## Notes
