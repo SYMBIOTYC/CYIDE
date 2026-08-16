@@ -41,22 +41,25 @@ jobs:
           const PUB = "cy", NAME = "CY";
           const Public = PublishedExtensionFlags.Public;       // 256
           const out = [];
-          function qdump(api){
-            return api.queryExtensions(null, {filters:[{criteria:[{filterType:7,value:"cy.CY"}]}],flags:2151,assetTypes:[]}, undefined, undefined)
+          function qdump(api, label){
+            return api.queryExtensions(null, {filters:[{criteria:[{filterType:7,value:"cy.CY"}]}],flags:2119,assetTypes:[]}, undefined, undefined)
               .then(q => {
-                out.push("AUTH QUERY results=" + q.results.length);
-                for (const r of q.results) for (const e of (r.extensions||[])) {
-                  out.push("EXT " + JSON.stringify({name:e.extensionName,pub:e.publisher&&e.publisher.publisherName,flags:e.flags,published:e.published,validationResult:e.validationResult,state:e.state,lastUpdated:e.lastUpdated,versions:(e.versions||[]).map(v=>v.version)}));
+                out.push(label + " results=" + q.results.length);
+                for (const r of q.results) {
+                  out.push(label + " exts_len=" + (r.extensions ? r.extensions.length : "undef"));
+                  for (const e of (r.extensions||[])) {
+                    out.push(label + " EXT " + JSON.stringify({name:e.extensionName,pub:e.publisher&&e.publisher.publisherName,flags:e.flags,published:e.published,validationResult:e.validationResult,state:e.state,lastUpdated:e.lastUpdated,versions:(e.versions||[]).map(v=>v.version)}));
+                  }
                 }
               });
           }
           (async () => {
             if (!process.env.VSCE_PAT) throw new Error("VSCE_PAT missing");
             const api = await getGalleryAPI(process.env.VSCE_PAT);
-            await qdump(api);
+            await qdump(api, "Q1");
             const res = await api.updateExtensionProperties(PUB, NAME, Public);
             out.push("update res flags=" + (res && res.flags));
-            await qdump(api);
+            await qdump(api, "Q2");
             out.push("RESULT: OK");
           })().catch(e => { out.push("RESULT: FAIL " + (e.message||e)); })
             .finally(() => { fs.writeFileSync("make-public-status.txt", out.join("\n") + "\n"); });
