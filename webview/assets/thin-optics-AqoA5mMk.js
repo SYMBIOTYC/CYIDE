@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r=e((()=>{t=1e-9,n=(e,n)=>{let r=e-n,i=Math.max(Math.abs(e),Math.abs(n),Number.MIN_VALUE),a=Math.abs(r)>t*i,o=a?n*e/r:1/0;return{objectDistance:e,focalLength:n,imageDistance:o,magnification:a?-o/e:0,finiteImage:a}}}));export{n,r as t};
+//# sourceMappingURL=thin-optics-AqoA5mMk.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`MAXWELL_BOLTZMANN_DISTRIBUTION`,n=`maxwell-boltzmann-distribution-v1`,r={temperature_kelvin:{kind:`number`,defaultValue:300,min:200,max:800},molar_mass_g_per_mol:{kind:`number`,defaultValue:28,min:4,max:80}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-DgEj2mWo.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initialReaction: 2 HCl -> H2 + Cl2`,initialValues:{initialReaction:`2 HCl -> H2 + Cl2`}}]}))();export{t as default};
+//# sourceMappingURL=examples-B-dw-6LF.js.map

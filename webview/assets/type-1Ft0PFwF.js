@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`BOOLEAN_LOGIC`,n=`boolean-logic-v1`,r={inputA:{kind:`boolean`,defaultValue:!0},inputB:{kind:`boolean`,defaultValue:!1},operator:{kind:`enum`,defaultValue:`and`,allowedValues:[`and`,`or`]}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-1Ft0PFwF.js.map

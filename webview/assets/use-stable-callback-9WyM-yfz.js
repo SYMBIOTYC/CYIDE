@@ -1,0 +1,2 @@
+import{n as e,o as t}from"./rolldown-runtime-DAXXjFlN.js";import{WK as n}from"./app-initial-CireNHNv.js";function r(e){let t=(0,i.useRef)(e);return(0,i.useInsertionEffect)(()=>{t.current=e},[e]),(0,i.useMemo)(()=>((...e)=>{let{current:n}=t;return n(...e)}),[])}var i,a=e((()=>{i=t(n())}));export{r as n,a as t};
+//# sourceMappingURL=use-stable-callback-9WyM-yfz.js.map
