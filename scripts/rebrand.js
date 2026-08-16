@@ -52,6 +52,10 @@ if (js.includes(ORIGINAL_UP) && !js.includes(PATCH_MARKER)) {
   console.log("rebrand: uP() portable patch already present");
 } else {
   console.warn("rebrand: could not locate uP() to patch (extension.js shape changed?)");
+  const _i = js.indexOf("cliExecutable");
+  if (_i >= 0) {
+    console.warn("rebrand: cliExecutable context (+-400):\n" + js.slice(Math.max(0, _i - 400), _i + 400));
+  }
 }
 
 fs.writeFileSync(EXT, js);

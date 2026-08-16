@@ -5,6 +5,10 @@
   "displayName": "SU – CY coding agent",
   "description": "SU: OpenAI Codex extension rebranded to run on the CY/Kilo gateway.",
   "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Symbiotyc/CYIDE.git"
+  },
   "engines": {
     "vscode": "^1.96.2"
   },
