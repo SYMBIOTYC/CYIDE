@@ -1,3 +1,4 @@
+import { describe, test, expect, beforeAll } from 'vitest';
 /**
  * Unit tests for the SU adapter helpers.
  * Run with: npx --yes vitest run
