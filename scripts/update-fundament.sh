@@ -71,22 +71,34 @@ else
   unzip -o -q "$TMP/ext.vsix" -d "$TMP/extracted"
 fi
 
-UPSTREAM_VERSION="$(node -e "console.log(require('$TMP/extracted/package.json').version)" 2>/dev/null || echo unknown)"
+# --- Locate fundament files (layout-agnostic) -------------------------------
+EXTJS="$(find "$TMP/extracted" -path '*/out/extension.js' | head -1)"
+PKG="$(find "$TMP/extracted" -maxdepth 3 -name package.json | grep -v node_modules | head -1)"
+WEBVIEW="$(find "$TMP/extracted" -maxdepth 4 -type d -name webview | head -1)"
+BINDIR="$(find "$TMP/extracted" -maxdepth 4 -type d -name bin | head -1)"
+
+if [ -z "$EXTJS" ] || [ -z "$PKG" ]; then
+  echo "update-fundament: could not locate fundament in VSIX. Extracted layout:" >&2
+  find "$TMP/extracted" -maxdepth 2 | sed 's#^#  #' >&2
+  exit 1
+fi
+
+UPSTREAM_VERSION="$(node -e "console.log(require('$PKG').version)" 2>/dev/null || echo unknown)"
 echo "==> upstream version: $UPSTREAM_VERSION"
 
 echo "==> copying fundament (extension.js, webview, bin) ..."
-cp -f "$TMP/extracted/out/extension.js" "$ROOT/out/extension.js"
+cp -f "$EXTJS" "$ROOT/out/extension.js"
 # Preserve our runtime rebrand script across the webview swap.
 REBRAND_BACKUP="$TMP/rebrand-CY.js"
 cp -f "$ROOT/webview/assets/rebrand-CY.js" "$REBRAND_BACKUP" 2>/dev/null || true
 rm -rf "$ROOT/webview"
-cp -R "$TMP/extracted/webview" "$ROOT/webview"
+[ -n "$WEBVIEW" ] && cp -R "$WEBVIEW" "$ROOT/webview"
 mkdir -p "$ROOT/webview/assets"
 cp -f "$REBRAND_BACKUP" "$ROOT/webview/assets/rebrand-CY.js"
 # Platform codex binaries (gitignored locally; fetched at runtime otherwise).
 rm -rf "$ROOT/bin/macos-x86_64" "$ROOT/bin/macos-arm64" "$ROOT/bin/linux-x64" \
        "$ROOT/bin/linux-arm64" "$ROOT/bin/win32-x64" "$ROOT/bin/win32-arm64"
-cp -R "$TMP/extracted/bin/." "$ROOT/bin/"
+[ -n "$BINDIR" ] && cp -R "$BINDIR/." "$ROOT/bin/"
 
 echo "==> rebranding ..."
 node scripts/rebrand.js "$UPSTREAM_VERSION"

@@ -64,7 +64,7 @@ if [ "$(head -c2 "$TMP/ext.vsix")" != "PK" ]; then
   exit 1
 fi
 
-echo "==> extracting bin/$PLATFORM ..."
+echo "==> extracting VSIX ..."
 if command -v python3 >/dev/null 2>&1; then
   python3 - "$TMP/ext.vsix" "$TMP/extracted" <<'PY'
 import sys, zipfile, os
@@ -78,8 +78,15 @@ else
   unzip -o -q "$TMP/ext.vsix" -d "$TMP/extracted"
 fi
 
+BINDIR="$(find "$TMP/extracted" -maxdepth 4 -type d -name bin | head -1)"
+if [ -z "$BINDIR" ] || [ ! -d "$BINDIR/$PLATFORM" ]; then
+  echo "fetch-codex: bin/$PLATFORM not found in VSIX. Extracted layout:" >&2
+  find "$TMP/extracted" -maxdepth 2 | sed 's#^#  #' >&2
+  exit 1
+fi
+
 mkdir -p "$OUT_DIR/$PLATFORM"
-cp -R "$TMP/extracted/bin/$PLATFORM/." "$OUT_DIR/$PLATFORM/"
+cp -R "$BINDIR/$PLATFORM/." "$OUT_DIR/$PLATFORM/"
 chmod +x "$OUT_DIR/$PLATFORM/codex" 2>/dev/null || true
 chmod +x "$OUT_DIR/$PLATFORM/codex-code-mode-host" 2>/dev/null || true
 chmod +x "$OUT_DIR/$PLATFORM/rg" 2>/dev/null || true
