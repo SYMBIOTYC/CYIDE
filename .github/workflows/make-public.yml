@@ -40,18 +40,19 @@ jobs:
           const Public = PublishedExtensionFlags.Public;       // 256
           const Unpublished = PublishedExtensionFlags.Unpublished; // 4096
           const out = [];
+          function dump(e){ if(!e) return "null"; return JSON.stringify({flags:e.flags,published:e.published,validationResult:e.validationResult,state:e.state,displayName:e.displayName,extensionId:e.extensionId,lastUpdated:e.lastUpdated,targets:e.installationTargets&&e.installationTargets.length}); }
           (async () => {
             if (!process.env.VSCE_PAT) throw new Error("VSCE_PAT missing");
             const api = await getGalleryAPI(process.env.VSCE_PAT);
-            let cur = 0;
-            try {
-              const ext = await api.getExtension(null, PUB, NAME, undefined, 2151, undefined, undefined);
-              cur = (ext && ext.flags) || 0;
-            } catch (e) { out.push("getExtension warn: " + (e.message||e)); }
-            const next = (cur | Public) & ~Unpublished;
-            out.push("flags before: " + cur + " -> next: " + next);
+            const ext = await api.getExtension(null, PUB, NAME, undefined, 2151, undefined, undefined);
+            out.push("BEFORE " + dump(ext));
+            const before = (ext && ext.flags) || 0;
+            const next = (before | Public) & ~Unpublished;
+            out.push("flags before: " + before + " -> next: " + next);
             const res = await api.updateExtensionProperties(PUB, NAME, next);
-            out.push("flags after: " + (res && res.flags));
+            out.push("update res flags=" + (res && res.flags));
+            const ext2 = await api.getExtension(null, PUB, NAME, undefined, 2151, undefined, undefined);
+            out.push("AFTER " + dump(ext2));
             out.push("RESULT: OK");
           })().catch(e => { out.push("RESULT: FAIL " + (e.message||e)); })
             .finally(() => { fs.writeFileSync("make-public-status.txt", out.join("\n") + "\n"); });
