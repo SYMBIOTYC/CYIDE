@@ -41,10 +41,10 @@ if [ "${INSTALL:-0}" = "1" ]; then
   CODE_BIN="$(command -v code || command -v codium || true)"
   if [ -n "$CODE_BIN" ]; then
     echo "==> installing via $CODE_BIN ..."
-    "$CODE_BIN" --install-extension "ai-$VER.vsix" --force
+    "$CODE_BIN" --install-extension "${PKG_NAME}-$VER.vsix" --force
   else
     echo "==> 'code'/'codium' CLI not found; skipping install." >&2
   fi
 fi
 
-echo "==> done: ai-$VER.vsix"
+echo "==> done: ${PKG_NAME}-$VER.vsix"
