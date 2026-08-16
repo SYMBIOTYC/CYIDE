@@ -1,0 +1,71 @@
+# .github/workflows/release.yml
+name: Release CYIDE Extension
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Version override, e.g. 1.2.3. Leave empty to auto-bump patch."
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Configure git
+        run: |
+          git config user.name  "cyide-bot"
+          git config user.email "cyide-bot@users.noreply.github.com"
+
+      - name: Bump version & package VSIX
+        id: pkg
+        run: |
+          if [ -n "${{ github.event.inputs.version }}" ]; then
+            bash ./release.sh "${{ github.event.inputs.version }}"
+          else
+            bash ./release.sh
+          fi
+          VER=$(node -e "console.log(require('./package.json').version)")
+          echo "version=$VER" >> "$GITHUB_OUTPUT"
+
+      - name: Commit & tag
+        run: |
+          VER="${{ steps.pkg.outputs.version }}"
+          git add package.json
+          git commit -m "chore(release): v$VER"
+          git tag "v$VER"
+          git push origin main --tags
+
+      - name: Upload VSIX artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: su-${{ steps.pkg.outputs.version }}.vsix
+          path: su-*.vsix
+          if-no-files-found: error
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ steps.pkg.outputs.version }}
+          name: CY IDE v${{ steps.pkg.outputs.version }}
+          files: su-*.vsix
+          generate_release_notes: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish to VS Code Marketplace
+        if: ${{ secrets.VSCE_PAT != '' }}
+        run: npx --yes @vscode/vsce publish --packagePath "su-${{ steps.pkg.outputs.version }}.vsix" --pat "${{ secrets.VSCE_PAT }}"
