@@ -57,7 +57,7 @@ VSIX_URL="${SU_CODEX_VSIX_URL:-$(resolve_vsix_url openai chatgpt)}"
 echo "==> VSIX source: $VSIX_URL"
 
 echo "==> downloading openai.chatgpt VSIX (platform=$PLATFORM) ..."
-curl -fL --compressed "$VSIX_URL" -o "$TMP/ext.vsix"
+curl -fL --compressed --max-time 600 "$VSIX_URL" -o "$TMP/ext.vsix"
 
 if [ "$(head -c2 "$TMP/ext.vsix")" != "PK" ]; then
   echo "fetch-codex: downloaded file is not a VSIX/zip (magic=$(head -c4 "$TMP/ext.vsix" | od -An -tx1 | tr -d ' '))" >&2

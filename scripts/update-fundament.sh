@@ -49,7 +49,7 @@ VSIX_URL="${SU_CODEX_VSIX_URL:-$(resolve_vsix_url openai chatgpt)}"
 echo "==> VSIX source: $VSIX_URL"
 
 echo "==> downloading openai.chatgpt VSIX ..."
-curl -fL --compressed "$VSIX_URL" -o "$TMP/ext.vsix"
+curl -fL --compressed --max-time 600 "$VSIX_URL" -o "$TMP/ext.vsix"
 
 echo "==> verifying archive ..."
 if [ "$(head -c2 "$TMP/ext.vsix")" != "PK" ]; then
