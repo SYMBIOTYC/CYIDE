@@ -1,13 +1,13 @@
 {
-  "name": "ai",
+  "name": "CY",
   "publisher": "cy",
-  "version": "1.803.61603",
+  "version": "26.803.61604",
   "displayName": "CY coding agent",
   "description": "CY extension to the CYGateway.",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Symbiotyc/CYIDE.git"
+    "url": "https://github.com/SYMBIOTYC/CYIDE.git"
   },
   "engines": {
     "vscode": "^1.96.2"
