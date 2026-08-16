@@ -88,4 +88,4 @@ jobs:
 
       - name: Publish to VS Code Marketplace
         if: ${{ env.VSCE_PAT != '' }}
-        run: npx --yes @vscode/vsce publish --packagePath "su-${{ steps.pkg.outputs.version }}.vsix" --pat "$VSCE_PAT"
+        run: npx --yes @vscode/vsce publish --allow-all-proposed-apis --packagePath "su-${{ steps.pkg.outputs.version }}.vsix" --pat "$VSCE_PAT"
