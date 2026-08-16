@@ -31,10 +31,11 @@ elif [ "$BUMP" = "1" ]; then
 fi
 
 VER=$(node -e "console.log(require('./package.json').version)")
+PKG_NAME=$(node -e "console.log(require('./package.json').name)")
 echo "==> version: $VER"
 
 echo "==> packaging VSIX ..."
-npx --yes @vscode/vsce package --no-dependencies --allow-missing-repository -o "su-$VER.vsix"
+npx --yes @vscode/vsce package --no-dependencies --allow-missing-repository -o "${PKG_NAME}-$VER.vsix"
 
 if [ "${INSTALL:-0}" = "1" ]; then
   CODE_BIN="$(command -v code || command -v codium || true)"
