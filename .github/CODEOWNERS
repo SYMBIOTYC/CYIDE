@@ -1,0 +1,14 @@
+# Default owners for everything
+* @vladleopold
+
+# Adapter and gateway integration
+/bin/su-adapter.mjs @vladleopold
+/bin/su-codex-wrapper.sh @vladleopold
+
+# CI/CD and release automation
+/.github/workflows/ @vladleopold
+
+# Extension bundle and rebrand logic
+/out/extension.js @vladleopold
+/webview/ @vladleopold
+/scripts/ @vladleopold
