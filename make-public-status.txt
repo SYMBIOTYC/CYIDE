@@ -1,3 +1,5 @@
+BEFORE null
 flags before: 0 -> next: 256
-flags after: null
+update res flags=null
+AFTER null
 RESULT: OK
