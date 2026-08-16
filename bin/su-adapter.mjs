@@ -11,13 +11,26 @@
 //   CY_API_BASE_URL        CY gateway base URL (default http://127.0.0.1:8787/v1)
 //   CY_API_KEY             CY gateway api key (default empty)
 //   CY_MODEL               model id to send to CY (default from incoming request)
+//   SU_ADAPTER_MAX_RETRIES  retry attempts against CY (default 3)
+//   SU_ADAPTER_RETRY_BASE   base delay ms for exponential backoff (default 300)
+//   SU_ADAPTER_CONFIG       optional JSON config file path
 
 import http from "node:http";
+import fs from "node:fs";
+import os from "node:os";
 
-const PORT = Number(process.env.SU_ADAPTER_PORT || 8788);
-const CY_BASE = (process.env.CY_API_BASE_URL || "http://127.0.0.1:8787/v1").replace(/\/$/, "");
-const CY_KEY = process.env.CY_API_KEY || "";
-const DEFAULT_MODEL = process.env.CY_MODEL || "";
+function loadConfig() {
+  const p = process.env.SU_ADAPTER_CONFIG || (os.homedir() + "/.config/su/adapter.json");
+  try { return JSON.parse(fs.readFileSync(p, "utf8")); } catch { return {}; }
+}
+const cfg = loadConfig();
+
+const PORT = Number(process.env.SU_ADAPTER_PORT || cfg.port || 8788);
+const CY_BASE = (process.env.CY_API_BASE_URL || cfg.cyApiBaseUrl || "http://127.0.0.1:8787/v1").replace(/\/+$/, "");
+const CY_KEY = process.env.CY_API_KEY || cfg.cyApiKey || "";
+const DEFAULT_MODEL = process.env.CY_MODEL || cfg.cyModel || "";
+const MAX_RETRIES = Number(process.env.SU_ADAPTER_MAX_RETRIES || cfg.maxRetries || 3);
+const RETRY_BASE = Number(process.env.SU_ADAPTER_RETRY_BASE || cfg.retryBase || 300);
 
 function sendJson(res, status, obj) {
   if (res.headersSent) {
@@ -187,14 +200,44 @@ function finalizeResponsesEvents(model, state, outputItems) {
   return events;
 }
 
+// Circuit breaker state
+let breaker = { failures: 0, openUntil: 0 };
+const BREAKER_THRESHOLD = Number(process.env.SU_ADAPTER_BREAKER_THRESHOLD || 5);
+const BREAKER_COOLDOWN_MS = Number(process.env.SU_ADAPTER_BREAKER_COOLDOWN || 15000);
+
+function circuitOpen() {
+  return breaker.openUntil > Date.now();
+}
+
 async function callCy(model, body) {
+  if (circuitOpen()) {
+    throw new Error("cy.adapter: circuit breaker open");
+  }
   const url = CY_BASE + "/chat/completions";
-  const res = await fetch(url, {
-    method: "POST",
-    headers: { "content-type": "application/json", authorization: CY_KEY ? `Bearer ${CY_KEY}` : undefined },
-    body: JSON.stringify(body),
-  });
-  return res;
+  let attempt = 0;
+  // retry loop with exponential backoff
+  while (true) {
+    attempt++;
+    let res;
+    try {
+      res = await fetch(url, {
+        method: "POST",
+        headers: { "content-type": "application/json", authorization: CY_KEY ? `Bearer ${CY_KEY}` : undefined },
+        body: JSON.stringify(body),
+      });
+    } catch (e) {
+      breaker.failures++;
+      if (attempt < MAX_RETRIES) { await new Promise(r => setTimeout(r, RETRY_BASE * attempt)); continue; }
+      throw e;
+    }
+    if (res.ok || attempt >= MAX_RETRIES) {
+      if (res.ok) breaker.failures = 0; else breaker.failures++;
+      if (breaker.failures >= BREAKER_THRESHOLD) breaker.openUntil = Date.now() + BREAKER_COOLDOWN_MS;
+      return res;
+    }
+    breaker.failures++;
+    await new Promise(r => setTimeout(r, RETRY_BASE * attempt));
+  }
 }
 
 async function handleResponses(req, res, parsed) {
@@ -210,6 +253,8 @@ async function handleResponses(req, res, parsed) {
   };
   if (tools) cyBody.tools = tools;
   if (parsed.parallel_tool_calls === false) cyBody.parallel_tool_calls = false;
+  if (parsed.tool_choice) cyBody.tool_choice = parsed.tool_choice;
+  if (parsed.user) cyBody.user = parsed.user;
 
   if (!parsed.stream) {
     const r = await callCy(model, cyBody);
@@ -273,7 +318,7 @@ async function handleResponses(req, res, parsed) {
 
 const server = http.createServer(async (req, res) => {
   try {
-    if (req.method === "GET" && req.url === "/health") return sendJson(res, 200, { ok: true });
+    if (req.method === "GET" && req.url === "/health") return sendJson(res, 200, { ok: true, cy: CY_BASE, breaker: { failures: breaker.failures, openUntil: breaker.openUntil, threshold: BREAKER_THRESHOLD } });
     if (req.method === "GET" && req.url.startsWith("/v1/models")) {
       return sendJson(res, 200, { object: "list", data: [{ id: DEFAULT_MODEL || "model", object: "model" }] });
     }
