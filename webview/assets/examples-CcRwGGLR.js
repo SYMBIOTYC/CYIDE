@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`insertionSequence: balanced`,initialValues:{insertionSequence:`balanced`}},{name:`insertionSequence: ascending`,initialValues:{insertionSequence:`ascending`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CcRwGGLR.js.map

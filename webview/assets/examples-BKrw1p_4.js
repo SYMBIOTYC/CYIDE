@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{mean:-1e4,standard_deviation:.1}},{name:`Maximum supported values`,initialValues:{mean:1e4,standard_deviation:3e3}},{name:`Test scores with a narrow spread`,initialValues:{mean:72.5,standard_deviation:4.25}}]}))();export{t as default};
+//# sourceMappingURL=examples-BKrw1p_4.js.map

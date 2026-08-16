@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`CONTINUOUS_UNIFORM_DISTRIBUTION`,n=`continuous-uniform-distribution-v1`,r={lower_bound:{kind:`number`,defaultValue:0,min:-20,max:10},upper_bound:{kind:`number`,defaultValue:15,min:11,max:40}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-CJRsLQIE.js.map

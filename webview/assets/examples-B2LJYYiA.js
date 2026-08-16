@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{earlier_cpi:50,later_cpi:50}},{name:`Maximum supported values`,initialValues:{earlier_cpi:300,later_cpi:300}},{name:`comparison_interval: one_month`,initialValues:{comparison_interval:`one_month`}}]}))();export{t as default};
+//# sourceMappingURL=examples-B2LJYYiA.js.map

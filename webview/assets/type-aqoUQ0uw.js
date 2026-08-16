@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`ATMOSPHERIC_POLLUTION_PLUME`,n=`atmospheric-pollution-plume-v2`,r={initial_plume_regime:{kind:`enum`,defaultValue:`looping`,allowedValues:[`looping`,`coning`,`fanning`,`lofting`,`fumigation`,`trapping`]}},i={type:t,version:3,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-aqoUQ0uw.js.map

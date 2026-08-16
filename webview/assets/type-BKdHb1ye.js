@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`MOLECULAR_POLARITY`,n=`molecular-polarity-v1`,r={molecule:{kind:`enum`,defaultValue:`H2O`,allowedValues:[`CO2`,`H2O`,`BF3`,`NH3`,`CCl4`,`CH3Cl`]}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-BKdHb1ye.js.map

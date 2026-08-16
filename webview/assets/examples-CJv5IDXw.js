@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_focus: light reactions`,initialValues:{initial_focus:`light reactions`}},{name:`initial_focus: Calvin cycle`,initialValues:{initial_focus:`Calvin cycle`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CJv5IDXw.js.map

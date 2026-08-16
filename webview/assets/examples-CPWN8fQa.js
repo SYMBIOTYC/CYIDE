@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_example: sports drink vs oil and vinegar`,initialValues:{initial_example:`sports drink vs oil and vinegar`}},{name:`initial_example: air vs granite`,initialValues:{initial_example:`air vs granite`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CPWN8fQa.js.map

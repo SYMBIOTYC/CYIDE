@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{focus_latitude:-90}},{name:`Maximum supported values`,initialValues:{focus_latitude:90}}]}))();export{t as default};
+//# sourceMappingURL=examples-D5Ha5wl2.js.map

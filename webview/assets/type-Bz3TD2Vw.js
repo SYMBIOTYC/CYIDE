@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`CURRENT_TO_MAGNETIC_FIELD_DIRECTION`,n=`current-to-magnetic-field-direction-v3`,r={currentDirection:{kind:`enum`,defaultValue:`up`,allowedValues:[`up`,`down`]}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-Bz3TD2Vw.js.map

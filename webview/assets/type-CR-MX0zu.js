@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`SAMPLING_WITHOUT_REPLACEMENT`,n=`sampling-without-replacement-v1`,r={category_a_count:{kind:`integer`,defaultValue:4,min:1,max:10},category_b_count:{kind:`integer`,defaultValue:3,min:1,max:10}},i={type:t,version:3,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-CR-MX0zu.js.map
