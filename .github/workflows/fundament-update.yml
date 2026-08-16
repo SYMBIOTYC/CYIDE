@@ -1,14 +1,22 @@
 name: Fundament Update
-
 on:
   schedule:
-    # Daily at 02:00 UTC — checks for a new openai.chatgpt release.
-    - cron: "0 2 * * *"
+    - cron: 0 2 * * *
   workflow_dispatch:
+
+
+
+
+
 
 permissions:
   contents: write
   pull-requests: write
+
+
+
+
+
 
 jobs:
   update-fundament:
@@ -24,65 +32,40 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "24"
-      - name: Cache npm dependencies
-        uses: actions/cache@v4
-        with:
-          path: ~/.npm
-          key: npm-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
-          restore-keys: npm-${{ runner.os }}-
+          node-version: '20'
 
       - name: Configure git
-        run: |
-          git config user.name "cyide-bot"
-          git config user.email "cyide-bot@users.noreply.github.com"
-
+        run: "git config user.name \"cyide-bot\"\ngit config user.email \"cyide-bot@users.noreply.github.com\"\
+          \n"
       - name: Run fundament update
         env:
           SU_CODEX_VSIX_URL: ${{ vars.SU_CODEX_VSIX_URL }}
         run: bash scripts/update-fundament.sh
-
       - name: Detect changes
         id: changes
-        run: |
-          if [ -z "$(git status --porcelain)" ]; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "No fundament changes detected."
-          else
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-          fi
-
+        run: "if [ -z \"$(git status --porcelain)\" ]; then\n  echo \"changed=false\"\
+          \ >> \"$GITHUB_OUTPUT\"\n  echo \"No fundament changes detected.\"\nelse\n\
+          \  echo \"changed=true\" >> \"$GITHUB_OUTPUT\"\nfi\n"
       - name: Open PR
         if: steps.changes.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config http.postBuffer 524288000
-          BRANCH="fundament/$(date +%Y%m%d-%H%M%S)"
-          git checkout -b "$BRANCH"
-          git add out/extension.js webview package.json UPSTREAM_VERSION
-          UP=$(cat UPSTREAM_VERSION 2>/dev/null || echo unknown)
-          LOCAL=$(node -e "console.log(require('./package.json').version)")
-          git commit -m "chore(fundament): sync to openai.chatgpt $UP (cy.su $LOCAL)"
-          for i in 1 2 3; do
-            git push origin "$BRANCH" && break
-            echo "push attempt $i failed, retrying..."; sleep 5
-          done
-          gh pr create \
-            --title "Fundament update → openai.chatgpt $UP" \
-            --body "Automated sync of the openai.chatgpt fundament into cy.su.
-
-            - Upstream version: **$UP**
-            - Local version: **$LOCAL**
-            - Rebranded extension.js + webview, portable cliExecutable, built VSIX.
-
-            Validate activation before merging." \
-            --label fundament-update
-
+        run: "git config http.postBuffer 524288000\nBRANCH=\"fundament/$(date +%Y%m%d-%H%M%S)\"\
+          \ngit checkout -b \"$BRANCH\"\ngit add out/extension.js webview package.json
+          UPSTREAM_VERSION\nUP=$(cat UPSTREAM_VERSION 2>/dev/null || echo unknown)\n\
+          LOCAL=$(node -e \"console.log(require('./package.json').version)\")\ngit
+          commit -m \"chore(fundament): sync to openai.chatgpt $UP (cy.su $LOCAL)\"\
+          \nfor i in 1 2 3; do\n  git push origin \"$BRANCH\" && break\n  echo \"\
+          push attempt $i failed, retrying...\"; sleep 5\ndone\ngh pr create \\\n\
+          \  --title \"Fundament update → openai.chatgpt $UP\" \\\n  --body \"Automated
+          sync of the openai.chatgpt fundament into cy.su.\n\n  - Upstream version:
+          **$UP**\n  - Local version: **$LOCAL**\n  - Rebranded extension.js + webview,
+          portable cliExecutable, built VSIX.\n\n  Validate activation before merging.\"\
+          \ \\\n  --label fundament-update\n"
       - name: Upload VSIX artifact
         if: steps.changes.outputs.changed == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: su-vsix
-          path: "su-*.vsix"
+          path: su-*.vsix
           if-no-files-found: warn
