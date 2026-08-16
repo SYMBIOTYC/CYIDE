@@ -39,25 +39,41 @@ if (js.length === before) {
   console.warn("rebrand: no chatgpt.* tokens found in extension.js (already rebranded?)");
 }
 
-// Re-apply the portable cliExecutable resolution if missing.
-const PATCH_MARKER = 'if(!/^[/~]/.test(r))r=Gs.Uri.joinPath(t,r).fsPath';
-const ORIGINAL_UP =
-  'function uP(t,e){let r=Dn("cliExecutable");if(r&&r.trim().length>0)return r;';
-const PATCHED_UP =
-  'function uP(t,e){let r=Dn("cliExecutable");if(r&&r.trim().length>0){if(!/^[/~]/.test(r))r=Gs.Uri.joinPath(t,r).fsPath;return r}';
-if (js.includes(ORIGINAL_UP) && !js.includes(PATCH_MARKER)) {
-  js = js.replace(ORIGINAL_UP, PATCHED_UP);
-  console.log("rebrand: applied portable cliExecutable patch to uP()");
-} else if (js.includes(PATCH_MARKER)) {
-  console.log("rebrand: uP() portable patch already present");
+// Re-apply the portable cliExecutable resolution (relative path -> extension URI).
+// Upstream has renamed the minified symbols across versions, so try each known shape.
+const PATCH_MARKER = 'if(!/^[/~]/.test(r))r=';
+const UP_SHAPES = [
+  {
+    name: "uP (legacy)",
+    orig: 'function uP(t,e){let r=Dn("cliExecutable");if(r&&r.trim().length>0)return r;',
+    patched: 'function uP(t,e){let r=Dn("cliExecutable");if(r&&r.trim().length>0){if(!/^[/~]/.test(r))r=Gs.Uri.joinPath(t,r).fsPath;return r}',
+  },
+  {
+    name: "nP (current)",
+    orig: 'function nP(t,e){let r=Nn("cliExecutable");if(r&&r.trim().length>0)return r;',
+    patched: 'function nP(t,e){let r=Nn("cliExecutable");if(r&&r.trim().length>0){if(!/^[/~]/.test(r))r=ks.Uri.joinPath(t,r).fsPath;return r}',
+  },
+];
+if (js.includes(PATCH_MARKER)) {
+  console.log("rebrand: cliExecutable portable patch already present");
 } else {
-  console.warn("rebrand: could not locate uP() to patch (extension.js shape changed?)");
-  const _i = js.indexOf("cliExecutable");
-  if (_i >= 0) {
-    console.warn("rebrand: cliExecutable context (+-400):\n" + js.slice(Math.max(0, _i - 400), _i + 400));
+  let applied = false;
+  for (const s of UP_SHAPES) {
+    if (js.includes(s.orig)) {
+      js = js.replace(s.orig, s.patched);
+      console.log("rebrand: applied portable cliExecutable patch (" + s.name + ")");
+      applied = true;
+      break;
+    }
+  }
+  if (!applied) {
+    console.warn("rebrand: could not locate cliExecutable resolver to patch (extension.js shape changed?)");
+    const _i = js.indexOf("cliExecutable");
+    if (_i >= 0) {
+      console.warn("rebrand: cliExecutable context (+-400):\n" + js.slice(Math.max(0, _i - 400), _i + 400));
+    }
   }
 }
-
 fs.writeFileSync(EXT, js);
 
 // ---------------------------------------------------------------------------
