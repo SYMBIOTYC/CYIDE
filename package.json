@@ -7,7 +7,7 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Symbiotyc/CYIDE.git"
+    "url": "https://github.com/SYMBIOTYC/CYIDE.git"
   },
   "engines": {
     "vscode": "^1.96.2"
