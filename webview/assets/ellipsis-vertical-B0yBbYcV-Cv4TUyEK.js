@@ -1,0 +1,1 @@
+import{n as e,t}from"./ellipsis-vertical-B0yBbYcV-CatCSv_4.js";e();export{t as default};

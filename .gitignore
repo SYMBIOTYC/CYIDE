@@ -1,0 +1,21 @@
+# Node / build artifacts
+node_modules/
+
+# Packaged extension (built locally)
+*.vsix
+
+# Large platform binaries — downloaded at build/runtime via bin/fetch-codex.sh
+bin/macos-x86_64/
+bin/macos-arm64/
+bin/linux-x64/
+bin/linux-arm64/
+bin/win32-x64/
+bin/win32-arm64/
+
+# Runtime state (CODEX_HOME) — may contain caches and local config
+codex-home/
+
+# Editor / OS noise
+.vscode/
+*.log
+.DS_Store

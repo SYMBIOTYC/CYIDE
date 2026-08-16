@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{$O as t,k_ as n,w_ as r}from"./app-initial-HCwVBrOJ.js";import{aK as i,sK as a}from"./app-initial-DoX22WEG.js";function o(e){let t=(0,c.c)(2),r;return t[0]===e?r=t[1]:(r=e==null?void 0:{hostId:e},t[0]=e,t[1]=r),n(i,r)}function s(e){return o(e).data?.homeDirectory}var c,l=e((()=>{c=t(),r(),a()}));export{s as n,o as r,l as t};
+//# sourceMappingURL=use-home-directory-BaLEHMeO.js.map
