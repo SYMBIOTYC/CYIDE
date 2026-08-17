@@ -1,0 +1,1 @@
+import{n as e,t}from"./lamp-wall-down-DQlmBAh1-B_GM0bN9.js";t();export{e as default};

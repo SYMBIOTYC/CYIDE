@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{molarAbsorptivity:.01,concentration:.01,pathLength:.01}},{name:`Maximum supported values`,initialValues:{molarAbsorptivity:1e5,concentration:10,pathLength:100}}]}))();export{t as default};
+//# sourceMappingURL=examples-BBDULUkr.js.map

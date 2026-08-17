@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_goal: authenticity`,initialValues:{initial_goal:`authenticity`}}]}))();export{t as default};
+//# sourceMappingURL=examples-C8z0a7jl.js.map

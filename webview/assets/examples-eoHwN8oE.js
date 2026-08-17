@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`anode_material: zinc`,initialValues:{anode_material:`zinc`}}]}))();export{t as default};
+//# sourceMappingURL=examples-eoHwN8oE.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o=e((()=>{t=`LINEAR_COMBINATION`,n=`linear-combination-v1`,r=`\\vec{w}=a\\vec{u}+b\\vec{v}`,i={coefficientA:{kind:`number`,defaultValue:1,min:-2,max:2},coefficientB:{kind:`number`,defaultValue:1,min:-2,max:2}},a={type:t,version:1,thumbnailAssetKey:n,canonicalFormula:r,parameters:i}}));export{a as n,o as t};
+//# sourceMappingURL=type-CUGjEzX32.js.map

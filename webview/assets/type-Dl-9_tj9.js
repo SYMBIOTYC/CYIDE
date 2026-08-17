@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`PHOTOSYNTHESIS`,n=`photosynthesis-v3`,r={lightIntensity:{kind:`enum`,defaultValue:`low`,allowedValues:[`low`,`medium`,`high`]},carbonDioxide:{kind:`enum`,defaultValue:`low`,allowedValues:[`low`,`medium`,`high`]},water:{kind:`enum`,defaultValue:`low`,allowedValues:[`low`,`medium`,`high`]}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-Dl-9_tj9.js.map

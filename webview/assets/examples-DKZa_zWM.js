@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`inputA: false`,initialValues:{inputA:!1}},{name:`inputB: true`,initialValues:{inputB:!0}},{name:`operator: or`,initialValues:{operator:`or`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DKZa_zWM.js.map

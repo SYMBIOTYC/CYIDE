@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_method: seed-tree`,initialValues:{initial_method:`seed-tree`}},{name:`initial_method: shelterwood`,initialValues:{initial_method:`shelterwood`}},{name:`initial_method: single-tree selection`,initialValues:{initial_method:`single-tree selection`}},{name:`initial_method: group selection`,initialValues:{initial_method:`group selection`}}]}))();export{t as default};
+//# sourceMappingURL=examples-BuUxfa2W.js.map

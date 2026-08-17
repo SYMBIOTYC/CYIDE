@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{initial_prey_abundance:.65,initial_predator_abundance:.65}},{name:`Maximum supported values`,initialValues:{initial_prey_abundance:1.4,initial_predator_abundance:1.4}}]}))();export{t as default};
+//# sourceMappingURL=examples-D0KPje-2.js.map

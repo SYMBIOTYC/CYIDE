@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_pathway: secondary-particles`,initialValues:{initial_pathway:`secondary-particles`}}]}))();export{t as default};
+//# sourceMappingURL=examples-4FLZ5xFK.js.map
