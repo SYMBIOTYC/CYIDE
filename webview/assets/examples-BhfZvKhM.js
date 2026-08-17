@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{speedKmh:30,reactionTimeSeconds:.5}},{name:`Maximum supported values`,initialValues:{speedKmh:100,reactionTimeSeconds:2}},{name:`roadCondition: wet`,initialValues:{roadCondition:`wet`}},{name:`roadCondition: snow_ice`,initialValues:{roadCondition:`snow_ice`}}]}))();export{t as default};
+//# sourceMappingURL=examples-BhfZvKhM.js.map

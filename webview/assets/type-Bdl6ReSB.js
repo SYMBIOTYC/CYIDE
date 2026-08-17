@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`DNA_GEL_FRAGMENT_MIGRATION`,n=`dna-gel-fragment-migration-v1`,r={runTimeMinutes:{kind:`integer`,defaultValue:18,min:1,max:40},fragmentSizeBasePairs:{kind:`integer`,defaultValue:700,min:100,max:2e3}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-Bdl6ReSB.js.map

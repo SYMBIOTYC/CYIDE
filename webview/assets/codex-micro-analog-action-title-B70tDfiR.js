@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{Kn as t,d1 as n,l1 as r,qn as i}from"./app-initial-BYsFXcPC.js";import{n as a,r as o}from"./codex-micro-commands-CC3b-wQF.js";function s(e,n,i){switch(e.type){case`command`:{let n=a(e.commandId);return n==null?e.commandId:t(n,i)}case`skill`:{let t=n.find(t=>t.name===e.skillName&&t.path===e.skillPath);return`$${t==null?e.skillName:r(t)}`}}}var c=e((()=>{o(),i(),n()}));export{c as n,s as t};
+//# sourceMappingURL=codex-micro-analog-action-title-B70tDfiR.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`a: false`,initialValues:{a:!1}},{name:`b: true`,initialValues:{b:!0}},{name:`carryIn: false`,initialValues:{carryIn:!1}}]}))();export{t as default};
+//# sourceMappingURL=examples-C5qKemmv.js.map

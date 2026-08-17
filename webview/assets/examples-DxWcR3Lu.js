@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{delta_h_kj_per_mol:-120,delta_s_j_per_mol_k:-240}},{name:`Maximum supported values`,initialValues:{delta_h_kj_per_mol:120,delta_s_j_per_mol_k:240}}]}))();export{t as default};
+//# sourceMappingURL=examples-DxWcR3Lu.js.map

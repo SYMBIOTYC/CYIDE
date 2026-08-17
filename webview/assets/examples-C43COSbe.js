@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_reaction: fission`,initialValues:{initial_reaction:`fission`}}]}))();export{t as default};
+//# sourceMappingURL=examples-C43COSbe.js.map

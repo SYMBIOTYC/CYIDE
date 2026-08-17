@@ -1,0 +1,1 @@
+import{n as e,t}from"./open-C-1gN9L4.js";t();export{e as openImagePreview};

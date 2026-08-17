@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`focus_gas: nitrogen`,initialValues:{focus_gas:`nitrogen`}},{name:`focus_gas: methane`,initialValues:{focus_gas:`methane`}},{name:`focus_gas: carbon-monoxide`,initialValues:{focus_gas:`carbon-monoxide`}},{name:`focus_gas: helium`,initialValues:{focus_gas:`helium`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CNORlDG5.js.map

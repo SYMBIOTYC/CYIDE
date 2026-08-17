@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{initialSpeedMetersPerSecond:12,launchAngleDegrees:25}},{name:`Maximum supported values`,initialValues:{initialSpeedMetersPerSecond:25,launchAngleDegrees:65}}]}))();export{t as default};
+//# sourceMappingURL=examples-CmevXTbV.js.map

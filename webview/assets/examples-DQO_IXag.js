@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`compound: magnesium oxide`,initialValues:{compound:`magnesium oxide`}},{name:`compound: magnesium chloride`,initialValues:{compound:`magnesium chloride`}},{name:`compound: sodium oxide`,initialValues:{compound:`sodium oxide`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DQO_IXag.js.map

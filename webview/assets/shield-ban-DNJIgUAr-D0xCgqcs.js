@@ -1,0 +1,1 @@
+import{n as e,t}from"./shield-ban-DNJIgUAr-JxtmPYIH.js";e();export{t as default};

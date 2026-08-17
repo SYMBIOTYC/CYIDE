@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`compound: MgCl2`,initialValues:{compound:`MgCl2`}},{name:`lattice_convention: dissociation`,initialValues:{lattice_convention:`dissociation`}}]}))();export{t as default};
+//# sourceMappingURL=examples-B7tsac_9.js.map

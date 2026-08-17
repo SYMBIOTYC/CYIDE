@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{lowerWidth:4,lowerHeight:2,upperWidth:2,upperHeight:1,triangleRun:1}},{name:`Maximum supported values`,initialValues:{lowerWidth:7,lowerHeight:4,upperWidth:3,upperHeight:3,triangleRun:4}},{name:`mode: perimeter`,initialValues:{mode:`perimeter`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CUW7fB8b.js.map

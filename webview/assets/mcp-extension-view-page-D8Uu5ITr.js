@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./mcp-extension-view-page-mvlc8v9z.js";t();export{e as McpExtensionViewPage};
