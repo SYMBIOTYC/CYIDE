@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`molecule: water`,initialValues:{molecule:`water`}},{name:`molecule: ammonia`,initialValues:{molecule:`ammonia`}},{name:`molecule: hydrogen cyanide`,initialValues:{molecule:`hydrogen cyanide`}},{name:`molecule: formate ion`,initialValues:{molecule:`formate ion`}},{name:`molecule: nitrite ion`,initialValues:{molecule:`nitrite ion`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DHG7KqTF.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`example: reverse-and-scale`,initialValues:{example:`reverse-and-scale`}}]}))();export{t as default};
+//# sourceMappingURL=examples-u0tAxVNC.js.map

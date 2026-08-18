@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{frequencyTimes10To14Hertz:3,intensityPercent:10,workFunctionElectronVolts:1.5}},{name:`Maximum supported values`,initialValues:{frequencyTimes10To14Hertz:15,intensityPercent:100,workFunctionElectronVolts:6}}]}))();export{t as default};
+//# sourceMappingURL=examples-CEbw3329.js.map

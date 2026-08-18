@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{initial_solute_molality:0,initial_particle_factor:1}},{name:`Maximum supported values`,initialValues:{initial_solute_molality:.25,initial_particle_factor:3}},{name:`solvent: water`,initialValues:{solvent:`water`}}]}))();export{t as default};
+//# sourceMappingURL=examples-C29iAeSu.js.map

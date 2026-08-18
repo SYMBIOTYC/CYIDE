@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_phase: La Niña`,initialValues:{initial_phase:`La Niña`}},{name:`initial_phase: El Niño`,initialValues:{initial_phase:`El Niño`}}]}))();export{t as default};
+//# sourceMappingURL=examples-Brfrc5VY.js.map

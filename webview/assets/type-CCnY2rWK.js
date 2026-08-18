@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`CLASSIFICATION_THRESHOLD`,n=`classification-threshold-v1`,r={threshold:{kind:`number`,defaultValue:.5,min:0,max:1}},i={type:t,version:3,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-CCnY2rWK.js.map

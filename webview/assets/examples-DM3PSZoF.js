@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_case: central-outlier`,initialValues:{initial_case:`central-outlier`}},{name:`initial_case: aligned-high-leverage`,initialValues:{initial_case:`aligned-high-leverage`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DM3PSZoF.js.map

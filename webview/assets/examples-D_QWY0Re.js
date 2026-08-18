@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`bondType: covalent`,initialValues:{bondType:`covalent`}}]}))();export{t as default};
+//# sourceMappingURL=examples-D_QWY0Re.js.map
