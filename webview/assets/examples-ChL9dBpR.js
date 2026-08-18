@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_example: methane`,initialValues:{initial_example:`methane`}},{name:`initial_example: hydrogen chloride`,initialValues:{initial_example:`hydrogen chloride`}}]}))();export{t as default};
+//# sourceMappingURL=examples-ChL9dBpR.js.map

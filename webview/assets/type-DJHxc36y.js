@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o,s=e((()=>{t=`TRIG_RATIO_TANGENT`,n=`trig-ratio-tangent-v1`,r=`\\tan(\\theta) = \\frac{\\sin(\\theta)}{\\cos(\\theta)}`,i=[`\\tan x = \\frac{\\sin x}{\\cos x}`,`\\tan(\\theta)=\\frac{opposite}{adjacent}`],a={angleDeg:{kind:`number`,defaultValue:35,min:.01,max:89.99},angleLabel:{kind:`enum`,defaultValue:`θ`,allowedValues:[`θ`,`α`,`β`,`φ`,`γ`]}},o={type:t,version:2,thumbnailAssetKey:n,canonicalFormula:r,canonicalFormulaAliases:i,parameters:a}}));export{o as n,s as t};
+//# sourceMappingURL=type-DJHxc36y.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`SELECTION_PATTERNS`,n=`selection-patterns-v1`,r={initial_selection_pattern:{kind:`enum`,defaultValue:`stabilizing`,allowedValues:[`stabilizing`,`directional`,`disruptive`]}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-DSpuRif0.js.map

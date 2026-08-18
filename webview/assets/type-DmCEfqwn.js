@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`VAPOR_PRESSURE`,n=`vapor-pressure-v1`,r={initial_temperature_c:{kind:`number`,defaultValue:25,min:0,max:60},surrounding_pressure_kpa:{kind:`number`,defaultValue:101.325,min:40,max:160}},i={type:t,version:3,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-DmCEfqwn.js.map

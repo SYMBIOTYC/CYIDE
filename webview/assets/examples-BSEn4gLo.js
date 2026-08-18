@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{content:`\\theta = \\sin^{-1}(0.5)`},{content:`\\theta = \\cos^{-1}(0.5)`},{content:`\\theta = \\tan^{-1}(1)`},{content:`y = \\arcsin(-0.5)`},{content:`x = arccos(0.5)`},{content:`\\arcsin(1/2)`},{content:`\\theta = \\arctan(1+1)`}]}))();export{t as default};
+//# sourceMappingURL=examples-BSEn4gLo.js.map

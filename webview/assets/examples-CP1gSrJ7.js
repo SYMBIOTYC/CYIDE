@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{relativeSubstrateConcentration:0}},{name:`Maximum supported values`,initialValues:{relativeSubstrateConcentration:10}},{name:`inhibitorLevel: none`,initialValues:{inhibitorLevel:`none`}},{name:`inhibitorLevel: high`,initialValues:{inhibitorLevel:`high`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CP1gSrJ7.js.map

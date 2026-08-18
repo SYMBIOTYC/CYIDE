@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`solvent: benzene`,initialValues:{solvent:`benzene`}},{name:`solvent: cyclohexane`,initialValues:{solvent:`cyclohexane`}}]}))();export{t as default};
+//# sourceMappingURL=examples-C1RdS8UO.js.map

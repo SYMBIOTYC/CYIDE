@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{numeratorDegree:0,denominatorDegree:1,numeratorLeadingCoefficient:.5,denominatorLeadingCoefficient:.5}},{name:`Maximum supported values`,initialValues:{numeratorDegree:3,denominatorDegree:3,numeratorLeadingCoefficient:5,denominatorLeadingCoefficient:5}}]}))();export{t as default};
+//# sourceMappingURL=examples-0E4tlDZr.js.map

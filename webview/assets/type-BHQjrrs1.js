@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o,s=e((()=>{t=`VECTOR_COMPONENTS`,n=`vector-components-v1`,r=`x=r\\cos\\theta,\\qquad y=r\\sin\\theta`,i=[`\\vec v=\\langle r\\cos\\theta,\\ r\\sin\\theta\\rangle`,`(x,y)=(r\\cos\\theta,r\\sin\\theta)`],a={magnitude:{kind:`number`,defaultValue:6,min:.1,max:100},angleDeg:{kind:`number`,defaultValue:35,min:-180,max:180}},o={type:t,version:1,thumbnailAssetKey:n,canonicalFormula:r,canonicalFormulaAliases:i,parameters:a}}));export{o as n,s as t};
+//# sourceMappingURL=type-BHQjrrs1.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`example: butadiene-and-methyl-vinyl-ketone`,initialValues:{example:`butadiene-and-methyl-vinyl-ketone`}},{name:`example: butadiene-and-maleic-anhydride`,initialValues:{example:`butadiene-and-maleic-anhydride`}}]}))();export{t as default};
+//# sourceMappingURL=examples-Dd52dNOA.js.map

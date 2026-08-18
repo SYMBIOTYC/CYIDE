@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_example: cyclobutadiene`,initialValues:{initial_example:`cyclobutadiene`}},{name:`initial_example: cyclooctatetraene`,initialValues:{initial_example:`cyclooctatetraene`}},{name:`initial_example: cyclopentadienyl-anion`,initialValues:{initial_example:`cyclopentadienyl-anion`}},{name:`initial_example: cyclopropenyl-cation`,initialValues:{initial_example:`cyclopropenyl-cation`}}]}))();export{t as default};
+//# sourceMappingURL=examples-Cx4DqBba.js.map
