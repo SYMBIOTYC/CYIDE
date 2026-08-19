@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{pure_solvent_vapor_pressure_kpa:10}},{name:`Maximum supported values`,initialValues:{pure_solvent_vapor_pressure_kpa:200}}]}))();export{t as default};
+//# sourceMappingURL=examples-5pmr3ecL2.js.map

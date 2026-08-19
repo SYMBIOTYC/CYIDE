@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`QT_PROLONGATION_TORSADES`,n=`qt-prolongation-torsades-v1`,r={qtcMs:{kind:`number`,defaultValue:420,min:360,max:560}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-6QIA9ry_.js.map

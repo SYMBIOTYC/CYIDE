@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`SEASONS_AND_SOLAR_ANGLE`,n=`seasons-and-solar-angle-v2`,r={latitude_degrees:{kind:`number`,defaultValue:40,min:-80,max:80}},i={type:t,version:3,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-DqATl3q-.js.map

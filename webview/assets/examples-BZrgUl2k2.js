@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`crystallization_method: evaporation`,initialValues:{crystallization_method:`evaporation`}}]}))();export{t as default};
+//# sourceMappingURL=examples-BZrgUl2k2.js.map

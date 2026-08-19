@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o=e((()=>{t=`FILLING_RATES`,n=`filling-rates-v2`,r=`r_{\\mathrm{net}}=r_{\\mathrm{in}}-r_{\\mathrm{out}}`,i={inflowRateLitersPerMinute:{kind:`number`,defaultValue:6,min:0,max:8},outflowRateLitersPerMinute:{kind:`number`,defaultValue:2,min:0,max:8}},a={type:t,version:1,thumbnailAssetKey:n,canonicalFormula:r,parameters:i}}));export{a as n,o as t};
+//# sourceMappingURL=type-YqMRsRfY.js.map

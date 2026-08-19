@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`INTERMOLECULAR_FORCES`,n=`intermolecular-forces-v2`,r={initial_example:{kind:`enum`,defaultValue:`water`,allowedValues:[`methane`,`hydrogen chloride`,`water`]}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-DRKqjbNo.js.map

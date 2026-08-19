@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{LY as t,NY as n}from"./app-initial-XTPxJJJs.js";import{Ir as r,Pr as i}from"./app-initial-B2gWpz-T.js";import{n as a,r as o}from"./skills-page-CYq_2uyo.js";function s(){let e=(0,c.c)(1),t;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(t=(0,l.jsx)(i,{children:(0,l.jsx)(a,{})}),e[0]=t):t=e[0],t}var c,l;e((()=>{c=n(),o(),r(),l=t()}))();export{s as SkillsSettings};
+//# sourceMappingURL=skills-settings-C1Uid5D0.js.map

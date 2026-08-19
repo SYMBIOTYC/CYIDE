@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`ecosystem: pond`,initialValues:{ecosystem:`pond`}},{name:`ecosystem: ocean`,initialValues:{ecosystem:`ocean`}}]}))();export{t as default};
+//# sourceMappingURL=examples-BGmTDt_b.js.map

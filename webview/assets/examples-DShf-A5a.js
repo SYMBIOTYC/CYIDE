@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`relationship_kind: one-to-one`,initialValues:{relationship_kind:`one-to-one`}},{name:`relationship_kind: many-to-many`,initialValues:{relationship_kind:`many-to-many`}},{name:`include_relationship_attribute: false`,initialValues:{include_relationship_attribute:!1}}]}))();export{t as default};
+//# sourceMappingURL=examples-DShf-A5a.js.map

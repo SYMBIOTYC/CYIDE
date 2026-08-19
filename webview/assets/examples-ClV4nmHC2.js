@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`compound: CO2`,initialValues:{compound:`CO2`}},{name:`compound: NaCl`,initialValues:{compound:`NaCl`}},{name:`compound: Ca(OH)2`,initialValues:{compound:`Ca(OH)2`}},{name:`compound: Al2(SO4)3`,initialValues:{compound:`Al2(SO4)3`}}]}))();export{t as default};
+//# sourceMappingURL=examples-ClV4nmHC2.js.map

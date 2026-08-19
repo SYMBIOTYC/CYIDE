@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`mixture_example: colored solution`,initialValues:{mixture_example:`colored solution`}},{name:`mixture_example: widely separated liquids`,initialValues:{mixture_example:`widely separated liquids`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CLA4ZGVC.js.map

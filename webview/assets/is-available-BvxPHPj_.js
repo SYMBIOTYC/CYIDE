@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{uI as t,zH as n}from"./app-initial-XTPxJJJs.js";import{Crt as r,wrt as i}from"./app-initial-B2gWpz-T.js";function a(e){return n.isInternal(r())||e}var o=e((()=>{t(),i()}));export{a as n,o as t};
+//# sourceMappingURL=is-available-BvxPHPj_.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`cargo_destination: plasma membrane`,initialValues:{cargo_destination:`plasma membrane`}},{name:`cargo_destination: lysosome`,initialValues:{cargo_destination:`lysosome`}}]}))();export{t as default};
+//# sourceMappingURL=examples-Diz9CrYm.js.map

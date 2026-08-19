@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`statistic: median`,initialValues:{statistic:`median`}},{name:`statistic: proportion`,initialValues:{statistic:`proportion`}}]}))();export{t as default};
+//# sourceMappingURL=examples-C9c3cmic.js.map

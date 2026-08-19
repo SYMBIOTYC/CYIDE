@@ -1,0 +1,1 @@
+import{a as e,i as t}from"./register-BqqwIOLc-BBWj99-j.js";e();export{t as r};
