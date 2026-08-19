@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`oil_type: heavy oil`,initialValues:{oil_type:`heavy oil`}}]}))();export{t as default};
+//# sourceMappingURL=examples-D7CXEnsD.js.map

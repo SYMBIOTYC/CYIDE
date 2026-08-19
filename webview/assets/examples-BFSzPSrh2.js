@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{initial_temperature_c:0,surrounding_pressure_kpa:40}},{name:`Maximum supported values`,initialValues:{initial_temperature_c:60,surrounding_pressure_kpa:160}}]}))();export{t as default};
+//# sourceMappingURL=examples-BFSzPSrh2.js.map

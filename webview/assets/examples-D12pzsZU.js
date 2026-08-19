@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{initialDepositUsd:100,reserveRatioPercent:5}},{name:`Maximum supported values`,initialValues:{initialDepositUsd:2e3,reserveRatioPercent:50}}]}))();export{t as default};
+//# sourceMappingURL=examples-D12pzsZU.js.map

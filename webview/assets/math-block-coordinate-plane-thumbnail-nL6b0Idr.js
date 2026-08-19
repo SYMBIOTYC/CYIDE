@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{a as t}from"./build-graph-data-PDgKcW2r.js";import{d as n}from"./math-block-plane-q2fY4WD6.js";var r,i=e((()=>{t(),n(),r=e=>e===`thumbnail`?{presentationMode:e,svgStyle:{width:`100%`,height:`100%`}}:{}}));export{i as n,r as t};
+//# sourceMappingURL=math-block-coordinate-plane-thumbnail-nL6b0Idr.js.map

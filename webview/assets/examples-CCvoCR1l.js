@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_variance_pattern: increasing`,initialValues:{initial_variance_pattern:`increasing`}},{name:`initial_variance_pattern: decreasing`,initialValues:{initial_variance_pattern:`decreasing`}},{name:`initial_variance_pattern: bulge`,initialValues:{initial_variance_pattern:`bulge`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CCvoCR1l.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./message-square-quote-BDjceVea-B0ytwN69.js";t();export{e as default};

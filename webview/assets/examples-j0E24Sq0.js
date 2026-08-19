@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_pattern: non-crossover-interaction`,initialValues:{initial_pattern:`non-crossover-interaction`}},{name:`initial_pattern: crossover-interaction`,initialValues:{initial_pattern:`crossover-interaction`}}]}))();export{t as default};
+//# sourceMappingURL=examples-j0E24Sq0.js.map

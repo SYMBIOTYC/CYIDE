@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_halogen: bromine`,initialValues:{initial_halogen:`bromine`}},{name:`initial_halogen: iodine`,initialValues:{initial_halogen:`iodine`}},{name:`initial_halide: chloride`,initialValues:{initial_halide:`chloride`}},{name:`initial_halide: iodide`,initialValues:{initial_halide:`iodide`}}]}))();export{t as default};
+//# sourceMappingURL=examples-BjIoGgc02.js.map

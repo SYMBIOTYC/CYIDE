@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{solute_concentration_molar:.05,vant_hoff_factor:1,temperature_kelvin:273}},{name:`Maximum supported values`,initialValues:{solute_concentration_molar:.5,vant_hoff_factor:3,temperature_kelvin:323}}]}))();export{t as default};
+//# sourceMappingURL=examples-BwxFy_sT.js.map

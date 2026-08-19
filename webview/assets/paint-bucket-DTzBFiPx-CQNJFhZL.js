@@ -1,0 +1,1 @@
+import{n as e,t}from"./paint-bucket-DTzBFiPx-CRRj88-o.js";e();export{t as default};

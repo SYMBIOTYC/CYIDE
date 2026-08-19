@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`endpoint: death`,initialValues:{endpoint:`death`}},{name:`endpoint: device failure`,initialValues:{endpoint:`device failure`}},{name:`time_unit: days`,initialValues:{time_unit:`days`}},{name:`time_unit: years`,initialValues:{time_unit:`years`}}]}))();export{t as default};
+//# sourceMappingURL=examples-i1SClv2M.js.map
