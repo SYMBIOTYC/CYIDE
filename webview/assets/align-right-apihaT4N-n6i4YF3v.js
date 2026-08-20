@@ -1,0 +1,1 @@
+import{n as e,t}from"./align-right-apihaT4N-FH6LpU9V.js";e();export{t as default};

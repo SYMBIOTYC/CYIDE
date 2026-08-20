@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{client_initial_sequence:0,server_initial_sequence:0}},{name:`Maximum supported values`,initialValues:{client_initial_sequence:9998,server_initial_sequence:9998}},{name:`Distinct sequence spaces`,initialValues:{client_initial_sequence:731,server_initial_sequence:2048}}]}))();export{t as default};
+//# sourceMappingURL=examples-D2HLQKZw.js.map

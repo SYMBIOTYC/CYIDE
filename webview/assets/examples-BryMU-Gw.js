@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{latitude:-90,longitude:-180}},{name:`Maximum supported values`,initialValues:{latitude:90,longitude:180}},{name:`Northern and eastern location`,initialValues:{latitude:30,longitude:45}},{name:`Southern and western location`,initialValues:{latitude:-34,longitude:-70}},{name:`North Pole`,initialValues:{latitude:90,longitude:120}}]}))();export{t as default};
+//# sourceMappingURL=examples-BryMU-Gw.js.map
