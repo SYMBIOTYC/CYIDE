@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{leftAngleDegrees:10,rightAngleDegrees:10,weightNewtons:50}},{name:`Maximum supported values`,initialValues:{leftAngleDegrees:80,rightAngleDegrees:80,weightNewtons:500}},{name:`Asymmetric cable angles`,initialValues:{leftAngleDegrees:20,rightAngleDegrees:70,weightNewtons:300}}]}))();export{t as default};
+//# sourceMappingURL=examples-Ci_sGt6X.js.map

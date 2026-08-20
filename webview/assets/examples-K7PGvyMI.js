@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`recurrence_example: T(n) = 2T(n/2) + 1`,initialValues:{recurrence_example:`T(n) = 2T(n/2) + 1`}},{name:`recurrence_example: T(n) = 2T(n/2) + n^2`,initialValues:{recurrence_example:`T(n) = 2T(n/2) + n^2`}}]}))();export{t as default};
+//# sourceMappingURL=examples-K7PGvyMI.js.map

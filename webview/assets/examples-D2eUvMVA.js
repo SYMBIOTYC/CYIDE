@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`decay_mode: beta-minus`,initialValues:{decay_mode:`beta-minus`}},{name:`decay_mode: gamma`,initialValues:{decay_mode:`gamma`}},{name:`decay_mode: beta-plus`,initialValues:{decay_mode:`beta-plus`}},{name:`decay_mode: electron-capture`,initialValues:{decay_mode:`electron-capture`}}]}))();export{t as default};
+//# sourceMappingURL=examples-D2eUvMVA.js.map

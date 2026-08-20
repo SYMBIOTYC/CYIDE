@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o,s=e((()=>{t=`UNIT_CIRCLE`,n=`unit-circle-v1`,r=`x^2 + y^2 = 1`,i=[`1 = x^2 + y^2`,`x^2 + y^2 = 1^2`,`(x-0)^2 + (y+0)^2 = 1`,`(\\cos\\theta, \\sin\\theta)`],a={angleDeg:{kind:`number`,defaultValue:45,min:-36e3,max:36e3}},o={type:t,version:2,thumbnailAssetKey:n,canonicalFormula:r,canonicalFormulaAliases:i,parameters:a}}));export{o as n,s as t};
+//# sourceMappingURL=type-Dry8tPOv.js.map

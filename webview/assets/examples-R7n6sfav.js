@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`eukaryotic_example: plant`,initialValues:{eukaryotic_example:`plant`}}]}))();export{t as default};
+//# sourceMappingURL=examples-R7n6sfav.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{sand_percent:0,clay_percent:0}},{name:`Maximum supported values`,initialValues:{sand_percent:100,clay_percent:100}},{name:`Sandy clay`,initialValues:{sand_percent:50,clay_percent:40}},{name:`Silt loam`,initialValues:{sand_percent:20,clay_percent:15}}]}))();export{t as default};
+//# sourceMappingURL=examples-CLrdspjt.js.map

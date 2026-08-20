@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_example: glucose`,initialValues:{initial_example:`glucose`}},{name:`initial_example: maltose`,initialValues:{initial_example:`maltose`}},{name:`initial_example: amylose`,initialValues:{initial_example:`amylose`}},{name:`initial_example: glycogen`,initialValues:{initial_example:`glycogen`}},{name:`initial_example: cellulose`,initialValues:{initial_example:`cellulose`}}]}))();export{t as default};
+//# sourceMappingURL=examples-C2__1MDU.js.map

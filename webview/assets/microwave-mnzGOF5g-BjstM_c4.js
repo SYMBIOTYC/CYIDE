@@ -1,0 +1,1 @@
+import{n as e,t}from"./microwave-mnzGOF5g-CSMyNm1_.js";e();export{t as default};

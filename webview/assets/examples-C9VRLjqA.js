@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`outlierMode: with`,initialValues:{outlierMode:`with`}}]}))();export{t as default};
+//# sourceMappingURL=examples-C9VRLjqA.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{sample_mass_g:.25,combustion_energy_kj_per_g:15,calorimeter_heat_capacity_kj_per_k:8}},{name:`Maximum supported values`,initialValues:{sample_mass_g:2,combustion_energy_kj_per_g:35,calorimeter_heat_capacity_kj_per_k:25}}]}))();export{t as default};
+//# sourceMappingURL=examples-DVg0bdJl.js.map

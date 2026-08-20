@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{n as t,t as n}from"./clipboard-pen-line-C1AbOanp-D6nL7GPN.js";e((()=>{n()}))();export{t as default};
+//# sourceMappingURL=clipboard-signature-CfT7z8FE-B8OUa-5n.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_pathway: MHC II (exogenous)`,initialValues:{initial_pathway:`MHC II (exogenous)`}}]}))();export{t as default};
+//# sourceMappingURL=examples-BagyewOy.js.map
