@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{heartRateBeatsPerMinute:40,strokeVolumeMilliliters:30}},{name:`Maximum supported values`,initialValues:{heartRateBeatsPerMinute:180,strokeVolumeMilliliters:120}}]}))();export{t as default};
+//# sourceMappingURL=examples-DoTLH2bu.js.map

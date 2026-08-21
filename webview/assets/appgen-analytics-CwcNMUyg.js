@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{Ek as t,WN as n}from"./app-initial-D5LtbkHB.js";import{dlt as r,plt as i}from"./app-initial-CYlXrWdX.js";function a(e,n){try{i(e,t,n)}catch{}}var o=e((()=>{n(),r()}));export{a as n,o as t};
+//# sourceMappingURL=appgen-analytics-CwcNMUyg.js.map

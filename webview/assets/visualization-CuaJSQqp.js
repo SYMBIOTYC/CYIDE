@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{iX as t}from"./app-initial-D5LtbkHB.js";import{n,o as r,r as i,t as a}from"./triangle-family-visualization-D_WtL34H.js";var o,s,c,l;e((()=>{r(),o=t(),s=e=>(0,o.jsx)(n,{...e,variant:`acute`}),c=e=>(0,o.jsx)(a,{...e,variant:`acute`}),l=e=>(0,o.jsx)(i,{...e,variant:`acute`})}))();export{c as AcuteTriangleCaption,s as AcuteTriangleControls,l as AcuteTriangleVisualization};
+//# sourceMappingURL=visualization-CuaJSQqp.js.map

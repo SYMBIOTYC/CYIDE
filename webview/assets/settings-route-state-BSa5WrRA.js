@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{AG as t,CG as n,EG as r,iG as i}from"./app-initial-D5LtbkHB.js";function a(e){let t=o.safeParse(e);return t.success&&t.data.returnToPreviousHistoryEntry===!0}var o,s=e((()=>{i(),o=r({returnToPreviousHistoryEntry:n(!0).optional(),workspaceRoot:t().min(1).nullable().optional()}).loose()}));export{s as n,a as t};
+//# sourceMappingURL=settings-route-state-BSa5WrRA.js.map

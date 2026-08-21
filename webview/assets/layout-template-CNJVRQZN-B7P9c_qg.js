@@ -1,0 +1,1 @@
+import{n as e,t}from"./layout-template-CNJVRQZN-CP4fDvut.js";e();export{t as default};

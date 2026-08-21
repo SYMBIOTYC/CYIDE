@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`MYOPIA`,n=`myopia-v1`,r={objectDistanceMeters:{kind:`number`,defaultValue:6,min:.25,max:6}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-B5u6mzaT.js.map

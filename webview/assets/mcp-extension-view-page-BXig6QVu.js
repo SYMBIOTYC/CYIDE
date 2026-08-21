@@ -1,0 +1,1 @@
+import{i as e,n as t,t as n}from"./mcp-extension-view-page-fGwR_cc2.js";e();export{n as McpExtensionGlobalViewPage,t as McpExtensionSettingsViewPage};

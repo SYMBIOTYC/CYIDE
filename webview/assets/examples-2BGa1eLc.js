@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{heatKj:0}},{name:`Maximum supported values`,initialValues:{heatKj:60}},{name:`material: copper`,initialValues:{material:`copper`}},{name:`material: sand`,initialValues:{material:`sand`}}]}))();export{t as default};
+//# sourceMappingURL=examples-2BGa1eLc.js.map
