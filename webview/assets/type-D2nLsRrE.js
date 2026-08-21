@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`SURFACE_AREA_TO_VOLUME_RATIO`,n=`surface-area-to-volume-ratio-v2`,r={side_length:{kind:`integer`,defaultValue:3,min:1,max:6}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-D2nLsRrE.js.map

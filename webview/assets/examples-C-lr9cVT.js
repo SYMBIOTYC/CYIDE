@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_outlet: tributary`,initialValues:{initial_outlet:`tributary`}},{name:`initial_outlet: confluence`,initialValues:{initial_outlet:`confluence`}}]}))();export{t as default};
+//# sourceMappingURL=examples-C-lr9cVT.js.map

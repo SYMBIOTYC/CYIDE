@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`example: molecular-ion-dominant`,initialValues:{example:`molecular-ion-dominant`}},{name:`example: chlorine-isotope-pattern`,initialValues:{example:`chlorine-isotope-pattern`}},{name:`example: bromine-isotope-pattern`,initialValues:{example:`bromine-isotope-pattern`}}]}))();export{t as default};
+//# sourceMappingURL=examples-BkgSE44h2.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./crosshair-De-2moBE-C4YNU8A1.js";t();export{e as default};

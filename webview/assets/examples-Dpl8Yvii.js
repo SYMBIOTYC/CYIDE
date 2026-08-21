@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{changeMagnitudePercent:5}},{name:`Maximum supported values`,initialValues:{changeMagnitudePercent:50}},{name:`changeScenario: income_decrease`,initialValues:{changeScenario:`income_decrease`}},{name:`changeScenario: price_x_increase`,initialValues:{changeScenario:`price_x_increase`}},{name:`changeScenario: price_x_decrease`,initialValues:{changeScenario:`price_x_decrease`}}]}))();export{t as default};
+//# sourceMappingURL=examples-Dpl8Yvii.js.map

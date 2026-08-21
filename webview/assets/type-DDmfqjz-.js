@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`INFLATION_CPI`,n=`inflation-cpi-v3`,r={earlier_cpi:{kind:`number`,defaultValue:120,min:50,max:300},later_cpi:{kind:`number`,defaultValue:126,min:50,max:300},comparison_interval:{kind:`enum`,defaultValue:`twelve_months`,allowedValues:[`one_month`,`twelve_months`]}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-DDmfqjz-.js.map
