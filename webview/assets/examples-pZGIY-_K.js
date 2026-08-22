@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`population_pair: rabbit-and-fox`,initialValues:{population_pair:`rabbit-and-fox`}},{name:`population_pair: generic-prey-and-predator`,initialValues:{population_pair:`generic-prey-and-predator`}}]}))();export{t as default};
+//# sourceMappingURL=examples-pZGIY-_K.js.map

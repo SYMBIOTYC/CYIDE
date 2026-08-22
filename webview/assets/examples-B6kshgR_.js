@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{zScore:-3.5}},{name:`Maximum supported values`,initialValues:{zScore:3.5}},{name:`testType: one-sided`,initialValues:{testType:`one-sided`}}]}))();export{t as default};
+//# sourceMappingURL=examples-B6kshgR_.js.map

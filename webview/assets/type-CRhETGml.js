@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o=e((()=>{t=`SIMPLE_PENDULUM`,n=`simple-pendulum-v1`,r=`T \\approx 2\\pi\\sqrt{\\frac{L}{g}}`,i={lengthMeters:{kind:`number`,defaultValue:1.2,min:.5,max:2},startingAngleDegrees:{kind:`number`,defaultValue:35,min:5,max:60}},a={type:t,version:1,thumbnailAssetKey:n,canonicalFormula:r,parameters:i}}));export{a as n,o as t};
+//# sourceMappingURL=type-CRhETGml.js.map

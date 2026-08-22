@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{content:`m\\lambda = d\\sin\\theta`},{content:`d\\sin\\theta = n\\lambda`}]}))();export{t as default};
+//# sourceMappingURL=examples-5NKvF2A-.js.map

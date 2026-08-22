@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`pattern: negative`,initialValues:{pattern:`negative`}},{name:`pattern: none`,initialValues:{pattern:`none`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DVWndJM_.js.map

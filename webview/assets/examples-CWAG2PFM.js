@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{objectDistanceCentimeters:25}},{name:`Maximum supported values`,initialValues:{objectDistanceCentimeters:200}},{name:`condition: typical`,initialValues:{condition:`typical`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CWAG2PFM.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{address_octet_1:128,address_octet_2:128,address_octet_3:0,address_octet_4:0,prefix_length:24}},{name:`Maximum supported values`,initialValues:{address_octet_1:223,address_octet_2:239,address_octet_3:255,address_octet_4:255,prefix_length:30}}]}))();export{t as default};
+//# sourceMappingURL=examples-CSTT_kFl.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./telescope-DNzcVW0O-B1Zx4Otx.js";t();export{e as default};

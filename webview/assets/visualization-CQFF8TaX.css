@@ -1,0 +1,1 @@
+@layer components{._plot_ajnur_1 svg text[fill="var(--text-tertiary)"]{fill:var(--text-secondary)}@container (width>=28rem){[class*=wideVisualization]:has(._plot_ajnur_1){width:min(90%,680px)}}}

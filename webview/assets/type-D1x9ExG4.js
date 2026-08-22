@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`FIXED_RATIO_SCALING`,n=`fixed-ratio-scaling-v1`,r={scaleFactor:{kind:`number`,defaultValue:1.5,min:.5,max:2}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-D1x9ExG4.js.map

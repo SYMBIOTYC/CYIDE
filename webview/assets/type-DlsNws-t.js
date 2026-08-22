@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r=e((()=>{t={label:`r`,min:.5,max:10,step:.1,defaultValue:3,thumbnailDefaultValue:10},n={properties:{radius:t}}})),i,a,o,s,c,l,u=e((()=>{i=`SPHERE_VOLUME`,a=`sphere-volume-v1`,o=`V = \\frac{4}{3}\\pi r^3`,s=[`4/3pir^3=v`,`4/3pir^3`],c={radius:{kind:`number`,defaultValue:3,min:.01,max:1e4}},l={type:i,version:2,thumbnailAssetKey:a,canonicalFormula:o,canonicalFormulaAliases:s,parameters:c}}));export{r as a,n as i,l as n,t as r,u as t};
+//# sourceMappingURL=type-DlsNws-t.js.map
