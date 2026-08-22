@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_condition: normal`,initialValues:{initial_condition:`normal`}},{name:`initial_condition: increased osmolality`,initialValues:{initial_condition:`increased osmolality`}}]}))();export{t as default};
+//# sourceMappingURL=examples-exgJ1K3O.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`element: boron`,initialValues:{element:`boron`}},{name:`element: carbon`,initialValues:{element:`carbon`}},{name:`element: neon`,initialValues:{element:`neon`}},{name:`element: magnesium`,initialValues:{element:`magnesium`}},{name:`element: sulfur`,initialValues:{element:`sulfur`}},{name:`element: copper`,initialValues:{element:`copper`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DJNCAtY3.js.map

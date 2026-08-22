@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`example: cis-1,2-dimethylcyclohexane`,initialValues:{example:`cis-1,2-dimethylcyclohexane`}},{name:`example: trans-1,2-dimethylcyclohexane`,initialValues:{example:`trans-1,2-dimethylcyclohexane`}}]}))();export{t as default};
+//# sourceMappingURL=examples-BlNOITvq.js.map

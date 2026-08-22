@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{en as t,rX as n,sX as r,tn as i}from"./app-initial-DHmg8n4v.js";function a(e){let n=(0,o.c)(3),{children:r}=e,i;n[0]===Symbol.for(`react.memo_cache_sentinel`)?(i=(0,s.jsx)(t,{showWhenUnseen:!0}),n[0]=i):i=n[0];let a;return n[1]===r?a=n[2]:(a=(0,s.jsxs)(s.Fragment,{children:[r,i]}),n[1]=r,n[2]=a),a}var o,s;e((()=>{o=n(),i(),s=r()}))();export{a as AppgenPublicationTermsRoute};
+//# sourceMappingURL=appgen-publication-terms-route-Irbj5D7b.js.map

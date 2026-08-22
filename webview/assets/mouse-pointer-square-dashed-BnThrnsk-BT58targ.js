@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{n as t,t as n}from"./square-dashed-mouse-pointer-CUKnUPQC-CPi9Ktnu.js";e((()=>{n()}))();export{t as default};
+//# sourceMappingURL=mouse-pointer-square-dashed-BnThrnsk-BT58targ.js.map

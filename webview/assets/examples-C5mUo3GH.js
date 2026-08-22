@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`karyotype_example: typical-xy`,initialValues:{karyotype_example:`typical-xy`}},{name:`karyotype_example: trisomy-21-xx`,initialValues:{karyotype_example:`trisomy-21-xx`}},{name:`karyotype_example: trisomy-21-xy`,initialValues:{karyotype_example:`trisomy-21-xy`}}]}))();export{t as default};
+//# sourceMappingURL=examples-C5mUo3GH.js.map

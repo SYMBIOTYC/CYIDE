@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{ksp:1e-18}},{name:`Maximum supported values`,initialValues:{ksp:1e-16}},{name:`dissolution_stoichiometry: MX2`,initialValues:{dissolution_stoichiometry:`MX2`}},{name:`dissolution_stoichiometry: M2X3`,initialValues:{dissolution_stoichiometry:`M2X3`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CEQ3El8K.js.map

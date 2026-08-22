@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{melting_temperature_k:200,boiling_temperature_k:360,molar_enthalpy_of_fusion_kj_per_mol:2,molar_enthalpy_of_vaporization_kj_per_mol:20}},{name:`Maximum supported values`,initialValues:{melting_temperature_k:350,boiling_temperature_k:650,molar_enthalpy_of_fusion_kj_per_mol:20,molar_enthalpy_of_vaporization_kj_per_mol:100}}]}))();export{t as default};
+//# sourceMappingURL=examples-B-5CeZrj.js.map

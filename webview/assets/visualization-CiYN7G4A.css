@@ -1,0 +1,1 @@
+@layer components{._root_miiws_1{min-width:0}@container (width>=28rem){._legend_miiws_6{margin-left:16px}[class*=wideVisualization]:has(._root_miiws_1) [data-learning-block-time-loop-content]{width:100%}}}

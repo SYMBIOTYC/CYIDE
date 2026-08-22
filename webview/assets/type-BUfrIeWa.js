@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o,s=e((()=>{t=`MOMENTUM`,n=`momentum-v1`,r=`p = mv`,i=[`v = p/m`,`p=vm`,`mv=p`,`vm=p`,`m=p/v`],a={m1:{kind:`number`,defaultValue:4,min:.01,max:1e4},m2:{kind:`number`,defaultValue:4,min:.01,max:1e4},v:{kind:`number`,defaultValue:6,min:0,max:1e4}},o={type:t,version:1,thumbnailAssetKey:n,canonicalFormula:r,canonicalFormulaAliases:i,parameters:a}}));export{o as n,s as t};
+//# sourceMappingURL=type-BUfrIeWa.js.map

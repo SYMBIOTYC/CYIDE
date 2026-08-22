@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{content:`e^{i\\theta} = \\cos(\\theta) + i\\sin(\\theta)`},{content:`\\cos x + i\\sin x = e^{ix}`},{content:`e^{-ix} = \\cos(x) - i\\sin(x)`},{content:`e^{i\\pi} = -1`},{content:`\\exp(i\\theta)=\\cos\\theta+i\\sin\\theta`},{content:`e^{j\\pi}+1=0`}]}))();export{t as default};
+//# sourceMappingURL=examples-B8i9o2VU.js.map

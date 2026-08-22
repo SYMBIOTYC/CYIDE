@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_profile: developed profile without E`,initialValues:{initial_profile:`developed profile without E`}},{name:`initial_profile: young profile`,initialValues:{initial_profile:`young profile`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CxM-_IWQ.js.map

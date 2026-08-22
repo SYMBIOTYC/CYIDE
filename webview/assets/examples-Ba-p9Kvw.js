@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`transaction_type: equipment purchase for cash`,initialValues:{transaction_type:`equipment purchase for cash`}},{name:`transaction_type: supplies purchase on account`,initialValues:{transaction_type:`supplies purchase on account`}},{name:`transaction_type: payment of accounts payable`,initialValues:{transaction_type:`payment of accounts payable`}}]}))();export{t as default};
+//# sourceMappingURL=examples-Ba-p9Kvw.js.map
