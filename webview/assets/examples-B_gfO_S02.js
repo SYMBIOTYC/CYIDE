@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`material: aluminum`,initialValues:{material:`aluminum`}},{name:`material: copper`,initialValues:{material:`copper`}}]}))();export{t as default};
+//# sourceMappingURL=examples-B_gfO_S02.js.map

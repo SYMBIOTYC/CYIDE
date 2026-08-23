@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`acid_proticity: triprotic`,initialValues:{acid_proticity:`triprotic`}},{name:`pka_spacing: close`,initialValues:{pka_spacing:`close`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CIW94-4W.js.map

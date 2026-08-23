@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`clinical_context: surfactant-deficient`,initialValues:{clinical_context:`surfactant-deficient`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CxN1eQlb.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_molecular_class: alkane`,initialValues:{initial_molecular_class:`alkane`}},{name:`initial_molecular_class: ketone`,initialValues:{initial_molecular_class:`ketone`}},{name:`initial_molecular_class: carboxylic acid`,initialValues:{initial_molecular_class:`carboxylic acid`}},{name:`initial_molecular_class: nitrile`,initialValues:{initial_molecular_class:`nitrile`}}]}))();export{t as default};
+//# sourceMappingURL=examples-C-UwP2Cf.js.map

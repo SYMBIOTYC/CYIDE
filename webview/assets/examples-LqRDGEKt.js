@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{sleep_duration_hours:5}},{name:`Maximum supported values`,initialValues:{sleep_duration_hours:10}}]}))();export{t as default};
+//# sourceMappingURL=examples-LqRDGEKt.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`example: food coloring`,initialValues:{example:`food coloring`}},{name:`example: leaf pigments`,initialValues:{example:`leaf pigments`}}]}))();export{t as default};
+//# sourceMappingURL=examples-fx6nzjLx.js.map

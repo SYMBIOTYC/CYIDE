@@ -1,0 +1,1 @@
+import{n as e,t}from"./russian-ruble-BcT8s0km-uazM0Kf9.js";t();export{e as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`edit_intent: precise sequence edit`,initialValues:{edit_intent:`precise sequence edit`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DgU3uhOY2.js.map

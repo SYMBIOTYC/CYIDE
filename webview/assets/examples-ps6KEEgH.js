@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{dividendCoefficient3:-20,dividendCoefficient2:-20,dividendCoefficient1:-20,dividendCoefficient0:-20,divisorConstant:-5}},{name:`Maximum supported values`,initialValues:{dividendCoefficient3:20,dividendCoefficient2:20,dividendCoefficient1:20,dividendCoefficient0:20,divisorConstant:5}}]}))();export{t as default};
+//# sourceMappingURL=examples-ps6KEEgH.js.map

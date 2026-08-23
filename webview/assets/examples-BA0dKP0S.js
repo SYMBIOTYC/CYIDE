@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{initial_concentration_molar:.1}},{name:`Maximum supported values`,initialValues:{initial_concentration_molar:.25}}]}))();export{t as default};
+//# sourceMappingURL=examples-BA0dKP0S.js.map
