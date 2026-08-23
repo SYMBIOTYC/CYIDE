@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`mechanism: facilitatedDiffusion`,initialValues:{mechanism:`facilitatedDiffusion`}},{name:`mechanism: activeTransport`,initialValues:{mechanism:`activeTransport`}}]}))();export{t as default};
+//# sourceMappingURL=examples-D5-MyYA9.js.map

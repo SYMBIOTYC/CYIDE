@@ -1,0 +1,1 @@
+import{n as e,t}from"./notepad-text-C0709YMz-BhijNWLb.js";e();export{t as default};

@@ -1,0 +1,1 @@
+import{n as e,t}from"./quick-chat-window-DuC8bxD0.js";e();export{t as QuickChatWindow};

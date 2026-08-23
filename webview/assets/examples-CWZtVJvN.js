@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{equilibrium_constant:.25,initial_total_concentration:.5}},{name:`Maximum supported values`,initialValues:{equilibrium_constant:4,initial_total_concentration:2}}]}))();export{t as default};
+//# sourceMappingURL=examples-CWZtVJvN.js.map

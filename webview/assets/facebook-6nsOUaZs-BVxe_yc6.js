@@ -1,0 +1,1 @@
+import{n as e,t}from"./facebook-6nsOUaZs-BgoCjY-a.js";e();export{t as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`fermentation_type: alcohol`,initialValues:{fermentation_type:`alcohol`}}]}))();export{t as default};
+//# sourceMappingURL=examples-B7JZqlxc.js.map

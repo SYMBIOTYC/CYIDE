@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`calciumCondition: high`,initialValues:{calciumCondition:`high`}}]}))();export{t as default};
+//# sourceMappingURL=examples-Cwpcx6Aw.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{$y as t,KF as n,Ng as r,VO as i,ZP as a,cI as o,cX as s,rX as c}from"./app-initial-DHmg8n4v.js";import{$H as l,BV as u,C6 as d,Dit as f,Mit as p,PV as m,t4 as h,uH as g}from"./app-initial-B0lk-dMx.js";var _=e((()=>{c(),a(),o(),s(),i(),r(),t(),d(),p(),l(),h(),u(),m(),g(),n(f,!1)}));export{_ as t};
+//# sourceMappingURL=review-runtime-bridge-C9r38L-y.js.map
