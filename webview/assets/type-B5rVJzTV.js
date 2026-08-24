@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`MOLE_AVOGADRO_NUMBER_VISUAL`,n=`mole-avogadro-number-visual-v1`,r={substance:{kind:`enum`,defaultValue:`copper`,allowedValues:[`carbon`,`copper`,`water`]},initial_moles:{kind:`number`,defaultValue:1,min:.25,max:5}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-B5rVJzTV.js.map

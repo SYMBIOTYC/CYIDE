@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_example: infection-and-recovery`,initialValues:{initial_example:`infection-and-recovery`}},{name:`initial_example: maternal-antibodies`,initialValues:{initial_example:`maternal-antibodies`}},{name:`initial_example: immune-globulin`,initialValues:{initial_example:`immune-globulin`}}]}))();export{t as default};
+//# sourceMappingURL=examples-C4d1GYNt.js.map

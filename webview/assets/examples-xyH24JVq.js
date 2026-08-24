@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`workload: spaced`,initialValues:{workload:`spaced`}}]}))();export{t as default};
+//# sourceMappingURL=examples-xyH24JVq.js.map

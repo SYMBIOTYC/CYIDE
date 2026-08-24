@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`PLACE_VALUE`,n=`place-value-v1`,r={number:{kind:`integer`,defaultValue:2654,min:0,max:9999}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-DhltB27u.js.map

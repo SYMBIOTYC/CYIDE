@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`island_area: small`,initialValues:{island_area:`small`}},{name:`isolation: far`,initialValues:{isolation:`far`}},{name:`Small, far island`,initialValues:{island_area:`small`,isolation:`far`}}]}))();export{t as default};
+//# sourceMappingURL=examples-BkWLRbMt.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./flame-kindling-B25QHnMu-Dhigtart.js";t();export{e as default};

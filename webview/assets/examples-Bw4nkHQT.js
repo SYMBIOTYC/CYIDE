@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_mutation: silent-substitution`,initialValues:{initial_mutation:`silent-substitution`}},{name:`initial_mutation: nonsense-substitution`,initialValues:{initial_mutation:`nonsense-substitution`}},{name:`initial_mutation: insertion`,initialValues:{initial_mutation:`insertion`}},{name:`initial_mutation: deletion`,initialValues:{initial_mutation:`deletion`}}]}))();export{t as default};
+//# sourceMappingURL=examples-Bw4nkHQT.js.map

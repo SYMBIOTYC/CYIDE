@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`behaviorEffect: less_likely`,initialValues:{behaviorEffect:`less_likely`}},{name:`stimulusChange: removed`,initialValues:{stimulusChange:`removed`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CbsOoP3J.js.map

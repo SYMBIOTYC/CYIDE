@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o,s=e((()=>{t=`NEWTON_SECOND_LAW`,n=`newton-second-law-v1`,r=`F_{\\mathrm{net}} = ma`,i=[`F=ma`,`a=F/m`,`m=F/a`],a={netForceNewtons:{kind:`number`,defaultValue:8,min:2,max:12},massKilograms:{kind:`number`,defaultValue:2,min:1,max:4}},o={type:t,version:2,thumbnailAssetKey:n,canonicalFormula:r,canonicalFormulaAliases:i,parameters:a}}));export{o as n,s as t};
+//# sourceMappingURL=type-BT2IV1J3.js.map
