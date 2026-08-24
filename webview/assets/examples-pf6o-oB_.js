@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{sodiumToPotassiumPermeabilityRatio:0,chlorideToPotassiumPermeabilityRatio:0}},{name:`Maximum supported values`,initialValues:{sodiumToPotassiumPermeabilityRatio:1,chlorideToPotassiumPermeabilityRatio:1}}]}))();export{t as default};
+//# sourceMappingURL=examples-pf6o-oB_.js.map

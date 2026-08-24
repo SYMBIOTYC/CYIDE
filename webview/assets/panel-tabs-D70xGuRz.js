@@ -1,0 +1,1 @@
+import{$G as e,QG as t,nK as n}from"./app-initial-DqGfhkM8.js";n();export{t as getConversationBrowserTabIdsForTransfer,e as getLastFocusedBrowserTabId};

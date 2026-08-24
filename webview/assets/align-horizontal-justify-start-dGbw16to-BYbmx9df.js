@@ -1,0 +1,1 @@
+import{n as e,t}from"./align-horizontal-justify-start-dGbw16to-9bVQ9Hor.js";t();export{e as default};

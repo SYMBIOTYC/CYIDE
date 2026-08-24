@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{forceNewtons:0,areaSquareMeters:.25}},{name:`Maximum supported values`,initialValues:{forceNewtons:200,areaSquareMeters:5}}]}))();export{t as default};
+//# sourceMappingURL=examples-iFYNnhfI.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{n as t,t as n}from"./square-pen-DUioGeeJ-DSzpmvEp.js";e((()=>{n()}))();export{t as default};
+//# sourceMappingURL=pen-box--ByPs7No-i3y8nFLZ.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`inheritance_pattern: autosomal-recessive`,initialValues:{inheritance_pattern:`autosomal-recessive`}},{name:`inheritance_pattern: x-linked-recessive`,initialValues:{inheritance_pattern:`x-linked-recessive`}}]}))();export{t as default};
+//# sourceMappingURL=examples-C_BMwHlw.js.map

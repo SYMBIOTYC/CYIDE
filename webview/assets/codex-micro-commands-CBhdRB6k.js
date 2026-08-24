@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{Kl as t,du as n,fu as r}from"./app-initial-BGrXbXCc.js";import{gL as i,hL as a}from"./app-initial-DqGfhkM8.js";function o(e){let t=e===`newThread`?`newTask`:e;return s.find(e=>e.id===t)??null}var s,c=e((()=>{t(),i(),s=r.filter(e=>e.kind===`webview`&&n(e,`electron`)||e.kind===`electron-only`&&a(e.id))}));export{o as n,c as r,s as t};
+//# sourceMappingURL=codex-micro-commands-CBhdRB6k.js.map
