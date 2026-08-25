@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{frequency:.1,wavelength:.1}},{name:`Maximum supported values`,initialValues:{frequency:2e4,wavelength:1e4}}]}))();export{t as default};
+//# sourceMappingURL=examples-CbDrNqW1.js.map

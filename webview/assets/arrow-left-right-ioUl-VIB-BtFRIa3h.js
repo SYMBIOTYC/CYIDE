@@ -1,0 +1,1 @@
+import{n as e,t}from"./arrow-left-right-ioUl-VIB-DRMPlcCF.js";t();export{e as default};

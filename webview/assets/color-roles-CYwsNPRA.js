@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r=e((()=>{t=`learning-block-color-scope`,n=`--learning-block-accent`}));export{t as n,r,n as t};
+//# sourceMappingURL=color-roles-CYwsNPRA.js.map

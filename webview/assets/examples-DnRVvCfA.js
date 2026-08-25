@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{gross_primary_productivity:100,autotrophic_respiration:0}},{name:`Maximum supported values`,initialValues:{gross_primary_productivity:400,autotrophic_respiration:100}},{name:`All production used in respiration`,initialValues:{gross_primary_productivity:100,autotrophic_respiration:100}}]}))();export{t as default};
+//# sourceMappingURL=examples-DnRVvCfA.js.map

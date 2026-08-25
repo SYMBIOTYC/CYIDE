@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_junction: adherens junction`,initialValues:{initial_junction:`adherens junction`}},{name:`initial_junction: desmosome`,initialValues:{initial_junction:`desmosome`}},{name:`initial_junction: gap junction`,initialValues:{initial_junction:`gap junction`}},{name:`initial_junction: hemidesmosome`,initialValues:{initial_junction:`hemidesmosome`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DXsw0n-V.js.map

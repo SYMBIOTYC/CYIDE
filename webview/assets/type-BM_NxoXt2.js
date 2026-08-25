@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`MASS_SPECTRUM`,n=`mass-spectrum-v1`,r={example:{kind:`enum`,defaultValue:`fragment-dominant`,allowedValues:[`fragment-dominant`,`molecular-ion-dominant`,`chlorine-isotope-pattern`,`bromine-isotope-pattern`]}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-BM_NxoXt2.js.map

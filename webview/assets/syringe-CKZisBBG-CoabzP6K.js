@@ -1,0 +1,1 @@
+import{n as e,t}from"./syringe-CKZisBBG-DE6Egixa.js";e();export{t as default};
