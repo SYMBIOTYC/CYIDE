@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`COMPOUND_INTEREST`,n=`compound-interest-v1`,r={mode:{kind:`enum`,defaultValue:`lump_sum`,allowedValues:[`lump_sum`,`annuity_fv`,`annuity_pv`,`continuous`]},amount:{kind:`number`,defaultValue:1e3,min:.01,max:1e9},ratePercent:{kind:`number`,defaultValue:5,min:0,max:100},periods:{kind:`number`,defaultValue:20,min:0,max:1e3}},i={type:t,version:5,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-ywn2bEbo.js.map

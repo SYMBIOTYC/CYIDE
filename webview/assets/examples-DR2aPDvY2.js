@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`isotope_system: potassium-40-to-argon-40`,initialValues:{isotope_system:`potassium-40-to-argon-40`}},{name:`isotope_system: uranium-238-to-lead-206`,initialValues:{isotope_system:`uranium-238-to-lead-206`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DR2aPDvY2.js.map

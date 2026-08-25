@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o=e((()=>{t=`LAGRANGE_GRADIENT_PARALLELISM`,n=`lagrange-gradient-parallelism-v1`,r=`\\nabla f \\parallel \\nabla g`,i={angleDegrees:{kind:`number`,defaultValue:30,min:0,max:360}},a={type:t,version:1,thumbnailAssetKey:n,canonicalFormula:r,parameters:i}}));export{a as n,o as t};
+//# sourceMappingURL=type-fHIptLhc.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o=e((()=>{t=`BIOLOGICAL_PH_AND_BUFFERS`,n=`biological-ph-and-buffers-v1`,r=`\\mathrm{pH}=\\mathrm{p}K_a+\\log_{10}\\!\\left(\\frac{[A^-]}{[HA]}\\right)`,i={pKa:{kind:`number`,defaultValue:7.2,min:4.5,max:9.5}},a={type:t,version:2,thumbnailAssetKey:n,canonicalFormula:r,parameters:i}}));export{a as n,o as t};
+//# sourceMappingURL=type-BozbztaG.js.map

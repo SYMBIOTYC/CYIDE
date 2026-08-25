@@ -1,0 +1,1 @@
+import{n as e,t}from"./laptop-minimal-By8RL11k-DcpVp9o0.js";t();export{e as default};

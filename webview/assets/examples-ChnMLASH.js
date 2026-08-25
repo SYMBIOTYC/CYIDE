@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_addition: anti-halogenation`,initialValues:{initial_addition:`anti-halogenation`}},{name:`initial_addition: nonstereospecific-hydrohalogenation`,initialValues:{initial_addition:`nonstereospecific-hydrohalogenation`}}]}))();export{t as default};
+//# sourceMappingURL=examples-ChnMLASH.js.map

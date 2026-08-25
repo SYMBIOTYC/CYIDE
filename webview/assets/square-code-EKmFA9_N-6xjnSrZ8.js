@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-code-EKmFA9_N-DpEdxOgK.js";e();export{t as default};

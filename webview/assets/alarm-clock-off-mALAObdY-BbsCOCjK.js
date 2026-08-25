@@ -1,0 +1,1 @@
+import{n as e,t}from"./alarm-clock-off-mALAObdY-BV_kmsHs.js";e();export{t as default};
