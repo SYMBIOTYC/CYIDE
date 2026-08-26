@@ -1,0 +1,1 @@
+import{n as e,t}from"./hospital-D4FFlmzH-3dlgR1XC.js";t();export{e as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o=e((()=>{t=`IDEAL_TRANSFORMER`,n=`ideal-transformer-v2`,r=`\\frac{V_s}{V_p}=\\frac{N_s}{N_p}`,i={turnsRatio:{kind:`number`,defaultValue:2,min:.1,max:10},loadResistanceOhms:{kind:`number`,defaultValue:30,min:1,max:1e4}},a={type:t,version:1,thumbnailAssetKey:n,canonicalFormula:r,parameters:i}}));export{a as n,o as t};
+//# sourceMappingURL=type-DkMF55X2.js.map

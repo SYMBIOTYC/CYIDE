@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{content:`x + y = 1`},{content:`2x - 3y = 7`},{content:`Ax + By = C`}]}))();export{t as default};
+//# sourceMappingURL=examples-Ck4vX3Rt2.js.map

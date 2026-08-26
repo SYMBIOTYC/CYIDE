@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`molecule: ethane`,initialValues:{molecule:`ethane`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DaL8m6RW.js.map

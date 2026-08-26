@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`reaction_example: barium-sulfate-precipitation`,initialValues:{reaction_example:`barium-sulfate-precipitation`}},{name:`reaction_example: strong-acid-base-neutralization`,initialValues:{reaction_example:`strong-acid-base-neutralization`}}]}))();export{t as default};
+//# sourceMappingURL=examples-IK_UXa_L2.js.map

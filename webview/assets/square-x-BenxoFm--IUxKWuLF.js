@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-x-BenxoFm--B0_s6L2i.js";t();export{e as default};

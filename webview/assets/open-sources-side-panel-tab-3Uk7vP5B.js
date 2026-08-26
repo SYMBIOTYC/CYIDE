@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{VZ as t,ix as n,rx as r}from"./app-initial-DEz1X6BZ.js";import{i9 as i,r9 as a}from"./app-initial-BCJClNQi.js";import{i as o,r as s}from"./thread-summary-panel-components-CPEgSS0c.js";function c(e,t,r,i){n.openTab(e,t,{icon:(0,l.jsx)(s,{className:`icon-xs shrink-0`}),id:a.SOURCES,kind:a.SOURCES,props:r,title:i})}var l,u=e((()=>{r(),o(),i(),l=t()}));export{c as n,u as t};
+//# sourceMappingURL=open-sources-side-panel-tab-3Uk7vP5B.js.map

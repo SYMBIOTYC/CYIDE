@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`ARITHMETIC_MEAN`,n=`arithmetic-mean-v1`,r={observation1:{kind:`integer`,defaultValue:2,min:1,max:10},observation2:{kind:`integer`,defaultValue:4,min:1,max:10},observation3:{kind:`integer`,defaultValue:7,min:1,max:10}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-maQxCz8b.js.map

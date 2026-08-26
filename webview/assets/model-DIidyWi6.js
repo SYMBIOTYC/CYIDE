@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o,s,c,l=e((()=>{t={scenario:0},n={quantityMin:0,quantityMax:16,rateMin:0,rateMax:20},r=18,i=2,a=e=>e===1||e===2||e===3?e:0,o=e=>{let t=a(e.scenario),n=t===1?2:t===3?3:0,o=t===2?2:0,s=(r-i+n+o)/2,c=r+n-s;return{scenario:t,demandShift:n,supplyShift:o,quantity:s,rate:c,reciprocalRate:1/c}},s=(e,t=0)=>r+t-e,c=(e,t=0)=>i-t+e}));export{c as a,s as i,t as n,l as o,o as r,n as t};
+//# sourceMappingURL=model-DIidyWi6.js.map
