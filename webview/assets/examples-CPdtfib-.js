@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`electrolyte: molten lead(II) bromide`,initialValues:{electrolyte:`molten lead(II) bromide`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CPdtfib-.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{savingRatePercent:10,depreciationRatePercent:3,populationGrowthRatePercent:.5,technologyGrowthRatePercent:.5}},{name:`Maximum supported values`,initialValues:{savingRatePercent:40,depreciationRatePercent:10,populationGrowthRatePercent:4,technologyGrowthRatePercent:4}}]}))();export{t as default};
+//# sourceMappingURL=examples-CKa94Fcs.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`distribution_shape: skewed right`,initialValues:{distribution_shape:`skewed right`}},{name:`distribution_shape: bimodal`,initialValues:{distribution_shape:`bimodal`}},{name:`distribution_shape: gap or outlier`,initialValues:{distribution_shape:`gap or outlier`}}]}))();export{t as default};
+//# sourceMappingURL=examples-D7xjHeb9.js.map

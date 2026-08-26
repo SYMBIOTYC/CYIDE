@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`PREDATOR_PREY_CYCLE`,n=`predator-prey-cycle-v2`,r={population_pair:{kind:`enum`,defaultValue:`hare-and-lynx`,allowedValues:[`hare-and-lynx`,`rabbit-and-fox`,`generic-prey-and-predator`]}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-Bxj2jvov.js.map

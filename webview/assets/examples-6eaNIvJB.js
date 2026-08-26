@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`plant_type: flash steam`,initialValues:{plant_type:`flash steam`}},{name:`plant_type: binary cycle`,initialValues:{plant_type:`binary cycle`}}]}))();export{t as default};
+//# sourceMappingURL=examples-6eaNIvJB.js.map

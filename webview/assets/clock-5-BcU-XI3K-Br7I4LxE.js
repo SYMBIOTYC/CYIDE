@@ -1,0 +1,1 @@
+import{n as e,t}from"./clock-5-BcU-XI3K-C__EX31R.js";e();export{t as default};

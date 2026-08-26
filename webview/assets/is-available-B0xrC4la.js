@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{CW as t,RL as n}from"./app-initial-DEz1X6BZ.js";import{Sst as r,xst as i}from"./app-initial-BCJClNQi.js";function a(e){return t.isInternal(i())||e}var o=e((()=>{n(),r()}));export{a as n,o as t};
+//# sourceMappingURL=is-available-B0xrC4la.js.map

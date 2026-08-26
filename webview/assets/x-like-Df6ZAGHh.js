@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o=e((()=>{t=/^x_\d+$/,n=e=>e===`x`||t.test(e),r=e=>{let t=new Set;for(let r of e)r.type===`identifier`&&n(r.value)&&t.add(r.value);return t},i=e=>{let t=r(e);if(t.size!==1)return e;let[n]=Array.from(t);return n===`x`?e:e.map(e=>e.type===`identifier`&&e.value===n?{...e,value:`x`}:e)},a=e=>e.some(e=>e.type===`identifier`&&e.value===`i`)}));export{i,a as n,o as r,r as t};
+//# sourceMappingURL=x-like-Df6ZAGHh.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{equilibrium_constant:1e-100,initial_reaction_quotient:0}},{name:`Maximum supported values`,initialValues:{equilibrium_constant:1e100,initial_reaction_quotient:1e101}},{name:`Product-rich mixture`,initialValues:{equilibrium_constant:.1,initial_reaction_quotient:10}}]}))();export{t as default};
+//# sourceMappingURL=examples-CMS9l5P0.js.map

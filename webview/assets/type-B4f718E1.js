@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`ELECTROLYTE_CONDUCTIVITY`,n=`electrolyte-conductivity-v2`,r={initial_solution:{kind:`enum`,defaultValue:`potassium-chloride`,allowedValues:[`potassium-chloride`,`acetic-acid`,`ethanol`]},initial_concentration:{kind:`number`,defaultValue:.6,min:.1,max:1}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-B4f718E1.js.map

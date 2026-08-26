@@ -1,0 +1,1 @@
+import{n as e,t}from"./badge-dollar-sign-DM2k56B5-DQSy8Kdj.js";t();export{e as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_comparison: different-median-same-iqr`,initialValues:{initial_comparison:`different-median-same-iqr`}},{name:`initial_comparison: different-median-different-iqr`,initialValues:{initial_comparison:`different-median-different-iqr`}}]}))();export{t as default};
+//# sourceMappingURL=examples-B7--22O42.js.map
