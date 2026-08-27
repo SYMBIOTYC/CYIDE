@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`focus_process: fixation`,initialValues:{focus_process:`fixation`}},{name:`focus_process: assimilation and food web`,initialValues:{focus_process:`assimilation and food web`}},{name:`focus_process: ammonification`,initialValues:{focus_process:`ammonification`}},{name:`focus_process: nitrification`,initialValues:{focus_process:`nitrification`}},{name:`focus_process: denitrification`,initialValues:{focus_process:`denitrification`}}]}))();export{t as default};
+//# sourceMappingURL=examples-B5nD8kgJ.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`boundary_type: convergent-subduction`,initialValues:{boundary_type:`convergent-subduction`}},{name:`boundary_type: convergent-collision`,initialValues:{boundary_type:`convergent-collision`}},{name:`boundary_type: transform`,initialValues:{boundary_type:`transform`}}]}))();export{t as default};
+//# sourceMappingURL=examples-BJjtD39h.js.map

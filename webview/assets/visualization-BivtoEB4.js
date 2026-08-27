@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{VZ as t}from"./app-initial-BtGLYBLZ.js";import{n,o as r,r as i,t as a}from"./triangle-family-visualization-1-yJLRiN.js";var o,s,c,l;e((()=>{r(),o=t(),s=e=>(0,o.jsx)(n,{...e,variant:`isosceles`}),c=e=>(0,o.jsx)(a,{...e,variant:`isosceles`}),l=e=>(0,o.jsx)(i,{...e,variant:`isosceles`})}))();export{c as IsoscelesTriangleCaption,s as IsoscelesTriangleControls,l as IsoscelesTriangleVisualization};
+//# sourceMappingURL=visualization-BivtoEB4.js.map

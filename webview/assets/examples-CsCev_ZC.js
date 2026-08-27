@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{celsius:-40}},{name:`Maximum supported values`,initialValues:{celsius:120}}]}))();export{t as default};
+//# sourceMappingURL=examples-CsCev_ZC.js.map

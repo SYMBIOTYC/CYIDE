@@ -1,0 +1,1 @@
+import{n as e,t}from"./chart-no-axes-column-DE85aMa8-HXKQ4k9P.js";t();export{e as default};

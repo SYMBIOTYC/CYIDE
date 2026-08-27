@@ -1,0 +1,1 @@
+import{n as e,t}from"./chart-scatter-DDffYThc-CZ7chnfw.js";e();export{t as default};

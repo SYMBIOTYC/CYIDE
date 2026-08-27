@@ -1,0 +1,1 @@
+import{n as e,t}from"./monitor-dot-COUSLjkg-CLDnc_Yd.js";e();export{t as default};

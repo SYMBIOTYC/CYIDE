@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_breeze: land-breeze-night`,initialValues:{initial_breeze:`land-breeze-night`}}]}))();export{t as default};
+//# sourceMappingURL=examples-B9Rsa7Pa.js.map
