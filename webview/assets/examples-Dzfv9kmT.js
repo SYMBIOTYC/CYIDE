@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`environmental_factor: salinity`,initialValues:{environmental_factor:`salinity`}},{name:`environmental_factor: pH`,initialValues:{environmental_factor:`pH`}},{name:`environmental_factor: dissolved oxygen`,initialValues:{environmental_factor:`dissolved oxygen`}},{name:`environmental_factor: moisture`,initialValues:{environmental_factor:`moisture`}}]}))();export{t as default};
+//# sourceMappingURL=examples-Dzfv9kmT.js.map

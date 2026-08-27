@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{reference_ld50_mg_per_kg:3,comparison_ld50_mg_per_kg:3}},{name:`Maximum supported values`,initialValues:{reference_ld50_mg_per_kg:300,comparison_ld50_mg_per_kg:300}},{name:`Reference is more acutely toxic`,initialValues:{reference_ld50_mg_per_kg:20,comparison_ld50_mg_per_kg:180}}]}))();export{t as default};
+//# sourceMappingURL=examples-B-ra0p0y.js.map

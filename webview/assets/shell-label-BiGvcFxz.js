@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{ER as t,RL as n}from"./app-initial-BtGLYBLZ.js";function r(e){let n=i(e);return n==null?null:t[n.toLowerCase()]??null}function i(e){let t=e.trim();if(t.length===0)return null;let n=t.match(/^(['"])(.*?)\1/),r=n?.[2];if(r)if(n[0].length===t.length)t=r.trim();else return a(r);let i=t.match(/^\S+/)?.[0];return i==null?null:a(i)}function a(e){return e.split(/[/\\]/).at(-1)??e}var o=e((()=>{n()}));export{o as n,r as t};
+//# sourceMappingURL=shell-label-BiGvcFxz.js.map

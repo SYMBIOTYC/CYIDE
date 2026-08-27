@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{enthalpyChangeKilojoules:-100}},{name:`Maximum supported values`,initialValues:{enthalpyChangeKilojoules:100}},{name:`No net enthalpy change`,initialValues:{enthalpyChangeKilojoules:0}}]}))();export{t as default};
+//# sourceMappingURL=examples-CtJcBd-s.js.map

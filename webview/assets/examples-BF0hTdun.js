@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`example: ice-albedo`,initialValues:{example:`ice-albedo`}}]}))();export{t as default};
+//# sourceMappingURL=examples-BF0hTdun.js.map

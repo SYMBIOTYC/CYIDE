@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`cell_type: plant`,initialValues:{cell_type:`plant`}}]}))();export{t as default};
+//# sourceMappingURL=examples-Cc2rvlda.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{HZ as t,II as n,LZ as r,QR as i,RL as a,UI as o,VZ as s}from"./app-initial-BtGLYBLZ.js";import{BO as c,IW as l,RW as u,VO as d,ast as f,kJ as p,ust as m,zO as h}from"./app-initial-Bryk7bCj.js";function g(e){(0,_.c)(13);let{children:t}=e;return d(c()),m(i.lightCodeThemeId),m(i.darkCodeThemeId),o(u),t}var _;e((()=>{_=r(),n(),a(),t(),f(),p(),h(),l(),s()}))();export{g as ShikiHighlightProvider};
+//# sourceMappingURL=shiki-highlight-provider-PMPuKy8N.js.map

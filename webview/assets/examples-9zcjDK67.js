@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`instructionExample: add`,initialValues:{instructionExample:`add`}},{name:`instructionExample: branch`,initialValues:{instructionExample:`branch`}}]}))();export{t as default};
+//# sourceMappingURL=examples-9zcjDK67.js.map

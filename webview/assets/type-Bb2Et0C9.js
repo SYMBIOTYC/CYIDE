@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`FOIL_BINOMIAL`,n=`foil-binomial-v1`,r={a:{kind:`number`,defaultValue:1,min:-12,max:12},b:{kind:`number`,defaultValue:3,min:-12,max:12},c:{kind:`number`,defaultValue:1,min:-12,max:12},d:{kind:`number`,defaultValue:2,min:-12,max:12}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-Bb2Et0C9.js.map
