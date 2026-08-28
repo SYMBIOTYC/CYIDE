@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`design_variant: self-paired`,initialValues:{design_variant:`self-paired`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DWBLCW2N.js.map

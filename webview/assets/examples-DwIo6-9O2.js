@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{priceChangeMagnitudePercent:1}},{name:`Maximum supported values`,initialValues:{priceChangeMagnitudePercent:30}},{name:`relationship: complements`,initialValues:{relationship:`complements`}},{name:`priceChangeDirection: decrease`,initialValues:{priceChangeDirection:`decrease`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DwIo6-9O2.js.map

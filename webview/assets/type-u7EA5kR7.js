@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`PERPENDICULAR_LINE`,n=`perpendicular-line-v1`,r={slope:{kind:`number`,defaultValue:2,min:-1e4,max:1e4,multipleOf:1e-4},intercept:{kind:`number`,defaultValue:1,min:-1e4,max:1e4},perpendicularIntercept:{kind:`number`,defaultValue:-2,min:-1e4,max:1e4}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-u7EA5kR7.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{Yrt as t}from"./app-initial-DraLrsJK.js";import{r as n}from"./thread-mcp-app-side-panel-CBIpgn3I.js";function r(e,t,n={}){return!1}function i(e,t,n=!0,r={}){return!1}var a=e((()=>{t(),n()}));export{i as n,r,a as t};
+//# sourceMappingURL=thread-side-panel-tabs-BAThprUM.js.map

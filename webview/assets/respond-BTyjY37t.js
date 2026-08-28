@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{AB as t,OB as n}from"./app-initial-DraLrsJK.js";async function r(e,{action:n,conversationId:r,elicitationResponse:i,isApiToolElicitation:a,isTemporaryChat:o,model:s,recipient:c}){await t(e,{conversationId:r,isTemporaryChat:o,model:s,prompt:``,toolApproval:{action:n.type,actionData:n,elicitationResponse:i,isApiToolElicitation:a,recipient:c,targetMessageId:n.target_message_id}})}var i=e((()=>{n()}));export{r as n,i as t};
+//# sourceMappingURL=respond-BTyjY37t.js.map

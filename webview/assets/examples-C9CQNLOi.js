@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initiating_signal: extrinsic`,initialValues:{initiating_signal:`extrinsic`}}]}))();export{t as default};
+//# sourceMappingURL=examples-C9CQNLOi.js.map

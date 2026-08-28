@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`reaction_type: decomposition`,initialValues:{reaction_type:`decomposition`}},{name:`reaction_type: single replacement`,initialValues:{reaction_type:`single replacement`}},{name:`reaction_type: double replacement`,initialValues:{reaction_type:`double replacement`}},{name:`reaction_type: combustion`,initialValues:{reaction_type:`combustion`}}]}))();export{t as default};
+//# sourceMappingURL=examples-ClT5mYGl.js.map

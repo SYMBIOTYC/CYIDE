@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`polarity: negative`,initialValues:{polarity:`negative`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CG_ZVosE.js.map

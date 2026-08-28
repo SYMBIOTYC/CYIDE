@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`bacteriaType: negative`,initialValues:{bacteriaType:`negative`}}]}))();export{t as default};
+//# sourceMappingURL=examples-Bu4JY5Kn.js.map

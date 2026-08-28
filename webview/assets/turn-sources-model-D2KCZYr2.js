@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";function t({label:e,title:t=null,url:n}){try{let r=new URL(n);return r.protocol!==`http:`&&r.protocol!==`https:`||r.username!==``||r.password!==``?null:{label:e?.trim()||`${r.host.replace(/^www\./u,``)}${r.pathname}`,title:t?.trim()||null,url:r.href}}catch{return null}}function n(e){let t=new Set;return e.filter(e=>t.has(e.url)?!1:(t.add(e.url),!0))}var r=e((()=>{}));export{n,r,t};
+//# sourceMappingURL=turn-sources-model-D2KCZYr2.js.map
