@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`example_formula: C2H6`,initialValues:{example_formula:`C2H6`}},{name:`example_formula: C4H8`,initialValues:{example_formula:`C4H8`}},{name:`example_formula: C6H6`,initialValues:{example_formula:`C6H6`}},{name:`example_formula: C4H6Br2`,initialValues:{example_formula:`C4H6Br2`}},{name:`example_formula: C5H8O`,initialValues:{example_formula:`C5H8O`}},{name:`example_formula: C5H9N`,initialValues:{example_formula:`C5H9N`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CroCAwzh.js.map

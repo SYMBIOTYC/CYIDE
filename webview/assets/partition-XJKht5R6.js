@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime-DAXXjFlN.js";import{Qf as t}from"./app-initial-DOdr0yAB.js";var n=e(((e,n)=>{n.exports=t()(function(e,t,n){e[+!n].push(t)},function(){return[[],[]]})}));export{n as t};
+//# sourceMappingURL=partition-XJKht5R6.js.map

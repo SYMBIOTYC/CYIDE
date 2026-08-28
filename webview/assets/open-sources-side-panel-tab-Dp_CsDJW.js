@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{Y4 as t,bD as n,xD as r}from"./app-initial-DOdr0yAB.js";import{Jrt as i,Trt as a,Yrt as o,wrt as s}from"./app-initial-DraLrsJK.js";import{n as c,t as l}from"./sources-DQfv2IW_.js";function u(e,t,n,a,o){let c=s(e,i.SOURCES)??(o==null?null:s(e,o))??`right`;r(e,t,{icon:(0,d.jsx)(l,{className:`icon-xs shrink-0`}),id:i.SOURCES,kind:i.SOURCES,openerTabId:o,props:n,target:c,title:a})}var d,f=e((()=>{n(),c(),a(),o(),d=t()}));export{u as n,f as t};
+//# sourceMappingURL=open-sources-side-panel-tab-Dp_CsDJW.js.map

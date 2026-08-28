@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`order_a: zero`,initialValues:{order_a:`zero`}},{name:`order_a: second`,initialValues:{order_a:`second`}},{name:`order_b: zero`,initialValues:{order_b:`zero`}},{name:`order_b: first`,initialValues:{order_b:`first`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CjvnJcK_.js.map

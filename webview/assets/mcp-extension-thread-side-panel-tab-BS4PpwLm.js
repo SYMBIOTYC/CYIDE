@@ -1,0 +1,1 @@
+import{a as e,i as t,n,r,t as i}from"./mcp-extension-thread-side-panel-tab-Bgm8Fmq7.js";i();export{n as mcpExtensionTabType,r as openMcpExtensionFileViewerSidePanelTab,t as openMcpExtensionThreadSidePanelTab,e as restoreMcpExtensionFileViewerSidePanelTab};

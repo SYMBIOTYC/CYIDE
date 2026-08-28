@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_mechanism: water-vapor`,initialValues:{initial_mechanism:`water-vapor`}},{name:`initial_mechanism: radiative-response`,initialValues:{initial_mechanism:`radiative-response`}},{name:`initial_change: cooling`,initialValues:{initial_change:`cooling`}}]}))();export{t as default};
+//# sourceMappingURL=examples-HiGKQREy2.js.map

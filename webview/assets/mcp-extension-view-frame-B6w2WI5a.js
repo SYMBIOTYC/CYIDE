@@ -1,0 +1,1 @@
+import{n as e,t}from"./mcp-extension-view-frame-BkKF02ni.js";e();export{t as McpExtensionViewFrame};

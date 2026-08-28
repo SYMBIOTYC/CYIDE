@@ -1,0 +1,1 @@
+import{n as e,t}from"./artifact-tab-content-shell-CSNde3PS.js";e();export{t as ArtifactTabContentShell};

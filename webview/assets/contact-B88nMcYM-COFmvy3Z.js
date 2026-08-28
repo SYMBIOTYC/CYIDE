@@ -1,0 +1,1 @@
+import{n as e,t}from"./contact-B88nMcYM-nJ2_M17l.js";e();export{t as default};

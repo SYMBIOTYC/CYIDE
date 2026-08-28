@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o=e((()=>{t=`GPP_VS_NPP`,n=`gpp-vs-npp-v3`,r=`\\mathrm{NPP}=\\mathrm{GPP}-R_a`,i={gross_primary_productivity:{kind:`number`,defaultValue:240,min:100,max:400},autotrophic_respiration:{kind:`number`,defaultValue:80,min:0,max:100}},a={type:t,version:2,thumbnailAssetKey:n,canonicalFormula:r,parameters:i}}));export{a as n,o as t};
+//# sourceMappingURL=type-DnD-Aw2k.js.map

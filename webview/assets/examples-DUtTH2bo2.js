@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`circulation: systemic`,initialValues:{circulation:`systemic`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DUtTH2bo2.js.map

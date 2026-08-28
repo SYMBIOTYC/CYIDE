@@ -1,0 +1,1 @@
+import{a as e,i as t,n,o as r,r as i,t as a}from"./open-tab-BeA3oPYK.js";i();export{a as browserTabType,n as getBrowserTabIdForOpen,t as openBrowserThreadPanelTab,e as openBrowserThreadPanelTabWithPendingOpenState,r as openBrowserThreadPanelTabWithoutAnimation};

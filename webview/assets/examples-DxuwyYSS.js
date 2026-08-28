@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{temperature_c:-10}},{name:`Maximum supported values`,initialValues:{temperature_c:110}},{name:`microbial_group: psychrophile`,initialValues:{microbial_group:`psychrophile`}},{name:`microbial_group: thermophile`,initialValues:{microbial_group:`thermophile`}},{name:`microbial_group: hyperthermophile`,initialValues:{microbial_group:`hyperthermophile`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DxuwyYSS.js.map
