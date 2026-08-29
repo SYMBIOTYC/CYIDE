@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`pathway: Gi`,initialValues:{pathway:`Gi`}},{name:`pathway: Gq`,initialValues:{pathway:`Gq`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DG3vzsbn.js.map

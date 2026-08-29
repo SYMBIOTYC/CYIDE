@@ -1,0 +1,1 @@
+import{n as e,t}from"./artifact-tab-content-shell-Bk_qf-Bb.js";e();export{t as ArtifactTabContentShell};

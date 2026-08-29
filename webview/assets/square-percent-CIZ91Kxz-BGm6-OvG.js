@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-percent-CIZ91Kxz-kh2JRtBv.js";t();export{e as default};

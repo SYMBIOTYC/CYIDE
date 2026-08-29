@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{G4 as t,Y4 as n}from"./app-initial-BnSJy9P2.js";function r(e){let t=(0,i.c)(2),{onPanelElementChange:n}=e,r;return t[0]===n?r=t[1]:(r=(0,a.jsx)(`div`,{className:`relative h-full min-h-0`,children:(0,a.jsx)(`div`,{ref:n,"data-mcp-app-side-panel-frame-container":`true`,className:`h-full min-h-0 w-full`})}),t[0]=n,t[1]=r),r}var i,a;e((()=>{i=t(),a=n()}))();export{r as McpAppThreadSidePanelTab};
+//# sourceMappingURL=thread-mcp-app-side-panel-tab-D-xR7r7P.js.map

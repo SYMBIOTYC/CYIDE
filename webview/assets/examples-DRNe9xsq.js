@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_plume_regime: coning`,initialValues:{initial_plume_regime:`coning`}},{name:`initial_plume_regime: fanning`,initialValues:{initial_plume_regime:`fanning`}},{name:`initial_plume_regime: lofting`,initialValues:{initial_plume_regime:`lofting`}},{name:`initial_plume_regime: fumigation`,initialValues:{initial_plume_regime:`fumigation`}},{name:`initial_plume_regime: trapping`,initialValues:{initial_plume_regime:`trapping`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DRNe9xsq.js.map

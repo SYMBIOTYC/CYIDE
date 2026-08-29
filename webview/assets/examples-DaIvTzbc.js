@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`aminoAcidExample: glycine and alanine`,initialValues:{aminoAcidExample:`glycine and alanine`}},{name:`aminoAcidExample: serine and valine`,initialValues:{aminoAcidExample:`serine and valine`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DaIvTzbc.js.map

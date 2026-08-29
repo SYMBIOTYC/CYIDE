@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`configuration: Z`,initialValues:{configuration:`Z`}},{name:`example: first-point-of-difference example`,initialValues:{example:`first-point-of-difference example`}}]}))();export{t as default};
+//# sourceMappingURL=examples-BHMuGlgJ.js.map

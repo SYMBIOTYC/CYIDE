@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`substrate_class: ketone`,initialValues:{substrate_class:`ketone`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CwRSJuxD.js.map

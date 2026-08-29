@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_season: winter`,initialValues:{initial_season:`winter`}}]}))();export{t as default};
+//# sourceMappingURL=examples-C1G-PpXE.js.map

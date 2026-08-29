@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`confidence_level: 90%`,initialValues:{confidence_level:`90%`}},{name:`confidence_level: 99%`,initialValues:{confidence_level:`99%`}}]}))();export{t as default};
+//# sourceMappingURL=examples-8caVAB9V2.js.map
