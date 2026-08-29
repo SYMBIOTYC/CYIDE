@@ -1,0 +1,1 @@
+import{n as e,t}from"./move-up-right-BMHrdIEs-BnjM8Sev.js";t();export{e as default};

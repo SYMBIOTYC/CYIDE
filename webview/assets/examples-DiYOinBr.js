@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{objectDistanceMeters:.25}},{name:`Maximum supported values`,initialValues:{objectDistanceMeters:6}}]}))();export{t as default};
+//# sourceMappingURL=examples-DiYOinBr.js.map

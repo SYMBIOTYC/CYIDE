@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o=e((()=>{t=`CONFIDENCE_INTERVAL_PROPORTION`,n=`confidence-interval-proportion-v1`,r=`\\hat p \\pm z^*\\sqrt{\\frac{\\hat p(1-\\hat p)}{n}}`,i={sample_proportion:{kind:`number`,defaultValue:.4,min:.02,max:.98},sample_size:{kind:`integer`,defaultValue:100,min:100,max:400},confidence_level:{kind:`number`,defaultValue:.95,min:.9,max:.99}},a={type:t,version:2,thumbnailAssetKey:n,canonicalFormula:r,parameters:i}}));export{a as n,o as t};
+//# sourceMappingURL=type-CWGKQru_2.js.map

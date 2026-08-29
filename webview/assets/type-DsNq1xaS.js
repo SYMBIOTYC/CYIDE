@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`ACTIVATION_ENERGY_DISTRIBUTION`,n=`activation-energy-distribution-v1`,r={initial_temperature_k:{kind:`number`,defaultValue:600,min:300,max:900},activation_energy_kj_mol:{kind:`number`,defaultValue:16,min:8,max:28}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-DsNq1xaS.js.map

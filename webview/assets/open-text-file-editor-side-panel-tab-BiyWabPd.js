@@ -1,0 +1,1 @@
+import{N_ as e,P_ as t}from"./app-initial-DijWKQmg.js";e();export{t as openTextFileEditorSidePanelTab};

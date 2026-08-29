@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`DECIBEL_SAFETY`,n=`decibel-safety-v1`,r={sound_level_dba:{kind:`number`,defaultValue:85,min:82,max:100},exposure_duration_minutes:{kind:`integer`,defaultValue:480,min:0,max:960}},i={type:t,version:3,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-D9J190i4.js.map
