@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`example: blood_glucose`,initialValues:{example:`blood_glucose`}},{name:`example: thermostat`,initialValues:{example:`thermostat`}},{name:`initial_deviation: below`,initialValues:{initial_deviation:`below`}}]}))();export{t as default};
+//# sourceMappingURL=examples-CVkIQULO.js.map

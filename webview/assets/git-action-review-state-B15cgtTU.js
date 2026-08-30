@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";function t({currentBranch:e,storedThreadBranch:t}){let n=e?.trim()??``,r=t?.trim()??``;return{currentBranchName:n,hasThreadBranchMismatch:n.length>0&&r.length>0&&n!==r,storedThreadBranchName:r}}var n=e((()=>{}));export{n,t};
+//# sourceMappingURL=git-action-review-state-B15cgtTU.js.map

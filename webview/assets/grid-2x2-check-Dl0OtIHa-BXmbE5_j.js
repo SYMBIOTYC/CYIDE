@@ -1,0 +1,1 @@
+import{n as e,t}from"./grid-2x2-check-Dl0OtIHa-C-B3OEua.js";e();export{t as default};

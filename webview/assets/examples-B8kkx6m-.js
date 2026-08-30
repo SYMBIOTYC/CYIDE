@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{temperatureCelsius:0}},{name:`Maximum supported values`,initialValues:{temperatureCelsius:70}}]}))();export{t as default};
+//# sourceMappingURL=examples-B8kkx6m-.js.map

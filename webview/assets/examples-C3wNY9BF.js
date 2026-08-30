@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{radius:.01,height:.01}},{name:`Maximum supported values`,initialValues:{radius:1e4,height:1e4}},{name:`Tall and narrow`,initialValues:{radius:.01,height:1e4}},{name:`Wide and short`,initialValues:{radius:1e4,height:.01}},{name:`Same volume, tall and narrow`,initialValues:{radius:1,height:100}},{name:`Same volume, wide and short`,initialValues:{radius:10,height:1}}]}))();export{t as default};
+//# sourceMappingURL=examples-C3wNY9BF.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{r:-10}},{name:`Maximum supported values`,initialValues:{r:10}}]}))();export{t as default};
+//# sourceMappingURL=examples-BVYlq4a5.js.map

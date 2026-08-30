@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{sample_proportion:.02,sample_size:100,confidence_level:.9}},{name:`Maximum supported values`,initialValues:{sample_proportion:.98,sample_size:400,confidence_level:.99}},{name:`Sparse failures`,initialValues:{sample_proportion:.98,sample_size:100,confidence_level:.95}},{name:`Between common confidence levels`,initialValues:{sample_proportion:.33,sample_size:100,confidence_level:.93}}]}))();export{t as default};
+//# sourceMappingURL=examples-A_cYt24f.js.map

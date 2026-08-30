@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`PROTON_NMR_SPLITTING`,n=`proton-nmr-splitting-v1`,r={neighbor_count:{kind:`enum`,defaultValue:`2`,allowedValues:[`0`,`1`,`2`,`3`,`4`,`6`]}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-DRthRbLy.js.map

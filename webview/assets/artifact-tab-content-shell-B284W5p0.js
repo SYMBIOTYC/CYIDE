@@ -1,0 +1,1 @@
+import{n as e,t}from"./artifact-tab-content-shell-DgfQViID.js";e();export{t as ArtifactTabContentShell};
