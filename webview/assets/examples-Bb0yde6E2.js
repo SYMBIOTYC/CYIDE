@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_conditions: tertiary-strong-base-e2`,initialValues:{initial_conditions:`tertiary-strong-base-e2`}},{name:`initial_conditions: primary-strong-base-e2`,initialValues:{initial_conditions:`primary-strong-base-e2`}}]}))();export{t as default};
+//# sourceMappingURL=examples-Bb0yde6E2.js.map

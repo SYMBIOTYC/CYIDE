@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{content:`(a+b)^2 = a^2 + 2ab + b^2`},{content:`(a-b)^2 = a^2 - 2ab + b^2`},{content:`(x+y)^2 = x^2 + 2xy + y^2`},{content:`(x-y)^2 = x^2 - 2xy + y^2`}]}))();export{t as default};
+//# sourceMappingURL=examples-CP9CYt2A.js.map

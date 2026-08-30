@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{acidVolumeMl:0}},{name:`Maximum supported values`,initialValues:{acidVolumeMl:20}},{name:`experiment: strong-weak`,initialValues:{experiment:`strong-weak`}},{name:`experiment: weak-strong`,initialValues:{experiment:`weak-strong`}}]}))();export{t as default};
+//# sourceMappingURL=examples-Ce5gFoIH.js.map
