@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{content:`m = \\frac{y_2 - y_1}{x_2 - x_1}`},{content:`m = \\frac{y_{2} - y_{1}}{x_{2} - x_{1}}`},{content:`m = (y_2 - y_1)/(x_2 - x_1)`},{content:`y - 3 = \\frac{7}{3}(x - 1)`},{content:`m = \\frac{9-6}{7-3}`},{content:`m = \\frac{-2-1}{0-(-2)}`},{content:`m = \\frac{9-6}{18-12}`}]}))();export{t as default};
+//# sourceMappingURL=examples-CT962zxk.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`reaction_example: nitrogen-and-hydrogen-to-ammonia`,initialValues:{reaction_example:`nitrogen-and-hydrogen-to-ammonia`}},{name:`reaction_example: methane-combustion`,initialValues:{reaction_example:`methane-combustion`}}]}))();export{t as default};
+//# sourceMappingURL=examples-B-Rt3RHH.js.map

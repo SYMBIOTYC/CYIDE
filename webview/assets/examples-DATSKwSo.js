@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{temperatureCelsius:10,surfaceAreaPercent:25,airflowMetersPerSecond:0,humidityPercent:0}},{name:`Maximum supported values`,initialValues:{temperatureCelsius:60,surfaceAreaPercent:100,airflowMetersPerSecond:3,humidityPercent:100}},{name:`attraction: weak`,initialValues:{attraction:`weak`}},{name:`attraction: strong`,initialValues:{attraction:`strong`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DATSKwSo.js.map

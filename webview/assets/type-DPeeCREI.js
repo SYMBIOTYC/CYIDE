@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o=e((()=>{t=`POINT_SLOPE_LINE`,n=`point-slope-line-v1`,r=`y - y_1 = m(x - x_1)`,i={x1:{kind:`number`,defaultValue:-3,min:-100,max:100},y1:{kind:`number`,defaultValue:-2,min:-100,max:100},slope:{kind:`number`,defaultValue:.75,min:-20,max:20}},a={type:t,version:1,thumbnailAssetKey:n,canonicalFormula:r,parameters:i}}));export{a as n,o as t};
+//# sourceMappingURL=type-DPeeCREI.js.map

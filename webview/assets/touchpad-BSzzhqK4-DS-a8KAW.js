@@ -1,0 +1,1 @@
+import{n as e,t}from"./touchpad-BSzzhqK4-6r8B-rKK.js";e();export{t as default};
