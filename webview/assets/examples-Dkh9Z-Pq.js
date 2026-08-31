@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_pathway: lysogenic`,initialValues:{initial_pathway:`lysogenic`}}]}))();export{t as default};
+//# sourceMappingURL=examples-Dkh9Z-Pq.js.map

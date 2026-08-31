@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_shielding: none`,initialValues:{initial_shielding:`none`}},{name:`initial_shielding: paper`,initialValues:{initial_shielding:`paper`}},{name:`initial_shielding: aluminium-or-plastic`,initialValues:{initial_shielding:`aluminium-or-plastic`}}]}))();export{t as default};
+//# sourceMappingURL=examples-BZiAubN72.js.map

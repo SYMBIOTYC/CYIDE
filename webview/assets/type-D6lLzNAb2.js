@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o,s=e((()=>{t=`MASS_DENSITY_VOLUME_RELATION`,n=`mass-density-volume-relation-v1`,r=`\\rho = \\frac{m}{V}`,i=[`m = \\rho V`,`rho = m / V`,`rho=m/v`,`d=m/v`,`m=rho v`,`m=dv`,`v=m/rho`,`v=m/d`,`m/v=rho`,`m/v=d`],a={mass:{kind:`number`,defaultValue:12,min:.01,max:1e4},volume:{kind:`number`,defaultValue:5,min:.01,max:1e4}},o={type:t,version:2,thumbnailAssetKey:n,canonicalFormula:r,canonicalFormulaAliases:i,parameters:a}}));export{o as n,s as t};
+//# sourceMappingURL=type-D6lLzNAb2.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`LOOP_BREAK_CONTROL_FLOW`,n=`loop-break-control-flow-v1`,r={loop_kind:{kind:`enum`,defaultValue:`for`,allowedValues:[`for`,`while`]},loop_limit:{kind:`integer`,defaultValue:5,min:3,max:5},break_value:{kind:`integer`,defaultValue:2,min:1,max:6}},i={type:t,version:3,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-3fhTU5_S.js.map

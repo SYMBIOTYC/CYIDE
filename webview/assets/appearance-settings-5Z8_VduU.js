@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";import{K4 as t,X4 as n}from"./app-initial-DzcK9AhZ.js";import{Ii as r,Oi as i,Ri as a,ki as o}from"./app-initial-yrsrisSW.js";import{a as s,n as c}from"./general-settings-zV3dx9iP.js";function l(){let e=(0,u.c)(1),t;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(t=(0,d.jsx)(r,{title:(0,d.jsx)(i,{slug:`appearance`}),children:(0,d.jsx)(c,{})}),e[0]=t):t=e[0],t}var u,d;e((()=>{u=t(),a(),o(),s(),d=n()}))();export{l as AppearanceSettings};
+//# sourceMappingURL=appearance-settings-5Z8_VduU.js.map
