@@ -1,0 +1,1 @@
+import{n as e,t}from"./battery-full-DnCBLoB0-Dl0lRGx9.js";t();export{e as default};

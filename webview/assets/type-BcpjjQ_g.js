@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`ACCURACY_VS_PRECISION_TARGETS`,n=`accuracy-vs-precision-targets-v1`,r={meanPosition:{kind:`enum`,defaultValue:`centered`,allowedValues:[`centered`,`offset`]},measurementSpread:{kind:`enum`,defaultValue:`small`,allowedValues:[`small`,`large`]}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-BcpjjQ_g.js.map

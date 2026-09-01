@@ -1,0 +1,1 @@
+import{nf as e,tf as t}from"./app-initial-yrsrisSW.js";e();export{t as LoadingPage};

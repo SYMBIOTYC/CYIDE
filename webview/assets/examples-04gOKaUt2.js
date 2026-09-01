@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`protocol: udp`,initialValues:{protocol:`udp`}},{name:`lossMode: none`,initialValues:{lossMode:`none`}}]}))();export{t as default};
+//# sourceMappingURL=examples-04gOKaUt2.js.map

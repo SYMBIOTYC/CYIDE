@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{fundamental_frequency_hz:20}},{name:`Maximum supported values`,initialValues:{fundamental_frequency_hz:2e3}},{name:`Concert A fundamental`,initialValues:{fundamental_frequency_hz:440}}]}))();export{t as default};
+//# sourceMappingURL=examples-DtQjRevO.js.map
