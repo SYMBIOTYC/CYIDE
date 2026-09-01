@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o,s=e((()=>{t=`KINEMATICS_VELOCITY`,n=`kinematics-velocity-v1`,r=`v_f = v_i + at`,i=[`v = u + at`,`v = v_0 + at`,`u + at = v`],a={initialVelocityMetersPerSecond:{kind:`number`,defaultValue:2,min:-6,max:10},accelerationMetersPerSecondSquared:{kind:`number`,defaultValue:1,min:-2,max:4},timeSeconds:{kind:`number`,defaultValue:5,min:1,max:9}},o={type:t,version:1,thumbnailAssetKey:n,canonicalFormula:r,canonicalFormulaAliases:i,parameters:a}}));export{o as n,s as t};
+//# sourceMappingURL=type-DJarRWew.js.map

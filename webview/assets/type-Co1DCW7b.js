@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o=e((()=>{t=`EIGENDIRECTIONS`,n=`eigendirections-v1`,r=`A\\mathbf{v}=\\lambda\\mathbf{v}`,i={a11:{kind:`number`,defaultValue:2,min:-2,max:2},a12:{kind:`number`,defaultValue:1,min:-2,max:2},a21:{kind:`number`,defaultValue:1,min:-2,max:2},a22:{kind:`number`,defaultValue:2,min:-2,max:2}},a={type:t,version:1,thumbnailAssetKey:n,canonicalFormula:r,parameters:i}}));export{a as n,o as t};
+//# sourceMappingURL=type-Co1DCW7b.js.map

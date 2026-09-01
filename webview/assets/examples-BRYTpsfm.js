@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`example: associativity`,initialValues:{example:`associativity`}}]}))();export{t as default};
+//# sourceMappingURL=examples-BRYTpsfm.js.map

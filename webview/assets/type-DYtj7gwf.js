@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o,s=e((()=>{t=`EXPONENTIAL_DECAY`,n=`exponential-decay-v1`,r=`y = e^{-kt}`,i=[`y = y_0 \\exp(-kt)`,`y = e^{-t}`,`y = 2e^{-0.5t}`,`N = N_0 e^{-\\lambda t}`,`A = A_0 e^{-\\lambda t}`],a={initial:{kind:`number`,defaultValue:6,min:.01,max:1e4},decay:{kind:`number`,defaultValue:.6,min:.01,max:1e4}},o={type:t,version:1,thumbnailAssetKey:n,canonicalFormula:r,canonicalFormulaAliases:i,parameters:a}}));export{o as n,s as t};
+//# sourceMappingURL=type-DYtj7gwf.js.map

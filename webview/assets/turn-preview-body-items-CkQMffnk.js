@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";function t(e){let t=e.findIndex(e=>e.type===`worked-for`);if(t>=0)return e.slice(t+1);let n=e.findIndex(e=>e.type!==`user-message`);return n<0?[]:n===0?e:e.slice(n)}var n=e((()=>{}));export{n,t};
+//# sourceMappingURL=turn-preview-body-items-CkQMffnk.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`initial_time_span: paleoclimate`,initialValues:{initial_time_span:`paleoclimate`}}]}))();export{t as default};
+//# sourceMappingURL=examples-BoyYWrmU.js.map

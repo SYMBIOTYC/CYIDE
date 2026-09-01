@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{prior_alpha:1.5,prior_beta:1.5,observed_successes:0,observed_failures:0}},{name:`Maximum supported values`,initialValues:{prior_alpha:6,prior_beta:6,observed_successes:12,observed_failures:12}},{name:`Strong prior, sparse contrary data`,initialValues:{prior_alpha:6,prior_beta:2,observed_successes:1,observed_failures:5}}]}))();export{t as default};
+//# sourceMappingURL=examples-VCNCITJH.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./amphora-D82p4YiZ-B1xTCO6b.js";e();export{t as default};

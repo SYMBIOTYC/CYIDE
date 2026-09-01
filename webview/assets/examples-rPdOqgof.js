@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`ecosystem: freshwater`,initialValues:{ecosystem:`freshwater`}},{name:`ecosystem: marine`,initialValues:{ecosystem:`marine`}}]}))();export{t as default};
+//# sourceMappingURL=examples-rPdOqgof.js.map

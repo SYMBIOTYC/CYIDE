@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";function t(e){for(let t=e.commandActions.length-1;t>=0;--t){let r=e.commandActions[t]?.command.trim()??``;if(r.length>0&&!n(r))return r}let t=e.command.trim();return n(t)?``:t}function n(e){return/^(?:.*[/\\])?(?:bash|cmd(?:\.exe)?|fish|powershell(?:\.exe)?|pwsh(?:\.exe)?|sh|zsh)(?:\s|$)/i.test(e)}var r=e((()=>{}));export{r as n,t};
+//# sourceMappingURL=command-execution-command-DdBZR-6Y.js.map

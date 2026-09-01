@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{initial_concentration:.1}},{name:`Maximum supported values`,initialValues:{initial_concentration:1}},{name:`initial_solution: acetic-acid`,initialValues:{initial_solution:`acetic-acid`}},{name:`initial_solution: ethanol`,initialValues:{initial_solution:`ethanol`}}]}))();export{t as default};
+//# sourceMappingURL=examples-pucEmsjO.js.map
