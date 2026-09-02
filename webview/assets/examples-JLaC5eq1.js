@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`order: 8,7,6,5,4,3,2,1`,initialValues:{order:`8,7,6,5,4,3,2,1`}},{name:`order: 1,2,3,4,5,6,7,8`,initialValues:{order:`1,2,3,4,5,6,7,8`}},{name:`order: 4,1,7,3,8,5,2,6`,initialValues:{order:`4,1,7,3,8,5,2,6`}}]}))();export{t as default};
+//# sourceMappingURL=examples-JLaC5eq1.js.map

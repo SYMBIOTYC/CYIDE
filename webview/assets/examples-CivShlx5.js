@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{activationEnergyKilojoulesPerMole:50,enthalpyChangeKilojoulesPerMole:-60}},{name:`Maximum supported values`,initialValues:{activationEnergyKilojoulesPerMole:150,enthalpyChangeKilojoulesPerMole:40}},{name:`Thermoneutral reaction`,initialValues:{enthalpyChangeKilojoulesPerMole:0}}]}))();export{t as default};
+//# sourceMappingURL=examples-CivShlx5.js.map

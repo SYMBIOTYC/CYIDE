@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{standard_cell_potential_v:.1,transferred_electrons:1}},{name:`Maximum supported values`,initialValues:{standard_cell_potential_v:1.3,transferred_electrons:4}}]}))();export{t as default};
+//# sourceMappingURL=examples-C9HG6Sy-.js.map

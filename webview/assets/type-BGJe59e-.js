@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`LYTIC_VS_LYSOGENIC_VIRUS_CYCLE`,n=`lytic-vs-lysogenic-virus-cycle-v2`,r={initial_pathway:{kind:`enum`,defaultValue:`lytic`,allowedValues:[`lytic`,`lysogenic`]}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-BGJe59e-.js.map

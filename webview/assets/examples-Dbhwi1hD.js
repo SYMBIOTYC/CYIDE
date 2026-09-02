@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`example: carbohydrate`,initialValues:{example:`carbohydrate`}},{name:`example: protein`,initialValues:{example:`protein`}}]}))();export{t as default};
+//# sourceMappingURL=examples-Dbhwi1hD.js.map

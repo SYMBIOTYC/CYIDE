@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o=e((()=>{t=`REACTION_THERMODYNAMICS`,n=`reaction-thermodynamics-v1`,r=`\\Delta H = H_{\\mathrm{products}} - H_{\\mathrm{reactants}}`,i={activationEnergyKilojoulesPerMole:{kind:`number`,defaultValue:90,min:50,max:150},enthalpyChangeKilojoulesPerMole:{kind:`number`,defaultValue:-30,min:-60,max:40}},a={type:t,version:1,thumbnailAssetKey:n,canonicalFormula:r,parameters:i}}));export{a as n,o as t};
+//# sourceMappingURL=type-DynSqV8d.js.map

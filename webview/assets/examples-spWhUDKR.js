@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{oxygenPartialPressureMmHg:0,ph:7.2,carbonDioxidePartialPressureMmHg:20,temperatureCelsius:35}},{name:`Maximum supported values`,initialValues:{oxygenPartialPressureMmHg:120,ph:7.6,carbonDioxidePartialPressureMmHg:60,temperatureCelsius:39}}]}))();export{t as default};
+//# sourceMappingURL=examples-spWhUDKR.js.map
