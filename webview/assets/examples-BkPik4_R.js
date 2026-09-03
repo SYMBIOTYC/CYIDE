@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`example_context: date-code`,initialValues:{example_context:`date-code`}},{name:`example_context: location-code`,initialValues:{example_context:`location-code`}},{name:`initial_function: LEFT`,initialValues:{initial_function:`LEFT`}},{name:`initial_function: RIGHT`,initialValues:{initial_function:`RIGHT`}}]}))();export{t as default};
+//# sourceMappingURL=examples-BkPik4_R.js.map

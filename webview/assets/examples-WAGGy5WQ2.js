@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{relativeDetergentAmountPercent:0}},{name:`Maximum supported values`,initialValues:{relativeDetergentAmountPercent:100}}]}))();export{t as default};
+//# sourceMappingURL=examples-WAGGy5WQ2.js.map

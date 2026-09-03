@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a,o,s=e((()=>{t={defaultValue:4.5,min:1,max:8,step:.1},n=50,r=1e-9,i=(e,t)=>Math.abs(e-t)<=r?`minimum`:e<t?`falling`:`rising`,a=e=>({output:Number.isFinite(e.output)?Math.min(Math.max(e.output??t.defaultValue,t.min),t.max):t.defaultValue}),o=e=>{let{output:t}=a(e),r=35-8*t+t**2,o=n/t,s=r+o,c=35-16*t+3*t**2;return{output:t,marginalCost:c,averageVariableCost:r,averageFixedCost:o,averageTotalCost:s,avcDirection:i(c,r),atcDirection:i(c,s)}}}));export{a as i,o as n,s as r,t};
+//# sourceMappingURL=model-BctOvTAQ.js.map

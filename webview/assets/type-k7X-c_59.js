@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=`GALVANIC_CELL`,n=`galvanic-cell-v2`,r={cell_pair:{kind:`enum`,defaultValue:`zinc-copper`,allowedValues:[`zinc-copper`,`copper-silver`]}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-k7X-c_59.js.map

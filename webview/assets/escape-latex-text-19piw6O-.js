@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t,n,r,i,a=e((()=>{t=/[\\{}$&#_%^~]/g,n={"\\":`\\textbackslash{}`,"{":`\\{`,"}":`\\}`,$:`\\$`,"&":`\\&`,"#":`\\#`,_:`\\_`,"%":`\\%`,"^":`\\textasciicircum{}`,"~":`\\textasciitilde{}`},r=e=>e.replace(t,e=>n[e]??e),i=e=>`\\text{${r(e)}}`}));export{a as n,i as t};
+//# sourceMappingURL=escape-latex-text-19piw6O-.js.map

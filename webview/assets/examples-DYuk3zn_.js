@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`event: sum equals 5`,initialValues:{event:`sum equals 5`}},{name:`event: sum at least 10`,initialValues:{event:`sum at least 10`}},{name:`event: matching values`,initialValues:{event:`matching values`}}]}))();export{t as default};
+//# sourceMappingURL=examples-DYuk3zn_.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-DAXXjFlN.js";var t;e((()=>{t=[{name:`chainState: tamper_block_1`,initialValues:{chainState:`tamper_block_1`}},{name:`chainState: tamper_block_2`,initialValues:{chainState:`tamper_block_2`}},{name:`chainState: tamper_block_3`,initialValues:{chainState:`tamper_block_3`}}]}))();export{t as default};
+//# sourceMappingURL=examples-0lOGUS_52.js.map

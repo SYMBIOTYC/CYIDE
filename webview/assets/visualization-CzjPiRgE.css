@@ -1,0 +1,1 @@
+@layer components{._compactPlot_1aqic_1{width:100%;display:block}._widePlot_1aqic_6{display:none}@container (width>=28rem){[class*=wideVisualization]:has(._widePlot_1aqic_6){width:100%!important}._compactPlot_1aqic_1{display:none}._widePlot_1aqic_6{width:100%;display:block}}}
