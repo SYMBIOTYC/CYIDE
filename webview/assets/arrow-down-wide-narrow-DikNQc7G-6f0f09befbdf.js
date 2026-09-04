@@ -1,0 +1,1 @@
+import{n as e,t}from"./arrow-down-wide-narrow-DikNQc7G-66c27093d762.js";t();export{e as default};

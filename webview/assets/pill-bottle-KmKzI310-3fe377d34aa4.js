@@ -1,0 +1,1 @@
+import{n as e,t}from"./pill-bottle-KmKzI310-283f1ae29465.js";e();export{t as default};

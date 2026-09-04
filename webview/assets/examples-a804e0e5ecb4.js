@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`fermentation_type: alcohol`,initialValues:{fermentation_type:`alcohol`}}]}))();export{t as default};
+//# sourceMappingURL=examples-a804e0e5ecb4.js.map

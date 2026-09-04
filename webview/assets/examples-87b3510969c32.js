@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_pathway: MHC II (exogenous)`,initialValues:{initial_pathway:`MHC II (exogenous)`}}]}))();export{t as default};
+//# sourceMappingURL=examples-87b3510969c32.js.map

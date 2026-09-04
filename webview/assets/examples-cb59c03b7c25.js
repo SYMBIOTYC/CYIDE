@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`cell_type: body-centered cubic`,initialValues:{cell_type:`body-centered cubic`}},{name:`cell_type: face-centered cubic`,initialValues:{cell_type:`face-centered cubic`}}]}))();export{t as default};
+//# sourceMappingURL=examples-cb59c03b7c25.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{initial_temperature_k:300,activation_energy_kj_mol:8}},{name:`Maximum supported values`,initialValues:{initial_temperature_k:900,activation_energy_kj_mol:28}}]}))();export{t as default};
+//# sourceMappingURL=examples-c68a046d6077.js.map

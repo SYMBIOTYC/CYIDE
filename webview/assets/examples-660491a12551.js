@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`molecule: CO2`,initialValues:{molecule:`CO2`}},{name:`molecule: BF3`,initialValues:{molecule:`BF3`}},{name:`molecule: NH3`,initialValues:{molecule:`NH3`}},{name:`molecule: CCl4`,initialValues:{molecule:`CCl4`}},{name:`molecule: CH3Cl`,initialValues:{molecule:`CH3Cl`}}]}))();export{t as default};
+//# sourceMappingURL=examples-660491a12551.js.map

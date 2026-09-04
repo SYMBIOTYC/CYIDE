@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`example: ice-albedo`,initialValues:{example:`ice-albedo`}}]}))();export{t as default};
+//# sourceMappingURL=examples-c7786dba2e382.js.map

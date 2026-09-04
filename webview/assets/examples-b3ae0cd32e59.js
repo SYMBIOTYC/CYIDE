@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{sodiumToPotassiumPermeabilityRatio:0,chlorideToPotassiumPermeabilityRatio:0}},{name:`Maximum supported values`,initialValues:{sodiumToPotassiumPermeabilityRatio:1,chlorideToPotassiumPermeabilityRatio:1}}]}))();export{t as default};
+//# sourceMappingURL=examples-b3ae0cd32e59.js.map

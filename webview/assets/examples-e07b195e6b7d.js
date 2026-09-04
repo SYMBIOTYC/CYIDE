@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{savingRatePercent:10,depreciationRatePercent:3,populationGrowthRatePercent:.5,technologyGrowthRatePercent:.5}},{name:`Maximum supported values`,initialValues:{savingRatePercent:40,depreciationRatePercent:10,populationGrowthRatePercent:4,technologyGrowthRatePercent:4}}]}))();export{t as default};
+//# sourceMappingURL=examples-e07b195e6b7d.js.map

@@ -1,0 +1,2 @@
+import{n as e,o as t}from"./rolldown-runtime-c05d78c594d1.js";import{V0 as n}from"./app-initial-c518b37afd45.js";function r(){let e=(0,i.use)(a);if(e==null)throw Error(`useThreadScrollController must be used within ThreadScrollLayout`);return e}var i,a,o=e((()=>{i=t(n(),1),a=(0,i.createContext)(null)}));export{o as n,r,a as t};
+//# sourceMappingURL=thread-scroll-controller-context-value-4ad386b2c9aa.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_pathway: secondary-particles`,initialValues:{initial_pathway:`secondary-particles`}}]}))();export{t as default};
+//# sourceMappingURL=examples-b5ffbaec2b5a.js.map

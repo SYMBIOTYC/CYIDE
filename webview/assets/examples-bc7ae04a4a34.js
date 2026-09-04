@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`animal: frog`,initialValues:{animal:`frog`}},{name:`animal: chicken`,initialValues:{animal:`chicken`}},{name:`animal: mammal`,initialValues:{animal:`mammal`}}]}))();export{t as default};
+//# sourceMappingURL=examples-bc7ae04a4a34.js.map

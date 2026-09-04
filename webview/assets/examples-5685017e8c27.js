@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`focus_gas: nitrogen`,initialValues:{focus_gas:`nitrogen`}},{name:`focus_gas: methane`,initialValues:{focus_gas:`methane`}},{name:`focus_gas: carbon-monoxide`,initialValues:{focus_gas:`carbon-monoxide`}},{name:`focus_gas: helium`,initialValues:{focus_gas:`helium`}}]}))();export{t as default};
+//# sourceMappingURL=examples-5685017e8c27.js.map

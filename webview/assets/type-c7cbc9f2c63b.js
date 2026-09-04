@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`METRIC_DISTANCE`,n=`metric-distance-v1`,r={lengthCm:{kind:`number`,defaultValue:32,min:10,max:50},unit:{kind:`enum`,defaultValue:`cm`,allowedValues:[`mm`,`cm`,`m`,`km`]}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-c7cbc9f2c63b.js.map

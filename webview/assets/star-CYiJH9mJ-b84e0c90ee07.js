@@ -1,0 +1,1 @@
+import{n as e,t}from"./star-CYiJH9mJ-36673f8f84f2.js";t();export{e as default};

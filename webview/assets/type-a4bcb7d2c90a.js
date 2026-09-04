@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`BALANCING_EQUATIONS`,n=`balancing-equations-v2`,r={reaction_example:{kind:`enum`,defaultValue:`hydrogen-and-oxygen-to-water`,allowedValues:[`hydrogen-and-oxygen-to-water`,`nitrogen-and-hydrogen-to-ammonia`,`methane-combustion`]}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-a4bcb7d2c90a.js.map

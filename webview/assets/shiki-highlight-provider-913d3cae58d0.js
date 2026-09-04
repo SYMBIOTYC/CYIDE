@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{B0 as t,F0 as n,PF as r,QM as i,V0 as a,aN as o,iP as s}from"./app-initial-c518b37afd45.js";import{HM as c,UM as l,WM as u,g7 as d,gV as f,u7 as p}from"./app-initial-d8588f3b7d3f.js";import{c as m,i as h}from"./diff-view-mode-56b20bf1e048.js";function g(e){(0,_.c)(13);let{children:t}=e;return u(l()),d(r.lightCodeThemeId),d(r.darkCodeThemeId),o(m),t}var _;e((()=>{_=t(),i(),s(),a(),p(),f(),c(),h(),n()}))();export{g as ShikiHighlightProvider};
+//# sourceMappingURL=shiki-highlight-provider-913d3cae58d0.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_example: infection-and-recovery`,initialValues:{initial_example:`infection-and-recovery`}},{name:`initial_example: maternal-antibodies`,initialValues:{initial_example:`maternal-antibodies`}},{name:`initial_example: immune-globulin`,initialValues:{initial_example:`immune-globulin`}}]}))();export{t as default};
+//# sourceMappingURL=examples-5ce88805365a.js.map

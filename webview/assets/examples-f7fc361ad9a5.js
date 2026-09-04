@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`eukaryotic_example: plant`,initialValues:{eukaryotic_example:`plant`}}]}))();export{t as default};
+//# sourceMappingURL=examples-f7fc361ad9a5.js.map

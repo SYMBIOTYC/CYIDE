@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_challenge: G2 incomplete replication`,initialValues:{initial_challenge:`G2 incomplete replication`}},{name:`initial_challenge: M spindle attachment error`,initialValues:{initial_challenge:`M spindle attachment error`}}]}))();export{t as default};
+//# sourceMappingURL=examples-4ca66212a853.js.map

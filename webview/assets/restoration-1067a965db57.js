@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{Sz as t,aB as n}from"./app-initial-2e80ba27d368.js";async function r({activate:e,descriptor:t,insertAfterTabId:r,scope:i},a,o){if(i.value.routeKind!==`local-thread`)return!1;let s=i.value.conversationId;return await o(i,{activate:e,hostId:i.get(n,s),insertAfterTabId:r,openOverviewWhenSelectionUnavailable:!0,parentConversationId:s,selectedConversationId:a,tabId:t.tabId})===t.tabId}e((()=>{t()}))();export{r as restoreSubagentsTabRoute};
+//# sourceMappingURL=restoration-1067a965db57.js.map

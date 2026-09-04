@@ -1,0 +1,1 @@
+import{n as e,t}from"./trash-2-AetHTJux-bec7f9dd75db.js";t();export{e as default};
