@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`CLASSES_OF_LEVERS`,n=`classes-of-levers-v1`,r={leverClass:{kind:`enum`,defaultValue:`first`,allowedValues:[`first`,`second`,`third`]}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-cab83553902e.js.map

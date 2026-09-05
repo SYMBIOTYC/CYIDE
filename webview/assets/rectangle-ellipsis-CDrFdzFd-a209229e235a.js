@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-ea8aac12a692.js";var r,i=e((()=>{t(),r=n(`RectangleEllipsis`,[[`rect`,{width:`20`,height:`12`,x:`2`,y:`6`,rx:`2`,key:`9lu3g6`}],[`path`,{d:`M12 12h.01`,key:`1mp3jc`}],[`path`,{d:`M17 12h.01`,key:`1m0b6t`}],[`path`,{d:`M7 12h.01`,key:`eqddd0`}]])}));export{i as n,r as t};
+//# sourceMappingURL=rectangle-ellipsis-CDrFdzFd-a209229e235a.js.map

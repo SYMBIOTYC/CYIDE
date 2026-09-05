@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`soil_texture: sand`,initialValues:{soil_texture:`sand`}},{name:`soil_texture: clay`,initialValues:{soil_texture:`clay`}}]}))();export{t as default};
+//# sourceMappingURL=examples-e3fb34f0f1a22.js.map

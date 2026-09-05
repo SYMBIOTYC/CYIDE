@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{content:`x + y = 1`},{content:`2x - 3y = 7`},{content:`Ax + By = C`}]}))();export{t as default};
+//# sourceMappingURL=examples-5ac08a5542b7.js.map

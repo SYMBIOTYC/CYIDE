@@ -1,0 +1,1 @@
+import{n as e,t}from"./cuboid-C1-wMY11-f7e806178488.js";e();export{t as default};

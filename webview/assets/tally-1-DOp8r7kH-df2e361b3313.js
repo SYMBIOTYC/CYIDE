@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-ea8aac12a692.js";var r,i=e((()=>{t(),r=n(`Tally1`,[[`path`,{d:`M4 4v16`,key:`6qkkli`}]])}));export{r as n,i as t};
+//# sourceMappingURL=tally-1-DOp8r7kH-df2e361b3313.js.map

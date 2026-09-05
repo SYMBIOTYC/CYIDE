@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`inheritance_pattern: autosomal-recessive`,initialValues:{inheritance_pattern:`autosomal-recessive`}},{name:`inheritance_pattern: x-linked-recessive`,initialValues:{inheritance_pattern:`x-linked-recessive`}}]}))();export{t as default};
+//# sourceMappingURL=examples-d65fafd93c83.js.map

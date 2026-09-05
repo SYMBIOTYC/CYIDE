@@ -1,0 +1,1 @@
+import{n as e,t}from"./ticket-check-Ck_rC2df-b0620e85b62c.js";e();export{t as default};

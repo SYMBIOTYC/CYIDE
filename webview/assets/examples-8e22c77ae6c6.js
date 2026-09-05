@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_reaction: fission`,initialValues:{initial_reaction:`fission`}}]}))();export{t as default};
+//# sourceMappingURL=examples-8e22c77ae6c6.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_organ: stem`,initialValues:{initial_organ:`stem`}},{name:`initial_organ: leaf`,initialValues:{initial_organ:`leaf`}},{name:`initial_transport_tissue: phloem`,initialValues:{initial_transport_tissue:`phloem`}}]}))();export{t as default};
+//# sourceMappingURL=examples-c6af6283da13.js.map

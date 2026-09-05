@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{content:`\\sqrt{x} = x^{1/2}`},{content:`x^{1/2} = \\sqrt{x}`}]}))();export{t as default};
+//# sourceMappingURL=examples-205fd01c0a4a.js.map

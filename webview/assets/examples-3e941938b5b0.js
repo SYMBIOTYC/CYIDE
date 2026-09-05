@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`example: reverse-and-scale`,initialValues:{example:`reverse-and-scale`}}]}))();export{t as default};
+//# sourceMappingURL=examples-3e941938b5b0.js.map
