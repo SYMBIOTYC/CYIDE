@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./folder-pen-CjT_cSnB-72b33b304ac8.js";e((()=>{n()}))();export{t as default};
+//# sourceMappingURL=folder-edit-uwBS71bw-57b829e84632.js.map

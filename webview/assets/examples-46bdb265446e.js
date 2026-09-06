@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`bacteriaType: negative`,initialValues:{bacteriaType:`negative`}}]}))();export{t as default};
+//# sourceMappingURL=examples-46bdb265446e.js.map

@@ -1,0 +1,1 @@
+@layer components{._floatingSurface_fmqoa_1{--floating-panel-inset:calc(var(--spacing) * 1.5);--floating-panel-radius:calc(var(--radius-token-composer-single-line) + var(--floating-panel-inset));border-radius:var(--floating-panel-radius)}._floatingComposerInset_fmqoa_10{padding-inline:var(--floating-panel-inset);padding-bottom:var(--floating-panel-inset)}}

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`BIOME_CLIMATOGRAPH`,n=`biome-climatograph-v2`,r={mean_annual_temperature_c:{kind:`number`,defaultValue:18,min:-15,max:30},annual_precipitation_cm:{kind:`number`,defaultValue:100,min:0,max:450}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-4c1b9ed3bc47.js.map

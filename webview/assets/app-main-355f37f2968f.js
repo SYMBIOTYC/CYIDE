@@ -1,0 +1,2 @@
+import{n as e,o as t}from"./rolldown-runtime-c05d78c594d1.js";import{M0 as n}from"./app-initial-c518b37afd45.js";import{fB as r}from"./app-initial-d8588f3b7d3f.js";import{n as i,t as a}from"./app-initial-2e80ba27d368.js";var o,s,c,l;e((()=>{if(r(),o=t(n(),1),a(),s=document.getElementById(`root`),!s)throw Error(`Root container not found`);c=window,c.__codexRoot??=(0,o.createRoot)(s),l=c.__codexRoot,i().then(e=>l.render(e))}))();
+//# sourceMappingURL=app-main-355f37f2968f.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./triangle-x1Q_W7ZL-99bc5a9a37e5.js";t();export{e as default};

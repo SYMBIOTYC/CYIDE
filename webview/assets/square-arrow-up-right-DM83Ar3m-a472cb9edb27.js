@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-ea8aac12a692.js";var r,i=e((()=>{t(),r=n(`SquareArrowUpRight`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M8 8h8v8`,key:`b65dnt`}],[`path`,{d:`m8 16 8-8`,key:`13b9ih`}]])}));export{r as n,i as t};
+//# sourceMappingURL=square-arrow-up-right-DM83Ar3m-a472cb9edb27.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{priceChangeMagnitudePercent:1}},{name:`Maximum supported values`,initialValues:{priceChangeMagnitudePercent:30}},{name:`relationship: complements`,initialValues:{relationship:`complements`}},{name:`priceChangeDirection: decrease`,initialValues:{priceChangeDirection:`decrease`}}]}))();export{t as default};
+//# sourceMappingURL=examples-75737400f0fa2.js.map

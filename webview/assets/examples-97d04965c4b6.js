@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`configuration: Z`,initialValues:{configuration:`Z`}},{name:`example: first-point-of-difference example`,initialValues:{example:`first-point-of-difference example`}}]}))();export{t as default};
+//# sourceMappingURL=examples-97d04965c4b6.js.map
