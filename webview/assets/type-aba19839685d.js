@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`HYBRIDIZATION_SIGMA_PI_BONDS`,n=`hybridization-sigma-pi-bonds-v2`,r={hybridization:{kind:`enum`,defaultValue:`sp2`,allowedValues:[`sp3`,`sp2`,`sp`]}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-aba19839685d.js.map

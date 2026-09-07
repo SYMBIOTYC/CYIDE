@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-ea8aac12a692.js";var r,i=e((()=>{t(),r=n(`Diff`,[[`path`,{d:`M12 3v14`,key:`7cf3v8`}],[`path`,{d:`M5 10h14`,key:`elsbfy`}],[`path`,{d:`M5 21h14`,key:`11awu3`}]])}));export{i as n,r as t};
+//# sourceMappingURL=diff-idQTPOBZ-825e43a5f4dc.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{pure_solvent_vapor_pressure_kpa:10}},{name:`Maximum supported values`,initialValues:{pure_solvent_vapor_pressure_kpa:200}}]}))();export{t as default};
+//# sourceMappingURL=examples-0ad3a88c5352.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./wand-sparkles-BqZsyc41-5156ce0baeb8.js";e((()=>{n()}))();export{t as default};
+//# sourceMappingURL=wand-2-pIVLXu29-93716439c671.js.map

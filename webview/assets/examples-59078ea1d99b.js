@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{dividendCoefficient3:-20,dividendCoefficient2:-20,dividendCoefficient1:-20,dividendCoefficient0:-20,divisorConstant:-5}},{name:`Maximum supported values`,initialValues:{dividendCoefficient3:20,dividendCoefficient2:20,dividendCoefficient1:20,dividendCoefficient0:20,divisorConstant:5}}]}))();export{t as default};
+//# sourceMappingURL=examples-59078ea1d99b.js.map

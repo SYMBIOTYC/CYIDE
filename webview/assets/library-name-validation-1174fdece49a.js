@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";function t(e,t){if(t.trim().startsWith(`.`))return e.formatMessage({id:`libraryNext.folder.hiddenName`,defaultMessage:`Folder names cannot start with ".".`,description:`Inline error when a Library folder name starts with a dot and would be hidden from normal browsing`})}var n=e((()=>{}));export{n,t};
+//# sourceMappingURL=library-name-validation-1174fdece49a.js.map

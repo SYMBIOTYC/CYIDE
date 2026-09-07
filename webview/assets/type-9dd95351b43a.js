@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`ATMOSPHERIC_POLLUTION_PLUME`,n=`atmospheric-pollution-plume-v2`,r={initial_plume_regime:{kind:`enum`,defaultValue:`looping`,allowedValues:[`looping`,`coning`,`fanning`,`lofting`,`fumigation`,`trapping`]}},i={type:t,version:3,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-9dd95351b43a.js.map

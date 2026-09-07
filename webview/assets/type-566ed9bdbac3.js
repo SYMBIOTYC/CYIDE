@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`PLANT_ANATOMY`,n=`plant-anatomy-v3`,r={initial_organ:{kind:`enum`,defaultValue:`root`,allowedValues:[`root`,`stem`,`leaf`]},initial_transport_tissue:{kind:`enum`,defaultValue:`xylem`,allowedValues:[`xylem`,`phloem`]}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-566ed9bdbac3.js.map

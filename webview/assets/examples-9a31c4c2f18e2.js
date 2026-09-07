@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`edit_intent: precise sequence edit`,initialValues:{edit_intent:`precise sequence edit`}}]}))();export{t as default};
+//# sourceMappingURL=examples-9a31c4c2f18e2.js.map

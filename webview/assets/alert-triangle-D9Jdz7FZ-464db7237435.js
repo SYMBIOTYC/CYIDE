@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./triangle-alert-COI_K78u-e8f6b19447b5.js";e((()=>{n()}))();export{t as default};
+//# sourceMappingURL=alert-triangle-D9Jdz7FZ-464db7237435.js.map

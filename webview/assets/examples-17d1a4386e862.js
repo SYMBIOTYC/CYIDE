@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{relativeDetergentAmountPercent:0}},{name:`Maximum supported values`,initialValues:{relativeDetergentAmountPercent:100}}]}))();export{t as default};
+//# sourceMappingURL=examples-17d1a4386e862.js.map

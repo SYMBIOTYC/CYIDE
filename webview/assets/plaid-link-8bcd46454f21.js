@@ -1,0 +1,1 @@
+import{n as e,r as t,t as n}from"./plaid-link-1df5fc79e654.js";n();export{e as openPersonalFinancePlaidLink,t as openPersonalFinancePlaidLinkFromWidget};

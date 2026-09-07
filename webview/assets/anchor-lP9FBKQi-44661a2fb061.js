@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-ea8aac12a692.js";var r,i=e((()=>{t(),r=n(`Anchor`,[[`path`,{d:`M12 22V8`,key:`qkxhtm`}],[`path`,{d:`M5 12H2a10 10 0 0 0 20 0h-3`,key:`1hv3nh`}],[`circle`,{cx:`12`,cy:`5`,r:`3`,key:`rqqgnr`}]])}));export{i as n,r as t};
+//# sourceMappingURL=anchor-lP9FBKQi-44661a2fb061.js.map

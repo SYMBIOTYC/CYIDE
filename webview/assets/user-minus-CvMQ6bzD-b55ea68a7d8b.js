@@ -1,0 +1,1 @@
+import{n as e,t}from"./user-minus-CvMQ6bzD-766db44f7a54.js";t();export{e as default};

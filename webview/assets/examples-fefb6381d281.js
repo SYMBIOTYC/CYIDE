@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{population:1e3,landAreaSquareKilometers:5}},{name:`Maximum supported values`,initialValues:{population:1e6,landAreaSquareKilometers:1e3}}]}))();export{t as default};
+//# sourceMappingURL=examples-fefb6381d281.js.map

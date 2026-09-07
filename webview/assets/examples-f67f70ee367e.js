@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`example: associativity`,initialValues:{example:`associativity`}}]}))();export{t as default};
+//# sourceMappingURL=examples-f67f70ee367e.js.map

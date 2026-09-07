@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";function t(e,t){if(!e)throw Error(n)}var n,r=e((()=>{n=`Invariant failed`}));export{t as n,r as t};
+//# sourceMappingURL=tiny-invariant-e6f85c6caa3f.js.map

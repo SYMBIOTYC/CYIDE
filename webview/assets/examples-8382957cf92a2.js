@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`material: aluminum`,initialValues:{material:`aluminum`}},{name:`material: copper`,initialValues:{material:`copper`}}]}))();export{t as default};
+//# sourceMappingURL=examples-8382957cf92a2.js.map

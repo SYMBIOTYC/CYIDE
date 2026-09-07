@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-ea8aac12a692.js";var r,i=e((()=>{t(),r=n(`Trello`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,ry:`2`,key:`1m3agn`}],[`rect`,{width:`3`,height:`9`,x:`7`,y:`7`,key:`14n3xi`}],[`rect`,{width:`3`,height:`5`,x:`14`,y:`7`,key:`s4azjd`}]])}));export{r as n,i as t};
+//# sourceMappingURL=trello-DR4v9oiN-275c38f2cb00.js.map

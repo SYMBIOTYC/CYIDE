@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-ea8aac12a692.js";var r,i=e((()=>{t(),r=n(`ReceiptSwissFranc`,[[`path`,{d:`M4 2v20l2-1 2 1 2-1 2 1 2-1 2 1 2-1 2 1V2l-2 1-2-1-2 1-2-1-2 1-2-1-2 1Z`,key:`q3az6g`}],[`path`,{d:`M10 17V7h5`,key:`k7jq18`}],[`path`,{d:`M10 11h4`,key:`1i0mka`}],[`path`,{d:`M8 15h5`,key:`vxg57a`}]])}));export{r as n,i as t};
+//# sourceMappingURL=receipt-swiss-franc-BldoLP3b-3d86ae3d7b59.js.map

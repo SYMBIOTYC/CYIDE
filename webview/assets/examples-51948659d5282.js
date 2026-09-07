@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_mechanism: water-vapor`,initialValues:{initial_mechanism:`water-vapor`}},{name:`initial_mechanism: radiative-response`,initialValues:{initial_mechanism:`radiative-response`}},{name:`initial_change: cooling`,initialValues:{initial_change:`cooling`}}]}))();export{t as default};
+//# sourceMappingURL=examples-51948659d5282.js.map

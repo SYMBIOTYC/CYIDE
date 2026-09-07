@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{allele_frequency_p:0}},{name:`Maximum supported values`,initialValues:{allele_frequency_p:1}},{name:`Rare A allele`,initialValues:{allele_frequency_p:.1}},{name:`Rare a allele`,initialValues:{allele_frequency_p:.9}}]}))();export{t as default};
+//# sourceMappingURL=examples-9b2240033e1e.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-ea8aac12a692.js";var r,i=e((()=>{t(),r=n(`SquarePi`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M7 7h10`,key:`udp07y`}],[`path`,{d:`M10 7v10`,key:`i1d9ee`}],[`path`,{d:`M16 17a2 2 0 0 1-2-2V7`,key:`ftwdc7`}]])}));export{i as n,r as t};
+//# sourceMappingURL=square-pi-C6fAK0xB-66a9e3478156.js.map
