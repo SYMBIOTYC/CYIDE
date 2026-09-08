@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{content:`\\vec{a}\\cdot\\vec{b} = \\|\\vec{a}\\|\\|\\vec{b}\\|\\cos\\theta`},{content:`\\mathbf{a}\\cdot\\mathbf{b} = |\\mathbf{a}||\\mathbf{b}|\\cos(\\theta)`},{content:`\\cos\\theta = \\frac{\\vec a \\cdot \\vec b}{\\|\\vec a\\|\\|\\vec b\\|}`},{content:`\\cos(\\theta) = \\frac{a\\cdot b}{|a||b|}`},{content:`\\cos\\theta = \\frac{\\vec a\\cdot\\vec b}{\\|\\vec a\\|\\|\\vec b\\|}`}]}))();export{t as default};
+//# sourceMappingURL=examples-36a840363fcb.js.map

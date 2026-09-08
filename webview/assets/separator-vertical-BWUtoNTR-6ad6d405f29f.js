@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-ea8aac12a692.js";var r,i=e((()=>{t(),r=n(`SeparatorVertical`,[[`line`,{x1:`12`,x2:`12`,y1:`3`,y2:`21`,key:`1efggb`}],[`polyline`,{points:`8 8 4 12 8 16`,key:`bnfmv4`}],[`polyline`,{points:`16 16 20 12 16 8`,key:`u90052`}]])}));export{r as n,i as t};
+//# sourceMappingURL=separator-vertical-BWUtoNTR-6ad6d405f29f.js.map

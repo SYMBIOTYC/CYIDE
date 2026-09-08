@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./tree-palm-DgBiWEE7-cf65a387eb61.js";e((()=>{t()}))();export{n as default};
+//# sourceMappingURL=palmtree-FwTY_gno-ba13ca3af965.js.map

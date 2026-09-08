@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-ea8aac12a692.js";var r,i=e((()=>{t(),r=n(`Navigation`,[[`polygon`,{points:`3 11 22 2 13 21 11 13 3 11`,key:`1ltx0t`}]])}));export{i as n,r as t};
+//# sourceMappingURL=navigation-CnoteZlL-2c0d14f3213f.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`ANIMAL_LIFE_CYCLE`,n=`animal-life-cycle-v2`,r={animal:{kind:`enum`,defaultValue:`butterfly`,allowedValues:[`butterfly`,`frog`,`chicken`,`mammal`]}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-b501a1567d07.js.map

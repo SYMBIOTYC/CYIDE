@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_algorithm: DFS`,initialValues:{initial_algorithm:`DFS`}}]}))();export{t as default};
+//# sourceMappingURL=examples-36fd5e9309a9.js.map

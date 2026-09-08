@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`plant_type: flash steam`,initialValues:{plant_type:`flash steam`}},{name:`plant_type: binary cycle`,initialValues:{plant_type:`binary cycle`}}]}))();export{t as default};
+//# sourceMappingURL=examples-d8d87111e9ce.js.map

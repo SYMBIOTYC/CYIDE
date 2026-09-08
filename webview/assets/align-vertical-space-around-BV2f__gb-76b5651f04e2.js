@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-ea8aac12a692.js";var r,i=e((()=>{t(),r=n(`AlignVerticalSpaceAround`,[[`rect`,{width:`10`,height:`6`,x:`7`,y:`9`,rx:`2`,key:`b1zbii`}],[`path`,{d:`M22 20H2`,key:`1p1f7z`}],[`path`,{d:`M22 4H2`,key:`1b7qnq`}]])}));export{i as n,r as t};
+//# sourceMappingURL=align-vertical-space-around-BV2f__gb-76b5651f04e2.js.map

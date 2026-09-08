@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_mutation: silent-substitution`,initialValues:{initial_mutation:`silent-substitution`}},{name:`initial_mutation: nonsense-substitution`,initialValues:{initial_mutation:`nonsense-substitution`}},{name:`initial_mutation: insertion`,initialValues:{initial_mutation:`insertion`}},{name:`initial_mutation: deletion`,initialValues:{initial_mutation:`deletion`}}]}))();export{t as default};
+//# sourceMappingURL=examples-26b39e3d4df6.js.map

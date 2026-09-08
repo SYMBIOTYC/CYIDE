@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{fieldStrengthNewtonsPerCoulomb:0,areaSquareMeters:.5,angleDegrees:0}},{name:`Maximum supported values`,initialValues:{fieldStrengthNewtonsPerCoulomb:10,areaSquareMeters:5,angleDegrees:90}}]}))();export{t as default};
+//# sourceMappingURL=examples-2881a4c2c2b6.js.map

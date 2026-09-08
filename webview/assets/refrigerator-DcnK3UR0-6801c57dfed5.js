@@ -1,0 +1,1 @@
+import{n as e,t}from"./refrigerator-DcnK3UR0-41e0804e496c.js";t();export{e as default};

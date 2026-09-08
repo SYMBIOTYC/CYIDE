@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-ea8aac12a692.js";var r,i=e((()=>{t(),r=n(`ClockAlert`,[[`path`,{d:`M12 6v6l4 2`,key:`mmk7yg`}],[`path`,{d:`M16 21.16a10 10 0 1 1 5-13.516`,key:`cxo92l`}],[`path`,{d:`M20 11.5v6`,key:`2ei3xq`}],[`path`,{d:`M20 21.5h.01`,key:`1r2dzp`}]])}));export{i as n,r as t};
+//# sourceMappingURL=clock-alert-DwnsrQUw-d3d3b783bc59.js.map

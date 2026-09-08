@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{focus_year:1961}},{name:`Maximum supported values`,initialValues:{focus_year:2014}}]}))();export{t as default};
+//# sourceMappingURL=examples-41a09481244a.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-ea8aac12a692.js";var r,i=e((()=>{t(),r=n(`ChartBarIncreasing`,[[`path`,{d:`M3 3v16a2 2 0 0 0 2 2h16`,key:`c24i48`}],[`path`,{d:`M7 11h8`,key:`1feolt`}],[`path`,{d:`M7 16h12`,key:`wsnu98`}],[`path`,{d:`M7 6h3`,key:`w9rmul`}]])}));export{r as n,i as t};
+//# sourceMappingURL=chart-bar-increasing-DSJiTZ-k-c2707dbb41d0.js.map

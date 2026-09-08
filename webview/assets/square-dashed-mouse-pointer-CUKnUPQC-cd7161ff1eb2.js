@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-dashed-mouse-pointer-CUKnUPQC-4a2d47d3368b.js";t();export{e as default};

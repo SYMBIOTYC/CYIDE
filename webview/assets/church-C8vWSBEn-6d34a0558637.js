@@ -1,0 +1,1 @@
+import{n as e,t}from"./church-C8vWSBEn-3d1b637631a1.js";e();export{t as default};

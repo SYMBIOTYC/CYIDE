@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`RANDOMIZED_EXPERIMENT`,n=`randomized-experiment-v1`,r={experimental_units:{kind:`integer`,defaultValue:16,min:6,max:30},treatment_effect:{kind:`number`,defaultValue:8,min:-20,max:20}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-7f59a23826f7.js.map

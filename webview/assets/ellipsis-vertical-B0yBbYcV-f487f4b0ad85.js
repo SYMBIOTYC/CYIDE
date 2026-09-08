@@ -1,0 +1,1 @@
+import{n as e,t}from"./ellipsis-vertical-B0yBbYcV-dc12cea79c0c.js";e();export{t as default};

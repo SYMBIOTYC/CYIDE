@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`GRAM_STAIN`,n=`gram-stain-v1`,r={bacteriaType:{kind:`enum`,defaultValue:`positive`,allowedValues:[`positive`,`negative`]}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-155af91d381b.js.map
