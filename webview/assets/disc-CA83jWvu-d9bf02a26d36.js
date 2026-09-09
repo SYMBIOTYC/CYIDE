@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-b620702fd8e2.js";var r,i=e((()=>{t(),r=n(`Disc`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`circle`,{cx:`12`,cy:`12`,r:`2`,key:`1c9p78`}]])}));export{r as n,i as t};
+//# sourceMappingURL=disc-CA83jWvu-d9bf02a26d36.js.map

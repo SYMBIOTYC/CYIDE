@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-b620702fd8e2.js";var r,i=e((()=>{t(),r=n(`TrendingUp`,[[`polyline`,{points:`22 7 13.5 15.5 8.5 10.5 2 17`,key:`126l90`}],[`polyline`,{points:`16 7 22 7 22 13`,key:`kwv8wd`}]])}));export{r as n,i as t};
+//# sourceMappingURL=trending-up-BBhqSlC4-d915f5db2f51.js.map

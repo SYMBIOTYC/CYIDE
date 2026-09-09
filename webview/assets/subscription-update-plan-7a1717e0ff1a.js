@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{F9 as t,P9 as n}from"./app-initial-1338e8d6a2c6.js";function r(e){switch(e){case n.GO:return`chatgptgoplan`;case n.PLUS:return`chatgptplusplan`;case n.PROLITE:return`chatgptprolite`;case n.PRO:return`chatgptpro`}}function i(e){switch(e){case`chatgptgoplan`:return n.GO;case`chatgptplusplan`:return n.PLUS;case`chatgptprolite`:return n.PROLITE;case`chatgptpro`:return n.PRO}}var a=e((()=>{t()}));export{i as n,a as r,r as t};
+//# sourceMappingURL=subscription-update-plan-7a1717e0ff1a.js.map

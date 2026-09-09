@@ -1,0 +1,1 @@
+import{n as e,t}from"./battery-medium-C1MaLWGh-5abc3475f209.js";t();export{e as default};

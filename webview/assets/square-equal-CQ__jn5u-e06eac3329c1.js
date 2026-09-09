@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-equal-CQ__jn5u-1b47f9f71ba9.js";t();export{e as default};

@@ -1,0 +1,1 @@
+import{n as e,t}from"./globe-CS3LplN4-7980882a6b70.js";e();export{t as default};

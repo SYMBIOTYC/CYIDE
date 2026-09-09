@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`oil_type: heavy oil`,initialValues:{oil_type:`heavy oil`}}]}))();export{t as default};
+//# sourceMappingURL=examples-e38bf5eac7fd.js.map

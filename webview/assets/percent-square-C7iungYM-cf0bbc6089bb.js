@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./square-percent-CIZ91Kxz-7600e256d518.js";e((()=>{n()}))();export{t as default};
+//# sourceMappingURL=percent-square-C7iungYM-cf0bbc6089bb.js.map

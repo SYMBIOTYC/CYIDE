@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-b620702fd8e2.js";var r,i=e((()=>{t(),r=n(`DoorClosed`,[[`path`,{d:`M18 20V6a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v14`,key:`36qu9e`}],[`path`,{d:`M2 20h20`,key:`owomy5`}],[`path`,{d:`M14 12v.01`,key:`xfcn54`}]])}));export{i as n,r as t};
+//# sourceMappingURL=door-closed-0bD47Ove-307a45448ab5.js.map

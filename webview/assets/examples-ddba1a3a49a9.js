@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`electrolyte: molten lead(II) bromide`,initialValues:{electrolyte:`molten lead(II) bromide`}}]}))();export{t as default};
+//# sourceMappingURL=examples-ddba1a3a49a9.js.map

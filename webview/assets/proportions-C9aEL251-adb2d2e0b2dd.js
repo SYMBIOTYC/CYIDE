@@ -1,0 +1,1 @@
+import{n as e,t}from"./proportions-C9aEL251-7fca7677dfa7.js";t();export{e as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-b620702fd8e2.js";var r,i=e((()=>{t(),r=n(`ChartNoAxesGantt`,[[`path`,{d:`M8 6h10`,key:`9lnwnk`}],[`path`,{d:`M6 12h9`,key:`1g9pqf`}],[`path`,{d:`M11 18h7`,key:`c8dzvl`}]])}));export{i as n,r as t};
+//# sourceMappingURL=chart-no-axes-gantt-CWk8Itn6-3f0af319827f.js.map

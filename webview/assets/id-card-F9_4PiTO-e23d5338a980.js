@@ -1,0 +1,1 @@
+import{n as e,t}from"./id-card-F9_4PiTO-343151843771.js";e();export{t as default};

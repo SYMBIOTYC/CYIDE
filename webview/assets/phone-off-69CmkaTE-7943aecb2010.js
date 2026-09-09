@@ -1,0 +1,1 @@
+import{n as e,t}from"./phone-off-69CmkaTE-8dcc10fd501f.js";t();export{e as default};

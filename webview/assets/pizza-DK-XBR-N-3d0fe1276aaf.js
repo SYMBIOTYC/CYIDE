@@ -1,0 +1,1 @@
+import{n as e,t}from"./pizza-DK-XBR-N-b623f154133a.js";e();export{t as default};

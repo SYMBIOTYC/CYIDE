@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-b620702fd8e2.js";var r,i=e((()=>{t(),r=n(`SkipBack`,[[`polygon`,{points:`19 20 9 12 19 4 19 20`,key:`o2sva`}],[`line`,{x1:`5`,x2:`5`,y1:`19`,y2:`5`,key:`1ocqjk`}]])}));export{i as n,r as t};
+//# sourceMappingURL=skip-back-BX6pDv88-fc692d91e4d7.js.map

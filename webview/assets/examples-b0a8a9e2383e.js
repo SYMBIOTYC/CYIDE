@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_condition: low`,initialValues:{initial_condition:`low`}}]}))();export{t as default};
+//# sourceMappingURL=examples-b0a8a9e2383e.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-b620702fd8e2.js";var r,i=e((()=>{t(),r=n(`LampCeiling`,[[`path`,{d:`M12 2v5`,key:`nd4vlx`}],[`path`,{d:`M6 7h12l4 9H2l4-9Z`,key:`123d64`}],[`path`,{d:`M9.17 16a3 3 0 1 0 5.66 0`,key:`1061mw`}]])}));export{r as n,i as t};
+//# sourceMappingURL=lamp-ceiling-DoiBO2cY-6f4851fb7df1.js.map

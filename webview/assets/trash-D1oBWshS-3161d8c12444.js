@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-b620702fd8e2.js";var r,i=e((()=>{t(),r=n(`Trash`,[[`path`,{d:`M3 6h18`,key:`d0wm0j`}],[`path`,{d:`M19 6v14c0 1-1 2-2 2H7c-1 0-2-1-2-2V6`,key:`4alrt4`}],[`path`,{d:`M8 6V4c0-1 1-2 2-2h4c1 0 2 1 2 2v2`,key:`v07s0e`}]])}));export{i as n,r as t};
+//# sourceMappingURL=trash-D1oBWshS-3161d8c12444.js.map

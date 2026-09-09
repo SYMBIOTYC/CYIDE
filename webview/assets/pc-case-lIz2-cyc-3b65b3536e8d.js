@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-b620702fd8e2.js";var r,i=e((()=>{t(),r=n(`PcCase`,[[`rect`,{width:`14`,height:`20`,x:`5`,y:`2`,rx:`2`,key:`1uq1d7`}],[`path`,{d:`M15 14h.01`,key:`1kp3bh`}],[`path`,{d:`M9 6h6`,key:`dgm16u`}],[`path`,{d:`M9 10h6`,key:`9gxzsh`}]])}));export{r as n,i as t};
+//# sourceMappingURL=pc-case-lIz2-cyc-3b65b3536e8d.js.map

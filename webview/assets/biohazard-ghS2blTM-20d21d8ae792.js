@@ -1,0 +1,1 @@
+import{n as e,t}from"./biohazard-ghS2blTM-ac11bb7e7a19.js";e();export{t as default};

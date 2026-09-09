@@ -1,0 +1,1 @@
+import{g1 as e,h1 as t}from"./app-initial-3ec16fef3ca9.js";e();export{t as default};

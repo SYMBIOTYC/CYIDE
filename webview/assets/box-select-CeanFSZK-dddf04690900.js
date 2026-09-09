@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./square-dashed-CmgRpE-g-de1235f06aa0.js";e((()=>{t()}))();export{n as default};
+//# sourceMappingURL=box-select-CeanFSZK-dddf04690900.js.map

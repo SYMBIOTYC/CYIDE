@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-b620702fd8e2.js";var r,i=e((()=>{t(),r=n(`BedDouble`,[[`path`,{d:`M2 20v-8a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v8`,key:`1k78r4`}],[`path`,{d:`M4 10V6a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v4`,key:`fb3tl2`}],[`path`,{d:`M12 4v6`,key:`1dcgq2`}],[`path`,{d:`M2 18h20`,key:`ajqnye`}]])}));export{r as n,i as t};
+//# sourceMappingURL=bed-double-DoAcv3WY-2b8fb72eb329.js.map

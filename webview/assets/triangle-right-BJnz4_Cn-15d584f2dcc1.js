@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-b620702fd8e2.js";var r,i=e((()=>{t(),r=n(`TriangleRight`,[[`path`,{d:`M22 18a2 2 0 0 1-2 2H3c-1.1 0-1.3-.6-.4-1.3L20.4 4.3c.9-.7 1.6-.4 1.6.7Z`,key:`183wce`}]])}));export{i as n,r as t};
+//# sourceMappingURL=triangle-right-BJnz4_Cn-15d584f2dcc1.js.map

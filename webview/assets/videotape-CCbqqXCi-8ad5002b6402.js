@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-b620702fd8e2.js";var r,i=e((()=>{t(),r=n(`Videotape`,[[`rect`,{width:`20`,height:`16`,x:`2`,y:`4`,rx:`2`,key:`18n3k1`}],[`path`,{d:`M2 8h20`,key:`d11cs7`}],[`circle`,{cx:`8`,cy:`14`,r:`2`,key:`1k2qr5`}],[`path`,{d:`M8 12h8`,key:`1wcyev`}],[`circle`,{cx:`16`,cy:`14`,r:`2`,key:`14k7lr`}]])}));export{r as n,i as t};
+//# sourceMappingURL=videotape-CCbqqXCi-8ad5002b6402.js.map

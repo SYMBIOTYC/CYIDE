@@ -1,0 +1,1 @@
+import{n as e,t}from"./settings-2-CTBBUiFs-2805c35e2522.js";t();export{e as default};

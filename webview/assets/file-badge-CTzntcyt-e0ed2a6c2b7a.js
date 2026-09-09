@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-b620702fd8e2.js";var r,i=e((()=>{t(),r=n(`FileBadge`,[[`path`,{d:`M12 22h6a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v3`,key:`12ixgl`}],[`path`,{d:`M14 2v4a2 2 0 0 0 2 2h4`,key:`tnqrlb`}],[`path`,{d:`M5 17a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z`,key:`u0c8gj`}],[`path`,{d:`M7 16.5 8 22l-3-1-3 1 1-5.5`,key:`5gm2nr`}]])}));export{r as n,i as t};
+//# sourceMappingURL=file-badge-CTzntcyt-e0ed2a6c2b7a.js.map
