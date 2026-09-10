@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-1bf598d412c6.js";var r,i=e((()=>{t(),r=n(`ReceiptJapaneseYen`,[[`path`,{d:`M4 2v20l2-1 2 1 2-1 2 1 2-1 2 1 2-1 2 1V2l-2 1-2-1-2 1-2-1-2 1-2-1-2 1Z`,key:`q3az6g`}],[`path`,{d:`m12 10 3-3`,key:`1mc12w`}],[`path`,{d:`m9 7 3 3v7.5`,key:`39i0xv`}],[`path`,{d:`M9 11h6`,key:`1fldmi`}],[`path`,{d:`M9 15h6`,key:`cctwl0`}]])}));export{r as n,i as t};
+//# sourceMappingURL=receipt-japanese-yen-BPTsaFHd-fe9a62494ac8.js.map

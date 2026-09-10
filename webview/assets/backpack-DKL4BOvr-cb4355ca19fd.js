@@ -1,0 +1,1 @@
+import{n as e,t}from"./backpack-DKL4BOvr-7a42e5c32678.js";e();export{t as default};

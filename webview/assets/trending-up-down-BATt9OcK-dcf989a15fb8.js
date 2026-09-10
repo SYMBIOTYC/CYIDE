@@ -1,0 +1,1 @@
+import{n as e,t}from"./trending-up-down-BATt9OcK-e80d26b75584.js";t();export{e as default};

@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-pi-C6fAK0xB-3a01834f18ae.js";e();export{t as default};

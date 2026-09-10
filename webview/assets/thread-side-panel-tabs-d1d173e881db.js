@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n4 as t}from"./app-initial-361de1a2fce3.js";import{r as n}from"./thread-mcp-app-side-panel-98ad2025936e.js";function r(e,t,n={}){return!1}function i(e,t,n=!0,r={}){return!1}var a=e((()=>{t(),n()}));export{i as n,r,a as t};
+//# sourceMappingURL=thread-side-panel-tabs-d1d173e881db.js.map

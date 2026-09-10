@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-1bf598d412c6.js";var r,i=e((()=>{t(),r=n(`Satellite`,[[`path`,{d:`M13 7 9 3 5 7l4 4`,key:`vyckw6`}],[`path`,{d:`m17 11 4 4-4 4-4-4`,key:`rchckc`}],[`path`,{d:`m8 12 4 4 6-6-4-4Z`,key:`1sshf7`}],[`path`,{d:`m16 8 3-3`,key:`x428zp`}],[`path`,{d:`M9 21a6 6 0 0 0-6-6`,key:`1iajcf`}]])}));export{i as n,r as t};
+//# sourceMappingURL=satellite-B8DaT4NA-cbf8cd6c2fe5.js.map

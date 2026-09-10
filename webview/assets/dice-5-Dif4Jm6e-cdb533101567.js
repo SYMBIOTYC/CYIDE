@@ -1,0 +1,1 @@
+import{n as e,t}from"./dice-5-Dif4Jm6e-ab2a3b1b981d.js";t();export{e as default};

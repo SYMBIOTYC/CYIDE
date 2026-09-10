@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./chart-bar-ilNG3iTE-1a6d51fc1ad4.js";e((()=>{t()}))();export{n as default};
+//# sourceMappingURL=bar-chart-horizontal-9V15r9c6-fa9966ca7487.js.map

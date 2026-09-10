@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-bottom-dashed-scissors-DXjuZVKD-b2fc6ba0a8e1.js";e();export{t as default};

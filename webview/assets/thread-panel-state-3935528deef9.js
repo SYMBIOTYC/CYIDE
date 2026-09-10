@@ -1,0 +1,1 @@
+import{G2 as e,H2 as t,q2 as n}from"./app-initial-361de1a2fce3.js";n();export{t as activateThreadPanelTab,e as getThreadPanelTabController};

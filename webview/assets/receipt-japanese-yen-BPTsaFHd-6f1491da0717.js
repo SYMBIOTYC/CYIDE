@@ -1,0 +1,1 @@
+import{n as e,t}from"./receipt-japanese-yen-BPTsaFHd-fe9a62494ac8.js";t();export{e as default};

@@ -1,0 +1,1 @@
+import{n as e,t}from"./plane-landing-C6LhUX8c-d86b41c8a3c2.js";e();export{t as default};

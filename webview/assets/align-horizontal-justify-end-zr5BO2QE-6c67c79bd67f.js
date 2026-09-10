@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-1bf598d412c6.js";var r,i=e((()=>{t(),r=n(`AlignHorizontalJustifyEnd`,[[`rect`,{width:`6`,height:`14`,x:`2`,y:`5`,rx:`2`,key:`dy24zr`}],[`rect`,{width:`6`,height:`10`,x:`12`,y:`7`,rx:`2`,key:`1ht384`}],[`path`,{d:`M22 2v20`,key:`40qfg1`}]])}));export{i as n,r as t};
+//# sourceMappingURL=align-horizontal-justify-end-zr5BO2QE-6c67c79bd67f.js.map

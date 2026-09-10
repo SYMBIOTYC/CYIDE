@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{m3 as t}from"./app-initial-166084eab10c.js";import{n,o as r,r as i,t as a}from"./triangle-family-visualization-7861516b610e.js";var o,s,c,l;e((()=>{r(),o=t(),s=e=>(0,o.jsx)(n,{...e,variant:`isosceles`}),c=e=>(0,o.jsx)(a,{...e,variant:`isosceles`}),l=e=>(0,o.jsx)(i,{...e,variant:`isosceles`})}))();export{c as IsoscelesTriangleCaption,s as IsoscelesTriangleControls,l as IsoscelesTriangleVisualization};
+//# sourceMappingURL=visualization-5582c52363212.js.map

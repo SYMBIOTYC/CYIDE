@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_outlet: tributary`,initialValues:{initial_outlet:`tributary`}},{name:`initial_outlet: confluence`,initialValues:{initial_outlet:`confluence`}}]}))();export{t as default};
+//# sourceMappingURL=examples-3d5945cacf192.js.map

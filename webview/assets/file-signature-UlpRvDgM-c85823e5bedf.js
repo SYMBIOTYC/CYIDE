@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./file-pen-line-DrcY85rK-8ea8cac692a4.js";e((()=>{n()}))();export{t as default};
+//# sourceMappingURL=file-signature-UlpRvDgM-c85823e5bedf.js.map

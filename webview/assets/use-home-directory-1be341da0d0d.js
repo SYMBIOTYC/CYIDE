@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{TF as t,bF as n,y3 as r}from"./app-initial-166084eab10c.js";import{Jet as i,Xet as a}from"./app-initial-361de1a2fce3.js";function o(e){let n=(0,c.c)(2),r;return n[0]===e?r=n[1]:(r=e==null?void 0:{hostId:e},n[0]=e,n[1]=r),t(i,r)}function s(e){return o(e).data?.homeDirectory}var c,l=e((()=>{c=r(),n(),a()}));export{s as n,o as r,l as t};
+//# sourceMappingURL=use-home-directory-1be341da0d0d.js.map

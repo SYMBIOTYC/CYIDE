@@ -1,0 +1,1 @@
+import{n as e,t}from"./message-square-lock-DESnp2uf-af8f4b7c78fd.js";e();export{t as default};

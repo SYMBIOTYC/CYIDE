@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-Bi2LiMbD-971e9432612c.js";t();export{e as default};

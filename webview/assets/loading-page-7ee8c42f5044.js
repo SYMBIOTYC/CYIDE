@@ -1,0 +1,1 @@
+import{hB as e,mB as t}from"./app-initial-361de1a2fce3.js";e();export{t as LoadingPage};

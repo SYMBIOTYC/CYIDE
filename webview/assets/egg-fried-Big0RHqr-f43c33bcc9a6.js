@@ -1,0 +1,1 @@
+import{n as e,t}from"./egg-fried-Big0RHqr-4cef2d9e7479.js";t();export{e as default};

@@ -1,0 +1,1 @@
+import{Lg as e,Rg as t,zg as n}from"./app-initial-45fc9419cb07.js";t();export{e as getWorkspaceFileTabContextMenuItems,n as prefetchWorkspaceFileTabContextMenuItems};

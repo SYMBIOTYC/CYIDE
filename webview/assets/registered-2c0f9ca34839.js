@@ -1,0 +1,1 @@
+import{n as e,t}from"./registered-100d74d0d1e1.js";e();export{t as CreateTextFileTabThumbnail};

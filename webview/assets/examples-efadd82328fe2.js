@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`reactantPair: barium nitrate + sodium sulfate`,initialValues:{reactantPair:`barium nitrate + sodium sulfate`}},{name:`reactantPair: sodium nitrate + potassium chloride`,initialValues:{reactantPair:`sodium nitrate + potassium chloride`}}]}))();export{t as default};
+//# sourceMappingURL=examples-efadd82328fe2.js.map
