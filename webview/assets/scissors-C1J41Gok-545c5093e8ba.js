@@ -1,0 +1,1 @@
+import{n as e,t}from"./scissors-C1J41Gok-5283f77faaa9.js";t();export{e as default};

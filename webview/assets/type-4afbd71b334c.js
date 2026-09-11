@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i=e((()=>{t=`IONIC_VS_COVALENT`,n={bondType:{kind:`enum`,defaultValue:`ionic`,allowedValues:[`ionic`,`covalent`]}},r={type:t,version:1,parameters:n}}));export{r as n,i as t};
+//# sourceMappingURL=type-4afbd71b334c.js.map

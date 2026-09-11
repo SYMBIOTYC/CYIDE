@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";function t(e){switch(e){case`change`:return`modified`;case`rename-pure`:case`rename-changed`:return`renamed`;case`new`:return`added`;case`deleted`:return`deleted`}}var n=e((()=>{}));export{n,t};
+//# sourceMappingURL=review-file-change-kind-b9a9630c9af7.js.map

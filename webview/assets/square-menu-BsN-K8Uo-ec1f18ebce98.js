@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-menu-BsN-K8Uo-33f8ec841e40.js";e();export{t as default};

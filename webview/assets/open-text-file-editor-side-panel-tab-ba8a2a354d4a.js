@@ -1,0 +1,1 @@
+import{iD as e,rD as t}from"./app-initial-972655adec02.js";t();export{e as openTextFileEditorSidePanelTab};

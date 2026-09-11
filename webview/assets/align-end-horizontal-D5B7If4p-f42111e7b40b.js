@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-5f7776b04043.js";var r,i=e((()=>{t(),r=n(`AlignEndHorizontal`,[[`rect`,{width:`6`,height:`16`,x:`4`,y:`2`,rx:`2`,key:`z5wdxg`}],[`rect`,{width:`6`,height:`9`,x:`14`,y:`9`,rx:`2`,key:`um7a8w`}],[`path`,{d:`M22 22H2`,key:`19qnx5`}]])}));export{i as n,r as t};
+//# sourceMappingURL=align-end-horizontal-D5B7If4p-f42111e7b40b.js.map

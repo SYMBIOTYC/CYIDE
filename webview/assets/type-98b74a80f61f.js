@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`EL_NINO_AND_LA_NINA`,n=`el-nino-and-la-nina-v3`,r={initial_phase:{kind:`enum`,defaultValue:`Neutral`,allowedValues:[`La Niña`,`Neutral`,`El Niño`]}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-98b74a80f61f.js.map

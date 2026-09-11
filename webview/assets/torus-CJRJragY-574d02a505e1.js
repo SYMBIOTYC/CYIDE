@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-5f7776b04043.js";var r,i=e((()=>{t(),r=n(`Torus`,[[`ellipse`,{cx:`12`,cy:`11`,rx:`3`,ry:`2`,key:`1b2qxu`}],[`ellipse`,{cx:`12`,cy:`12.5`,rx:`10`,ry:`8.5`,key:`h8emeu`}]])}));export{i as n,r as t};
+//# sourceMappingURL=torus-CJRJragY-574d02a505e1.js.map

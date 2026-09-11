@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{B4 as t,MG as n,Q4 as r,R1 as i,S4 as a,gK as o,oG as s}from"./app-initial-c027c57a4b11.js";import{$rt as c,$tt as l,Bat as u,Frt as d,Prt as f,Qrt as p,zat as m}from"./app-initial-972655adec02.js";import{a4 as h,rY as g}from"./app-initial-84c784f5e305.js";var _=e((()=>{a(),r({allowWebmcp:t().nullish()})})),v,y=e((()=>{s(),o(),_(),g(),h(),l(),u(),p(),d(),v=n(m,({get:e})=>{let t=e(c,`1256703444`);return!!(i.isInternal(f())||t)})}));export{v as n,y as t};
+//# sourceMappingURL=is-available-358dd24adc1b.js.map
