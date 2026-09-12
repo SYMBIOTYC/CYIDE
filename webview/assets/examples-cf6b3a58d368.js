@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`example: carbohydrate`,initialValues:{example:`carbohydrate`}},{name:`example: protein`,initialValues:{example:`protein`}}]}))();export{t as default};
+//# sourceMappingURL=examples-cf6b3a58d368.js.map

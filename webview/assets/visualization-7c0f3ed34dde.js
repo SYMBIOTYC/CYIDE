@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{Kit as t}from"./app-initial-c027c57a4b11.js";import{n,o as r,r as i,t as a}from"./triangle-family-visualization-1a68103f7be4.js";var o,s,c,l;e((()=>{r(),o=t(),s=e=>(0,o.jsx)(n,{...e,variant:`equilateral`}),c=e=>(0,o.jsx)(a,{...e,variant:`equilateral`}),l=e=>(0,o.jsx)(i,{...e,variant:`equilateral`})}))();export{c as EquilateralTriangleCaption,s as EquilateralTriangleControls,l as EquilateralTriangleVisualization};
+//# sourceMappingURL=visualization-7c0f3ed34dde.js.map

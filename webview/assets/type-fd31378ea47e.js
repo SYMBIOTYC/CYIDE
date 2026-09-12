@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a,o=e((()=>{t=`DERIVATIVE_PRODUCT_RULE`,n=`derivative-product-rule-v1`,r=`(fg)' = f'g + fg'`,i={deltaX:{kind:`number`,defaultValue:2,min:.05,max:2}},a={type:t,version:1,thumbnailAssetKey:n,canonicalFormula:r,parameters:i}}));export{a as n,o as t};
+//# sourceMappingURL=type-fd31378ea47e.js.map

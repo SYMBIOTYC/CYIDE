@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`ATHEROSCLEROSIS`,n=`atherosclerosis-v3`,r={initial_stage:{kind:`enum`,defaultValue:`established plaque`,allowedValues:[`healthy artery`,`fatty streak`,`established plaque`,`plaque rupture and thrombus`]}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-6d2163ab22ea.js.map

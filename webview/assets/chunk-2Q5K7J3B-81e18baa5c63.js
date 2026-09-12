@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,r as n}from"./chunk-Y2CYZVJY-282a6cedee0c.js";var r,i=e((()=>{n(),r=class{constructor(e){this.init=e,this.records=this.init()}static{t(this,`ImperativeState`)}reset(){this.records=this.init()}}}));export{i as n,r as t};
+//# sourceMappingURL=chunk-2Q5K7J3B-81e18baa5c63.js.map

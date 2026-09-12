@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{voltage:0,resistance:.1}},{name:`Maximum supported values`,initialValues:{voltage:1e3,resistance:1e5}}]}))();export{t as default};
+//# sourceMappingURL=examples-69ef5ef0c42f.js.map

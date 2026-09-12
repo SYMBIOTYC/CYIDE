@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`example: butadiene-and-methyl-vinyl-ketone`,initialValues:{example:`butadiene-and-methyl-vinyl-ketone`}},{name:`example: butadiene-and-maleic-anhydride`,initialValues:{example:`butadiene-and-maleic-anhydride`}}]}))();export{t as default};
+//# sourceMappingURL=examples-f07d2b4049e5.js.map

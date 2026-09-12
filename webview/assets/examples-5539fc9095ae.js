@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{heartRateBeatsPerMinute:40,strokeVolumeMilliliters:30}},{name:`Maximum supported values`,initialValues:{heartRateBeatsPerMinute:180,strokeVolumeMilliliters:120}}]}))();export{t as default};
+//# sourceMappingURL=examples-5539fc9095ae.js.map

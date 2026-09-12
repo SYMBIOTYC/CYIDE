@@ -1,0 +1,1 @@
+import{n as e,t}from"./suggestions-3598b6b563e1.js";e();export{t as ImageSuggestions};

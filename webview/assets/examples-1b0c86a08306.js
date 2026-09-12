@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`lactose_present: false`,initialValues:{lactose_present:!1}},{name:`glucose_present: false`,initialValues:{glucose_present:!1}},{name:`Both sugars absent`,initialValues:{lactose_present:!1,glucose_present:!1}}]}))();export{t as default};
+//# sourceMappingURL=examples-1b0c86a08306.js.map

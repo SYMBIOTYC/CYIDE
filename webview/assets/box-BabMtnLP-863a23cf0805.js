@@ -1,0 +1,1 @@
+import{n as e,t}from"./box-BabMtnLP-be1336a7167c.js";e();export{t as default};

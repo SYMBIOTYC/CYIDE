@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_shielding: none`,initialValues:{initial_shielding:`none`}},{name:`initial_shielding: paper`,initialValues:{initial_shielding:`paper`}},{name:`initial_shielding: aluminium-or-plastic`,initialValues:{initial_shielding:`aluminium-or-plastic`}}]}))();export{t as default};
+//# sourceMappingURL=examples-7a40dca55db12.js.map

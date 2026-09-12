@@ -1,0 +1,1 @@
+import{n as e,t}from"./header-8aa6e5b9570e.js";e();export{t as Header};

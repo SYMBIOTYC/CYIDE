@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{content:`A = \\sqrt{s(s-a)(s-b)(s-c)}`},{content:`A=\\sqrt{s(s-a)(s-b)(s-c)},\\ s=\\frac{a+b+c}{2}`},{content:`\\text{Area}=\\sqrt{s(s-a)(s-b)(s-c)}`}]}))();export{t as default};
+//# sourceMappingURL=examples-ab680f12ab6f2.js.map

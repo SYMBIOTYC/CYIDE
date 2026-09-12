@@ -1,0 +1,3 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./index.umd-285c026558c1.js","./rolldown-runtime-c05d78c594d1.js"])))=>i.map(i=>d[i]);
+import{n as e,o as t}from"./rolldown-runtime-c05d78c594d1.js";import{_it as n,bit as r,hit as i}from"./app-initial-c027c57a4b11.js";import{$3 as a,Q3 as o}from"./app-initial-84c784f5e305.js";function s(e){return i(this,void 0,void 0,function(){var r;return n(this,function(n){switch(n.label){case 0:return[4,o(()=>import(`./index.umd-285c026558c1.js`).then(e=>t(e.default)),__vite__mapDeps([0,1]),import.meta.url)];case 1:return r=n.sent(),e._plugins=r,[2]}})})}e((()=>{r(),a()}))();export{s as loadLegacyVideoPlugins};
+//# sourceMappingURL=legacy-video-plugins-bd1531d3f123.js.map

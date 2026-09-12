@@ -1,0 +1,1 @@
+import{Mh as e,Nh as t}from"./app-initial-84c784f5e305.js";e();export{t as openChatGptFile};

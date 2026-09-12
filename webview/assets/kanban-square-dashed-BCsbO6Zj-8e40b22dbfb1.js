@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./square-dashed-kanban-BkgnFIOW-d67505dd579a.js";e((()=>{t()}))();export{n as default};
+//# sourceMappingURL=kanban-square-dashed-BCsbO6Zj-8e40b22dbfb1.js.map

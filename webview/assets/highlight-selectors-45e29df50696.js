@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{A as t,T as n}from"./review-navigation-model-7dea3531d70e.js";function r(e){let t=new Map;for(let r of e){if(r.location.domain!==`conversation`)continue;let e=n(r.location.turnKey,r.location.unitId),i=t.get(e)??[];i.push(r),t.set(e,i)}return t}function i(e){let t=new Map;for(let n of e){if(n.location.domain!==`diff`)continue;let e=t.get(n.location.path)??[];e.push(n),t.set(n.location.path,e)}return t}var a=e((()=>{t()}));export{i as n,a as r,r as t};
+//# sourceMappingURL=highlight-selectors-45e29df50696.js.map
