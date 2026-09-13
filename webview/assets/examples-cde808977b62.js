@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_pattern: non-crossover-interaction`,initialValues:{initial_pattern:`non-crossover-interaction`}},{name:`initial_pattern: crossover-interaction`,initialValues:{initial_pattern:`crossover-interaction`}}]}))();export{t as default};
+//# sourceMappingURL=examples-cde808977b62.js.map

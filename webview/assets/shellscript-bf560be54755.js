@@ -1,0 +1,1 @@
+import{n as e,t}from"./shellscript-80703cb2d727.js";t();export{e as default};

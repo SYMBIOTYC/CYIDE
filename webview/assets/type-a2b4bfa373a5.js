@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`RGB_ADDITIVE_MIXING`,n=`rgb-additive-mixing-v1`,r={red:{kind:`integer`,defaultValue:255,min:0,max:255},green:{kind:`integer`,defaultValue:255,min:0,max:255},blue:{kind:`integer`,defaultValue:255,min:0,max:255}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-a2b4bfa373a5.js.map

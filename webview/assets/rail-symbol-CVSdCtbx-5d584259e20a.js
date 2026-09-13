@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-5f7776b04043.js";var r,i=e((()=>{t(),r=n(`RailSymbol`,[[`path`,{d:`M5 15h14`,key:`m0yey3`}],[`path`,{d:`M5 9h14`,key:`7tsvo6`}],[`path`,{d:`m14 20-5-5 6-6-5-5`,key:`1jo42i`}]])}));export{r as n,i as t};
+//# sourceMappingURL=rail-symbol-CVSdCtbx-5d584259e20a.js.map

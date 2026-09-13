@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{latitude_degrees:-80}},{name:`Maximum supported values`,initialValues:{latitude_degrees:80}}]}))();export{t as default};
+//# sourceMappingURL=examples-f78a206da12d.js.map
