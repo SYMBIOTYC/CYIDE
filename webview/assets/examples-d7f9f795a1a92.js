@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`example: human circulatory system`,initialValues:{example:`human circulatory system`}},{name:`example: flowering plant`,initialValues:{example:`flowering plant`}}]}))();export{t as default};
+//# sourceMappingURL=examples-d7f9f795a1a92.js.map

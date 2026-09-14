@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{alveolarOxygenPartialPressureMmHg:0,bloodOxygenPartialPressureMmHg:0,alveolarCarbonDioxidePartialPressureMmHg:0,bloodCarbonDioxidePartialPressureMmHg:0}},{name:`Maximum supported values`,initialValues:{alveolarOxygenPartialPressureMmHg:300,bloodOxygenPartialPressureMmHg:300,alveolarCarbonDioxidePartialPressureMmHg:150,bloodCarbonDioxidePartialPressureMmHg:150}}]}))();export{t as default};
+//# sourceMappingURL=examples-4cdb9105703d.js.map

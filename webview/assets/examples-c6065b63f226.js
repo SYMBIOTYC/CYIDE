@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_season: winter`,initialValues:{initial_season:`winter`}}]}))();export{t as default};
+//# sourceMappingURL=examples-c6065b63f226.js.map

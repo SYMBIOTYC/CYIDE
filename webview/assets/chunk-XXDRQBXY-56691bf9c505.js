@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{r as t,t as n}from"./src-764c5f005e5f.js";import{n as r,r as i}from"./chunk-Y2CYZVJY-282a6cedee0c.js";var a,o=e((()=>{i(),n(),a=r((e,n)=>{let r;return n===`sandbox`&&(r=t(`#i`+e)),t(n===`sandbox`?r.nodes()[0].contentDocument.body:`body`).select(`[id="${e}"]`)},`getDiagramElement`)}));export{o as n,a as t};
+//# sourceMappingURL=chunk-XXDRQBXY-56691bf9c505.js.map

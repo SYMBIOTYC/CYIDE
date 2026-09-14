@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`compound: magnesium oxide`,initialValues:{compound:`magnesium oxide`}},{name:`compound: magnesium chloride`,initialValues:{compound:`magnesium chloride`}},{name:`compound: sodium oxide`,initialValues:{compound:`sodium oxide`}}]}))();export{t as default};
+//# sourceMappingURL=examples-779e28416dee.js.map

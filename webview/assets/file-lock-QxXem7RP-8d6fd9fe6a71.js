@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-5f7776b04043.js";var r,i=e((()=>{t(),r=n(`FileLock`,[[`path`,{d:`M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z`,key:`1rqfz7`}],[`rect`,{width:`8`,height:`6`,x:`8`,y:`12`,rx:`1`,key:`3yr8at`}],[`path`,{d:`M10 12v-2a2 2 0 1 1 4 0v2`,key:`j4i8d`}]])}));export{r as n,i as t};
+//# sourceMappingURL=file-lock-QxXem7RP-8d6fd9fe6a71.js.map

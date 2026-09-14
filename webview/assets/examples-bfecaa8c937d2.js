@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_stage: healthy artery`,initialValues:{initial_stage:`healthy artery`}},{name:`initial_stage: fatty streak`,initialValues:{initial_stage:`fatty streak`}},{name:`initial_stage: plaque rupture and thrombus`,initialValues:{initial_stage:`plaque rupture and thrombus`}}]}))();export{t as default};
+//# sourceMappingURL=examples-bfecaa8c937d2.js.map

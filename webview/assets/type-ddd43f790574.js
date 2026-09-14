@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`EYE_ACCOMMODATION`,n=`eye-accommodation-v1`,r={objectDistanceMeters:{kind:`number`,defaultValue:1,min:.25,max:6}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-ddd43f790574.js.map

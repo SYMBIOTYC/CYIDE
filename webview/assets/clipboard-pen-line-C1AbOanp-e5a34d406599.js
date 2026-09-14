@@ -1,0 +1,1 @@
+import{n as e,t}from"./clipboard-pen-line-C1AbOanp-b813ec3f8b24.js";t();export{e as default};

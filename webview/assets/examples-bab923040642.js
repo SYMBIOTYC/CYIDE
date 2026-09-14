@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_pathway: lysogenic`,initialValues:{initial_pathway:`lysogenic`}}]}))();export{t as default};
+//# sourceMappingURL=examples-bab923040642.js.map

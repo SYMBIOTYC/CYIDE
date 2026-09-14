@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-5f7776b04043.js";var r,i=e((()=>{t(),r=n(`CircleEllipsis`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`path`,{d:`M17 12h.01`,key:`1m0b6t`}],[`path`,{d:`M12 12h.01`,key:`1mp3jc`}],[`path`,{d:`M7 12h.01`,key:`eqddd0`}]])}));export{i as n,r as t};
+//# sourceMappingURL=circle-ellipsis-DhckIub9-2cd06085b817.js.map

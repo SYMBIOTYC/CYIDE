@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`pathway: Gi`,initialValues:{pathway:`Gi`}},{name:`pathway: Gq`,initialValues:{pathway:`Gq`}}]}))();export{t as default};
+//# sourceMappingURL=examples-ece2e07785b0.js.map

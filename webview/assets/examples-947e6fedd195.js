@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{inflowRateLitersPerMinute:0,outflowRateLitersPerMinute:0}},{name:`Maximum supported values`,initialValues:{inflowRateLitersPerMinute:8,outflowRateLitersPerMinute:8}},{name:`Maximum net inflow`,initialValues:{inflowRateLitersPerMinute:8,outflowRateLitersPerMinute:0}},{name:`Maximum net outflow`,initialValues:{inflowRateLitersPerMinute:0,outflowRateLitersPerMinute:8}}]}))();export{t as default};
+//# sourceMappingURL=examples-947e6fedd195.js.map

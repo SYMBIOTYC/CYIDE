@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{leftAngleDegrees:10,rightAngleDegrees:10,weightNewtons:50}},{name:`Maximum supported values`,initialValues:{leftAngleDegrees:80,rightAngleDegrees:80,weightNewtons:500}},{name:`Asymmetric cable angles`,initialValues:{leftAngleDegrees:20,rightAngleDegrees:70,weightNewtons:300}}]}))();export{t as default};
+//# sourceMappingURL=examples-7e6a6ffc7391.js.map

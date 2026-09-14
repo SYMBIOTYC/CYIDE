@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{content:`m\\lambda = d\\sin\\theta`},{content:`d\\sin\\theta = n\\lambda`}]}))();export{t as default};
+//# sourceMappingURL=examples-45741c50bad2.js.map

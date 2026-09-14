@@ -1,0 +1,1 @@
+import{n as e,t}from"./table-cells-split-DgPmGMrO-17d51b37af10.js";e();export{t as default};

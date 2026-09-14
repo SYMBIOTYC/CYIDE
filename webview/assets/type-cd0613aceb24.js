@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`ISOTOPE_ATOMIC_MASS`,n=`isotope-atomic-mass-v2`,r={element:{kind:`enum`,defaultValue:`chlorine`,allowedValues:[`boron`,`carbon`,`neon`,`magnesium`,`sulfur`,`chlorine`,`copper`]}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-cd0613aceb24.js.map

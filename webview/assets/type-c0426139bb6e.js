@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a,o=e((()=>{t=`LOGISTIC_REGRESSION`,n=`logistic-regression-v1`,r=`P(Y=1\\mid x)=\\frac{1}{1+e^{-(\\beta_0+\\beta_1x)}}`,i={intercept:{kind:`number`,defaultValue:-.5,min:-2,max:2},coefficient:{kind:`number`,defaultValue:1.2,min:-2.5,max:2.5}},a={type:t,version:2,thumbnailAssetKey:n,canonicalFormula:r,parameters:i}}));export{a as n,o as t};
+//# sourceMappingURL=type-c0426139bb6e.js.map

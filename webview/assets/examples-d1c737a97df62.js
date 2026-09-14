@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_pattern: stationary`,initialValues:{initial_pattern:`stationary`}},{name:`initial_pattern: constrictive`,initialValues:{initial_pattern:`constrictive`}}]}))();export{t as default};
+//# sourceMappingURL=examples-d1c737a97df62.js.map
