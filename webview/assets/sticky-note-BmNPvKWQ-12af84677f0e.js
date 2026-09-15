@@ -1,0 +1,1 @@
+import{n as e,t}from"./sticky-note-BmNPvKWQ-1ba48295c964.js";e();export{t as default};

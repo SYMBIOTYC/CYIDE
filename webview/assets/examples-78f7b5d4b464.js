@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{content:`a^2 - b^2 = (a - b)(a + b)`},{content:`(x + y)(x - y) = x^2 - y^2`}]}))();export{t as default};
+//# sourceMappingURL=examples-78f7b5d4b464.js.map

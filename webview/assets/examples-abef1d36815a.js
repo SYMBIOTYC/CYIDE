@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`observed_species: product`,initialValues:{observed_species:`product`}}]}))();export{t as default};
+//# sourceMappingURL=examples-abef1d36815a.js.map

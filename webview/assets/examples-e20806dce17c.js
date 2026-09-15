@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`hybridization: sp3`,initialValues:{hybridization:`sp3`}},{name:`hybridization: sp`,initialValues:{hybridization:`sp`}}]}))();export{t as default};
+//# sourceMappingURL=examples-e20806dce17c.js.map

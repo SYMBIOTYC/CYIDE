@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a,o=e((()=>{t=`COHENS_D`,n=`cohens-d-v1`,r=`d = \\frac{\\bar{x}_2 - \\bar{x}_1}{s_{\\mathrm{pooled}}}`,i={initial_mean_difference:{kind:`number`,defaultValue:.8,min:-4,max:4},pooled_standard_deviation:{kind:`number`,defaultValue:1,min:.75,max:2}},a={type:t,version:1,thumbnailAssetKey:n,canonicalFormula:r,parameters:i}}));export{a as n,o as t};
+//# sourceMappingURL=type-a1e52313e3482.js.map

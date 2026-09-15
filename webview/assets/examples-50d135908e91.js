@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`electrolyte: copper(II) sulfate`,initialValues:{electrolyte:`copper(II) sulfate`}}]}))();export{t as default};
+//# sourceMappingURL=examples-50d135908e91.js.map

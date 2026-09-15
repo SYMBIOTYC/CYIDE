@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`alcohol_class: secondary`,initialValues:{alcohol_class:`secondary`}},{name:`alcohol_class: tertiary`,initialValues:{alcohol_class:`tertiary`}},{name:`oxidation_conditions: strong-aqueous`,initialValues:{oxidation_conditions:`strong-aqueous`}}]}))();export{t as default};
+//# sourceMappingURL=examples-6f0ba02aa3b8.js.map

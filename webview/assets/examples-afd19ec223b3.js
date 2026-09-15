@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`pollination_type: self-pollination`,initialValues:{pollination_type:`self-pollination`}}]}))();export{t as default};
+//# sourceMappingURL=examples-afd19ec223b3.js.map

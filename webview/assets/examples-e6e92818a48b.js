@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{deltaGKilojoulesPerMole:-50}},{name:`Maximum supported values`,initialValues:{deltaGKilojoulesPerMole:50}}]}))();export{t as default};
+//# sourceMappingURL=examples-e6e92818a48b.js.map

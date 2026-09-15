@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-5f7776b04043.js";var r,i=e((()=>{t(),r=n(`PilcrowLeft`,[[`path`,{d:`M14 3v11`,key:`mlfb7b`}],[`path`,{d:`M14 9h-3a3 3 0 0 1 0-6h9`,key:`1ulc19`}],[`path`,{d:`M18 3v11`,key:`1phi0r`}],[`path`,{d:`M22 18H2l4-4`,key:`yt65j9`}],[`path`,{d:`m6 22-4-4`,key:`6jgyf5`}]])}));export{i as n,r as t};
+//# sourceMappingURL=pilcrow-left-BmoOPDAj-2c5a79247b41.js.map

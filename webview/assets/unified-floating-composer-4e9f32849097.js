@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{MG as t,oG as n}from"./app-initial-c027c57a4b11.js";import{Q8 as r,q8 as i}from"./app-initial-972655adec02.js";var a,o=e((()=>{n(),r(),a=t(i,()=>!1)}));export{a as n,o as t};
+//# sourceMappingURL=unified-floating-composer-4e9f32849097.js.map

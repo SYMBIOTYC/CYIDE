@@ -1,0 +1,1 @@
+import{ov as e,sv as t}from"./app-initial-972655adec02.js";e();export{t as openImagePreviewTab};

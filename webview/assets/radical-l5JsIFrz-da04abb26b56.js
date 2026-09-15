@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-5f7776b04043.js";var r,i=e((()=>{t(),r=n(`Radical`,[[`path`,{d:`M3 12h3.28a1 1 0 0 1 .948.684l2.298 7.934a.5.5 0 0 0 .96-.044L13.82 4.771A1 1 0 0 1 14.792 4H21`,key:`1mqj8i`}]])}));export{i as n,r as t};
+//# sourceMappingURL=radical-l5JsIFrz-da04abb26b56.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_addition: anti-halogenation`,initialValues:{initial_addition:`anti-halogenation`}},{name:`initial_addition: nonstereospecific-hydrohalogenation`,initialValues:{initial_addition:`nonstereospecific-hydrohalogenation`}}]}))();export{t as default};
+//# sourceMappingURL=examples-1ba137c5909d.js.map

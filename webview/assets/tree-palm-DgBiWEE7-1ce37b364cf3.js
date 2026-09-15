@@ -1,0 +1,1 @@
+import{n as e,t}from"./tree-palm-DgBiWEE7-34e48e2120ae.js";e();export{t as default};

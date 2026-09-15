@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{content:`\\varepsilon = -\\frac{d\\Phi}{dt}`},{content:`\\epsilon = -N\\frac{d\\Phi_B}{dt}`},{content:`\\boxed{\\varepsilon = -\\frac{d\\Phi}{dt}}`}]}))();export{t as default};
+//# sourceMappingURL=examples-b7b13c7952a0.js.map

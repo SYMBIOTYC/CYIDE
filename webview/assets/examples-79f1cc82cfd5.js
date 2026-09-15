@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initiating_signal: extrinsic`,initialValues:{initiating_signal:`extrinsic`}}]}))();export{t as default};
+//# sourceMappingURL=examples-79f1cc82cfd5.js.map

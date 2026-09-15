@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`focus_band: radio`,initialValues:{focus_band:`radio`}},{name:`focus_band: microwave`,initialValues:{focus_band:`microwave`}},{name:`focus_band: infrared`,initialValues:{focus_band:`infrared`}},{name:`focus_band: ultraviolet`,initialValues:{focus_band:`ultraviolet`}},{name:`focus_band: x-ray`,initialValues:{focus_band:`x-ray`}},{name:`focus_band: gamma-ray`,initialValues:{focus_band:`gamma-ray`}}]}))();export{t as default};
+//# sourceMappingURL=examples-de049d80b9b0.js.map
