@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{initialDepositUsd:100,reserveRatioPercent:5}},{name:`Maximum supported values`,initialValues:{initialDepositUsd:2e3,reserveRatioPercent:50}}]}))();export{t as default};
+//# sourceMappingURL=examples-d4970ab81b6c.js.map

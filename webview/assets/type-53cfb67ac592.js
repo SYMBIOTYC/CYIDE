@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`ENERGY_PYRAMID`,n=`energy-pyramid-v2`,r={producer_energy:{kind:`number`,defaultValue:1e4,min:1e3,max:1e5},transfer_efficiency_percent:{kind:`number`,defaultValue:10,min:5,max:20}},i={type:t,version:3,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-53cfb67ac592.js.map

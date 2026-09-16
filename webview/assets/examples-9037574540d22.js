@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`effect: founder`,initialValues:{effect:`founder`}}]}))();export{t as default};
+//# sourceMappingURL=examples-9037574540d22.js.map

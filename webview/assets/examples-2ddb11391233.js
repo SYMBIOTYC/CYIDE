@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{standard_cell_potential_volts:-.3,electrons_transferred:1,temperature_kelvin:250}},{name:`Maximum supported values`,initialValues:{standard_cell_potential_volts:.3,electrons_transferred:6,temperature_kelvin:400}},{name:`Thermodynamic boundary`,initialValues:{standard_cell_potential_volts:0,electrons_transferred:2,temperature_kelvin:298.15}}]}))();export{t as default};
+//# sourceMappingURL=examples-2ddb11391233.js.map

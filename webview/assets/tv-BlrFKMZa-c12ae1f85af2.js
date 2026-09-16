@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-5f7776b04043.js";var r,i=e((()=>{t(),r=n(`Tv`,[[`rect`,{width:`20`,height:`15`,x:`2`,y:`7`,rx:`2`,ry:`2`,key:`10ag99`}],[`polyline`,{points:`17 2 12 7 7 2`,key:`11pgbg`}]])}));export{r as n,i as t};
+//# sourceMappingURL=tv-BlrFKMZa-c12ae1f85af2.js.map

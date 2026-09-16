@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_fuel_pathway: oil-and-natural-gas`,initialValues:{initial_fuel_pathway:`oil-and-natural-gas`}}]}))();export{t as default};
+//# sourceMappingURL=examples-3cb8cbe8bc10.js.map

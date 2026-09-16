@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a,o=e((()=>{t=`GHK_MEMBRANE_POTENTIAL`,n=`ghk-membrane-potential-v1`,r=`P_{\\mathrm{ion}}\\uparrow \\Rightarrow V_m \\to E_{\\mathrm{ion}}`,i={sodiumToPotassiumPermeabilityRatio:{kind:`number`,defaultValue:.04,min:0,max:1},chlorideToPotassiumPermeabilityRatio:{kind:`number`,defaultValue:.45,min:0,max:1}},a={type:t,version:1,thumbnailAssetKey:n,canonicalFormula:r,parameters:i}}));export{a as n,o as t};
+//# sourceMappingURL=type-71c488ae40e3.js.map

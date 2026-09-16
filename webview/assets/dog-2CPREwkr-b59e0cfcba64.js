@@ -1,0 +1,1 @@
+import{n as e,t}from"./dog-2CPREwkr-79deb1820fe0.js";t();export{e as default};
