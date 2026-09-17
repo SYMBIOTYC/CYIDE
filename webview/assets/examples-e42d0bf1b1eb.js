@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{initial_concentration_molar:.1}},{name:`Maximum supported values`,initialValues:{initial_concentration_molar:.25}}]}))();export{t as default};
+//# sourceMappingURL=examples-e42d0bf1b1eb.js.map

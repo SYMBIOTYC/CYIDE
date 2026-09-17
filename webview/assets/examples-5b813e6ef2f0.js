@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`cell_type: plant`,initialValues:{cell_type:`plant`}}]}))();export{t as default};
+//# sourceMappingURL=examples-5b813e6ef2f0.js.map

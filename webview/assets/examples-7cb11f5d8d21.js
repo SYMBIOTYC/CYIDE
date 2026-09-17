@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{initial_moles:.25}},{name:`Maximum supported values`,initialValues:{initial_moles:5}},{name:`substance: carbon`,initialValues:{substance:`carbon`}},{name:`substance: water`,initialValues:{substance:`water`}}]}))();export{t as default};
+//# sourceMappingURL=examples-7cb11f5d8d21.js.map

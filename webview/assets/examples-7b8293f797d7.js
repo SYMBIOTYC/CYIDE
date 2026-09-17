@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{equilibrium_constant:.25,initial_total_concentration:.5}},{name:`Maximum supported values`,initialValues:{equilibrium_constant:4,initial_total_concentration:2}}]}))();export{t as default};
+//# sourceMappingURL=examples-7b8293f797d7.js.map

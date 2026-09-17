@@ -1,0 +1,1 @@
+import{n as e,t}from"./git-commit-horizontal-CQFhAIEY-81090cc3e2f3.js";e();export{t as default};

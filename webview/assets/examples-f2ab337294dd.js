@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`workload: spaced`,initialValues:{workload:`spaced`}}]}))();export{t as default};
+//# sourceMappingURL=examples-f2ab337294dd.js.map

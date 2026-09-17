@@ -1,0 +1,1 @@
+import{n as e,t}from"./thumbnail-133a937c234a.js";e();export{t as CreateTextFileThumbnail};

@@ -1,0 +1,1 @@
+import{n as e,t}from"./details-29c5a68a06b3.js";e();export{t as SkillDetails};

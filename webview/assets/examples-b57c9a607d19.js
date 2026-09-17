@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{producer_energy:1e3,transfer_efficiency_percent:5}},{name:`Maximum supported values`,initialValues:{producer_energy:1e5,transfer_efficiency_percent:20}},{name:`High producer energy, low transfer`,initialValues:{producer_energy:1e5,transfer_efficiency_percent:5}}]}))();export{t as default};
+//# sourceMappingURL=examples-b57c9a607d19.js.map

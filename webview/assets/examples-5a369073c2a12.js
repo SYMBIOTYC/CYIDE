@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`axis: adrenal`,initialValues:{axis:`adrenal`}}]}))();export{t as default};
+//# sourceMappingURL=examples-5a369073c2a12.js.map

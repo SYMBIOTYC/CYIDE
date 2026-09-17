@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`operation: delete`,initialValues:{operation:`delete`}}]}))();export{t as default};
+//# sourceMappingURL=examples-34a722b0456c.js.map

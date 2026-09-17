@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-5f7776b04043.js";var r,i=e((()=>{t(),r=n(`AlignVerticalJustifyStart`,[[`rect`,{width:`14`,height:`6`,x:`5`,y:`16`,rx:`2`,key:`1i8z2d`}],[`rect`,{width:`10`,height:`6`,x:`7`,y:`6`,rx:`2`,key:`13squh`}],[`path`,{d:`M2 2h20`,key:`1ennik`}]])}));export{i as n,r as t};
+//# sourceMappingURL=align-vertical-justify-start-BmlZZKFk-afbf90c778b8.js.map

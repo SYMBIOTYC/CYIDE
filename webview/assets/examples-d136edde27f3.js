@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{acidVolumeMl:0}},{name:`Maximum supported values`,initialValues:{acidVolumeMl:20}},{name:`experiment: strong-weak`,initialValues:{experiment:`strong-weak`}},{name:`experiment: weak-strong`,initialValues:{experiment:`weak-strong`}}]}))();export{t as default};
+//# sourceMappingURL=examples-d136edde27f3.js.map
