@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./dist-29fa20a98bfe.js";e();export{t as javascript};

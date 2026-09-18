@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_time_span: paleoclimate`,initialValues:{initial_time_span:`paleoclimate`}}]}))();export{t as default};
+//# sourceMappingURL=examples-3d67ac0e920e.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./indent-decrease-BT9h9FP_-bd62c8711b45.js";e((()=>{t()}))();export{n as default};
+//# sourceMappingURL=outdent-Bj0bsGIh-64e5c833f9d8.js.map

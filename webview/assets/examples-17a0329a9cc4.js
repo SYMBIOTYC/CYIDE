@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{temperature_kelvin:200,molar_mass_g_per_mol:4}},{name:`Maximum supported values`,initialValues:{temperature_kelvin:800,molar_mass_g_per_mol:80}},{name:`Helium at room temperature`,initialValues:{temperature_kelvin:300,molar_mass_g_per_mol:4}}]}))();export{t as default};
+//# sourceMappingURL=examples-17a0329a9cc4.js.map

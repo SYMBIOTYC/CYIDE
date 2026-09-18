@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`PIANO_CHORD_CHART`,n=`piano-chord-chart-v2`,r={root_note:{kind:`enum`,defaultValue:`C`,allowedValues:[`C`,`Db`,`D`,`Eb`,`E`,`F`,`F#`,`G`,`Ab`,`A`,`Bb`,`B`]},quality:{kind:`enum`,defaultValue:`major`,allowedValues:[`major`,`minor`]}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-6d8faf15e6be.js.map

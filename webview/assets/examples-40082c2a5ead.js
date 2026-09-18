@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_condition: normal`,initialValues:{initial_condition:`normal`}},{name:`initial_condition: increased osmolality`,initialValues:{initial_condition:`increased osmolality`}}]}))();export{t as default};
+//# sourceMappingURL=examples-40082c2a5ead.js.map

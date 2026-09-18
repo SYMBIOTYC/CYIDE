@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-5f7776b04043.js";var r,i=e((()=>{t(),r=n(`ChevronsDown`,[[`path`,{d:`m7 6 5 5 5-5`,key:`1lc07p`}],[`path`,{d:`m7 13 5 5 5-5`,key:`1d48rs`}]])}));export{r as n,i as t};
+//# sourceMappingURL=chevrons-down-BczU7bP0-ab6d424af0fd.js.map

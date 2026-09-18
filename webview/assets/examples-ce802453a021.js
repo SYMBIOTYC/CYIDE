@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initialOrder: reversed`,initialValues:{initialOrder:`reversed`}},{name:`initialOrder: nearly_sorted`,initialValues:{initialOrder:`nearly_sorted`}},{name:`initialOrder: few_swaps`,initialValues:{initialOrder:`few_swaps`}}]}))();export{t as default};
+//# sourceMappingURL=examples-ce802453a021.js.map

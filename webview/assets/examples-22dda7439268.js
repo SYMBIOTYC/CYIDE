@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`comparison: inductive`,initialValues:{comparison:`inductive`}},{name:`comparison: atom-trend`,initialValues:{comparison:`atom-trend`}},{name:`comparison: hybridization`,initialValues:{comparison:`hybridization`}}]}))();export{t as default};
+//# sourceMappingURL=examples-22dda7439268.js.map

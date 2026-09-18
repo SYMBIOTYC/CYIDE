@@ -1,0 +1,1 @@
+import{n as e,t}from"./snail-CZurTOga-3c71856b817e.js";t();export{e as default};

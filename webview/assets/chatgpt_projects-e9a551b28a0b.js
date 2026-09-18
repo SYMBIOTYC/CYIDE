@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t={$type:`protobuf_analytics_events.v1.ChatgptProjectSettingsOpened`},n={$type:`protobuf_analytics_events.v1.ChatgptProjectSettingsSaveInitiated`},r={$type:`protobuf_analytics_events.v1.ChatgptProjectSettingsSaveCompleted`},i={$type:`protobuf_analytics_events.v1.ChatgptProjectSettingsSaveFailed`}}));export{a,n as i,r as n,i as r,t};
+//# sourceMappingURL=chatgpt_projects-e9a551b28a0b.js.map

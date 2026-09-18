@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_stage: seedling`,initialValues:{initial_stage:`seedling`}},{name:`initial_stage: mature flowering plant`,initialValues:{initial_stage:`mature flowering plant`}},{name:`initial_stage: pollination`,initialValues:{initial_stage:`pollination`}},{name:`initial_stage: seed formation`,initialValues:{initial_stage:`seed formation`}},{name:`initial_stage: seed dispersal`,initialValues:{initial_stage:`seed dispersal`}}]}))();export{t as default};
+//# sourceMappingURL=examples-5345dd8344ae.js.map
