@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`example_context: date-code`,initialValues:{example_context:`date-code`}},{name:`example_context: location-code`,initialValues:{example_context:`location-code`}},{name:`initial_function: LEFT`,initialValues:{initial_function:`LEFT`}},{name:`initial_function: RIGHT`,initialValues:{initial_function:`RIGHT`}}]}))();export{t as default};
+//# sourceMappingURL=examples-2028865d7cd6.js.map

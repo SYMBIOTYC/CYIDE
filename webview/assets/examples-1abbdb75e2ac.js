@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`outlierMode: with`,initialValues:{outlierMode:`with`}}]}))();export{t as default};
+//# sourceMappingURL=examples-1abbdb75e2ac.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_goal: authenticity`,initialValues:{initial_goal:`authenticity`}}]}))();export{t as default};
+//# sourceMappingURL=examples-2e389f260649.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_trend: first ionization energy`,initialValues:{initial_trend:`first ionization energy`}},{name:`initial_trend: electronegativity`,initialValues:{initial_trend:`electronegativity`}}]}))();export{t as default};
+//# sourceMappingURL=examples-6ea6d0a62ae9.js.map

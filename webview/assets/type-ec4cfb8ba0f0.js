@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`REACTION_ORDER_PLOTS`,n=`reaction-order-plots-v1`,r={reaction_order:{kind:`enum`,defaultValue:`first-order`,allowedValues:[`zero-order`,`first-order`,`second-order`]}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-ec4cfb8ba0f0.js.map

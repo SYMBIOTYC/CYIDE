@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{relativeSubstrateConcentration:0}},{name:`Maximum supported values`,initialValues:{relativeSubstrateConcentration:10}},{name:`inhibitorLevel: none`,initialValues:{inhibitorLevel:`none`}},{name:`inhibitorLevel: high`,initialValues:{inhibitorLevel:`high`}}]}))();export{t as default};
+//# sourceMappingURL=examples-7d990b70578d.js.map

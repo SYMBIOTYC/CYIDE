@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`calciumCondition: high`,initialValues:{calciumCondition:`high`}}]}))();export{t as default};
+//# sourceMappingURL=examples-1c6ec65c7be1.js.map

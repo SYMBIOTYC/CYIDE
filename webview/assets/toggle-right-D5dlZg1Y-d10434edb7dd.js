@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-5f7776b04043.js";var r,i=e((()=>{t(),r=n(`ToggleRight`,[[`rect`,{width:`20`,height:`12`,x:`2`,y:`6`,rx:`6`,ry:`6`,key:`f2vt7d`}],[`circle`,{cx:`16`,cy:`12`,r:`2`,key:`4ma0v8`}]])}));export{i as n,r as t};
+//# sourceMappingURL=toggle-right-D5dlZg1Y-d10434edb7dd.js.map

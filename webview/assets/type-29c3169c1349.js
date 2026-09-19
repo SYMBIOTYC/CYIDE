@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`SOIL_TEXTURE_TRIANGLE`,n=`soil-texture-triangle-v1`,r={sand_percent:{kind:`number`,defaultValue:40,min:0,max:100},clay_percent:{kind:`number`,defaultValue:20,min:0,max:100}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-29c3169c1349.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-5f7776b04043.js";var r,i=e((()=>{t(),r=n(`SquareSplitHorizontal`,[[`path`,{d:`M8 19H5c-1 0-2-1-2-2V7c0-1 1-2 2-2h3`,key:`lubmu8`}],[`path`,{d:`M16 5h3c1 0 2 1 2 2v10c0 1-1 2-2 2h-3`,key:`1ag34g`}],[`line`,{x1:`12`,x2:`12`,y1:`4`,y2:`20`,key:`1tx1rr`}]])}));export{i as n,r as t};
+//# sourceMappingURL=square-split-horizontal-DnBHrayW-3efcae37bb34.js.map
