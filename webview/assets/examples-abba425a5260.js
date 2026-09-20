@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_distribution: wider middle spread`,initialValues:{initial_distribution:`wider middle spread`}},{name:`initial_distribution: right-skewed`,initialValues:{initial_distribution:`right-skewed`}},{name:`initial_distribution: left-skewed`,initialValues:{initial_distribution:`left-skewed`}},{name:`initial_distribution: possible outlier`,initialValues:{initial_distribution:`possible outlier`}}]}))();export{t as default};
+//# sourceMappingURL=examples-abba425a5260.js.map

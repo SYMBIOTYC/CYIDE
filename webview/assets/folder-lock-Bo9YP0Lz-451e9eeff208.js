@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-5f7776b04043.js";var r,i=e((()=>{t(),r=n(`FolderLock`,[[`rect`,{width:`8`,height:`5`,x:`14`,y:`17`,rx:`1`,key:`19aais`}],[`path`,{d:`M10 20H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2v2.5`,key:`1w6v7t`}],[`path`,{d:`M20 17v-2a2 2 0 1 0-4 0v2`,key:`pwaxnr`}]])}));export{r as n,i as t};
+//# sourceMappingURL=folder-lock-Bo9YP0Lz-451e9eeff208.js.map

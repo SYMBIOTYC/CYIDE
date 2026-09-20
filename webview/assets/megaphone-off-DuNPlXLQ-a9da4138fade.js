@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-5f7776b04043.js";var r,i=e((()=>{t(),r=n(`MegaphoneOff`,[[`path`,{d:`M9.26 9.26 3 11v3l14.14 3.14`,key:`3429n`}],[`path`,{d:`M21 15.34V6l-7.31 2.03`,key:`4o1dh8`}],[`path`,{d:`M11.6 16.8a3 3 0 1 1-5.8-1.6`,key:`1yl0tm`}],[`line`,{x1:`2`,x2:`22`,y1:`2`,y2:`22`,key:`a6p6uj`}]])}));export{r as n,i as t};
+//# sourceMappingURL=megaphone-off-DuNPlXLQ-a9da4138fade.js.map

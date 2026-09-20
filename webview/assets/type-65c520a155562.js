@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`AGE_STRUCTURE_PYRAMID`,n=`age-structure-pyramid-v1`,r={initial_pattern:{kind:`enum`,defaultValue:`expansive`,allowedValues:[`expansive`,`stationary`,`constrictive`]}},i={type:t,version:3,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-65c520a155562.js.map

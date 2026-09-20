@@ -1,0 +1,1 @@
+import{n as e,t}from"./ruby-8df6127dee72.js";t();export{e as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{content:`Y = C + I + G`},{content:`Y = C + I + G + (X - M)`},{content:`Y = C + I + G + X - M`},{content:`Y = C + I + G + (Ex - Im)`},{content:`GDP = C + I + G + (X - M)`},{content:`GDP = C + I + G + NX`}]}))();export{t as default};
+//# sourceMappingURL=examples-81855b06b30b.js.map

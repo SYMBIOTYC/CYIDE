@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`polarity: negative`,initialValues:{polarity:`negative`}}]}))();export{t as default};
+//# sourceMappingURL=examples-694991288173.js.map

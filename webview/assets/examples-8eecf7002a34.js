@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_pattern: group-a-lower`,initialValues:{initial_pattern:`group-a-lower`}},{name:`initial_pattern: group-a-higher`,initialValues:{initial_pattern:`group-a-higher`}},{name:`initial_pattern: ties`,initialValues:{initial_pattern:`ties`}}]}))();export{t as default};
+//# sourceMappingURL=examples-8eecf7002a34.js.map

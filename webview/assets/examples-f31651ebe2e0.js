@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_breeze: land-breeze-night`,initialValues:{initial_breeze:`land-breeze-night`}}]}))();export{t as default};
+//# sourceMappingURL=examples-f31651ebe2e0.js.map

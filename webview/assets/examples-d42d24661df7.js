@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{standard_cell_potential_v:.1,transferred_electrons:1}},{name:`Maximum supported values`,initialValues:{standard_cell_potential_v:1.3,transferred_electrons:4}}]}))();export{t as default};
+//# sourceMappingURL=examples-d42d24661df7.js.map
