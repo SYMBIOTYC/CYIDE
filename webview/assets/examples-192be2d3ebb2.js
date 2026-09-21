@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`acid_proticity: triprotic`,initialValues:{acid_proticity:`triprotic`}},{name:`pka_spacing: close`,initialValues:{pka_spacing:`close`}}]}))();export{t as default};
+//# sourceMappingURL=examples-192be2d3ebb2.js.map

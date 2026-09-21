@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`instructionExample: add`,initialValues:{instructionExample:`add`}},{name:`instructionExample: branch`,initialValues:{instructionExample:`branch`}}]}))();export{t as default};
+//# sourceMappingURL=examples-36df0c601728.js.map

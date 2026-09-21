@@ -1,0 +1,1 @@
+import{XK as e,ZK as t}from"./app-initial-972655adec02.js";e();export{t as installPlugin};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-5f7776b04043.js";var r,i=e((()=>{t(),r=n(`Scale3d`,[[`circle`,{cx:`19`,cy:`19`,r:`2`,key:`17f5cg`}],[`circle`,{cx:`5`,cy:`5`,r:`2`,key:`1gwv83`}],[`path`,{d:`M5 7v12h12`,key:`vtaa4r`}],[`path`,{d:`m5 19 6-6`,key:`jh6hbb`}]])}));export{i as n,r as t};
+//# sourceMappingURL=scale-3d-CGqH8e7J-1e4cb4c090bd.js.map

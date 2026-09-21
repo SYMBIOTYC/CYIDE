@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-5f7776b04043.js";var r,i=e((()=>{t(),r=n(`Section`,[[`path`,{d:`M16 5a4 3 0 0 0-8 0c0 4 8 3 8 7a4 3 0 0 1-8 0`,key:`vqan6v`}],[`path`,{d:`M8 19a4 3 0 0 0 8 0c0-4-8-3-8-7a4 3 0 0 1 8 0`,key:`wdjd8o`}]])}));export{i as n,r as t};
+//# sourceMappingURL=section-DMj1b6lD-c5e3c3b7ccc4.js.map

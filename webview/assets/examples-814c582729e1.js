@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`successionType: secondary`,initialValues:{successionType:`secondary`}}]}))();export{t as default};
+//# sourceMappingURL=examples-814c582729e1.js.map

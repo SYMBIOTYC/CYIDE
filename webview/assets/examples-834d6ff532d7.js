@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{content:`solar system`},{content:`inner planets vs outer planets`},{content:`order of the planets`},{content:`what is the largest planet`},{content:`saturn rings`},{content:`orbiting the sun`},{content:`distance from the sun for each planet`},{content:`tell me about mars`}]}))();export{t as default};
+//# sourceMappingURL=examples-834d6ff532d7.js.map

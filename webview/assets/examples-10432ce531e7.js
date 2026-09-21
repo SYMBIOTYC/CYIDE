@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`compound: carbon dioxide`,initialValues:{compound:`carbon dioxide`}},{name:`compound: sodium chloride`,initialValues:{compound:`sodium chloride`}}]}))();export{t as default};
+//# sourceMappingURL=examples-10432ce531e7.js.map

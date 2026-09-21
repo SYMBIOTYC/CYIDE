@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-5f7776b04043.js";var r,i=e((()=>{t(),r=n(`ScreenShareOff`,[[`path`,{d:`M13 3H4a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-3`,key:`i8wdob`}],[`path`,{d:`M8 21h8`,key:`1ev6f3`}],[`path`,{d:`M12 17v4`,key:`1riwvh`}],[`path`,{d:`m22 3-5 5`,key:`12jva0`}],[`path`,{d:`m17 3 5 5`,key:`k36vhe`}]])}));export{i as n,r as t};
+//# sourceMappingURL=screen-share-off-BeSIsqs5-08174b77e0be.js.map

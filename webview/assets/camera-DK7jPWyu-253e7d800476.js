@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-5f7776b04043.js";var r,i=e((()=>{t(),r=n(`Camera`,[[`path`,{d:`M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3l-2.5-3z`,key:`1tc9qg`}],[`circle`,{cx:`12`,cy:`13`,r:`3`,key:`1vg3eu`}]])}));export{i as n,r as t};
+//# sourceMappingURL=camera-DK7jPWyu-253e7d800476.js.map
