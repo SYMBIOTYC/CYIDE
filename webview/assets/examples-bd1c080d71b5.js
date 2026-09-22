@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`ecosystem: pond`,initialValues:{ecosystem:`pond`}},{name:`ecosystem: ocean`,initialValues:{ecosystem:`ocean`}}]}))();export{t as default};
+//# sourceMappingURL=examples-bd1c080d71b5.js.map

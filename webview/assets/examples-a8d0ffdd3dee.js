@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{priceElasticityOfDemand:0}},{name:`Maximum supported values`,initialValues:{priceElasticityOfDemand:3}}]}))();export{t as default};
+//# sourceMappingURL=examples-a8d0ffdd3dee.js.map

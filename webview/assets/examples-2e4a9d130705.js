@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`Minimum supported values`,initialValues:{heatKj:0}},{name:`Maximum supported values`,initialValues:{heatKj:60}},{name:`material: copper`,initialValues:{material:`copper`}},{name:`material: sand`,initialValues:{material:`sand`}}]}))();export{t as default};
+//# sourceMappingURL=examples-2e4a9d130705.js.map

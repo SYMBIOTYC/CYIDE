@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`GDP_VALUE_DOUBLE_COUNTING`,n=`gdp-value-double-counting-v3`,r={countMode:{kind:`enum`,defaultValue:`sales`,allowedValues:[`sales`,`valueAdded`]}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-a60ccc0fe3ce.js.map

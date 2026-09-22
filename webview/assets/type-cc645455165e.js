@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`MUSICAL_INTERVAL_CHART`,n=`musical-interval-chart-v2`,r={lower_note:{kind:`enum`,defaultValue:`C`,allowedValues:[`C`,`C-sharp`,`D-flat`,`D`,`E-flat`,`E`,`F`,`F-sharp`,`G-flat`,`G`,`A-flat`,`A`,`B-flat`,`B`]}},i={type:t,version:3,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-cc645455165e.js.map

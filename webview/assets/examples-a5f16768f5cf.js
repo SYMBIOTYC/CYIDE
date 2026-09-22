@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`contaminant: methylmercury`,initialValues:{contaminant:`methylmercury`}},{name:`contaminant: PCBs`,initialValues:{contaminant:`PCBs`}}]}))();export{t as default};
+//# sourceMappingURL=examples-a5f16768f5cf.js.map

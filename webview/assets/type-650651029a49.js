@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t,n,r,i,a=e((()=>{t=`SIMILAR_TRIANGLES`,n=`similar-triangles-v1`,r={scale:{kind:`number`,defaultValue:1.4,min:.5,max:2}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}}));export{i as n,a as t};
+//# sourceMappingURL=type-650651029a49.js.map

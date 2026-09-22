@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";import{Kit as t,tat as n}from"./app-initial-c027c57a4b11.js";import{br as r,yr as i}from"./app-initial-84c784f5e305.js";function a(e){let t=(0,o.c)(3),{children:n}=e,r;t[0]===Symbol.for(`react.memo_cache_sentinel`)?(r=(0,s.jsx)(i,{showWhenUnseen:!0}),t[0]=r):r=t[0];let a;return t[1]===n?a=t[2]:(a=(0,s.jsxs)(s.Fragment,{children:[n,r]}),t[1]=n,t[2]=a),a}var o,s;e((()=>{o=n(),r(),s=t()}))();export{a as AppgenPublicationTermsRoute};
+//# sourceMappingURL=appgen-publication-terms-route-c5d796f315da.js.map

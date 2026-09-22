@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-stack-DUHO9c98-ddd16d8edbc3.js";t();export{e as default};

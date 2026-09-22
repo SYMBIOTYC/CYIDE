@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-c05d78c594d1.js";var t;e((()=>{t=[{name:`initial_phase: La Niña`,initialValues:{initial_phase:`La Niña`}},{name:`initial_phase: El Niño`,initialValues:{initial_phase:`El Niño`}}]}))();export{t as default};
+//# sourceMappingURL=examples-ce6c250d8510.js.map
