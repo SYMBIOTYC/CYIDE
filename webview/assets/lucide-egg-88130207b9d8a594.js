@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-4ce6ad78f61c9c3c.js";var r;function i(){return(i=e((()=>{t(),r=n(`Egg`,[[`path`,{d:`M12 22c6.23-.05 7.87-5.57 7.5-10-.36-4.34-3.95-9.96-7.5-10-3.55.04-7.14 5.66-7.5 10-.37 4.43 1.27 9.95 7.5 10z`,key:`1c39pg`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-egg-88130207b9d8a594.js.map

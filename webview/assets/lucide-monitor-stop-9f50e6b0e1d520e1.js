@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-4ce6ad78f61c9c3c.js";var r;function i(){return(i=e((()=>{t(),r=n(`MonitorStop`,[[`path`,{d:`M12 17v4`,key:`1riwvh`}],[`path`,{d:`M8 21h8`,key:`1ev6f3`}],[`rect`,{x:`2`,y:`3`,width:`20`,height:`14`,rx:`2`,key:`x3v2xh`}],[`rect`,{x:`9`,y:`7`,width:`6`,height:`6`,rx:`1`,key:`5m2oou`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-monitor-stop-9f50e6b0e1d520e1.js.map

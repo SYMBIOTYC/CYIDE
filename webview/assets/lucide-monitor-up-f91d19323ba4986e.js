@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-4ce6ad78f61c9c3c.js";var r;function i(){return(i=e((()=>{t(),r=n(`MonitorUp`,[[`path`,{d:`m9 10 3-3 3 3`,key:`11gsxs`}],[`path`,{d:`M12 13V7`,key:`h0r20n`}],[`rect`,{width:`20`,height:`14`,x:`2`,y:`3`,rx:`2`,key:`48i651`}],[`path`,{d:`M12 17v4`,key:`1riwvh`}],[`path`,{d:`M8 21h8`,key:`1ev6f3`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-monitor-up-f91d19323ba4986e.js.map

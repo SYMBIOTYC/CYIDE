@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-4ce6ad78f61c9c3c.js";var r;function i(){return(i=e((()=>{t(),r=n(`CircleGauge`,[[`path`,{d:`M15.6 2.7a10 10 0 1 0 5.7 5.7`,key:`1e0p6d`}],[`circle`,{cx:`12`,cy:`12`,r:`2`,key:`1c9p78`}],[`path`,{d:`M13.4 10.6 19 5`,key:`1kr7tw`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-circle-gauge-fd1a2e4773f1d5e0.js.map

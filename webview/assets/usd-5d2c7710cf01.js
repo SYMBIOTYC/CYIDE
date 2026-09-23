@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e,t,n=!1){let r=Math.abs(e);return t.formatNumber(e,{style:`currency`,currency:`USD`,notation:n?`compact`:`standard`,minimumFractionDigits:n&&r>=1e3?0:2,maximumFractionDigits:2,maximumSignificantDigits:r>0&&r<.01?3:void 0})}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=usd-5d2c7710cf01.js.map

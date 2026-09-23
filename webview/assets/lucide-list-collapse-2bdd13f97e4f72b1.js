@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-4ce6ad78f61c9c3c.js";var r;function i(){return(i=e((()=>{t(),r=n(`ListCollapse`,[[`path`,{d:`m3 10 2.5-2.5L3 5`,key:`i6eama`}],[`path`,{d:`m3 19 2.5-2.5L3 14`,key:`w2gmor`}],[`path`,{d:`M10 6h11`,key:`c7qv1k`}],[`path`,{d:`M10 12h11`,key:`6m4ad9`}],[`path`,{d:`M10 18h11`,key:`11hvi2`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-list-collapse-2bdd13f97e4f72b1.js.map

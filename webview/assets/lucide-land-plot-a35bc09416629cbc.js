@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-land-plot-b2cf7022542beb9e.js";e();export{t as default};

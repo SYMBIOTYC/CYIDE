@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-function-BMB2MgCs-b082a0650f62.js";e();export{t as default};

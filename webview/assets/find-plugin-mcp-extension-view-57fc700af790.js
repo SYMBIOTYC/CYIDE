@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Llt as t,zlt as n}from"./app-initial-c21e521188d8.js";import{FX as r,jX as i}from"./app-initial-f191f228bf6e.js";function a(e,n){return e==null?null:n.find(n=>{let r=t(n);if(r!=null)return e.apps.some(e=>e.id===r);if(n.pluginId!==void 0)return n.pluginId===e.summary.id;let a=i(n.server);return e.mcpServers.some(e=>i(e)===a)})??null}function o(){return(o=e((()=>{n(),r()})))()}export{o as n,a as t};
+//# sourceMappingURL=find-plugin-mcp-extension-view-57fc700af790.js.map

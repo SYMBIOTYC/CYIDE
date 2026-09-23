@@ -1,0 +1,1 @@
+import"./app-initial-875cab2118dd.js";import{aY as e,iY as t,nY as n,rY as r,tY as i}from"./app-initial-f191f228bf6e.js";i();export{n as revealNewChat,r as shouldDefaultNewConversationsToWork,t as startNewConversation,e as useStartNewConversation};

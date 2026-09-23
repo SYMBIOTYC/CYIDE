@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-4ce6ad78f61c9c3c.js";var r;function i(){return(i=e((()=>{t(),r=n(`Percent`,[[`line`,{x1:`19`,x2:`5`,y1:`5`,y2:`19`,key:`1x9vlm`}],[`circle`,{cx:`6.5`,cy:`6.5`,r:`2.5`,key:`4mh3h7`}],[`circle`,{cx:`17.5`,cy:`17.5`,r:`2.5`,key:`1mdrzq`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-percent-3d61e83bce77a1d6.js.map

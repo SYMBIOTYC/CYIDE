@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-d4bb1520bb79.js";var r;function i(){return(i=e((()=>{t(),r=n(`Brackets`,[[`path`,{d:`M16 3h3v18h-3`,key:`1yor1f`}],[`path`,{d:`M8 21H5V3h3`,key:`1qrfwo`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=brackets-C8Ed-gl8-5a4d92adaf36.js.map

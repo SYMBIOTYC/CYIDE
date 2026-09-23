@@ -1,0 +1,1 @@
+import{n as e,t}from"./table-columns-split-DRLgjlpr-61ab9d8429f2.js";e();export{t as default};

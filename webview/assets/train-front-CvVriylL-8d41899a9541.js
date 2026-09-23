@@ -1,0 +1,1 @@
+import{n as e,t}from"./train-front-CvVriylL-95d5ff9a1c5d.js";e();export{t as default};

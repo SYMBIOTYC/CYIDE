@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-4ce6ad78f61c9c3c.js";var r;function i(){return(i=e((()=>{t(),r=n(`BatteryCharging`,[[`path`,{d:`M15 7h1a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2h-2`,key:`1sdynx`}],[`path`,{d:`M6 7H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h1`,key:`1gkd3k`}],[`path`,{d:`m11 7-3 5h4l-3 5`,key:`b4a64w`}],[`line`,{x1:`22`,x2:`22`,y1:`11`,y2:`13`,key:`4dh1rd`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-battery-charging-5b0d7928f039a34e.js.map

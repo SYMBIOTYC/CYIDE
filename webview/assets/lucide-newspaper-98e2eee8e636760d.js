@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-4ce6ad78f61c9c3c.js";var r;function i(){return(i=e((()=>{t(),r=n(`Newspaper`,[[`path`,{d:`M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2`,key:`7pis2x`}],[`path`,{d:`M18 14h-8`,key:`sponae`}],[`path`,{d:`M15 18h-5`,key:`95g1m2`}],[`path`,{d:`M10 6h8v4h-8V6Z`,key:`smlsk5`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-newspaper-98e2eee8e636760d.js.map

@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime-2d059c5e81f4.js";import{FS as t}from"./app-initial-875cab2118dd.js";var n=e(((e,n)=>{n.exports=t()(function(e,t,n){e[+!n].push(t)},function(){return[[],[]]})}));export{n as t};
+//# sourceMappingURL=partition-d77d12f52240.js.map

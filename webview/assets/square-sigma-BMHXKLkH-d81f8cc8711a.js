@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-sigma-BMHXKLkH-209057ec41d0.js";t();export{e as default};

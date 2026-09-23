@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-d4bb1520bb79.js";var r;function i(){return(i=e((()=>{t(),r=n(`ChartColumnDecreasing`,[[`path`,{d:`M13 17V9`,key:`1fwyjl`}],[`path`,{d:`M18 17v-3`,key:`1sqioe`}],[`path`,{d:`M3 3v16a2 2 0 0 0 2 2h16`,key:`c24i48`}],[`path`,{d:`M8 17V5`,key:`1wzmnc`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=chart-column-decreasing-Bn5vZw5G-6f29acb8120c.js.map

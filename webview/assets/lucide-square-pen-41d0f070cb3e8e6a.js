@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-square-pen-9b23d1f6ec0ae56d.js";e();export{t as default};

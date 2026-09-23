@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-shield-ban-4161769ec11646f6.js";e();export{t as default};

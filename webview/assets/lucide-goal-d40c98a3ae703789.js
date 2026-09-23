@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-goal-1a0e6edf36c47a6c.js";e();export{t as default};

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-cigarette-d2b51380862af81b.js";e();export{t as default};

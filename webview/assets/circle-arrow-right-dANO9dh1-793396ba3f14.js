@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-d4bb1520bb79.js";var r;function i(){return(i=e((()=>{t(),r=n(`CircleArrowRight`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`path`,{d:`M8 12h8`,key:`1wcyev`}],[`path`,{d:`m12 16 4-4-4-4`,key:`1i9zcv`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=circle-arrow-right-dANO9dh1-793396ba3f14.js.map

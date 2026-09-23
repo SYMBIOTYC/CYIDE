@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-4ce6ad78f61c9c3c.js";var r;function i(){return(i=e((()=>{t(),r=n(`LampDesk`,[[`path`,{d:`m14 5-3 3 2 7 8-8-7-2Z`,key:`1b0msb`}],[`path`,{d:`m14 5-3 3-3-3 3-3 3 3Z`,key:`1uemms`}],[`path`,{d:`M9.5 6.5 4 12l3 6`,key:`1bx08v`}],[`path`,{d:`M3 22v-2c0-1.1.9-2 2-2h4a2 2 0 0 1 2 2v2H3Z`,key:`wap775`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-lamp-desk-e1b16f9734590ae5.js.map

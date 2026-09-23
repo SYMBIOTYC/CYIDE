@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Oet as t,jet as n,ket as r}from"./app-initial-875cab2118dd.js";function i({update:e,motionValues:n}){let i=()=>{r.postRender(e)},a=n.map(e=>e?.on(`change`,i));return{scheduleUpdate:i,disconnect(){for(let e of a)e?.();t(e)}}}function a(){return(a=e((()=>{n()})))()}export{i as n,a as t};
+//# sourceMappingURL=observe-layout-motion-e30b9bdb8d16.js.map

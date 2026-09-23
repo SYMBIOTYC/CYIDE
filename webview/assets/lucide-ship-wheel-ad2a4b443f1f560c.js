@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-ship-wheel-97503f5aa9b790ac.js";e();export{t as default};

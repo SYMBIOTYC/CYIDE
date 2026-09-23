@@ -1,0 +1,1 @@
+import{n as e,t}from"./sailboat-DJ7tezH1-e32a9643047f.js";e();export{t as default};

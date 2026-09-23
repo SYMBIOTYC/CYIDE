@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-4ce6ad78f61c9c3c.js";var r;function i(){return(i=e((()=>{t(),r=n(`Touchpad`,[[`rect`,{width:`20`,height:`16`,x:`2`,y:`4`,rx:`2`,key:`18n3k1`}],[`path`,{d:`M2 14h20`,key:`myj16y`}],[`path`,{d:`M12 20v-6`,key:`1rm09r`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-touchpad-643627a83550a90b.js.map

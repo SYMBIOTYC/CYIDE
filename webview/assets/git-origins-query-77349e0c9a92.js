@@ -1,0 +1,1 @@
+import{d3 as e,u3 as t}from"./app-initial-f191f228bf6e.js";e();export{t as gitOriginsQuery$};

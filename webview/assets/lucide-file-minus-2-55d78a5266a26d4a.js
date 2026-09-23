@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-file-minus-2-38ef4667810e0a7f.js";e();export{t as default};

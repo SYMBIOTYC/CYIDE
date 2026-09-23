@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-ticket-percent-6160bb39ac84b976.js";e();export{t as default};

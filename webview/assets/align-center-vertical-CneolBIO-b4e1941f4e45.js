@@ -1,0 +1,1 @@
+import{n as e,t}from"./align-center-vertical-CneolBIO-f5e3009f0c8a.js";t();export{e as default};

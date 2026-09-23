@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-layout-template-e7cb5bf3edd163c0.js";e();export{t as default};

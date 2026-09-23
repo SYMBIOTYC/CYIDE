@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-4ce6ad78f61c9c3c.js";var r;function i(){return(i=e((()=>{t(),r=n(`ListTodo`,[[`rect`,{x:`3`,y:`5`,width:`6`,height:`6`,rx:`1`,key:`1defrl`}],[`path`,{d:`m3 17 2 2 4-4`,key:`1jhpwq`}],[`path`,{d:`M13 6h8`,key:`15sg57`}],[`path`,{d:`M13 12h8`,key:`h98zly`}],[`path`,{d:`M13 18h8`,key:`oe0vm4`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-list-todo-7da9baf2e608b92d.js.map

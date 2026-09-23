@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-4ce6ad78f61c9c3c.js";var r;function i(){return(i=e((()=>{t(),r=n(`Vibrate`,[[`path`,{d:`m2 8 2 2-2 2 2 2-2 2`,key:`sv1b1`}],[`path`,{d:`m22 8-2 2 2 2-2 2 2 2`,key:`101i4y`}],[`rect`,{width:`8`,height:`14`,x:`8`,y:`5`,rx:`1`,key:`1oyrl4`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-vibrate-0cb5c8ef469ace52.js.map

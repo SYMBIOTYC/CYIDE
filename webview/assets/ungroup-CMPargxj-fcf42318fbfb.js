@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-d4bb1520bb79.js";var r;function i(){return(i=e((()=>{t(),r=n(`Ungroup`,[[`rect`,{width:`8`,height:`6`,x:`5`,y:`4`,rx:`1`,key:`nzclkv`}],[`rect`,{width:`8`,height:`6`,x:`11`,y:`14`,rx:`1`,key:`4tytwb`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=ungroup-CMPargxj-fcf42318fbfb.js.map

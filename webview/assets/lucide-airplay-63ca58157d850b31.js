@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-4ce6ad78f61c9c3c.js";var r;function i(){return(i=e((()=>{t(),r=n(`Airplay`,[[`path`,{d:`M5 17H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-1`,key:`ns4c3b`}],[`path`,{d:`m12 15 5 6H7Z`,key:`14qnn2`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-airplay-63ca58157d850b31.js.map

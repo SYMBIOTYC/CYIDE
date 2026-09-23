@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-4ce6ad78f61c9c3c.js";var r;function i(){return(i=e((()=>{t(),r=n(`Pocket`,[[`path`,{d:`M4 3h16a2 2 0 0 1 2 2v6a10 10 0 0 1-10 10A10 10 0 0 1 2 11V5a2 2 0 0 1 2-2z`,key:`1mz881`}],[`polyline`,{points:`8 10 12 14 16 10`,key:`w4mbv5`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-pocket-1c00fa2b1e2e9fa9.js.map

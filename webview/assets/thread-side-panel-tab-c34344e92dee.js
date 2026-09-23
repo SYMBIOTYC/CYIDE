@@ -1,0 +1,1 @@
+import"./app-initial-875cab2118dd.js";import{CP as e,EP as t,SP as n,TP as r,wP as i}from"./app-initial-f191f228bf6e.js";n();export{e as mcpExtensionTabType,i as openMcpExtensionFileViewerSidePanelTab,r as openMcpExtensionThreadSidePanelTab,t as restoreMcpExtensionSidePanelTab};

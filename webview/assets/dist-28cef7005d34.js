@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{t}from"./index-ymUnTRBB-84c88899e173.js";function n(){return(n=e((()=>{t()})))()}export{n as t};
+//# sourceMappingURL=dist-28cef7005d34.js.map

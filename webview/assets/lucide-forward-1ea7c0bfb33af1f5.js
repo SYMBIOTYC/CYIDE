@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-4ce6ad78f61c9c3c.js";var r;function i(){return(i=e((()=>{t(),r=n(`Forward`,[[`polyline`,{points:`15 17 20 12 15 7`,key:`1w3sku`}],[`path`,{d:`M4 18v-2a4 4 0 0 1 4-4h12`,key:`jmiej9`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-forward-1ea7c0bfb33af1f5.js.map

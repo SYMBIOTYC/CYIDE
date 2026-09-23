@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-4ce6ad78f61c9c3c.js";var r;function i(){return(i=e((()=>{t(),r=n(`Copyleft`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`path`,{d:`M9.17 14.83a4 4 0 1 0 0-5.66`,key:`1sveal`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-copyleft-1b447ac05f7e267a.js.map

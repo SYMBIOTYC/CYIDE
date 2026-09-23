@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n,r,i;function a(){return(a=e((()=>{t=`CATALYST_ACTIVATION_ENERGY`,n=`catalyst-activation-energy-v1`,r={catalystEffectivenessPercent:{kind:`number`,defaultValue:50,min:0,max:100}},i={type:t,version:1,thumbnailAssetKey:n,parameters:r}})))()}export{i as n,a as t};
+//# sourceMappingURL=type-661332749edd.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-trash-2-6247baa563244147.js";e();export{t as default};

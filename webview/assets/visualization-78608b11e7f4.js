@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{ynt as t}from"./app-initial-875cab2118dd.js";import{n,o as r,r as i,t as a}from"./triangle-family-visualization-9eb2fde871a2.js";var o,s,c,l;function u(){return(u=e((()=>{r(),o=t(),s=e=>(0,o.jsx)(n,{...e,variant:`acute`}),c=e=>(0,o.jsx)(a,{...e,variant:`acute`}),l=e=>(0,o.jsx)(i,{...e,variant:`acute`})})))()}u();export{c as AcuteTriangleCaption,s as AcuteTriangleControls,l as AcuteTriangleVisualization};
+//# sourceMappingURL=visualization-78608b11e7f4.js.map

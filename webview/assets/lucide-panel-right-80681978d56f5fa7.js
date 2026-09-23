@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-panel-right-878cdef39227078c.js";e();export{t as default};

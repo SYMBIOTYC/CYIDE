@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-panels-right-bottom-f3d31b48a4e2c32b.js";e();export{t as default};

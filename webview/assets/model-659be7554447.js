@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n,r,i,a,o,s,c;function l(){return(l=e((()=>{t={scenario:0},n={quantityMin:0,quantityMax:16,rateMin:0,rateMax:20},r=18,i=2,a=e=>e===1||e===2||e===3?e:0,o=e=>{let t=a(e.scenario),n=t===1?2:t===3?3:0,i=t===2?2:0,o=(16+n+i)/2,s=r+n-o;return{scenario:t,demandShift:n,supplyShift:i,quantity:o,rate:s,reciprocalRate:1/s}},s=(e,t=0)=>r+t-e,c=(e,t=0)=>i-t+e})))()}export{c as a,s as i,t as n,l as o,o as r,n as t};
+//# sourceMappingURL=model-659be7554447.js.map

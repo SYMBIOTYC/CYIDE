@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{KZ as t,dQ as n}from"./app-initial-875cab2118dd.js";import{d_t as r,f_t as i,ogt as a,sgt as o}from"./app-initial-f191f228bf6e.js";var s,c;function l(){return(l=e((()=>{t(),o(),i(),s=[`hotkey-window-hotkey-state`],c=n(r,()=>({queryKey:s,queryFn:async()=>{let e=a.hotkeyWindowHotkeys;return e==null?{supported:!1,configuredHotkey:null,isGateEnabled:!1,isDevMode:!1,isDevOverrideEnabled:!1,isActive:!1}:e.getState()}}))})))()}export{c as n,l as r,s as t};
+//# sourceMappingURL=hotkey-window-state-cc47d2a70749.js.map

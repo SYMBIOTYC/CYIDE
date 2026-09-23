@@ -1,0 +1,1 @@
+import{n as e,t}from"./fan-DikdAYan-7e25b2159267.js";t();export{e as default};

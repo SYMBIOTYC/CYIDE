@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-biohazard-638640994a4d634f.js";e();export{t as default};

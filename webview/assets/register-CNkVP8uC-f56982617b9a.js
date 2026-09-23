@@ -1,0 +1,1 @@
+import"./app-initial-875cab2118dd.js";import{a as e,u as t}from"./register-CNkVP8uC-fc1fccfb0878.js";e();export{t as r};

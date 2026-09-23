@@ -1,0 +1,1 @@
+import{n as e,t}from"./thermometer-sun-BjW6Lwpr-4c900acd3951.js";t();export{e as default};

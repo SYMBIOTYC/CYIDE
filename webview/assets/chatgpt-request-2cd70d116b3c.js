@@ -1,0 +1,1 @@
+import"./app-initial-875cab2118dd.js";import{$X as e,QX as t,ZX as n,eZ as r,nZ as i,rZ as a,tZ as o}from"./app-initial-c21e521188d8.js";i();export{n as Request,t as chatGptCloudBrowserFormFillResponseSchema,e as getChatGPTBrowserProxiedBackendUrl,r as getChatGPTRequestHeaders,o as getChatGptRequestProfile,a as isChatGPTNativeDesktopSurface};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-4ce6ad78f61c9c3c.js";var r;function i(){return(i=e((()=>{t(),r=n(`TentTree`,[[`circle`,{cx:`4`,cy:`4`,r:`2`,key:`bt5ra8`}],[`path`,{d:`m14 5 3-3 3 3`,key:`1sorif`}],[`path`,{d:`m14 10 3-3 3 3`,key:`1jyi9h`}],[`path`,{d:`M17 14V2`,key:`8ymqnk`}],[`path`,{d:`M17 14H7l-5 8h20Z`,key:`13ar7p`}],[`path`,{d:`M8 14v8`,key:`1ghmqk`}],[`path`,{d:`m9 14 5 8`,key:`13pgi6`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-tent-tree-c505c0e7513d0106.js.map

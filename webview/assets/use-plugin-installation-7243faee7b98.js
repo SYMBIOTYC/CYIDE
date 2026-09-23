@@ -1,0 +1,1 @@
+import"./app-initial-875cab2118dd.js";import{GX as e,WX as t}from"./app-initial-f191f228bf6e.js";t();export{e as installPlugin};

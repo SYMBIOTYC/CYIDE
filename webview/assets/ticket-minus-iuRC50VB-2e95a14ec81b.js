@@ -1,0 +1,1 @@
+import{n as e,t}from"./ticket-minus-iuRC50VB-93a812f2b110.js";e();export{t as default};

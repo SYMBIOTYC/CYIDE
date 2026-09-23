@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-file-axis-3d-871bf72730eef3dc.js";e();export{t as default};

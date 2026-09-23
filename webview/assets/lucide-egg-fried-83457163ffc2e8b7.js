@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-egg-fried-a9693d0b6762a05b.js";e();export{t as default};

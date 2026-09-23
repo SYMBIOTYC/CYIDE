@@ -1,0 +1,1 @@
+import"./app-initial-875cab2118dd.js";import{n as e,t}from"./animated-icon-35606903c743.js";e();export{t as AnimatedIcon};

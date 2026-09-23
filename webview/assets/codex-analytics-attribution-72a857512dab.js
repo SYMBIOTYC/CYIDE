@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{KZ as t,vQ as n}from"./app-initial-875cab2118dd.js";import{TQ as r,lQ as i}from"./app-initial-c21e521188d8.js";import{Hdt as a,Ldt as o}from"./app-initial-f191f228bf6e.js";var s;function c(){return(c=e((()=>{t(),i(),a(),s=n(o,({get:e,scope:t})=>{if(t.value.routeKind!==`local-thread`)return null;let n=e(r,t.value.conversationId);return n?.turnId==null?null:{threadId:t.value.conversationId,turnId:n.turnId}})})))()}export{s as n,c as t};
+//# sourceMappingURL=codex-analytics-attribution-72a857512dab.js.map

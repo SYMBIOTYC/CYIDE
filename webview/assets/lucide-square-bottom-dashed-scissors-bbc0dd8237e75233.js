@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-square-bottom-dashed-scissors-469d05da78bdf645.js";e();export{t as default};

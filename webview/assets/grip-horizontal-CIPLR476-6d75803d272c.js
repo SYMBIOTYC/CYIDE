@@ -1,0 +1,1 @@
+import{n as e,t}from"./grip-horizontal-CIPLR476-161e225d8674.js";e();export{t as default};

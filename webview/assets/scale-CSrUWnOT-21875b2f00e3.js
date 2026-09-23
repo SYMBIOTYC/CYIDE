@@ -1,0 +1,1 @@
+import{n as e,t}from"./scale-CSrUWnOT-526af9eee85f.js";e();export{t as default};

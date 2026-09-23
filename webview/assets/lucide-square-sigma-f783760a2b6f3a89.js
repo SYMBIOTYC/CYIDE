@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-square-sigma-727dbc128f171af7.js";e();export{t as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-4ce6ad78f61c9c3c.js";var r;function i(){return(i=e((()=>{t(),r=n(`SeparatorVertical`,[[`line`,{x1:`12`,x2:`12`,y1:`3`,y2:`21`,key:`1efggb`}],[`polyline`,{points:`8 8 4 12 8 16`,key:`bnfmv4`}],[`polyline`,{points:`16 16 20 12 16 8`,key:`u90052`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-separator-vertical-90dc0e5ce961e79f.js.map

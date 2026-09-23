@@ -1,0 +1,1 @@
+import{n as e,t}from"./message-square-code-BAyeuqcK-25aa719d5b5b.js";t();export{e as default};

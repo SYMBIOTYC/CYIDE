@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-speech-43639bbf1c498670.js";e();export{t as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Tnt as t,wnt as n}from"./app-initial-875cab2118dd.js";function r(e){let t=(0,i.c)(4),n=(0,a.useContext)(o),r,s;t[0]!==e||t[1]!==n?(r=()=>{if(n!=null)return n(e),()=>{n(null)}},s=[e,n],t[0]=e,t[1]=n,t[2]=r,t[3]=s):(r=t[2],s=t[3]),(0,a.useLayoutEffect)(r,s)}var i,a,o;function s(){return(s=e((()=>{i=n(),a=t(),o=(0,a.createContext)(null)})))()}export{s as n,r,o as t};
+//# sourceMappingURL=use-hotkey-window-detail-layout-c142ca6a5738.js.map

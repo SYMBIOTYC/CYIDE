@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-receipt-japanese-yen-4457c1f82d7688cb.js";e();export{t as default};
