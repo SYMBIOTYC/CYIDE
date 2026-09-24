@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-5c059f3f1ab006d1.js";var r;function i(){return(i=e((()=>{t(),r=n(`FlagOff`,[[`path`,{d:`M8 2c3 0 5 2 8 2s4-1 4-1v11`,key:`9rwyz9`}],[`path`,{d:`M4 22V4`,key:`1plyxx`}],[`path`,{d:`M4 15s1-1 4-1 5 2 8 2`,key:`1myooe`}],[`line`,{x1:`2`,x2:`22`,y1:`2`,y2:`22`,key:`a6p6uj`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-flag-off-9091782ea7add6d4.js.map

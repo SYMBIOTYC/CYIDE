@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{KZ as t,ZZ as n,wnt as r,ynt as i}from"./app-initial-4a1ac6d05078.js";import{Dut as a,kut as o}from"./app-initial-23be8abe8439.js";function s(e){let t=(0,c.c)(2),{threadId:r}=e,i=n(o,r),a;return t[0]===i?a=t[1]:(a=i==null?null:(0,l.jsxs)(`span`,{className:`shrink-0 select-none`,children:[i,` `]}),t[0]=i,t[1]=a),a}var c,l;function u(){return(u=e((()=>{c=r(),t(),a(),l=i()})))()}export{u as n,s as t};
+//# sourceMappingURL=thread-emoji-8967d8e814dd.js.map

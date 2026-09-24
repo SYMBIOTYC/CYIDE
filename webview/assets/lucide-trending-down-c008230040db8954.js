@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-5c059f3f1ab006d1.js";var r;function i(){return(i=e((()=>{t(),r=n(`TrendingDown`,[[`polyline`,{points:`22 17 13.5 8.5 8.5 13.5 2 7`,key:`1r2t7k`}],[`polyline`,{points:`16 17 22 17 22 11`,key:`11uiuu`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-trending-down-c008230040db8954.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./pilcrow-right-CPHldKvi-e11bcf04811f.js";e();export{t as default};

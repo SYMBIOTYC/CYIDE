@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n,r,i,a;function o(){return(o=e((()=>{t={$type:`protobuf_analytics_events.v1.ChatgptProjectFileLimitUpgradeClicked`},n={$type:`protobuf_analytics_events.v1.ChatgptProjectSettingsOpened`},r={$type:`protobuf_analytics_events.v1.ChatgptProjectSettingsSaveInitiated`},i={$type:`protobuf_analytics_events.v1.ChatgptProjectSettingsSaveCompleted`},a={$type:`protobuf_analytics_events.v1.ChatgptProjectSettingsSaveFailed`}})))()}export{r as a,a as i,n,o,i as r,t};
+//# sourceMappingURL=chatgpt_projects-88cd0b9c0497.js.map

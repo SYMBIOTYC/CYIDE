@@ -1,0 +1,1 @@
+import{am as e,um as t}from"./app-initial-e1095a48091e.js";e();export{t as openQuickChatEntity};

@@ -1,0 +1,1 @@
+import{n as e,t}from"./trusted-contact-actions-62857815fbce.js";t();export{e as openTrustedContactBeaconAction};
