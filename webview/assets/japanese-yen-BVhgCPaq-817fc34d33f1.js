@@ -1,0 +1,1 @@
+import{n as e,t}from"./japanese-yen-BVhgCPaq-c446f6bc1dc4.js";t();export{e as default};

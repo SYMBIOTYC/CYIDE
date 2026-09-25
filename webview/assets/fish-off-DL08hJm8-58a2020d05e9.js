@@ -1,0 +1,1 @@
+import{n as e,t}from"./fish-off-DL08hJm8-9833e2aef725.js";e();export{t as default};

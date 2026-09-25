@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-square-chart-gantt-62f233a1349a9b4e.js";e();export{t as default};

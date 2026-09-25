@@ -1,0 +1,1 @@
+import{n as e,t}from"./triangle-right-BJnz4_Cn-4a6fb0ebed0c.js";e();export{t as default};

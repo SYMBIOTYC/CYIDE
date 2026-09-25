@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-5c059f3f1ab006d1.js";var r;function i(){return(i=e((()=>{t(),r=n(`EyeClosed`,[[`path`,{d:`m15 18-.722-3.25`,key:`1j64jw`}],[`path`,{d:`M2 8a10.645 10.645 0 0 0 20 0`,key:`1e7gxb`}],[`path`,{d:`m20 15-1.726-2.05`,key:`1cnuld`}],[`path`,{d:`m4 15 1.726-2.05`,key:`1dsqqd`}],[`path`,{d:`m9 18 .722-3.25`,key:`ypw2yx`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-eye-closed-c91bc98286c3ea87.js.map

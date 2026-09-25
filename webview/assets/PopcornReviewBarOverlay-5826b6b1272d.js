@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{ynt as t}from"./app-initial-4a1ac6d05078.js";function n({children:e,viewportInsets:t}){return(0,r.jsx)(`div`,{className:`popcorn-review-bar-overlay`,"data-popcorn-review-bar":`true`,style:t,children:(0,r.jsx)(`div`,{className:`popcorn-review-bar-overlay-content`,children:e})})}var r;function i(){return(i=e((()=>{r=t()})))()}export{i as n,n as t};
+//# sourceMappingURL=PopcornReviewBarOverlay-5826b6b1272d.js.map

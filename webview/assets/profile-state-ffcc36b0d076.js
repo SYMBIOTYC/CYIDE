@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{KZ as t,SQ as n}from"./app-initial-4a1ac6d05078.js";import{d_t as r,f_t as i,ogt as a,sgt as o}from"./app-initial-23be8abe8439.js";import{n as s,t as c}from"./profile-4c94eb6ce7a4.js";function l(){return c.initialize(a?.browserHost)}function u(){return(u=e((()=>{t(),o(),i(),s(),n(r,c.getSnapshot,({set:e})=>c.subscribe(()=>e(c.getSnapshot())))})))()}u();export{l as initializeBrowserExtensionProfile};
+//# sourceMappingURL=profile-state-ffcc36b0d076.js.map

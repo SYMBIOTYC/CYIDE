@@ -1,0 +1,1 @@
+import{n as e,t}from"./scale-3d-CGqH8e7J-2bca386a4f50.js";e();export{t as default};

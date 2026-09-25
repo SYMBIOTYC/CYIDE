@@ -1,0 +1,1 @@
+import{n as e,t}from"./tally-2-BtARBT2--c7fb07fb4a71.js";t();export{e as default};

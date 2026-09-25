@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-syringe-f809ec28591b7e0f.js";e();export{t as default};

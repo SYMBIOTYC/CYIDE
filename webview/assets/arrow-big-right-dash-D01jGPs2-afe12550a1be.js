@@ -1,0 +1,1 @@
+import{n as e,t}from"./arrow-big-right-dash-D01jGPs2-eef64344736a.js";e();export{t as default};

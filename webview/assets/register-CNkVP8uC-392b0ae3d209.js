@@ -1,0 +1,1 @@
+import"./app-initial-4a1ac6d05078.js";import{a as e,u as t}from"./register-CNkVP8uC-21b568e688af.js";e();export{t as r};

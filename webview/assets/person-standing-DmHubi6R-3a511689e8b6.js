@@ -1,0 +1,1 @@
+import{n as e,t}from"./person-standing-DmHubi6R-42c3820a8efc.js";t();export{e as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Tv as t,bv as n}from"./app-initial-e1095a48091e.js";function r(e,t){return n(e,t,`extension`)}function i(){return(i=e((()=>{t()})))()}export{i as n,r as t};
+//# sourceMappingURL=code-theme-296859bac6dc.js.map
