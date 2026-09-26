@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-tangent-462e28b197bcc076.js";e();export{t as default};

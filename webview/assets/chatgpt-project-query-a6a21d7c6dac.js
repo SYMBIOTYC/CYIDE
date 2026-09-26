@@ -1,0 +1,1 @@
+import{DM as e,OM as t}from"./app-initial-e1095a48091e.js";t();export{e as fetchChatGptProject};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{ltt as t,ott as n,ynt as r}from"./app-initial-4a1ac6d05078.js";import{ik as i,rk as a}from"./app-initial-e1095a48091e.js";function o(e){return e===`error`?(0,s.jsx)(a,{className:`h-full`,children:(0,s.jsx)(t,{id:`artifactTab.previewError`,defaultMessage:`Couldn’t load this preview`,description:`Error state shown when an artifact preview fails to load`})}):null}var s;function c(){return(c=e((()=>{n(),i(),s=r()})))()}export{o as n,c as t};
+//# sourceMappingURL=artifact-preview-status-94b58b051949.js.map

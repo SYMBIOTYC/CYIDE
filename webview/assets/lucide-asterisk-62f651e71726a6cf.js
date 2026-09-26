@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-5c059f3f1ab006d1.js";var r;function i(){return(i=e((()=>{t(),r=n(`Asterisk`,[[`path`,{d:`M12 6v12`,key:`1vza4d`}],[`path`,{d:`M17.196 9 6.804 15`,key:`1ah31z`}],[`path`,{d:`m6.804 9 10.392 6`,key:`1b6pxd`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-asterisk-62f651e71726a6cf.js.map

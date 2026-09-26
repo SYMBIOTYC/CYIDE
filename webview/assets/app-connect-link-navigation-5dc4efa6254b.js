@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{tB as t}from"./app-initial-e1095a48091e.js";function n(e){return!1}function r(){return(r=e((()=>{t()})))()}export{n,r as t};
+//# sourceMappingURL=app-connect-link-navigation-5dc4efa6254b.js.map

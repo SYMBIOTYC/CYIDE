@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n,r,i;function a(){return(a=e((()=>{t=`PHOTOSYNTHESIS`,n=`photosynthesis-v3`,r={lightIntensity:{kind:`enum`,defaultValue:`low`,allowedValues:[`low`,`medium`,`high`]},carbonDioxide:{kind:`enum`,defaultValue:`low`,allowedValues:[`low`,`medium`,`high`]},water:{kind:`enum`,defaultValue:`low`,allowedValues:[`low`,`medium`,`high`]}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}})))()}export{i as n,a as t};
+//# sourceMappingURL=type-5b3d00b051e8.js.map

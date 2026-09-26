@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-5c059f3f1ab006d1.js";var r;function i(){return(i=e((()=>{t(),r=n(`Pill`,[[`path`,{d:`m10.5 20.5 10-10a4.95 4.95 0 1 0-7-7l-10 10a4.95 4.95 0 1 0 7 7Z`,key:`wa1lgi`}],[`path`,{d:`m8.5 8.5 7 7`,key:`rvfmvr`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-pill-3cbf7dca346270d6.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./sparkles-B-sjuDnh-5a4b4a67549c.js";function r(){return(r=e((()=>{n()})))()}r();export{t as default};
+//# sourceMappingURL=stars-Cv3pJtTZ-957a1c3bcb1c.js.map

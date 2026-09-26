@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-5c059f3f1ab006d1.js";var r;function i(){return(i=e((()=>{t(),r=n(`MoonStar`,[[`path`,{d:`M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9`,key:`4ay0iu`}],[`path`,{d:`M20 3v4`,key:`1olli1`}],[`path`,{d:`M22 5h-4`,key:`1gvqau`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-moon-star-135fa9d9092f5864.js.map
