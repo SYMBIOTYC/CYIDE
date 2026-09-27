@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-warehouse-1307ce8908e4f80c.js";e();export{t as default};

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-ice-cream-bowl-321682c937de7ba9.js";e();export{t as default};

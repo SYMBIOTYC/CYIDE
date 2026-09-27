@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n,r,i;function a(){return(a=e((()=>{t=`DISCRETE_EVENT_QUEUE_SIMULATION`,n=`discrete-event-queue-simulation-v1`,r={workload:{kind:`enum`,defaultValue:`bursty`,allowedValues:[`spaced`,`bursty`]}},i={type:t,version:3,thumbnailAssetKey:n,parameters:r}})))()}export{i as n,a as t};
+//# sourceMappingURL=type-ee21e9db5696.js.map

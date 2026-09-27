@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n,r,i,a;function o(){return(o=e((()=>{t=`ABSORPTION_VARIABLE_COSTING_INVENTORY_PROFIT`,n=`absorption-variable-costing-inventory-profit-v2`,r=`\\mathrm{OI}_{A}-\\mathrm{OI}_{V}=\\Delta I\\times \\mathrm{FOH}_{u}`,i={unitsProduced:{kind:`integer`,defaultValue:800,min:100,max:1e4},unitsSold:{kind:`integer`,defaultValue:600,min:100,max:1e4}},a={type:t,version:2,thumbnailAssetKey:n,canonicalFormula:r,parameters:i}})))()}export{a as n,o as t};
+//# sourceMappingURL=type-6531d19cb2c0.js.map

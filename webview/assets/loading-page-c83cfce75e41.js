@@ -1,0 +1,1 @@
+import"./app-initial-4a1ac6d05078.js";import{Cft as e,wft as t}from"./app-initial-23be8abe8439.js";t();export{e as LoadingPage};

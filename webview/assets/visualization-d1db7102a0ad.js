@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{ynt as t}from"./app-initial-4a1ac6d05078.js";import{n,o as r,r as i,t as a}from"./triangle-family-visualization-d57a2722c612.js";var o,s,c,l;function u(){return(u=e((()=>{r(),o=t(),s=e=>(0,o.jsx)(n,{...e,variant:`obtuse`}),c=e=>(0,o.jsx)(a,{...e,variant:`obtuse`}),l=e=>(0,o.jsx)(i,{...e,variant:`obtuse`})})))()}u();export{c as ObtuseTriangleCaption,s as ObtuseTriangleControls,l as ObtuseTriangleVisualization};
+//# sourceMappingURL=visualization-d1db7102a0ad.js.map

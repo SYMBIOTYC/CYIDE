@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-5c059f3f1ab006d1.js";var r;function i(){return(i=e((()=>{t(),r=n(`SquareKanban`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M8 7v7`,key:`1x2jlm`}],[`path`,{d:`M12 7v4`,key:`xawao1`}],[`path`,{d:`M16 7v9`,key:`1hp2iy`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-square-kanban-b544dd8b983a9ad5.js.map

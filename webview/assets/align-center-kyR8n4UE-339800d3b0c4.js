@@ -1,0 +1,1 @@
+import{n as e,t}from"./align-center-kyR8n4UE-9ca27183ef3e.js";e();export{t as default};

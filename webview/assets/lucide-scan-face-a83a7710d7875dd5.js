@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-scan-face-4b343499f31aa714.js";e();export{t as default};
