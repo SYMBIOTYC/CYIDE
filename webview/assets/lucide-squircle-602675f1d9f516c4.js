@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-squircle-c7fd32b06d0a4160.js";e();export{t as default};

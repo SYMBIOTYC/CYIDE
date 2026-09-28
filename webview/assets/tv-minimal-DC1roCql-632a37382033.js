@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-7fba7d56355a.js";var r;function i(){return(i=e((()=>{t(),r=n(`TvMinimal`,[[`path`,{d:`M7 21h10`,key:`1b0cd5`}],[`rect`,{width:`20`,height:`14`,x:`2`,y:`3`,rx:`2`,key:`48i651`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=tv-minimal-DC1roCql-632a37382033.js.map

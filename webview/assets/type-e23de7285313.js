@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n,r,i;function a(){return(a=e((()=>{t=`COMBINATION_FORMULA`,n=`combination-formula-v1`,r={n:{kind:`integer`,defaultValue:6,min:4,max:8},r:{kind:`integer`,defaultValue:3,min:2,max:4}},i={type:t,version:2,thumbnailAssetKey:n,parameters:r}})))()}export{i as n,a as t};
+//# sourceMappingURL=type-e23de7285313.js.map

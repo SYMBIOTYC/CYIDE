@@ -1,0 +1,1 @@
+import{n as e,t}from"./whole-word-DuchL9Ai-cc1e313fb56a.js";t();export{e as default};

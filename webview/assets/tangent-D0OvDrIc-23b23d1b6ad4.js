@@ -1,0 +1,1 @@
+import{n as e,t}from"./tangent-D0OvDrIc-c8285db85ef3.js";t();export{e as default};

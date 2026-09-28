@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{gft as t}from"./app-initial-e1095a48091e.js";import{ogt as n,sgt as r}from"./app-initial-23be8abe8439.js";async function i(e){try{try{var r=t();let i=r.u(await n.environmentConfigs?.preflightPersonalSecrets({accountId:e.accountId,userId:e.userId,configId:e.config.id}));return i?.ok?i.data:null}catch(e){r.e=e}finally{r.d()}}catch{return null}}function a(){return(a=e((()=>{r()})))()}export{i as n,a as t};
+//# sourceMappingURL=service-7f2955f502c0.js.map

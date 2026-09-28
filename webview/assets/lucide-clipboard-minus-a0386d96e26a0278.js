@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-clipboard-minus-920322ed68339f51.js";e();export{t as default};

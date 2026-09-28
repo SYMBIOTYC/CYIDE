@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-hand-platter-853fe373e791cfd1.js";e();export{t as default};

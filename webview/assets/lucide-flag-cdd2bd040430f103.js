@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-flag-7d22ba33a707415a.js";e();export{t as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{wH as t}from"./app-initial-e1095a48091e.js";function n(e){return()=>{if(typeof e.moveBefore==`function`)for(let n of e.querySelectorAll(`:scope > [data-mcp-app-frame]`))n.style.display=`none`,t().moveBefore(n,null)}}function r(){return(r=e((()=>{})))()}export{n,r as t};
+//# sourceMappingURL=frame-container-45cb38c864c0.js.map

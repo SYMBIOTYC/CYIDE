@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./text-select-BAKAwbhz-3423eec74fbb.js";function r(){return(r=e((()=>{t()})))()}r();export{n as default};
+//# sourceMappingURL=text-selection-C3jgsZKm-2611135ed2e4.js.map

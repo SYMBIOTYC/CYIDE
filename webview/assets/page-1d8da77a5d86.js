@@ -1,0 +1,1 @@
+import"./app-initial-4a1ac6d05078.js";import{n as e,t}from"./page-1751b9ec8f1c.js";e();export{t as ChatGptWorkHomePage};
