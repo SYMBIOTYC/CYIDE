@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-shrink-10a726ce578f23ae.js";e();export{t as default};

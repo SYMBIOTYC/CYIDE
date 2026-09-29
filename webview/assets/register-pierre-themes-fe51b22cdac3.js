@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Z$ as t,t1 as n}from"./app-initial-4a1ac6d05078.js";import{wv as r}from"./app-initial-e1095a48091e.js";import{n as i}from"./code-theme-296859bac6dc.js";function a(){return(a=e((()=>{t(),i();for(let e of r())n(e.name,e.load)})))()}export{a as t};
+//# sourceMappingURL=register-pierre-themes-fe51b22cdac3.js.map

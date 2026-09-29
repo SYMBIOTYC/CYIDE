@@ -1,0 +1,1 @@
+import{n as e,t}from"./stretch-vertical-CMHQtLA4-9a1f7337f7c6.js";t();export{e as default};

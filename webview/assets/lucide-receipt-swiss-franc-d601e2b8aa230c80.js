@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-receipt-swiss-franc-83651cebc22dd5a5.js";e();export{t as default};

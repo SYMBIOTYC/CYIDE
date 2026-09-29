@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-5c059f3f1ab006d1.js";var r;function i(){return(i=e((()=>{t(),r=n(`Kanban`,[[`path`,{d:`M6 5v11`,key:`mdvv1e`}],[`path`,{d:`M12 5v6`,key:`14ar3b`}],[`path`,{d:`M18 5v14`,key:`7ji314`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-kanban-af8cf4ec611bc88f.js.map

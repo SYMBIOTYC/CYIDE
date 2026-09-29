@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-5c059f3f1ab006d1.js";var r;function i(){return(i=e((()=>{t(),r=n(`ChevronsLeftRightEllipsis`,[[`path`,{d:`m18 8 4 4-4 4`,key:`1ak13k`}],[`path`,{d:`m6 8-4 4 4 4`,key:`15zrgr`}],[`path`,{d:`M8 12h.01`,key:`czm47f`}],[`path`,{d:`M12 12h.01`,key:`1mp3jc`}],[`path`,{d:`M16 12h.01`,key:`1l6xoz`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-chevrons-left-right-ellipsis-4ea3537a8378a561.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-5c059f3f1ab006d1.js";var r;function i(){return(i=e((()=>{t(),r=n(`SquareRadical`,[[`path`,{d:`M7 12h2l2 5 2-10h4`,key:`1fxv6h`}],[`rect`,{x:`3`,y:`3`,width:`18`,height:`18`,rx:`2`,key:`h1oib`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-square-radical-4d1e22c23b259d90.js.map

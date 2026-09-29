@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-5c059f3f1ab006d1.js";var r;function i(){return(i=e((()=>{t(),r=n(`Highlighter`,[[`path`,{d:`m9 11-6 6v3h9l3-3`,key:`1a3l36`}],[`path`,{d:`m22 12-4.6 4.6a2 2 0 0 1-2.8 0l-5.2-5.2a2 2 0 0 1 0-2.8L14 4`,key:`14a9rk`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-highlighter-48a5896a0e84d118.js.map

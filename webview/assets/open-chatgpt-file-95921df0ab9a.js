@@ -1,0 +1,1 @@
+import"./app-initial-4a1ac6d05078.js";import{hx as e,mx as t}from"./app-initial-e1095a48091e.js";t();export{e as openChatGptFile};

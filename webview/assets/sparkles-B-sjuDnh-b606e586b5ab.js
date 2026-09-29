@@ -1,0 +1,1 @@
+import{n as e,t}from"./sparkles-B-sjuDnh-5a4b4a67549c.js";t();export{e as default};
