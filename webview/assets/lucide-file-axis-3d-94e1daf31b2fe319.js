@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-5c059f3f1ab006d1.js";var r;function i(){return(i=e((()=>{t(),r=n(`FileAxis3d`,[[`path`,{d:`M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z`,key:`1rqfz7`}],[`path`,{d:`M14 2v4a2 2 0 0 0 2 2h4`,key:`tnqrlb`}],[`path`,{d:`m8 18 4-4`,key:`12zab0`}],[`path`,{d:`M8 10v8h8`,key:`tlaukw`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-file-axis-3d-94e1daf31b2fe319.js.map

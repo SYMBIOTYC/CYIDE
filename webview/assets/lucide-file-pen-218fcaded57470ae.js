@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-file-pen-1d7430be6d63ba4e.js";e();export{t as default};

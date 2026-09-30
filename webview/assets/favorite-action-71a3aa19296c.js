@@ -1,0 +1,1 @@
+import"./app-initial-4a1ac6d05078.js";import{n as e,t}from"./favorite-action-f45f41731eb0.js";e();export{t as ProductFavoriteAction};

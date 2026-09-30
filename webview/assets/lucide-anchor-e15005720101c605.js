@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-5c059f3f1ab006d1.js";var r;function i(){return(i=e((()=>{t(),r=n(`Anchor`,[[`path`,{d:`M12 22V8`,key:`qkxhtm`}],[`path`,{d:`M5 12H2a10 10 0 0 0 20 0h-3`,key:`1hv3nh`}],[`circle`,{cx:`12`,cy:`5`,r:`3`,key:`rqqgnr`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-anchor-e15005720101c605.js.map

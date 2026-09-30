@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-5c059f3f1ab006d1.js";var r;function i(){return(i=e((()=>{t(),r=n(`ArrowDownToDot`,[[`path`,{d:`M12 2v14`,key:`jyx4ut`}],[`path`,{d:`m19 9-7 7-7-7`,key:`1oe3oy`}],[`circle`,{cx:`12`,cy:`21`,r:`1`,key:`o0uj5v`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-arrow-down-to-dot-44a13a8c5e4b4625.js.map

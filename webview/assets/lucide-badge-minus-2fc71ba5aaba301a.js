@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-badge-minus-cf0adff605132ccb.js";e();export{t as default};

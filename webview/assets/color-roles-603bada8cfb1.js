@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n;function r(){return(r=e((()=>{t=`learning-block-color-scope`,n=`--learning-block-accent`})))()}export{t as n,r,n as t};
+//# sourceMappingURL=color-roles-603bada8cfb1.js.map

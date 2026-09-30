@@ -1,0 +1,1 @@
+import{n as e,t}from"./ferris-wheel-Br1LxSqV-7bb496f7113d.js";e();export{t as default};

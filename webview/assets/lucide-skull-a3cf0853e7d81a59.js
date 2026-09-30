@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-skull-ede10ad98225f5e6.js";e();export{t as default};

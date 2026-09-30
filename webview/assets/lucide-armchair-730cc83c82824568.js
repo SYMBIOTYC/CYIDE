@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-armchair-ea8a87de4bac8af3.js";e();export{t as default};

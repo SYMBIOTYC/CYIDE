@@ -1,0 +1,1 @@
+import{n as e,t}from"./fullscreen-Dwlw1tZS-b3b0dc2fc8cc.js";t();export{e as default};

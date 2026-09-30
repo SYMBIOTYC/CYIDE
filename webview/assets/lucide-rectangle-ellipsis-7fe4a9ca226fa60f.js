@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-5c059f3f1ab006d1.js";var r;function i(){return(i=e((()=>{t(),r=n(`RectangleEllipsis`,[[`rect`,{width:`20`,height:`12`,x:`2`,y:`6`,rx:`2`,key:`9lu3g6`}],[`path`,{d:`M12 12h.01`,key:`1mp3jc`}],[`path`,{d:`M17 12h.01`,key:`1m0b6t`}],[`path`,{d:`M7 12h.01`,key:`eqddd0`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-rectangle-ellipsis-7fe4a9ca226fa60f.js.map

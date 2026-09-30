@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-activity-83FAorYq-2eb37095e7b4.js";e();export{t as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-wallet-minimal-ae6042a7d7dc6b56.js";function r(){return(r=e((()=>{t()})))()}r();export{n as default};
+//# sourceMappingURL=lucide-wallet-2-bdb71162f04fa919.js.map
