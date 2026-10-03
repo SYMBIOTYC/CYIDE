@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-fd314f6c84f11c70.js";var r;function i(){return(i=e((()=>{t(),r=n(`MousePointer2`,[[`path`,{d:`M4.037 4.688a.495.495 0 0 1 .651-.651l16 6.5a.5.5 0 0 1-.063.947l-6.124 1.58a2 2 0 0 0-1.438 1.435l-1.579 6.126a.5.5 0 0 1-.947.063z`,key:`edeuup`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-mouse-pointer-2-6a5b96bd461ba2c6.js.map

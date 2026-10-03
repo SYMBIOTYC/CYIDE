@@ -1,0 +1,1 @@
+import{AL as e,NL as t}from"./app-initial-a42f602681b3.js";import"./app-initial-48c569ae16a4.js";e();export{t as submitChatGPTCompletion};

@@ -1,0 +1,1 @@
+import"./app-initial-f1c3ec6698cf.js";import{n as e,t}from"./thumbnail-9c703094bfc7.js";e();export{t as CreateTextFileThumbnail};

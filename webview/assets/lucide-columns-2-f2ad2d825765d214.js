@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-columns-2-a53496a4b96a008b.js";e();export{t as default};

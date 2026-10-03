@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-chart-no-axes-column-40df044afe0ee4c4.js";e();export{t as default};

@@ -1,0 +1,1 @@
+import{n as e,t}from"./columns-4-CtwtWDgi-6b224c953356.js";e();export{t as default};

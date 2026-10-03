@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-31d6baf5cb6f.js";var r;function i(){return(i=e((()=>{t(),r=n(`Triangle`,[[`path`,{d:`M13.73 4a2 2 0 0 0-3.46 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z`,key:`14u9p9`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=triangle-x1Q_W7ZL-4dcdb0412cc7.js.map

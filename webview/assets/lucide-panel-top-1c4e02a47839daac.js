@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-fd314f6c84f11c70.js";var r;function i(){return(i=e((()=>{t(),r=n(`PanelTop`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M3 9h18`,key:`1pudct`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-panel-top-1c4e02a47839daac.js.map

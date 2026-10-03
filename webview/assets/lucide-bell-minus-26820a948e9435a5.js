@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-bell-minus-71776662070dd2ca.js";e();export{t as default};

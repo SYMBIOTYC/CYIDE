@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{A1t as t,k1t as n}from"./app-initial-48c569ae16a4.js";function r({accountId:e,fileId:t,pageId:n}){return[`page-file-preview`,e,n,t]}var i,a;function o(){return(o=e((()=>{t(),i=16777216,a=n.THIRTY_SECONDS})))()}export{r as i,a as n,o as r,i as t};
+//# sourceMappingURL=query-15145cfa8e3c.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-fd314f6c84f11c70.js";var r;function i(){return(i=e((()=>{t(),r=n(`CornerDownLeft`,[[`polyline`,{points:`9 10 4 15 9 20`,key:`r3jprv`}],[`path`,{d:`M20 4v7a4 4 0 0 1-4 4H4`,key:`6o5b7l`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-corner-down-left-bb0299c10170ab10.js.map

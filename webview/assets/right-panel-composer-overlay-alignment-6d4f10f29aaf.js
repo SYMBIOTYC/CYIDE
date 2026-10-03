@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Kat as t,wot as n}from"./app-initial-f1c3ec6698cf.js";import{Xqt as r,rJt as i}from"./app-initial-48c569ae16a4.js";var a;function o(){return(o=e((()=>{t(),i(),a=n(r,()=>null)})))()}export{a as n,o as t};
+//# sourceMappingURL=right-panel-composer-overlay-alignment-6d4f10f29aaf.js.map

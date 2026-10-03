@@ -1,0 +1,1 @@
+import"./app-initial-f1c3ec6698cf.js";import{n as e,t}from"./registered-958f929d34de.js";e();export{t as RegisteredTerminalThumbnail};

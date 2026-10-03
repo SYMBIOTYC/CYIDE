@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-31d6baf5cb6f.js";var r;function i(){return(i=e((()=>{t(),r=n(`Cylinder`,[[`ellipse`,{cx:`12`,cy:`5`,rx:`9`,ry:`3`,key:`msslwz`}],[`path`,{d:`M3 5v14a9 3 0 0 0 18 0V5`,key:`aqi0yr`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=cylinder-BIaiuHCA-496d5e8f8930.js.map

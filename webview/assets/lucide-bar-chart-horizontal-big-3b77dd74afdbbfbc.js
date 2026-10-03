@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-chart-bar-big-e069ac88dc0957f7.js";function r(){return(r=e((()=>{t()})))()}r();export{n as default};
+//# sourceMappingURL=lucide-bar-chart-horizontal-big-3b77dd74afdbbfbc.js.map

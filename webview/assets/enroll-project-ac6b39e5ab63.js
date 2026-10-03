@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";async function t(e,t){try{await e.optIn(t)}catch(n){let r=await e.read(t);if(r.status===`retired`)return`retired`;if(r.status===`notOptedIn`)throw n}return`enrolled`}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=enroll-project-ac6b39e5ab63.js.map

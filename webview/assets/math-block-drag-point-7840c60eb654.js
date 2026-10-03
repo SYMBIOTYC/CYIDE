@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,s as n}from"./chatgpt_math_blocks-1c0e05f75070.js";var r;function i(){return(i=e((()=>{n(),r=(e,n)=>(r,i,a)=>{let o=n(r,i,a);o!=null&&e(o,t.CHATGPT_MATH_BLOCK_EDIT_TYPE_DRAG_POINT)}})))()}export{i as n,r as t};
+//# sourceMappingURL=math-block-drag-point-7840c60eb654.js.map

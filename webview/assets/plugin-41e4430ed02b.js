@@ -1,0 +1,1 @@
+import{XY as e,YY as t}from"./app-initial-48c569ae16a4.js";e();export{t as getMcpExtensionContextMenuItems};

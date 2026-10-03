@@ -1,0 +1,1 @@
+import{o_ as e,s_ as t}from"./app-initial-48c569ae16a4.js";e();export{t as openPageArtifactTarget};

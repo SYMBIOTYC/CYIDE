@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-thermometer-sun-b154d23b3137ad7e.js";e();export{t as default};

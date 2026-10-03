@@ -1,0 +1,1 @@
+import{Fu as e,Pu as t}from"./app-initial-48c569ae16a4.js";e();export{t as createPetAvatarPng};

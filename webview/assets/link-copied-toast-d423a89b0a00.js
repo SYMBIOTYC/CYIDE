@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{L_t as t,M_t as n,fDt as r}from"./app-initial-f1c3ec6698cf.js";import{ALt as i,MLt as a}from"./app-initial-a42f602681b3.js";function o(e){e.get(a).success((0,s.jsx)(t,{id:`sharing.linkCopied`,defaultMessage:`Link copied!`,description:`Success toast after copying a share link`}),{duration:3,position:`top-center`,hasCloseButton:!1})}var s;function c(){return(c=e((()=>{n(),i(),s=r()})))()}export{o as n,c as t};
+//# sourceMappingURL=link-copied-toast-d423a89b0a00.js.map

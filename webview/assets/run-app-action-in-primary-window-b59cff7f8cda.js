@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{N$t as t,P$t as n}from"./app-initial-48c569ae16a4.js";function r(e,{sourceHostId:n,sourceThreadId:r}={}){let i=t.appActions;if(i==null)throw Error(`App actions are unavailable in this host`);return i.runInPrimaryWindow({action:e,sourceHostId:n,sourceThreadId:r})}function i(){return(i=e((()=>{n()})))()}export{r as n,i as t};
+//# sourceMappingURL=run-app-action-in-primary-window-b59cff7f8cda.js.map

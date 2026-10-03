@@ -1,0 +1,1 @@
+import{n as e,t}from"./chef-hat-BdOW8uN--1733e6d5b130.js";t();export{e as default};

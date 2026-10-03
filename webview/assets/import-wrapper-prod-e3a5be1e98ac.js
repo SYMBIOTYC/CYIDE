@@ -1,0 +1,1 @@
+import{fct as e,pct as t}from"./app-initial-f1c3ec6698cf.js";t();export{e as Dexie,e as default};

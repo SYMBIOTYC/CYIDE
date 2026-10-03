@@ -1,0 +1,1 @@
+import{n as e,t}from"./land-plot-CI4XVlH0-7ee03d671dda.js";e();export{t as default};

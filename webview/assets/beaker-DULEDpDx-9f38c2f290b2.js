@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-31d6baf5cb6f.js";var r;function i(){return(i=e((()=>{t(),r=n(`Beaker`,[[`path`,{d:`M4.5 3h15`,key:`c7n0jr`}],[`path`,{d:`M6 3v16a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V3`,key:`m1uhx7`}],[`path`,{d:`M6 14h12`,key:`4cwo0f`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=beaker-DULEDpDx-9f38c2f290b2.js.map

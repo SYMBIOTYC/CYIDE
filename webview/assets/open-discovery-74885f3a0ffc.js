@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{KFt as t,WFt as n}from"./app-initial-a42f602681b3.js";import{n as r,t as i}from"./workspace-discovery-71633450789c.js";function a(e,n){e.queryClient.resetQueries({queryKey:[`workspace-discovery-v2`,n]}),t(e,i,{mode:`dismissible`,section:`discoverable`})}function o(){return(o=e((()=>{n(),r()})))()}export{a as n,o as t};
+//# sourceMappingURL=open-discovery-74885f3a0ffc.js.map

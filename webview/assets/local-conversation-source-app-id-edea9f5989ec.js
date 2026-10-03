@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{_pt as t,ppt as n}from"./app-initial-a42f602681b3.js";function r(e){for(let t of[e.id,e.name,...e.pluginDisplayNames])if(n(t)!=null)return t;return null}function i(){return(i=e((()=>{t()})))()}export{i as n,r as t};
+//# sourceMappingURL=local-conversation-source-app-id-edea9f5989ec.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-hospital-3e0ed6a6d782df4b.js";e();export{t as default};

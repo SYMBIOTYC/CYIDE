@@ -1,0 +1,1 @@
+import"./app-initial-f1c3ec6698cf.js";import{i as e,n as t,r as n,t as r}from"./open-765d0e241547.js";r();export{t as openSpacesWorkspaceCollectionTab,n as openSpacesWorkspaceLanding,e as openSpacesWorkspaceSpaceTab};

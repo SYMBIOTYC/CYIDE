@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-grid-2x2-x-962a0faf50ac1f69.js";e();export{t as default};

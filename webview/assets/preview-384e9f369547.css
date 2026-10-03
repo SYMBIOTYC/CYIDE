@@ -1,0 +1,1 @@
+[data-page-link-icon-selected]{background-color:var(--color-background-text-selection)}[data-page-link-icon-selected]::selection{background-color:#0000}[data-page-link-icon-selected] ::selection{background-color:#0000}[data-page-selection-hide-native] [data-page-link-icon-selected],.ProseMirror-hideselection [data-page-link-icon-selected]{background-color:#0000}

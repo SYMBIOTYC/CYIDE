@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-palette-e993208184b962c8.js";e();export{t as default};

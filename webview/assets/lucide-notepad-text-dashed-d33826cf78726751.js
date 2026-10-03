@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-notepad-text-dashed-1a5939af066a3b0f.js";e();export{t as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Jc as t,eDt as n,fDt as r,tDt as i}from"./app-initial-f1c3ec6698cf.js";function a({viewportRef:e,label:t,children:r,className:i}){return(0,o.jsx)(`section`,{ref:e,"aria-label":t,tabIndex:0,className:n(`tortilla-carousel-viewport flex min-w-0 gap-4 overflow-x-auto overscroll-x-contain pb-1 scrollbar-none [&::-webkit-scrollbar]:hidden`,i),children:r})}var o;function s(){return(s=e((()=>{i(),o=r(),t()})))()}export{s as n,a as t};
+//# sourceMappingURL=base-carousel-7117e1f8c2e4.js.map

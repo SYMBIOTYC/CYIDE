@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e,t=300){let n=(e-736)/2,r=t-300;return n<180+r/2?`overlay`:n<400+r?`shift`:`gutter`}function n({displayMode:e,isPinned:t,isPopoverOpen:n}){let r=t&&e!==`overlay`,i=null;return r?i=`inline`:e===`overlay`&&n&&(i=`popover`),{displayMode:e,shouldHideInlineImmediately:e===`overlay`&&n,shouldShow:r,visibleSurface:i}}function r(){return(r=e((()=>{})))()}export{t as n,r,n as t};
+//# sourceMappingURL=thread-summary-panel-layout-6b8a5c27ebb8.js.map

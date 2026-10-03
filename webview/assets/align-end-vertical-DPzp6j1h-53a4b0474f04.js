@@ -1,0 +1,1 @@
+import{n as e,t}from"./align-end-vertical-DPzp6j1h-c11eef4c9ee9.js";e();export{t as default};

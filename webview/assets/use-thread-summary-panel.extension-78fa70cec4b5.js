@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e={}){return r}function n(e,t=!1){}var r;function i(){return(i=e((()=>{r={shouldHideInlineImmediately:!0,shouldShow:!1,visibleSurface:null}})))()}export{t as n,n as r,i as t};
+//# sourceMappingURL=use-thread-summary-panel.extension-78fa70cec4b5.js.map

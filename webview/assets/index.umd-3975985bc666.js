@@ -1,0 +1,1 @@
+import{t as e}from"./index.umd-8a372d1eb640.js";export default e();

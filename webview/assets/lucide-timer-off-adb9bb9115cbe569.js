@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-fd314f6c84f11c70.js";var r;function i(){return(i=e((()=>{t(),r=n(`TimerOff`,[[`path`,{d:`M10 2h4`,key:`n1abiw`}],[`path`,{d:`M4.6 11a8 8 0 0 0 1.7 8.7 8 8 0 0 0 8.7 1.7`,key:`10he05`}],[`path`,{d:`M7.4 7.4a8 8 0 0 1 10.3 1 8 8 0 0 1 .9 10.2`,key:`15f7sh`}],[`path`,{d:`m2 2 20 20`,key:`1ooewy`}],[`path`,{d:`M12 12v-2`,key:`fwoke6`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-timer-off-adb9bb9115cbe569.js.map

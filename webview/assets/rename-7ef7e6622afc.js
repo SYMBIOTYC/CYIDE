@@ -1,0 +1,1 @@
+import{Alt as e,klt as t}from"./app-initial-48c569ae16a4.js";t();export{e as renameLinkedProject};

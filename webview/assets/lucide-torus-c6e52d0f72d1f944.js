@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-torus-580b9148beb48320.js";e();export{t as default};

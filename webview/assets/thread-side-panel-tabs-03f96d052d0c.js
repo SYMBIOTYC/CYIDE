@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Hq as t,dzt as n}from"./app-initial-48c569ae16a4.js";function r(e,t,n={}){return!1}function i(e,t,n=!0,r={}){return!1}function a(){return(a=e((()=>{n(),t()})))()}export{i as n,r,a as t};
+//# sourceMappingURL=thread-side-panel-tabs-03f96d052d0c.js.map

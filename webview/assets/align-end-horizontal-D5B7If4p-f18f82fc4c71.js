@@ -1,0 +1,1 @@
+import{n as e,t}from"./align-end-horizontal-D5B7If4p-26547df49172.js";e();export{t as default};

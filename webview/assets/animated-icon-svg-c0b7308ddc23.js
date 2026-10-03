@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{t}from"./index.umd-8a372d1eb640.js";function n(e){return(0,r.useLottie)(e).View}var r;function i(){return(i=e((()=>{r=t()})))()}i();export{n as SvgLottie};
+//# sourceMappingURL=animated-icon-svg-c0b7308ddc23.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-pentagon-2aa8208762fa4003.js";e();export{t as default};

@@ -1,0 +1,1 @@
+import"./app-initial-48c569ae16a4.js";import{la as e,ua as t}from"./app-initial-cb4050427ba6.js";e();export{t as openWorkspaceFile};

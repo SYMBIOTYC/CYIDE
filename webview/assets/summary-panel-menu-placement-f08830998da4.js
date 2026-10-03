@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n,r;function i(){return(i=e((()=>{t=8,n=6,r=(e,r,i)=>{let a=e.closest(`[data-summary-panel-variant]`);if(a!=null&&i!=null){let o=a.getBoundingClientRect().left;if(o>=(i+t)*r+n)return{align:`start`,side:`left`,sideOffset:e.getBoundingClientRect().left-o+t*r}}return{align:`end`,side:`bottom`}}})))()}export{i as n,r as t};
+//# sourceMappingURL=summary-panel-menu-placement-f08830998da4.js.map

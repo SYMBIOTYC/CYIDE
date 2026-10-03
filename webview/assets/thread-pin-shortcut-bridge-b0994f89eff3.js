@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{gkt as t}from"./app-initial-f1c3ec6698cf.js";import{M0t as n,P0t as r}from"./app-initial-48c569ae16a4.js";function i(e){let t=(0,a.c)(5),{enabled:n,onToggle:i}=e,o;t[0]!==n||t[1]!==i?(o=()=>{n&&i()},t[0]=n,t[1]=i,t[2]=o):o=t[2];let s;return t[3]===n?s=t[4]:(s=[n],t[3]=n,t[4]=s),r(`toggle-thread-pin`,o,s),null}var a;function o(){return(o=e((()=>{a=t(),n()})))()}export{o as n,i as t};
+//# sourceMappingURL=thread-pin-shortcut-bridge-b0994f89eff3.js.map

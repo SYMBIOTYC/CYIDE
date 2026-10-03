@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{SQt as t,oot as n,sot as r,yQt as i}from"./app-initial-48c569ae16a4.js";function a(e,n,i){let a=e.get(t);return o(n)&&a!=null&&r(a,i===`banner`?`library_storage_limit_banner`:`Library storage limit ${i}`)}function o(e){return e.limit_tier===`free`?e.plan_type===`free`||e.plan_type===`free_workspace`:e.limit_tier===`go`||e.limit_tier===`plus`||e.limit_tier===`prolite`}function s(){return(s=e((()=>{n(),i()})))()}export{s as n,o as r,a as t};
+//# sourceMappingURL=upgrade-eligibility-e6ede7ee3f40.js.map

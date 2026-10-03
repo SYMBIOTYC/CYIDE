@@ -1,0 +1,1 @@
+import"./app-initial-f1c3ec6698cf.js";import{a as e,i as t,n,o as r,r as i,t as a}from"./local-conversation-sources-signals-3c98a59c036e.js";e();export{a as conversationTurnsForSources$,n as externalResourceCacheByThread,i as hasPluginToolSourceItems$,t as hasToolSourceItems$,r as priorConversationTurns$};

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-shapes-698152a78b4046b4.js";e();export{t as default};

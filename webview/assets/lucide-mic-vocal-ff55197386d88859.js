@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-mic-vocal-4cf091eec788e1f3.js";e();export{t as default};

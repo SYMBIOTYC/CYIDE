@@ -1,0 +1,1 @@
+import{n as e,t}from"./flame-BHbo7y6S-22a61c41953f.js";e();export{t as default};

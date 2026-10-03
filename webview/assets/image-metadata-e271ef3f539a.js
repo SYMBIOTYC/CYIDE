@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{COt as t,UOt as n,fOt as r,zOt as i}from"./app-initial-f1c3ec6698cf.js";function a(e){let t=s.safeParse(e?.latex_images);return t.success?t.data:[]}function o(e,t){return{id:JSON.stringify([`chatgpt`,null,e,`latex-upload:${t.asset_pointer}`]),src:t.asset_pointer,name:t.name,origin:`uploaded`}}var s;function c(){return(c=e((()=>{r(),s=t(i({asset_pointer:n().regex(/^(?:file-service|sediment):\/\/[\w-]+$/),name:n().max(2e3)}))})))()}export{o as n,c as r,a as t};
+//# sourceMappingURL=image-metadata-e271ef3f539a.js.map

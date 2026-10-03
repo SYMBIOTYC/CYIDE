@@ -1,0 +1,9 @@
+import"./src-5828637bff28.js";import"./chunk-ICXQ74PX-3b2f443aa322.js";import{n as e}from"./chunk-Y2CYZVJY-ec17b93e265e.js";import"./chunk-WYO6CB5R-68c688cf1f03.js";import"./chunk-HOUHSVGY-4086dca0623f.js";import"./chunk-Q4XR5HBZ-a082a8010c24.js";import"./chunk-7BUUIJ7U-f091a5411c5e.js";import"./chunk-OGEWGWER-418d910a3394.js";import"./chunk-32BRIVSS-15e88d2b154b.js";import"./chunk-XXDRQBXY-bead993881d3.js";import"./chunk-VR4S4FIN-44b4ed38de7a.js";import"./chunk-C7G6YPKG-bba2e6ea8e25.js";import"./chunk-ZGVPDNZ5-564b423bc553.js";import"./chunk-52WLFC77-95e650029950.js";import{r as t,t as n}from"./chunk-PUDLZKDR-4656d8a8a1b6.js";import"./mermaid.core-5013928e90f2.js";var r=n({defaultLayout:`swimlane`,styles:e(e=>`${t(e)}
+  .swimlane.cluster rect {
+    stroke: ${e.clusterBorder} !important;
+  }
+  [data-look="neo"].cluster rect {
+    filter: none;
+  }
+`,`getStyles`)});export{r as diagram};
+//# sourceMappingURL=swimlanesDiagram-G3AALYLV-375dfe671c36.js.map

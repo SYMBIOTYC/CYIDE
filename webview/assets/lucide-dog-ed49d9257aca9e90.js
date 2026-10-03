@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-dog-82a22010d2c7b903.js";e();export{t as default};

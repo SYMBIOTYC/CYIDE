@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{IIt as t,LIt as n}from"./app-initial-a42f602681b3.js";import{Mi as r,ji as i}from"./app-initial-48c569ae16a4.js";import{t as a}from"./logout-engine-f457d125831c.js";function o(e,n,i,a=`login`,o){let{provider:s}=t().auth;return r(`signin/${s}`,e,a===`login`?{prompt:`login`,screen_hint:`login_or_signup`,...n}:n,i,o)}function s(){return(s=e((()=>{n(),i(),a()})))()}export{o as n,s as t};
+//# sourceMappingURL=session-6ee150298653.js.map

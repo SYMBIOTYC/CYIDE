@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{_kt as t,fDt as n,lDt as r}from"./app-initial-f1c3ec6698cf.js";import{n as i,t as a}from"./app-initial-a42f602681b3.js";import{t1t as o}from"./app-initial-48c569ae16a4.js";var s,c,l,u;function d(){return(d=e((()=>{if(t(),s=r(),a(),o(),n(),c=document.getElementById(`root`),!c)throw Error(`Root container not found`);l=window,l.__codexRoot??(l.__codexRoot=(0,s.createRoot)(c)),u=l.__codexRoot,i().then(e=>u.render(e))})))()}d();
+//# sourceMappingURL=app-main-fbe7e5812b6d.js.map

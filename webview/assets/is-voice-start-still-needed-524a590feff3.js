@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{XEt as t,p0t as n,tDt as r,u0t as i}from"./app-initial-48c569ae16a4.js";function a(e,{sessionId:t,navigation:n,signal:a},o){let s=a?.aborted===!0,c=e.get(r)!==t,l=n!==void 0&&e.get(i)!==n;return s||c||l?!1:o?.()??!0}function o(){return(o=e((()=>{n(),t()})))()}export{a as n,o as t};
+//# sourceMappingURL=is-voice-start-still-needed-524a590feff3.js.map

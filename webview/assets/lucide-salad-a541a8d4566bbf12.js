@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-salad-168e0dd82da7752b.js";e();export{t as default};

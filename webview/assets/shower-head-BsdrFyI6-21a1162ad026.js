@@ -1,0 +1,1 @@
+import{n as e,t}from"./shower-head-BsdrFyI6-2260bb7050b7.js";e();export{t as default};

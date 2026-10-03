@@ -1,0 +1,1 @@
+import{n as e,t}from"./page-menu-document-f48a063b124d.js";e();export{t as copyPageMarkdown};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-fd314f6c84f11c70.js";var r;function i(){return(i=e((()=>{t(),r=n(`AlignRight`,[[`path`,{d:`M21 12H9`,key:`dn1m92`}],[`path`,{d:`M21 18H7`,key:`1ygte8`}],[`path`,{d:`M21 6H3`,key:`1jwq7v`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-align-right-7a3d2a4a255bcd20.js.map

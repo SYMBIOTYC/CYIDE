@@ -1,0 +1,1 @@
+import{n as e,t}from"./scaling-CPe5Mlf3-afb230ea7f66.js";t();export{e as default};

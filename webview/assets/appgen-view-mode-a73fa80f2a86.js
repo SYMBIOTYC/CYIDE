@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{hYt as t,mYt as n}from"./app-initial-48c569ae16a4.js";var r,i;function a(){return(a=e((()=>{n(),r=`list`,i=t(`sites-view-mode`,r,{coerceStoredValue:e=>e===`grid`||e===`list`?e:r})})))()}export{i as n,a as t};
+//# sourceMappingURL=appgen-view-mode-a73fa80f2a86.js.map

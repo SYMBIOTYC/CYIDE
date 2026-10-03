@@ -1,0 +1,1 @@
+import{Alt as e,hft as t,mct as n}from"./app-initial-f1c3ec6698cf.js";n();export{e as parsePatchFiles,t as resolveLanguage};

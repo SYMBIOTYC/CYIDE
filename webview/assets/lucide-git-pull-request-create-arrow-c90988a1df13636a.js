@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-git-pull-request-create-arrow-19865f0469353043.js";e();export{t as default};

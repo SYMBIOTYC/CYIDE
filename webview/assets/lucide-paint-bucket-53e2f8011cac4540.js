@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-paint-bucket-9bc43768e6a0189b.js";e();export{t as default};

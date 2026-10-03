@@ -1,0 +1,1 @@
+import{J_t as e,q_t as t}from"./app-initial-48c569ae16a4.js";e();export{t as getPluginTargetForReference};

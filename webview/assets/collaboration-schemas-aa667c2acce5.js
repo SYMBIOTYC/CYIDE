@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t;function n(){return(n=e((()=>{t=Object.freeze({presentation:Object.freeze({readableSchemas:Object.freeze([1,2,3,4]),writableSchemas:Object.freeze([3,4])}),spreadsheet:Object.freeze({readableSchemas:Object.freeze([1]),writableSchemas:Object.freeze([1])}),whiteboard:Object.freeze({readableSchemas:Object.freeze([1,2]),writableSchemas:Object.freeze([2])})})})))()}export{n,t};
+//# sourceMappingURL=collaboration-schemas-aa667c2acce5.js.map

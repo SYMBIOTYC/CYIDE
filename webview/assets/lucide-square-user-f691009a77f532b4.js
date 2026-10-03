@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-square-user-88ace4e82baa4987.js";e();export{t as default};

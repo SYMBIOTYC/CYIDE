@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-hand-helping-fc063f2ceb265e0b.js";e();export{t as default};

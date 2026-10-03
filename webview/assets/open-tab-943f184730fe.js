@@ -1,0 +1,1 @@
+import"./app-initial-f1c3ec6698cf.js";import{GD as e,JD as t,KD as n,WD as r,YD as i,qD as a}from"./app-initial-a42f602681b3.js";import"./app-initial-48c569ae16a4.js";n();export{r as browserTabType,e as getBrowserTabIdForOpen,a as openBrowserThreadPanelTab,t as openBrowserThreadPanelTabWithPendingOpenState,i as openBrowserThreadPanelTabWithoutAnimation};

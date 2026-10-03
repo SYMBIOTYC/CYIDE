@@ -1,0 +1,1 @@
+import"./app-initial-f1c3ec6698cf.js";import{n as e,r as t,t as n}from"./Appy-97387383abf7.js";t();export{n as AppyIcon,e as AppyIconSm};

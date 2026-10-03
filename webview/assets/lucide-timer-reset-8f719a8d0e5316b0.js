@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-fd314f6c84f11c70.js";var r;function i(){return(i=e((()=>{t(),r=n(`TimerReset`,[[`path`,{d:`M10 2h4`,key:`n1abiw`}],[`path`,{d:`M12 14v-4`,key:`1evpnu`}],[`path`,{d:`M4 13a8 8 0 0 1 8-7 8 8 0 1 1-5.3 14L4 17.6`,key:`1ts96g`}],[`path`,{d:`M9 17H4v5`,key:`8t5av`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-timer-reset-8f719a8d0e5316b0.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{t}from"./src-6763c49e9ab4.js";import{o as n}from"./chunk-X3CZISLH-e2ce82d1823f.js";import{n as r,r as i}from"./chunk-Y2CYZVJY-24cce454fd91.js";import{j as a,x as o}from"./chunk-WYO6CB5R-accf5278ace1.js";var s;function c(){return(c=e((()=>{a(),i(),t(),s=r(e=>{let{securityLevel:t}=o(),r=n(`body`);if(t===`sandbox`){let t=n(`#i${e}`).node()?.contentDocument??document;r=n(t.body)}return r.select(`#${e}`)},`selectSvgElement`)})))()}export{s as n,c as t};
+//# sourceMappingURL=chunk-VAUOI2AC-27b8b03a4298.js.map

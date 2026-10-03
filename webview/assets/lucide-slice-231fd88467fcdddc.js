@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-slice-7a824f2474f0ffb0.js";e();export{t as default};

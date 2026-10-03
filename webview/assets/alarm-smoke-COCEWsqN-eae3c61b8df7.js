@@ -1,0 +1,1 @@
+import{n as e,t}from"./alarm-smoke-COCEWsqN-5a5c7a4fa82a.js";e();export{t as default};

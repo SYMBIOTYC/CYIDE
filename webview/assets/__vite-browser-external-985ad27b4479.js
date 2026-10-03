@@ -1,0 +1,1 @@
+import{mot as e}from"./app-initial-a42f602681b3.js";export default e();

@@ -1,0 +1,1 @@
+import"./app-initial-f1c3ec6698cf.js";import{Nst as e,Pst as t}from"./app-initial-48c569ae16a4.js";t();export{e as LoadingPage};

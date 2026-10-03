@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-31d6baf5cb6f.js";var r;function i(){return(i=e((()=>{t(),r=n(`Text`,[[`path`,{d:`M17 6.1H3`,key:`wptmhv`}],[`path`,{d:`M21 12.1H3`,key:`1j38uz`}],[`path`,{d:`M15.1 18H3`,key:`1nb16a`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=text-B-t0-Svf-4dfea392842d.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./bed-single-DxTPajfJ-d108b14038a6.js";t();export{e as default};

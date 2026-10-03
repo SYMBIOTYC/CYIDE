@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{m1 as t,p1 as n}from"./app-initial-48c569ae16a4.js";function r(e,t=`dashboard`){return`${n}/${encodeURIComponent(e)}/${t}`}function i(e){if(e===`chats`||e===`insights`||e===`products`)return e;for(let t of a)if(e===`edit/${t}`)return`edit/${t}`;return`dashboard`}var a;function o(){return(o=e((()=>{t(),a=[`hours`,`contact`,`location`,`about`,`photos`,`delivery`,`returns`]})))()}export{o as i,r as n,a as r,i as t};
+//# sourceMappingURL=routing-43abead6a7a2.js.map

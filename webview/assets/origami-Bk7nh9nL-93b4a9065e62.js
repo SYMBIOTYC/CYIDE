@@ -1,0 +1,1 @@
+import{n as e,t}from"./origami-Bk7nh9nL-cb3b1ebdcd06.js";t();export{e as default};

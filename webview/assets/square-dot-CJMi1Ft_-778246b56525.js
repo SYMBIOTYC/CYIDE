@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-dot-CJMi1Ft_-7a79de9966b3.js";e();export{t as default};

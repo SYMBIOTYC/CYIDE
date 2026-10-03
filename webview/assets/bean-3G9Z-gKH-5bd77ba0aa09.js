@@ -1,0 +1,1 @@
+import{n as e,t}from"./bean-3G9Z-gKH-ecdb4d8983dd.js";e();export{t as default};
