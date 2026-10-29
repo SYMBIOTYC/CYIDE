@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";async function t(e,t){let n=!1,r=()=>{n||(n=!0,e[Symbol.dispose]?.())},i,a=t==null?null:new Promise((e,n)=>{i=()=>{r(),n(new DOMException(`The operation was aborted`,`AbortError`))},t.addEventListener(`abort`,i,{once:!0})});try{t?.throwIfAborted();let n=a==null?await e.wait():await Promise.race([e.wait(),a]);return t?.throwIfAborted(),n}finally{i!=null&&t?.removeEventListener(`abort`,i),r()}}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=await-rpc-operation-744af708d12b.js.map

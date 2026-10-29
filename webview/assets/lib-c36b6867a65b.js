@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{a as t,i as n,n as r,r as i,t as a}from"./micromark-extension-gfm-eb88c7002805.js";function o(e){let t=this,r=e||s,o=t.data(),c=o.micromarkExtensions||=[],l=o.fromMarkdownExtensions||=[],u=o.toMarkdownExtensions||=[];c.push(a(r)),l.push(i()),u.push(n(r))}var s;function c(){return(c=e((()=>{t(),r(),s={}})))()}export{o as n,c as t};
+//# sourceMappingURL=lib-c36b6867a65b.js.map

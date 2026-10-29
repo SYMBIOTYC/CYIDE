@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e,t){t!=null&&(e==null||!e.defaultPrevented&&e.button===0&&!(e.metaKey||e.ctrlKey||e.shiftKey||e.altKey))&&(e?.preventDefault(),t())}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=plugin-link-click-24382ca07fbc.js.map

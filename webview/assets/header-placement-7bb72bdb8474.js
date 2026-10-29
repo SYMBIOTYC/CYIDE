@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){return e===`csv`||e===`tsv`||e===`xlsx`?void 0:`overlay`}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=header-placement-7bb72bdb8474.js.map

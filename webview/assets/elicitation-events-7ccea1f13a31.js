@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{r as t,t as n}from"./product-logger-6eb6e3599809.js";import{Ws as r,Zt as i}from"./codex-5a0f63bbeb77.js";function a(e,n,r){t(e,i,{...n,stage:`interacted`,action:r})}function o(){return(o=e((()=>{r(),n()})))()}export{a as n,o as t};
+//# sourceMappingURL=elicitation-events-7ccea1f13a31.js.map

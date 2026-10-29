@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{i as t,r as n}from"./QueryClientProvider-bedff5d12f49.js";function r(e,n){let r=t(n);r.getQueryState(e.queryKey)||r.prefetchQuery(e)}function i(){return(i=e((()=>{n()})))()}export{r as n,i as t};
+//# sourceMappingURL=usePrefetchQuery-3d3c9987a278.js.map

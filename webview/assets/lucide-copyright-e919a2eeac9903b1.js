@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-e9cfa6369265cc4d.js";var r;function i(){return(i=e((()=>{t(),r=n(`Copyright`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`path`,{d:`M14.83 14.83a4 4 0 1 1 0-5.66`,key:`1i56pz`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-copyright-e919a2eeac9903b1.js.map

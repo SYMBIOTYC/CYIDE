@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n;function r(){return(r=e((()=>{t={current:null},n={current:!1}})))()}function i(){if(n.current=!0,a){if(window.matchMedia){let e=window.matchMedia(`(prefers-reduced-motion)`),n=()=>t.current=e.matches;e.addEventListener(`change`,n),n()}else t.current=!1}}var a;function o(){return(o=e((()=>{r(),a=typeof window<`u`})))()}export{t as a,r as i,o as n,n as r,i as t};
+//# sourceMappingURL=reduced-motion-a98167564197.js.map

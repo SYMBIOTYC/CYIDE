@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{F as t,T as n,n as r,r as i,t as a}from"./app-scope-2dce3358324c.js";var o,s;function c(){return(c=e((()=>{i(),r(),o=t(a,{}),s=n(a,(e,{get:t})=>Object.values(t(o)).some(t=>t.appId===e&&t.resumeTarget.kind===`plugin-install`&&t.claimed))})))()}export{o as n,s as r,c as t};
+//# sourceMappingURL=app-connect-oauth-state-5bbd9a5d40ed.js.map

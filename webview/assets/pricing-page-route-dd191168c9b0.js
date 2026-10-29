@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t({pathname:e=`/`,search:t=``}={}){return{pathname:n,search:t,hash:``}}var n;function r(){return(r=e((()=>{n=`/pricing-plan`})))()}export{t as n,r,n as t};
+//# sourceMappingURL=pricing-page-route-dd191168c9b0.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t;function n(){return(n=e((()=>{t={dark:{accent:`#339cff`,contrast:60,fonts:{code:null,ui:null},ink:`#ffffff`,opaqueWindows:!1,semanticColors:{diffAdded:`#40c977`,diffRemoved:`#fa423e`,skill:`#ad7bf9`},surface:`#181818`},light:{accent:`#339cff`,contrast:45,fonts:{code:null,ui:null},ink:`#1a1c1f`,opaqueWindows:!1,semanticColors:{diffAdded:`#00a240`,diffRemoved:`#ba2623`,skill:`#924ff7`},surface:`#ffffff`}}})))()}export{n,t};
+//# sourceMappingURL=defaults-930c9f21f410.js.map

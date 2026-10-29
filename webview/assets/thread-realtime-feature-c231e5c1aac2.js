@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{c as t,tu as n}from"./app-initial-13f932cb2f13.js";function r(e){return e!=null&&e!==`0.0.0`&&n(e,i)>=0}var i;function a(){return(a=e((()=>{t(),i=`0.147.0-alpha.6`})))()}export{r as n,a as t};
+//# sourceMappingURL=thread-realtime-feature-c231e5c1aac2.js.map

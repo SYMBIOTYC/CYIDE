@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n,r;function i(){return(i=e((()=>{t=`codex-conversation-snapshot-cache`,n=`codex.conversation_snapshot_cache.persisted`,r={maxBytesPerEntry:2097152,maxEntries:20}})))()}export{i,n,r,t};
+//# sourceMappingURL=types-d7f0b3636cd5.js.map

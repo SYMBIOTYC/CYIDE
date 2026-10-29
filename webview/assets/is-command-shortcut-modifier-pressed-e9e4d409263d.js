@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(){return r.test(navigator.platform)}function n({ctrlKey:e,metaKey:n}){return t()?n:e}var r;function i(){return(i=e((()=>{r=/Mac|iPhone|iPad|iPod/})))()}export{t as n,n as r,i as t};
+//# sourceMappingURL=is-command-shortcut-modifier-pressed-e9e4d409263d.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{t}from"./compiler-runtime-2015039f3c68.js";import{i as n,n as r}from"./message-bus-4113ba7287d7.js";function i(e){let t=(0,a.c)(3),r,i;t[0]===e?(r=t[1],i=t[2]):(r=e=>{},i=[e],t[0]=e,t[1]=r,t[2]=i),n(`toggle-diff-panel`,r,i)}var a;function o(){return(o=e((()=>{a=t(),r()})))()}export{i as n,o as t};
+//# sourceMappingURL=use-terminal-shortcut-70b841449e78.js.map

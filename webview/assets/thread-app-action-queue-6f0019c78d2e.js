@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{O as t,n,r,t as i}from"./app-scope-2dce3358324c.js";function a(e,t){if(t.targetThreadId.trim().length===0)throw Error(`A target thread ID is required`);e.set(c,t.targetThreadId,e=>[...e,t])}function o(e,t){let n=e.get(c,t);return n.length===0||e.set(c,t,[]),n}function s(e,t,n){return e.watch(({get:e})=>{e(c,t),n()})}var c;function l(){return(l=e((()=>{r(),n(),c=t(i,e=>[])})))()}export{s as i,l as n,o as r,a as t};
+//# sourceMappingURL=thread-app-action-queue-6f0019c78d2e.js.map

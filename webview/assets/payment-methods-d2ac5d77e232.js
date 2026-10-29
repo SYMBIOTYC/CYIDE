@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{j as t,v as n}from"./retryer-9100ace4036d.js";import{n as r}from"./queryOptions-1784a46739b7.js";import{i,t as a}from"./request-c956dcf11877.js";function o(e){return r({queryKey:[`consumer-billing`,e,`payment-methods`],queryFn:e==null?t:({signal:t})=>a.safeGet(`/payments/payment_methods`,{parameters:{query:{account_id:e}},signal:t}),staleTime:0,retry:!1})}function s(){return(s=e((()=>{n(),i()})))()}export{o as n,s as t};
+//# sourceMappingURL=payment-methods-d2ac5d77e232.js.map

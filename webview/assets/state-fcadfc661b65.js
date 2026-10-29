@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{F as t,k as n,r}from"./app-scope-2dce3358324c.js";import{T as i,u as a}from"./route-scope-38f8c9923d9d.js";var o,s,c,l,u,d;function f(){return(f=e((()=>{r(),i(),o=t(a,`idle`),s=t(a,null),c=t(a,null),l=n(a,({get:e})=>e(o)===`restoring`),u=n(a,({get:e})=>e(o)===`failed`),d=t(a,0)})))()}export{f as a,l as i,u as n,c as o,o as r,s,d as t};
+//# sourceMappingURL=state-fcadfc661b65.js.map

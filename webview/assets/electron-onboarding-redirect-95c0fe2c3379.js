@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{c as t}from"./app-initial-13f932cb2f13.js";function n(e){return e===r||e===i||e===a}var r,i,a;function o(){return(o=e((()=>{t(),r=`/login`,i=`/welcome`,a=`/select-workspace`})))()}export{n,o as t};
+//# sourceMappingURL=electron-onboarding-redirect-95c0fe2c3379.js.map

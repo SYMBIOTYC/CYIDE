@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-shopping-basket-e86369aa5d7b6b2b.js";e();export{t as default};

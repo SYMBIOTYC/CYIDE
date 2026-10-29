@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e,t){let r=t||{};function i(t,...r){let a=i.invalid,o=i.handlers;if(t&&n.call(t,e)){let r=String(t[e]);a=n.call(o,r)?o[r]:i.unknown}if(a)return a.call(this,t,...r)}return i.handlers=r.handlers||{},i.invalid=r.invalid,i.unknown=r.unknown,i}var n;function r(){return(r=e((()=>{n={}.hasOwnProperty})))()}export{t as n,r as t};
+//# sourceMappingURL=zwitch-beeef8f64bf5.js.map

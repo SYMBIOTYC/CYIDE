@@ -1,0 +1,1 @@
+import{n as e,t}from"./bold-CDc5tuKP-7407b2eeedb3.js";e();export{t as default};

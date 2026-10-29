@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-d83fee8684c3.js";var r;function i(){return(i=e((()=>{t(),r=n(`RectangleVertical`,[[`rect`,{width:`12`,height:`20`,x:`6`,y:`2`,rx:`2`,key:`1oxtiu`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=rectangle-vertical-C5CvkXVV-893f8c7d3695.js.map

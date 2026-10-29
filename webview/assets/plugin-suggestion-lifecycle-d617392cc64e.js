@@ -1,0 +1,1 @@
+import"./chatgpt-feature-access-fec37fc058a6.js";import"./browser-apps-account-686dee119787.js";import{o as e,t}from"./plugin-suggestion-lifecycle-265979d7e24f.js";t();export{e as recordPluginSuggestionInstallation};

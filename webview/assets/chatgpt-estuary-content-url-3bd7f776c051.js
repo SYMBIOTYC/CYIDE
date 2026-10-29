@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t}from"./chatgpt-backend-content-url-ddc24f5b9926.js";function n(e){let n=t(e);if(n==null)return null;let r=/^\/(?:backend-api|__codex-api)(\/estuary\/(?:content\/?|public_content\/enc\/[^/]+))$/u.exec(n.pathname);return r==null?null:`${r[1]}${n.search}`}function r(){return(r=e((()=>{})))()}export{r as n,n as t};
+//# sourceMappingURL=chatgpt-estuary-content-url-3bd7f776c051.js.map

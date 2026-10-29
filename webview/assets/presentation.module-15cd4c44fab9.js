@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n,r,i;function a(){return(a=e((()=>{t=`_surface_ubz2o_3`,n=`_welcomeHeader_ubz2o_38`,r=`_heroHeader_ubz2o_45`,i={surface:t,welcomeHeader:n,heroHeader:r}})))()}export{i as n,a as t};
+//# sourceMappingURL=presentation.module-15cd4c44fab9.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{F as t,M as n}from"./feature-gate-ec3a984d1b89.js";function r(e){if(e==null)return`unknown`;switch(t(e)){case`page`:return`page`;case`granola_workbook`:return`sheet`;case`granola_presentation`:return`slide`;case`granola_document`:case`granola_whiteboard`:case`unsupported`:return`unknown`}}function i(){return(i=e((()=>{n()})))()}export{r as n,i as t};
+//# sourceMappingURL=document-type-2a3d13e4e2ed.js.map

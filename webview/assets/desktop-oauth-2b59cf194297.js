@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){return e===`codex:`||e===`codex-dev:`?r[e]:null}function n(e){if(e.searchParams.getAll(`state`).length!==1)return null;let t=e.searchParams.get(`state`),n=Object.entries(r).find(([,e])=>t!=null&&t.startsWith(e)&&t.length>e.length);return n==null?null:`${n[0]}//connector/oauth_callback${e.search}`}var r;function i(){return(i=e((()=>{r={"codex:":`codex_health_scheme__`,"codex-dev:":`codex_dev_health_scheme__`}})))()}export{t as n,i as r,n as t};
+//# sourceMappingURL=desktop-oauth-2b59cf194297.js.map

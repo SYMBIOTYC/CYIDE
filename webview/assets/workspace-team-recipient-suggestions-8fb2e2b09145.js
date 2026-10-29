@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{T as t,n,r,t as i}from"./app-scope-2dce3358324c.js";import{S as a,i as o,x as s}from"./teams-state-95385d3f4e0e.js";var c,l;function u(){return(u=e((()=>{r(),n(),o(),c=t(i,(e,{get:t})=>t(s,e)),l=t(i,(e,{get:t})=>{if(t(c,e)){let{data:n,isError:r,isLoading:i}=t(a,e);return{data:n?.filter(t=>t.workspace_id===e),isError:r,isLoading:i}}return null})})))()}export{l as n,c as r,u as t};
+//# sourceMappingURL=workspace-team-recipient-suggestions-8fb2e2b09145.js.map

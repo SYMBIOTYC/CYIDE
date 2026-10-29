@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{t}from"./compiler-runtime-2015039f3c68.js";import{c as n,r}from"./app-scope-2dce3358324c.js";import{n as i,t as a}from"./registry-30374645eb4c.js";function o(e){let t=(0,s.c)(3),{children:r,hostId:i,name:o}=e,c;return t[0]!==i||t[1]!==o?(c={name:o,hostId:i},t[0]=i,t[1]=o,t[2]=c):c=t[2],n(a,c).isCapable?r:null}var s;function c(){return(c=e((()=>{s=t(),r(),i()})))()}export{c as n,o as t};
+//# sourceMappingURL=capability-gate-d1b5403e73a8.js.map

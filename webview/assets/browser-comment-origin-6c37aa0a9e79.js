@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{a as t,o as n}from"./comment-input-2b0ab7890aba.js";function r(e){return e.localBrowserCommentMetadata?.browserTabId??null}function i(e,t){return n(e)&&r(e)===t}function a(){return(a=e((()=>{t()})))()}export{a as n,i as r,r as t};
+//# sourceMappingURL=browser-comment-origin-6c37aa0a9e79.js.map

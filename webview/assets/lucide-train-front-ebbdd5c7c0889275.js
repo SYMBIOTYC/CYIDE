@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-train-front-2afd0ccec3cc2841.js";e();export{t as default};

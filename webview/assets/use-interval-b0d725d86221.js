@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{rS as t}from"./app-initial-13f932cb2f13.js";import{t as n}from"./compiler-runtime-2015039f3c68.js";function r(e,t){let n=(0,i.c)(5),r=(0,a.useEffectEvent)(e),o;n[0]!==t||n[1]!==r?(o=()=>{if(t==null)return;let e=window.setInterval(()=>{r()},t);return()=>{window.clearInterval(e)}},n[0]=t,n[1]=r,n[2]=o):o=n[2];let s;n[3]===t?s=n[4]:(s=[t],n[3]=t,n[4]=s),(0,a.useEffect)(o,s)}var i,a;function o(){return(o=e((()=>{i=n(),a=t()})))()}export{r as n,o as t};
+//# sourceMappingURL=use-interval-b0d725d86221.js.map

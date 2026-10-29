@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){let t=e.interface?.shortDescription;if(t!=null&&t.trim().length>0)return t;let{short_description:n,shortDescription:r}=e;return n??r??e.description}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=get-skill-description-f137e6b10cb8.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-vote-6c339cddc72397c0.js";e();export{t as default};

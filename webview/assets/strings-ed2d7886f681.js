@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Ov as t,dh as n}from"./app-initial-13f932cb2f13.js";var r;function i(){return(i=e((()=>{n(),r=t().regex(/\S/)})))()}export{i as n,r as t};
+//# sourceMappingURL=strings-ed2d7886f681.js.map

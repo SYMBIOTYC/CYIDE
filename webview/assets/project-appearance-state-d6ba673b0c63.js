@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Vp as t,c as n,ti as r}from"./app-initial-13f932cb2f13.js";import{T as i,k as a,n as o,r as s,t as c}from"./app-scope-2dce3358324c.js";import{a as l,o as u}from"./global-settings-1712bbf4a845.js";var d,f;function p(){return(p=e((()=>{s(),n(),u(),o(),d=a(c,({get:e})=>r(e(l,t.PROJECT_APPEARANCES).data)),f=i(c,(e,{get:t})=>t(d)[e]??null)})))()}export{f as n,p as t};
+//# sourceMappingURL=project-appearance-state-d6ba673b0c63.js.map

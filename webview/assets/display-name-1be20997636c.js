@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./format-skill-title-3ca1f1d8155d.js";function r(e){return`plugin`in e?e.displayName??n(e.plugin.name):e.displayName}function i(){return(i=e((()=>{t()})))()}export{i as n,r as t};
+//# sourceMappingURL=display-name-1be20997636c.js.map

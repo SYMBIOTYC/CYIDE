@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{r as t}from"./host-ids-55018f80fce1.js";function n(e,t){return`${t===`local`?`local`:`remote-host`}:${t}:${e}`}function r(e){return`cloud:${e}`}function i(){return(i=e((()=>{t()})))()}export{n,i as r,r as t};
+//# sourceMappingURL=avatar-overlay-notification-id-968941499f31.js.map

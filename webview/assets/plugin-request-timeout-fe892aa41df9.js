@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){return AbortSignal.any([e,AbortSignal.timeout(n)])}var n;function r(){return(r=e((()=>{n=3e4})))()}export{t as n,r,n as t};
+//# sourceMappingURL=plugin-request-timeout-fe892aa41df9.js.map

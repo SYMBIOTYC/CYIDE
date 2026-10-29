@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e,t){let n=Math.sin((e+1)*12.9898+t*78.233)*43758.5453;return n-Math.floor(n)}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=particles-489ba2692717.js.map

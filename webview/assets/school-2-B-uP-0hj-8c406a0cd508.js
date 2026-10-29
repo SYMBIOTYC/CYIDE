@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./university-CGcuRLsz-a3b33e43a9c8.js";function r(){return(r=e((()=>{t()})))()}r();export{n as default};
+//# sourceMappingURL=school-2-B-uP-0hj-8c406a0cd508.js.map

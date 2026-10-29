@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{vn as t,yn as n}from"./single-value-9e27e9bcd6ce.js";function r(e,t){if(e===`first`)return 0;{let n=t-1;return e===`last`?n:n/2}}function i(e=.1,{startDelay:n=0,from:i=0,ease:a}={}){return(o,s)=>{let c=typeof i==`number`?i:r(i,s),l=e*Math.abs(c-o);if(a){let n=s*e;l=t(a)(l/n)*n}return n+l}}function a(){return(a=e((()=>{n()})))()}export{i as n,a as t};
+//# sourceMappingURL=stagger-4f6aa15bfdca.js.map

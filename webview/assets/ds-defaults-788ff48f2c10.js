@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){return e===`browser`?4:2}var n;function r(){return(r=e((()=>{n={backdropStyle:`dim`,menuAnimations:!1,squircle:!0,tooltipSideOffset:t(`extension`),tooltipCollisionPadding:8}})))()}export{r as n,n as t};
+//# sourceMappingURL=ds-defaults-788ff48f2c10.js.map

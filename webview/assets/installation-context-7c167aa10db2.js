@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Ov as t,Uv as n,dh as r,gv as i,nv as a}from"./app-initial-13f932cb2f13.js";var o,s;function c(){return(c=e((()=>{r(),o=t().min(1).max(4096).regex(/^[A-Za-z0-9_.-]+$/),s=i({kind:a(`orbit`),hostId:t().min(1),widgetId:t().min(1),pluginName:t().min(1),notificationId:n(),pluginSuggestionReference:o.optional().catch(void 0)})})))()}export{s as n,o as r,c as t};
+//# sourceMappingURL=installation-context-7c167aa10db2.js.map

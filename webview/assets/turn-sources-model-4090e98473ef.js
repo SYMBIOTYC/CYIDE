@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t({label:e,title:t=null,url:n}){try{let r=new URL(n);return r.protocol!==`http:`&&r.protocol!==`https:`||r.username!==``||r.password!==``?null:{label:e?.trim()||`${r.host.replace(/^www\./u,``)}${r.pathname}`,title:t?.trim()||null,url:r.href}}catch{return null}}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=turn-sources-model-4090e98473ef.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./tab-97865865a9e2.js";t();export{e as openImagePreviewTab};

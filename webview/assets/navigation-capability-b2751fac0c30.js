@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{k as t,n,r,t as i}from"./app-scope-2dce3358324c.js";import{n as a,t as o}from"./registry-30374645eb4c.js";import{n as s}from"./statsig-gate-signal-4df082acfadb.js";import{t as c}from"./sidebar-product-mode-1d11bf99bd4e.js";var l;function u(){return(u=e((()=>{r(),a(),n(),c(),s(),l=t(i,({get:e})=>e(o,{name:`automations.cloud`}))})))()}export{u as n,l as t};
+//# sourceMappingURL=navigation-capability-b2751fac0c30.js.map

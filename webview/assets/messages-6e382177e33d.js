@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{o as t,s as n}from"./lib-72ce426c00b2.js";var r;function i(){return(i=e((()=>{n(),r=t({title:{id:`codex.workspaceInvite.title`,defaultMessage:`Invite members`,description:`Title of the standard workspace member invitation modal`}})})))()}export{r as n,i as t};
+//# sourceMappingURL=messages-6e382177e33d.js.map

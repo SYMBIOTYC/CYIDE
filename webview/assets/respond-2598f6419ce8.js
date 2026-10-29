@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{i as t,n}from"./submit-chatgpt-completion-808c48db37f1.js";async function r(e,{action:n,conversationId:r,elicitationResponse:i,isApiToolElicitation:a,isTemporaryChat:o,model:s,recipient:c}){await t(e,{conversationId:r,isTemporaryChat:o,model:s,prompt:``,toolApproval:{action:n.type,actionData:n,elicitationResponse:i,isApiToolElicitation:a,recipient:c,targetMessageId:n.target_message_id}})}function i(){return(i=e((()=>{n()})))()}export{r as n,i as t};
+//# sourceMappingURL=respond-2598f6419ce8.js.map

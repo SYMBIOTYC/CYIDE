@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{$ as t,et as n}from"./app-scope-2dce3358324c.js";import{n as r,t as i}from"./useBaseQuery-b8cba2523b08.js";function a(e,n){return r(e,t,n)}function o(){return(o=e((()=>{n(),i()})))()}export{a as n,o as t};
+//# sourceMappingURL=useInfiniteQuery-2aab58c72949.js.map

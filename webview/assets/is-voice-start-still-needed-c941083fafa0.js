@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{r as t,s as n}from"./navigation-history-signal-a53b1043c9e8.js";import{n as r,s as i}from"./signals-e00b22ba100d.js";import{a,i as o}from"./microphone-ownership-e803f373a25b.js";function s(e,{sessionId:n,navigation:r,signal:o},s){let c=o?.aborted===!0,l=e.get(i)!==n,u=r!==void 0&&e.get(t)!==r;return c||l||u||!a(e,n)?!1:s?.()??!0}function c(){return(c=e((()=>{o(),n(),r()})))()}export{s as n,c as t};
+//# sourceMappingURL=is-voice-start-still-needed-c941083fafa0.js.map

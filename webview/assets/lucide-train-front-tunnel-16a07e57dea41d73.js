@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-train-front-tunnel-5e7f186312575cf1.js";e();export{t as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{N as t,n,r,t as i}from"./app-scope-2dce3358324c.js";import{a,n as o}from"./statsig-gate-signal-4df082acfadb.js";function s(e){return e.get(a)?.getLayer(`2115119119`).get(`enabled`,!1)===!0}var c;function l(){return(l=e((()=>{r(),n(),o(),c=t(i,({scope:e})=>s(e),({get:e,set:t,scope:n})=>{let r=e(a),i=()=>t(s(n));return i(),r?.on(`values_updated`,i),()=>{r?.off(`values_updated`,i)}})})))()}export{l as n,s as r,c as t};
+//# sourceMappingURL=availability-48e0ded9fca4.js.map

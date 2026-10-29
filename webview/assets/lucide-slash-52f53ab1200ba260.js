@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-e9cfa6369265cc4d.js";var r;function i(){return(i=e((()=>{t(),r=n(`Slash`,[[`path`,{d:`M22 2 2 22`,key:`y4kqgn`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-slash-52f53ab1200ba260.js.map

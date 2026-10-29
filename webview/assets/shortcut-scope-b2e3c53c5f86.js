@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{k as t,n,r,t as i}from"./app-scope-2dce3358324c.js";import{n as a}from"./registry-30374645eb4c.js";import{t as o}from"./os-info-8be9eb741279.js";var s;function c(){return(c=e((()=>{r(),a(),o(),n(),s=t(i,({get:e})=>null)})))()}export{c as n,s as t};
+//# sourceMappingURL=shortcut-scope-b2e3c53c5f86.js.map

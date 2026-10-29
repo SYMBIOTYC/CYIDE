@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e,t){let n=e.state?.spaceSidebarAccountId===t?e.state:null;return{sidebarArea:`space`,spaceSidebarAccountId:t??void 0,spaceSidebarRootPageId:n?.spaceSidebarRootPageId,spaceSidebarPersonal:n?.spaceSidebarPersonal??e.pathname===`/space/personal`}}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=space-sidebar-navigation-state-5576d0d51ef7.js.map

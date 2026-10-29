@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{O as t,r as n}from"./app-scope-2dce3358324c.js";import{c as r,t as i}from"./route-scope-38f8c9923d9d.js";function a(e,t,n,r){let i={submit:n,threadId:r};return e.set(o,t,i),()=>{e.get(o,t)===i&&e.set(o,t,null)}}var o;function s(){return(s=e((()=>{n(),r(),o=t(i,e=>null)})))()}export{s as n,a as r,o as t};
+//# sourceMappingURL=annotation-submit-target-a559142e6684.js.map

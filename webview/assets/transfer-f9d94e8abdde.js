@@ -1,0 +1,1 @@
+import{n as e,t}from"./transfer-5f586a845e84.js";t();export{e as moveTabToNewWindow};

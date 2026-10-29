@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){let t;try{t=new URL(e)}catch{return`web`}if(t.protocol!==`http:`&&t.protocol!==`https:`)return`web`;let n=t.hostname.replace(/\.$/,``);return n===`localhost`||n.endsWith(`.localhost`)||/^127\.\d+\.\d+\.\d+$/.test(n)||n===`[::1]`||n===`0.0.0.0`?`artifact`:`web`}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=browser-annotation-label-783855db100d.js.map

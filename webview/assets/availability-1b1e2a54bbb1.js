@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{k as t,n,r,t as i}from"./app-scope-2dce3358324c.js";import{r as a,t as o}from"./statsig-layer-signal-25fdc1262656.js";var s;function c(){return(c=e((()=>{r(),n(),o(),s=t(i,({get:e})=>e(a,{layer:`3578640963`,parameter:`enabled`})&&e(a,{layer:`3578640963`,parameter:`enabled_on_plugin`}))})))()}export{c as n,s as t};
+//# sourceMappingURL=availability-1b1e2a54bbb1.js.map

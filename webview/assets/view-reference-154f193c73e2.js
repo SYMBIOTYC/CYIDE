@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{qp as t}from"./app-initial-13f932cb2f13.js";import{d as n,m as r}from"./scope-policy-4f9733352829.js";function i({view:e,threadId:r}){return{hostId:e.hostId,server:e.server,threadId:r==null?null:t(r),connectorTarget:n(e)}}function a(){return(a=e((()=>{r()})))()}export{a as n,i as t};
+//# sourceMappingURL=view-reference-154f193c73e2.js.map

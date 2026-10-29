@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){let t=e?.matches(`[data-codex-composer-request]`)?e:e?.querySelector(`[data-codex-composer-request]`);if(t==null)return null;for(let e of t.querySelectorAll(`[tabindex], input:not([type=hidden]), textarea, select, button`))if(!e.matches(`:disabled, [aria-disabled=true]`)&&e.closest(`[hidden], [inert], [aria-hidden=true]`)==null)return e;return null}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=elicitation-focus-target-3a8b0c3a7bae.js.map

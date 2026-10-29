@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./query-stale-times-4ac7dce757af.js";import{n as r}from"./queryOptions-1784a46739b7.js";import{i,t as a}from"./request-c956dcf11877.js";function o({authMethod:e,enabled:t,userId:i,workspaceId:o}){return r({queryKey:[`finance`,`eligibility`,e,o,i],queryFn:()=>a.safeGet(`/wham/finance/eligibility`),enabled:t,retry:!1,staleTime:n.TEN_MINUTES})}function s(){return(s=e((()=>{t(),i()})))()}export{s as n,o as t};
+//# sourceMappingURL=finance-eligibility-query-9d0ebea727f1.js.map

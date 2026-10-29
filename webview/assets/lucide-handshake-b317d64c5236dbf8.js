@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-handshake-f63e1010e5eef4ed.js";e();export{t as default};

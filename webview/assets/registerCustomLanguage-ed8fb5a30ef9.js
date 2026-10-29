@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{C as t,b as n}from"./dist-6a792a585919.js";import{i as r,r as i}from"./getFiletypeFromFileName-e77222f55ab1.js";function a(e,t,i=[]){if(e===`text`||e===`ansi`)throw Error(`registerCustomLanguage: 'text' and 'ansi' are reserved language names`);if(n.has(e)){console.error(`registerCustomLanguage: lang: ${e} is already registered`);return}n.set(e,t);for(let t of i)r(t,e)}function o(){return(o=e((()=>{t(),i()})))()}export{a as n,o as t};
+//# sourceMappingURL=registerCustomLanguage-ed8fb5a30ef9.js.map

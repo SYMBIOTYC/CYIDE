@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){return e?.includes(r)===!0}function n(e){return e.items.some(e=>e.type===`userMessage`&&e.content.some(e=>e.type===`text`&&e.text.startsWith(r)))}var r;function i(){return(i=e((()=>{r=`<startup_tool_prewarm>`})))()}export{n,t as r,i as t};
+//# sourceMappingURL=realtime-voice-legacy-artifacts-e5bd73fb4d39.js.map

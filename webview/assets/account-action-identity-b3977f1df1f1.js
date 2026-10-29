@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{f as t}from"./chatgpt-feature-access-fec37fc058a6.js";import{f as n}from"./locked-chats-session-6d2442254529.js";function r(e,t,r){let i=e.get(n);return i.authMethod===`chatgpt`&&!i.authLoading&&!i.accountLoading&&i.accountId===t&&i.authenticatedAccountId===t&&i.userId===r}function i(){return(i=e((()=>{t()})))()}export{r as n,i as t};
+//# sourceMappingURL=account-action-identity-b3977f1df1f1.js.map

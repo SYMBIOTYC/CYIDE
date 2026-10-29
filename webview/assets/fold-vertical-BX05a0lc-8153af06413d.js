@@ -1,0 +1,1 @@
+import{n as e,t}from"./fold-vertical-BX05a0lc-4fa22b6bcff2.js";t();export{e as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){if(e==null)return[];let t=Array.from(e.items??[]).filter(e=>e.kind===`file`);return e.files.length>0?Array.from(e.files).filter((e,n)=>t[n]?.webkitGetAsEntry?.()?.isDirectory!==!0):t.flatMap(e=>{if(e.webkitGetAsEntry?.()?.isDirectory===!0)return[];let t=e.getAsFile();return t==null?[]:[t]})}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=chatgpt-dropped-files-7bace1239163.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){let t=e?.context_scopes,n=t?.length===1?t[0]:void 0;return n?.scope_namespace===`health`&&n.sub_scope==null&&(n.is_siloed==null||n.is_siloed===!1)}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=health-c0b0601bc529.js.map

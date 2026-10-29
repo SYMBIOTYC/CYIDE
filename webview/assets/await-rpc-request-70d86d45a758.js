@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";async function t(e,t){let n=!1,r=()=>{n||(n=!0,e[Symbol.dispose]?.())};t?.addEventListener(`abort`,r,{once:!0});try{t?.throwIfAborted();let n=await e;return t?.throwIfAborted(),n}finally{t?.removeEventListener(`abort`,r),r()}}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=await-rpc-request-70d86d45a758.js.map

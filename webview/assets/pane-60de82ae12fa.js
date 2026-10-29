@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{t}from"./slot-layout-4ae6423366b0.js";function n(){return(n=e((()=>{t()})))()}export{n as t};
+//# sourceMappingURL=pane-60de82ae12fa.js.map

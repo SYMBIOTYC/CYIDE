@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{rS as t}from"./app-initial-13f932cb2f13.js";import{r as n,u as r}from"./app-scope-2dce3358324c.js";import{r as i,t as a}from"./composer-layout-b9b4ce4e2f97.js";import{r as o,t as s}from"./availability-2a656aea82cd.js";function c(e){let{presentation:t,hidePlugins:n,workComposer:i}=e,s=t===void 0?`utility`:t;return r(s===`utility`&&o),s===`footer`&&a.FooterAction,null}function l(){return(l=e((()=>{n(),t(),s(),i()})))()}export{l as n,c as t};
+//# sourceMappingURL=composer-work-utility-controls-6d9cce893b3b.js.map

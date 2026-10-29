@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e,[t,n]){return Math.min(n,Math.max(t,e))}var n,r;function i(){return(i=e((()=>{n=Object.defineProperty,r=(e,t)=>n(e,`name`,{value:t,configurable:!0}),r(t,`clamp`)})))()}export{i as n,t};
+//# sourceMappingURL=dist-c11f24d2b4fe.js.map

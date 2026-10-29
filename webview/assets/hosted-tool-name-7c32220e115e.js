@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e,t,n){if(e!==`codex_apps`&&e!==`pages`||n!=null&&n!==`connector_openai_pages`)return null;let r=t.replace(/^(?:chatgpt_space[._]|pages_)/,``);return n!=null||e===`pages`||r!==t?r:null}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=hosted-tool-name-7c32220e115e.js.map

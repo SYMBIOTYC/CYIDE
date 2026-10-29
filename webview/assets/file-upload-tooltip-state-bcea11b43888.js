@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{F as t,N as n,r}from"./app-scope-2dce3358324c.js";import{h as i,t as a}from"./composer-scope-f0dbf0e746b6.js";function o(e){e.set(s,Date.now()+4e3)}var s,c;function l(){return(l=e((()=>{r(),i(),s=t(a,0),c=n(a,!1,({get:e,set:t})=>{let n=e(s)-Date.now();if(t(n>0),n<=0)return;let r=setTimeout(()=>t(!1),n);return()=>clearTimeout(r)})})))()}export{o as n,l as r,c as t};
+//# sourceMappingURL=file-upload-tooltip-state-bcea11b43888.js.map

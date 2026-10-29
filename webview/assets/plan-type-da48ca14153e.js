@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){return e===`prolite`||e===`pro`||e===`promax`}function n(e){return typeof e==`string`&&r.has(e.toLowerCase())}var r;function i(){return(i=e((()=>{r=new Set([`go`,`plus`,`prolite`,`pro`,`promax`,`chatgptgoplan`,`chatgptplusplan`,`chatgptplusfreeplan`,`chatgptprolite`,`chatgptpro`,`chatgptpromax`,`chatgptprofreeplan`,`chatgptpromaxfreeplan_with_expiration`])})))()}export{n,t as r,i as t};
+//# sourceMappingURL=plan-type-da48ca14153e.js.map

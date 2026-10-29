@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{i as t,n}from"./rich-preview-file-kind-c2dfbdae6366.js";import{r,t as i}from"./artifact-tab-file-kind-7e79b919f435.js";function a({path:e,contentKind:t}){switch(t){case`image`:case`pdf`:case`audio`:case`video`:return t;case`archive`:case`binary`:case`text`:case void 0:return i(e)??t??(n(e)===`none`?void 0:`image`)}}function o(){return(o=e((()=>{r(),t()})))()}export{o as n,a as t};
+//# sourceMappingURL=format-4f821b19e436.js.map

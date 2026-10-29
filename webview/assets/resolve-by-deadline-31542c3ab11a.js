@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";async function t(e,t,n){let r;try{return await Promise.race([e,new Promise(e=>{r=setTimeout(()=>e(t),Math.max(0,n-Date.now()))})])}finally{r!=null&&clearTimeout(r)}}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=resolve-by-deadline-31542c3ab11a.js.map

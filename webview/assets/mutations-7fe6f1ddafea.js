@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,r as n}from"./rpc-256c20b50b7b.js";import{t as r}from"./await-rpc-request-70d86d45a758.js";function i(){let e=t?.localAutomations;if(e==null)throw Error(`Automations are not available in this host.`);return e}var a;function o(){return(o=e((()=>{n(),a={create:e=>r(i().create(e)),update:e=>r(i().update(e)),delete:e=>r(i().delete(e))}})))()}export{a as n,o as t};
+//# sourceMappingURL=mutations-7fe6f1ddafea.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-triangle-71599d2e97883358.js";e();export{t as default};

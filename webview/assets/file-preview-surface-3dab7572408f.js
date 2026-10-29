@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){switch(e){case`pptx`:return`bg-surface-canvas`;case`docx`:case`pdf`:return`bg-background-artifact-preview`;case`ipynb`:return`bg-surface-secondary`;case`csv`:case`image`:case`tex`:case`text-document`:case`tsv`:case`xlsx`:case void 0:return`bg-surface`}}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=file-preview-surface-3dab7572408f.js.map

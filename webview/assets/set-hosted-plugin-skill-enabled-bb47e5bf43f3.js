@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{i as t,t as n}from"./request-c956dcf11877.js";import{n as r,t as i}from"./plugin-service-contract-5d684cf0c7aa.js";function a({pluginId:e,skillName:t,enabled:r}){return n.safePost(r?`/ps/plugins/{plugin_id}/skills/{skill_name}/enable`:`/ps/plugins/{plugin_id}/skills/{skill_name}/disable`,{surface:`other`,parameters:{path:{plugin_id:e,skill_name:t}},additionalHeaders:i()})}function o(){return(o=e((()=>{r(),t()})))()}export{a as n,o as t};
+//# sourceMappingURL=set-hosted-plugin-skill-enabled-bb47e5bf43f3.js.map

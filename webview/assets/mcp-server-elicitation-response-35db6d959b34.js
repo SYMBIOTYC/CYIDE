@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e,t=null,n={}){switch(e){case`accept`:return{action:e,content:n,_meta:t};case`decline`:case`cancel`:return{action:e,content:null,_meta:t}}}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=mcp-server-elicitation-response-35db6d959b34.js.map

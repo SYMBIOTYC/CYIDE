@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t}from"./use-host-config-e86732ef3454.js";import{t as n}from"./host-ids-55018f80fce1.js";function r(e,t){return t==null||e===`local`||t.some(t=>t.hostId===e)?e:n}function i(e,t){return e.filter(e=>t===`local`?e.projectKind===`local`:e.projectKind===`remote`&&e.hostId===t)}function a(){return(a=e((()=>{t()})))()}export{a as n,r,i as t};
+//# sourceMappingURL=settings-host-selection-7ed2753a42b9.js.map

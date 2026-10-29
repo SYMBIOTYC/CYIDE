@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{O as t,n,r,t as i}from"./app-scope-2dce3358324c.js";function a(e,t,n,{isOpen:r,url:i}){let a=i.trim();e.set(c,s(t,n),{currentUrls:a.length>0?[a]:[],isOpen:r})}function o(e,t,n){return t==null||n==null?null:e.get(c,s(t,n))}function s(e,t){return`${e}\0${t}`}var c;function l(){return(l=e((()=>{r(),n(),c=t(i,e=>null)})))()}export{l as n,a as r,o as t};
+//# sourceMappingURL=prompt-context-96d917bbb576.js.map

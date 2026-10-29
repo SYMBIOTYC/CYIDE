@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n,r;function i(){return(i=e((()=>{t=41943040,n=10485760,r=class extends Error{byteLength;constructor(e){super(`File exceeds the preview size limit`),this.byteLength=e}}})))()}export{i,r as n,n as r,t};
+//# sourceMappingURL=file-preview-limits-7bce0b0e6723.js.map

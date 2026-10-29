@@ -1,0 +1,2 @@
+var e=class extends AudioWorkletProcessor{remaining=8e4;process(e,t){let n=e[0]?.[0];if(n&&this.remaining>0){let e=n.slice(0,this.remaining);this.remaining-=e.length,this.port.postMessage(e,[e.buffer])}for(let e of t[0]??[])e.fill(0);return this.remaining>0}};registerProcessor(`biometric-pcm-capture`,e);
+//# sourceMappingURL=pcm-worklet-91f035ec0aec.js.map

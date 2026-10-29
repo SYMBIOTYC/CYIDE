@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{dc as t,fc as n}from"./chatgpt-conversation-queries-fed923318f92.js";function r(){return t}function i(){return(i=e((()=>{n()})))()}export{i as n,r as t};
+//# sourceMappingURL=gate-1676d8d1875b.js.map

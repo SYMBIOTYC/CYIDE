@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){switch(e){case`closed`:case`draft`:case`merged`:return e;case`failing`:case`in_progress`:case`ready`:return`open`}}function n(e){if(e.merged)return`merged`;switch(e.state.toUpperCase()){case`OPEN`:return e.draft?`draft`:`open`;case`MERGED`:return`merged`;case`CLOSED`:return`closed`;default:return`closed`}}function r(){return(r=e((()=>{})))()}export{n,r,t};
+//# sourceMappingURL=pull-request-status-utils-c21eebfb3ecb.js.map

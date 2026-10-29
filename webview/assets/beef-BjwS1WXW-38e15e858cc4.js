@@ -1,0 +1,1 @@
+import{n as e,t}from"./beef-BjwS1WXW-f3efc69c3e9b.js";e();export{t as default};

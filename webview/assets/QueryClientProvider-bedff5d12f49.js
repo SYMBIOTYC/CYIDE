@@ -1,0 +1,2 @@
+import{n as e,o as t}from"./rolldown-runtime-2d059c5e81f4.js";import{rS as n,ym as r}from"./app-initial-13f932cb2f13.js";var i,a,o,s,c;function l(){return(l=e((()=>{i=t(n(),1),a=r(),o=i.createContext(void 0),s=e=>{let t=i.useContext(o);if(e)return e;if(!t)throw Error(`No QueryClient set, use QueryClientProvider to set one`);return t},c=({client:e,children:t})=>(i.useEffect(()=>(e.mount(),()=>{e.unmount()}),[e]),(0,a.jsx)(o.Provider,{value:e,children:t}))})))()}export{s as i,c as n,l as r,o as t};
+//# sourceMappingURL=QueryClientProvider-bedff5d12f49.js.map

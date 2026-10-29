@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t;function n(){return(n=e((()=>{t=`cme-automatic-announcement-acknowledged-v1`})))()}export{n,t};
+//# sourceMappingURL=storage-59111a2a2220.js.map

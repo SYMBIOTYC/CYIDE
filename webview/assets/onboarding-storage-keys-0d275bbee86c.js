@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n,r,i,a;function o(){return(o=e((()=>{t=`last_completed_onboarding`,n=`electron:onboarding-projectless-completed`,r=`electron:bedrock-govcloud-guidance-acknowledged`,i=`number-shortcut-notice-shown`,a=`electron:onboarding-conversational-completed-by-account-id`})))()}export{n as a,i,a as n,o,t as r,r as t};
+//# sourceMappingURL=onboarding-storage-keys-0d275bbee86c.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-octagon-pause-841569f65f1420a9.js";e();export{t as default};

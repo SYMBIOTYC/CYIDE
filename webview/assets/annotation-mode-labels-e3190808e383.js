@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{k as t,n,r,t as i}from"./app-scope-2dce3358324c.js";import{n as a,t as o}from"./app-intl-signal-2e5fe62d40b5.js";import{n as s,t as c}from"./annotation-mode-label-f05159d93c5d.js";var l;function u(){return(u=e((()=>{r(),s(),o(),n(),l=t(i,({get:e})=>{let t=e(a),n=e(c,`artifact`),r=e(c,`web`);return{artifact:n==null?null:t.formatMessage(n),web:r==null?null:t.formatMessage(r)}})})))()}export{u as n,l as t};
+//# sourceMappingURL=annotation-mode-labels-e3190808e383.js.map

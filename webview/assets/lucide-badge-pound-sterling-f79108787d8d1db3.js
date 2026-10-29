@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-badge-pound-sterling-ef071f323cb8b31c.js";e();export{t as default};

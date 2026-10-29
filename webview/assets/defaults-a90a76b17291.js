@@ -1,0 +1,2 @@
+import{n as e,o as t}from"./rolldown-runtime-2d059c5e81f4.js";import{n,t as r}from"./ds-defaults-788ff48f2c10.js";import{t as i}from"./merge-aee458a20a5d.js";var a,o,s;function c(){return(c=e((()=>{n(),a=t(i(),1),o={backdropStyle:`dim`,iconNextVariant:`light`,menuAnimations:!0,pill:!0,squircle:!1,pressable:!1,pressableScaleMultiplier:1,tooltipSideOffset:5,tooltipCollisionPadding:15},s=(0,a.default)(o,r)})))()}export{c as n,s as t};
+//# sourceMappingURL=defaults-a90a76b17291.js.map

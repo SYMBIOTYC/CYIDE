@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{rS as t}from"./app-initial-13f932cb2f13.js";function n(){return(0,o.useSyncExternalStore)(a,r,i)}function r(){let e=document.documentElement.dataset.theme;return e==null?null:e===`dark`}function i(){return null}function a(e){let t=new MutationObserver(e);return t.observe(document.documentElement,{attributes:!0,attributeFilter:[`data-theme`]}),()=>t.disconnect()}var o;function s(){return(s=e((()=>{o=t()})))()}export{n,s as t};
+//# sourceMappingURL=use-is-dark-21ff45e7ba03.js.map

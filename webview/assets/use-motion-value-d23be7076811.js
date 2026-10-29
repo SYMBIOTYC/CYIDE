@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{rS as t}from"./app-initial-13f932cb2f13.js";import{Rt as n,zt as r}from"./single-value-9e27e9bcd6ce.js";import{c as i,h as a,l as o,m as s}from"./proxy-6983533ba7c3.js";function c(e){let t=a(()=>r(e)),{isStatic:n}=(0,l.useContext)(i);if(n){let[,n]=(0,l.useState)(e);(0,l.useEffect)(()=>t.on(`change`,n),[])}return t}var l;function u(){return(u=e((()=>{n(),l=t(),o(),s()})))()}export{c as n,u as t};
+//# sourceMappingURL=use-motion-value-d23be7076811.js.map

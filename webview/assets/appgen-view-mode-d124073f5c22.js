@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{r as t,t as n}from"./persisted-signal-d37b45014398.js";var r,i;function a(){return(a=e((()=>{n(),r=`list`,i=t(`sites-view-mode`,r,{coerceStoredValue:e=>e===`grid`||e===`list`?e:r})})))()}export{i as n,a as t};
+//# sourceMappingURL=appgen-view-mode-d124073f5c22.js.map

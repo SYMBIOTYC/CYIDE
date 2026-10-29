@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime-2d059c5e81f4.js";var t=e(((e,t)=>{function n(e,t,n){return e===e&&(n!==void 0&&(e=e<=n?e:n),t!==void 0&&(e=e>=t?e:t)),e}t.exports=n}));export{t};
+//# sourceMappingURL=_baseClamp-732802428ef0.js.map

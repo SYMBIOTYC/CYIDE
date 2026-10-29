@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{c as t,yl as n}from"./app-initial-13f932cb2f13.js";function r(e){return n(e)||!1}function i(){return(i=e((()=>{t()})))()}export{r as n,i as t};
+//# sourceMappingURL=is-cloud-app-server-host-a216f08a223a.js.map

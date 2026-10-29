@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){return`${o}${e}`}function n(e){return`${s}${e.trim()}`}function r(e){return e.startsWith(o)}function i(e){return e.startsWith(s)}function a(e){if(!i(e))return null;let t=e.slice(9).trim(),n=t.indexOf(`?`),r=n===-1?t:t.slice(0,n).trim();return r.length===0?null:r}var o,s;function c(){return(c=e((()=>{o=`app://`,s=`plugin://`})))()}export{r as a,c as i,a as n,i as o,n as r,t};
+//# sourceMappingURL=mention-path-49b07823810f.js.map

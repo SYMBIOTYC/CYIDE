@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{rS as t}from"./app-initial-13f932cb2f13.js";import{t as n}from"./compiler-runtime-2015039f3c68.js";function r(e){let t=(0,i.c)(6),{host:n,pageId:r,status:o,documentType:s}=e,c,l;return t[0]!==s||t[1]!==n||t[2]!==r||t[3]!==o?(c=()=>n?.observeStatus(r,o,s),l=[n,r,o,s],t[0]=s,t[1]=n,t[2]=r,t[3]=o,t[4]=c,t[5]=l):(c=t[4],l=t[5]),(0,a.useLayoutEffect)(c,l),null}var i,a;function o(){return(o=e((()=>{i=n(),a=t()})))()}export{o as n,r as t};
+//# sourceMappingURL=host-d7826de28bc9.js.map

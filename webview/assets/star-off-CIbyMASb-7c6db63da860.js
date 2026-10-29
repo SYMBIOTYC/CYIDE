@@ -1,0 +1,1 @@
+import{n as e,t}from"./star-off-CIbyMASb-6b5702935103.js";e();export{t as default};

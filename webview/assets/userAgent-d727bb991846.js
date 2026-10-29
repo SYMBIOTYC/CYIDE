@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{a as t,c as n}from"./environment-36074edd2d92.js";function r(){return/iPad|iPhone|iPod/.test(n)}function i(){return typeof navigator>`u`?!1:navigator.platform===`MacIntel`&&navigator.maxTouchPoints>1}function a(){return/Android/.test(n)}function o(){return r()&&n.includes(`CriOS`)}function s(){return r()||a()||o()}function c(){return/^((?!chrome|android).)*safari/i.test(n)}function l(){return(l=e((()=>{t()})))()}export{c as i,i as n,s as r,l as t};
+//# sourceMappingURL=userAgent-d727bb991846.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e,t,n){let r=e.ownerDocument.createRange();try{return r.selectNodeContents(e),r.setEnd(t,n),r.toString().length}catch{return null}}function n(e,t){if(t<0)return null;let n=e.ownerDocument.createTreeWalker(e,4),r=0,i=n.nextNode();for(;i!=null;){let e=i.textContent??``;if(r+e.length>=t)return{node:i,offset:t-r};r+=e.length,i=n.nextNode()}return null}function r(){return(r=e((()=>{})))()}export{t as n,r,n as t};
+//# sourceMappingURL=dom-text-range-ff9b45f91960.js.map

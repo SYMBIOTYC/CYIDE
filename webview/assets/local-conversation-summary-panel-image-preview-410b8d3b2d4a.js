@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{K as t,W as n}from"./use-plugins-52fc2bccd2b9.js";import{r,t as i}from"./filesystem-media-src-79048a485edb.js";import{i as a,n as o}from"./rich-preview-file-kind-c2dfbdae6366.js";function s(e){return o(e)!==`always`||n(e)==null?null:i(e)}function c(){return(c=e((()=>{a(),t(),r()})))()}export{c as n,s as t};
+//# sourceMappingURL=local-conversation-summary-panel-image-preview-410b8d3b2d4a.js.map

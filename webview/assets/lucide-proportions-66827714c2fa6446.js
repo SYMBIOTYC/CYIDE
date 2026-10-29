@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-proportions-ef67d33b42495340.js";e();export{t as default};

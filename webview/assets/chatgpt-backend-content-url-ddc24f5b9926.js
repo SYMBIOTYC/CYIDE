@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){let t;try{t=new URL(e,`https://chatgpt.com`)}catch{return null}return t.protocol!==`https:`||t.port!==``||t.username!==``||t.password!==``||!(t.hostname===`chatgpt.com`||t.hostname===`chatgpt-staging.com`||t.hostname.endsWith(`.chatgpt-staging.com`))?null:t}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=chatgpt-backend-content-url-ddc24f5b9926.js.map

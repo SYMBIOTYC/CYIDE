@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n;function r(){return(r=e((()=>{t=`/images`,n=`/:lang?/images/prompt/:slug`})))()}export{n,r,t};
+//# sourceMappingURL=contracts-d30e607985ab.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./rename-8cf12a4776e7.js";t();export{e as renameLinkedProject};

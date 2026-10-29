@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e,t,n){if(e==null||e.is_temporary_chat)return!1;let r=`owner`in e?e.owner?.user_id:null,i=n?t?.split(`__`)[0]:t;return r==null||r===i}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=chatgpt-conversation-permissions-1be46be44241.js.map

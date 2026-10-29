@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{t}from"./createIntl-c553e0a1de27.js";import{s as n}from"./lib-72ce426c00b2.js";import{F as r,n as i,r as a,t as o}from"./app-scope-2dce3358324c.js";var s,c;function l(){return(l=e((()=>{a(),n(),i(),s=t({locale:`en`,messages:{}}),c=r(o,s)})))()}export{c as n,l as t};
+//# sourceMappingURL=app-intl-signal-2e5fe62d40b5.js.map

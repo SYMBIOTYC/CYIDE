@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{F as t,n,r,t as i}from"./app-scope-2dce3358324c.js";function a(e){return{count:(...t)=>e.get(s).count(...t),hist:(...t)=>e.get(s).hist(...t),flush:async(...t)=>e.get(s).flush?.(...t)}}var o,s;function c(){return(c=e((()=>{r(),n(),o={count:()=>{},hist:()=>{}},s=t(i,o)})))()}export{a as i,c as n,o as r,s as t};
+//# sourceMappingURL=client-metrics-d76ca4c5a813.js.map

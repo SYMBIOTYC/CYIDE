@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(){let e=document.body.dataset.vscodeThemeKind;return e===`vscode-light`||e===`vscode-high-contrast-light`?`light`:`dark`}function n(e){let t=new MutationObserver(e);return t.observe(document.body,{attributes:!0,attributeFilter:[`data-vscode-theme-kind`]}),()=>t.disconnect()}function r(){return(r=e((()=>{})))()}export{r as n,n as r,t};
+//# sourceMappingURL=vscode-theme-28ecab04055d.js.map

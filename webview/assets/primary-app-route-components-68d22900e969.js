@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{r as t}from"./authed-route-9b6a0c01b0bc.js";import{n}from"./home-composer-route-f4e32a36dacc.js";function r(){return(r=e((()=>{t(),n()})))()}export{r as t};
+//# sourceMappingURL=primary-app-route-components-68d22900e969.js.map

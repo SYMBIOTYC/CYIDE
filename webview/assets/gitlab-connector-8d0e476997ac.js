@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n;function r(){return(r=e((()=>{t=`connector_0c9786b2f41f41558056126bdb46c9bd`,n=`templated_apps_GitLab`})))()}export{t as n,r,n as t};
+//# sourceMappingURL=gitlab-connector-8d0e476997ac.js.map

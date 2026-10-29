@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t;function n(){return(n=e((()=>{t=``+new URL(`orbit-ringing-5bf80e62dc10.wav`,import.meta.url).href})))()}function r(){let e;try{e=new Audio(t)}catch{return()=>{}}let n,r=()=>{clearTimeout(n),e.onended=null,e.onerror=null,e.pause()},i=()=>{try{e.play().catch(r)}catch{r()}};return e.onended=()=>{n=setTimeout(i,3e3)},e.onerror=r,i(),r}function i(){return(i=e((()=>{n()})))()}export{r as n,i as t};
+//# sourceMappingURL=ringing-cb2f4c0833f3.js.map

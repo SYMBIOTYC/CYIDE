@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t;function n(){return(n=e((()=>{t={$type:`protobuf_analytics_events.v1.ChatgptWidgetEvent`}})))()}export{n,t};
+//# sourceMappingURL=chatgpt_widgets-1520b7b6448d.js.map

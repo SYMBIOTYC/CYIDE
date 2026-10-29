@@ -1,0 +1,1 @@
+import{n as e,t}from"./metadata-827670d92238.js";e();export{t as applyPageRealtimeMetadata};

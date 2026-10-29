@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{m as t,s as n,y as r}from"./chatgpt-token-auth.browser-45a4ebe4fe94.js";function i(e){if(!a(e))throw Error(`The active owner onboarding identity changed`)}function a(e){let t=n();return!r()&&t?.userId===e.userId&&t.accountId===e.workspaceId}function o(){return(o=e((()=>{t()})))()}export{o as n,a as r,i as t};
+//# sourceMappingURL=identity-53f6da5af07a.js.map

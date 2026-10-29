@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{dh as t,o_ as n}from"./app-initial-13f932cb2f13.js";var r;function i(){return(i=e((()=>{t(),r=n([`default`,`blue`,`green`,`yellow`,`pink`,`orange`,`purple`,`black`])})))()}export{i as n,r as t};
+//# sourceMappingURL=chatgpt-chat-theme-d8c0bd14290a.js.map

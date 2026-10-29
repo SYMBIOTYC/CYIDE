@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-d83fee8684c3.js";var r;function i(){return(i=e((()=>{t(),r=n(`SquarePower`,[[`path`,{d:`M12 7v4`,key:`xawao1`}],[`path`,{d:`M7.998 9.003a5 5 0 1 0 8-.005`,key:`1pek45`}],[`rect`,{x:`3`,y:`3`,width:`18`,height:`18`,rx:`2`,key:`h1oib`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=square-power-CcednqZD-5f5573351389.js.map

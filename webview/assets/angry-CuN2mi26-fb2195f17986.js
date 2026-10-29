@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-d83fee8684c3.js";var r;function i(){return(i=e((()=>{t(),r=n(`Angry`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`path`,{d:`M16 16s-1.5-2-4-2-4 2-4 2`,key:`epbg0q`}],[`path`,{d:`M7.5 8 10 9`,key:`olxxln`}],[`path`,{d:`m14 9 2.5-1`,key:`1j6cij`}],[`path`,{d:`M9 10h.01`,key:`qbtxuw`}],[`path`,{d:`M15 10h.01`,key:`1qmjsl`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=angry-CuN2mi26-fb2195f17986.js.map

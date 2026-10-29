@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{F as t,T as n,n as r,r as i,t as a}from"./app-scope-2dce3358324c.js";import{a as o}from"./account-1af4fbb70c96.js";import{I as s,v as c}from"./space-state-ddad34ee3972.js";var l,u;function d(){return(d=e((()=>{i(),r(),c(),l=t(a,null),u=n(a,(e,{get:t})=>{let n=t(l);return n!=null&&n.accountId===t(o)&&t(s,n.localPageId)===t(s,e)})})))()}export{u as n,l as r,d as t};
+//# sourceMappingURL=google-doc-state-c52e9b9aec96.js.map

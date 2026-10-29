@@ -1,0 +1,1 @@
+import"./app-initial-13f932cb2f13.js";import{n as e,t}from"./open-text-file-editor-side-panel-tab-79ded8414787.js";t();export{e as openTextFileEditorSidePanelTab};

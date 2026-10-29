@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e,t){if(t&&t.trim().length>0)return n(t);if(!e)return null;let r=e.trim();if(!r)return null;let i=r.split(/[/\\]+/).filter(Boolean);return n(i[i.length-1]??r)}function n(e){let t=e.trim(),n=t.split(/\s+/).filter(Boolean);return n.length<=3?t:n.slice(0,3).join(` `)}function r(){return(r=e((()=>{})))()}export{r as n,t};
+//# sourceMappingURL=get-project-name-6eb9cdc730b5.js.map

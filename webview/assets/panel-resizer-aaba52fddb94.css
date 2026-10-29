@@ -1,0 +1,1 @@
+@layer components{._extendsIntoTitlebar_12omt_1{top:calc(-1 * var(--app-shell-header-height,var(--app-shell-titlebar-height,var(--height-toolbar))))}._overlay_12omt_11{top:anchor(top);right:anchor(right);bottom:anchor(bottom);left:anchor(left)}._overlay_12omt_11::backdrop{-webkit-app-region:initial}[aria-hidden=true] ._overlay_12omt_11{visibility:hidden}}

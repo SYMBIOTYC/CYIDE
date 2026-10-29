@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e,t){let n=new URLSearchParams(t);return e!=null&&/^g-_?[a-f0-9]{32}$/.test(e)&&n.get(`business_agent_preview`)===`1`&&!n.has(`business_agent_preview_capability_session`)}var n;function r(){return(r=e((()=>{n=`/gpts/create`})))()}export{r as n,t as r,n as t};
+//# sourceMappingURL=contracts-ae85ebaa0f39.js.map

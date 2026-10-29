@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t;function n(){return(n=e((()=>{t=class extends Error{status;code;retryable;explicitRetryable;retryAtMs;constructor(e,t,n,r){super(`Realtime HTTP request failed (${e})`),this.name=`HttpError`,this.status=e,this.code=t,this.explicitRetryable=n,this.retryable=n??(e===401||e===408||e===429||e>=500),this.retryAtMs=Number.isFinite(r)?r:void 0}}})))()}export{n,t};
+//# sourceMappingURL=HttpError-454c414cef83.js.map

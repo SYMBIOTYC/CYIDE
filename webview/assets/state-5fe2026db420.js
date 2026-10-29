@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{r as t,t as n}from"./persisted-signal-d37b45014398.js";function r(e){e.get(a)===`dismissed`||e.get(o)>=3||(e.set(o,e=>e+1),e.get(o)===3&&e.set(a,`eligible`))}var i,a,o;function s(){return(s=e((()=>{n(),i=`global-dictation-first-use-nudge-state-v1`,a=t(i,`idle`),o=t(`global-dictation-nudge-successful-count-v1`,0)})))()}export{r as n,s as t};
+//# sourceMappingURL=state-5fe2026db420.js.map

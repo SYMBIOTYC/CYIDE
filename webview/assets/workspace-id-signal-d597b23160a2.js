@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{N as t,n,r,t as i}from"./app-scope-2dce3358324c.js";import{a,n as o}from"./statsig-gate-signal-4df082acfadb.js";var s;function c(){return(c=e((()=>{r(),n(),o(),s=t(i,({get:e})=>e(a)?.getContext().user.customIDs?.workspace_id,({get:e,set:t})=>{let n=e(a);if(n==null)return;let r=()=>{t(n.getContext().user.customIDs?.workspace_id)};return n.on(`values_updated`,r),()=>n.off(`values_updated`,r)})})))()}export{s as n,c as t};
+//# sourceMappingURL=workspace-id-signal-d597b23160a2.js.map

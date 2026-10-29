@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{F as t,n,r,t as i}from"./app-scope-2dce3358324c.js";function a(e,t,n){return JSON.stringify([e,t,n])}function o(e,t,n){e.set(c,e=>{let r=new Map(e);return r.set(t,n),r})}function s(e,t,n){e.set(c,e=>{if(e.get(t)?.requestId!==n)return e;let r=new Map(e);return r.delete(t),r})}var c;function l(){return(l=e((()=>{r(),n(),c=t(i,()=>new Map)})))()}export{o as a,c as i,a as n,l as r,s as t};
+//# sourceMappingURL=request-input-draft-state-e63c2d81b4ec.js.map

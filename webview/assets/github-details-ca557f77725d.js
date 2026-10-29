@@ -1,0 +1,6 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{t}from"./dist-bad2635d45a8.js";function n(e){let t=[];return s(a(e.replace(u,e=>{let n=`${g}${t.length}@@`;return t.push(e),n})),t)}function r(e){return e.replace(/\s+/g,` `).trim()}function i(e){return r(e.replace(m,` `))}function a(e){return e.replace(f,``).replace(d,(e,t,n,r)=>`${t}${n}**${o(r)}**`).replace(l,(e,t,n)=>{let r=n.match(p);if(r==null)return e;let a=i(r[1]??``);if(a.length===0)return e;let o=r[2]??``,s=h.test(o)?(0,c.parse)(o).structuredText.replace(/^[ \t]+/gm,``).replace(/\n+/g,`
+
+`).trim():o.trim(),l=[`summary=${JSON.stringify(a)}`];return t!=null&&l.push(`open="true"`),`:::github-details{${l.join(` `)}}\n${s}\n:::`}).replace(/\n{3,}/g,`
+
+`)}function o(e){let t=e.toLowerCase();return t.charAt(0).toUpperCase()+t.slice(1)}function s(e,t){return e.replace(/@@CODEX_FENCED_CODE_BLOCK_(\d+)@@/g,(e,n)=>t[Number(n)]??e)}var c,l,u,d,f,p,m,h,g;function _(){return(_=e((()=>{c=t(),l=/<details(\s+open)?>([\s\S]*?)<\/details>/gi,u=/(^|\n)(`{3,}|~{3,})[^\n]*\n[\s\S]*?\n\2(?=\n|$)/g,d=/(^|\n)(>[ \t]*)\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\]([ \t]*(?=\n|$))/gi,f=/<!--[\s\S]*?-->/g,p=/^\s*<summary>([\s\S]*?)<\/summary>\s*([\s\S]*)$/i,m=/<[^>]+>/g,h=/<(?:ol|ul|li|p)(?:\s[^>]*)?>/i,g=`@@CODEX_FENCED_CODE_BLOCK_`})))()}export{n,_ as t};
+//# sourceMappingURL=github-details-ca557f77725d.js.map

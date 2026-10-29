@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./app-identity-5e0462d73401.js";import{n as r,s as i}from"./rate-limit-status-be5ea57a18ca.js";function a(e,t){let{title:i,description:a,reset_at:o}=e;if(o==null)return{title:i,description:a};let s=r(t,o,n===`ChatGPT`);return{title:i.replaceAll(`{time}`,s),description:a.replaceAll(`{time}`,s)}}function o(){return(o=e((()=>{t(),i()})))()}export{o as n,a as t};
+//# sourceMappingURL=banner-copy-ecbecc457060.js.map

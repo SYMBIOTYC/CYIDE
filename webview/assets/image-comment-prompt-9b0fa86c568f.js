@@ -1,0 +1,6 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t({imageCommentGroups:e,intl:t,prompt:r}){let i=e.map(({comments:e,imageNumber:r})=>[t.formatMessage({id:`composer.imageComments.imageHeading`,defaultMessage:`Image {imageNumber}:`,description:`Heading for comments attached to one image in a composer message containing multiple images.`},{imageNumber:r}),...e.map((e,r)=>n(t,e,r))].join(`
+`));if(i.length===0)return r;let a=r.trim();return a.length>0&&i.push([t.formatMessage({id:`composer.imageComments.additionalInstructions`,defaultMessage:`Additional instructions:`,description:`Heading for instructions that accompany image comments in a user-facing composer message.`}),a].join(`
+`)),i.join(`
+
+`)}function n(e,t,n){return e.formatMessage({id:`composer.imageComments.comment`,defaultMessage:`{commentNumber}. (x: {x}, y: {y}) {comment}`,description:`A numbered image comment with its horizontal and vertical position.`},{comment:t.text,commentNumber:n+1,x:e.formatNumber(Math.min(Math.max(t.x,0),1),{style:`percent`,maximumFractionDigits:1}),y:e.formatNumber(Math.min(Math.max(t.y,0),1),{style:`percent`,maximumFractionDigits:1})})}function r(){return(r=e((()=>{})))()}export{r as n,t};
+//# sourceMappingURL=image-comment-prompt-9b0fa86c568f.js.map

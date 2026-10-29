@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t;function n(){return(n=e((()=>{t=class extends Error{constructor(){super(`Conversation suggestion is no longer current`),this.name=`StaleComposerSubmissionError`}}})))()}export{n,t};
+//# sourceMappingURL=stale-composer-submission-error-674f6567423c.js.map

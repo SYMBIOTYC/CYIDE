@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{t}from"./hash-code-11984da2ca2a.js";function n({accountId:e,userId:n,source:r,file:i,fragment:a,desiredAccessMode:o}){return e==null||n==null?null:{accountId:e,userId:n,sourceHostId:r.kind===`codex`?r.hostId:`chatgpt`,sourceThreadId:r.threadId,file:i,revision:`fragment-v1-${t(a)}`,desiredAccessMode:o}}function r(){return(r=e((()=>{})))()}export{r as n,n as t};
+//# sourceMappingURL=identity-db73492708c7.js.map

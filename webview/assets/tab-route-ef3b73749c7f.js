@@ -1,0 +1,1 @@
+import"./mcp-extension-321d61a01562.js";import{n as e,r as t}from"./tab-route-6debd1b10646.js";e();export{t as mcpExtensionTabRouteParamsSchema};

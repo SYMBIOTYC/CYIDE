@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{k as t,n,r,t as i}from"./app-scope-2dce3358324c.js";import{f as a,l as o,s}from"./chatgpt-feature-access-fec37fc058a6.js";import{d as c,u as l}from"./locked-chats-session-6d2442254529.js";var u;function d(){return(d=e((()=>{r(),a(),n(),u=t(i,({get:e})=>{let t=e(l),n=e(c);return t==null||n==null||!e(s)||e(o).status!==`allowed`?null:{accountId:t,userId:n}},{isEqual:(e,t)=>e?.accountId===t?.accountId&&e?.userId===t?.userId})})))()}export{u as n,d as t};
+//# sourceMappingURL=identity-5c7bc37bf72a.js.map

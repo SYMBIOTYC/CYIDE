@@ -1,0 +1,1 @@
+import{n as e,t}from"./cooking-pot-CSO5SKHf-2a0bc742cf51.js";t();export{e as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){switch(e.routeKind){case`chatgpt-thread`:return`chatgpt`;case`local-thread`:case`client-local-thread`:case`remote-thread`:return`work`;case`home`:case`new-thread-panel`:case`other`:return}}function n(e){switch(e.kind){case`chatgpt`:return`chatgpt`;case`new`:case`local`:case`cloud`:return`work`;case`other`:return}}function r(){return(r=e((()=>{})))()}export{t as n,r,n as t};
+//# sourceMappingURL=dictation-product-surface-760abe39b585.js.map

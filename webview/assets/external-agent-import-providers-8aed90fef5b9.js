@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){return e?a:i}var n,r,i,a;function o(){return(o=e((()=>{n=`3203613120`,r=[`claude-code`,`claude-cowork`,`cursor`],i=r.slice(0,-1),a=[...r]})))()}export{o as i,r as n,t as r,n as t};
+//# sourceMappingURL=external-agent-import-providers-8aed90fef5b9.js.map

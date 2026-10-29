@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-e9cfa6369265cc4d.js";var r;function i(){return(i=e((()=>{t(),r=n(`DiscAlbum`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`circle`,{cx:`12`,cy:`12`,r:`5`,key:`nd82uf`}],[`path`,{d:`M12 12h.01`,key:`1mp3jc`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-disc-album-2eab02950c4da228.js.map

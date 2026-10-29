@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{d as t,i as n,s as r}from"./tab-controller-4b17d32015f9.js";function i(e,n,i){let o=e.get(t.tabById$,`ecosystem-focused:${n}`);a(o)&&r(e,o.tabType,{id:`ecosystem-focused:${i}`,replaceTabId:o.tabId,title:o.title,revealAndFocus:!1,props:{...o.props,pendingSourceId:i}})}function a(e){return e?.tabType.kind===`ecosystem-focused-object`}function o(){return(o=e((()=>{n()})))()}export{a as n,i as r,o as t};
+//# sourceMappingURL=widget-focused-object-transfer-3fa15a30ef22.js.map

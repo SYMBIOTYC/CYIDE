@@ -1,0 +1,1 @@
+import{o as e,t}from"./entry-8aead54f2420.js";t();export{e as loadWorkspaceDiscoveryOpener};

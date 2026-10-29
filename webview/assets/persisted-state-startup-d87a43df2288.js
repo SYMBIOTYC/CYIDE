@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{N as t,k as n,n as r,r as i,t as a}from"./app-scope-2dce3358324c.js";import{A as o,c as s,p as c,s as l,w as u}from"./persisted-atom-store-e87799503e1d.js";var d,f,p;function m(){return(m=e((()=>{i(),r(),c(),d=t(a,l,({set:e})=>u(e)),f=n(a,({get:e})=>e(d)===`host`),p=t(a,()=>{let e=s();return e!=null&&e===`host`},({set:e})=>{o().then(t=>{e(t===`host`)})})})))()}export{d as i,f as n,m as r,p as t};
+//# sourceMappingURL=persisted-state-startup-d87a43df2288.js.map

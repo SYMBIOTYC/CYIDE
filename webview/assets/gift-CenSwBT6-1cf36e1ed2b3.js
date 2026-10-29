@@ -1,0 +1,1 @@
+import{n as e,t}from"./gift-CenSwBT6-f45a15e8f9a6.js";e();export{t as default};

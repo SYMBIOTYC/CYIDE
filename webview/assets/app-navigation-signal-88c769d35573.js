@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{F as t,n,r,t as i}from"./app-scope-2dce3358324c.js";function a(e,...t){return e.get(u).navigate(...t)}function o(e,...t){return e.get(u).navigateToLocalConversation(...t)}function s(){throw Error(`AppNavigationSignalBridge is missing`)}var c,l,u,d;function f(){return(f=e((()=>{r(),n(),c={navigate:s,navigateToLocalConversation:s,prepareNavigation:s},l=t(i,()=>s),u=t(i,c),d=t(i,()=>`idle`)})))()}export{o as a,a as i,d as n,l as o,f as r,u as t};
+//# sourceMappingURL=app-navigation-signal-88c769d35573.js.map

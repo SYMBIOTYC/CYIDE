@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{i as t}from"./app-initial-13f932cb2f13.js";import{ht as n,yt as r}from"./registry-30374645eb4c.js";async function i(e=()=>!1,t=!0,r){return n(),!1}function a(){return(a=e((()=>{t(),r()})))()}export{i as n,a as t};
+//# sourceMappingURL=request-precise-location-f5336eb86203.js.map

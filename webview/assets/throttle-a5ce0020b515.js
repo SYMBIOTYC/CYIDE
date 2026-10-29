@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Kx as t}from"./app-initial-13f932cb2f13.js";import{t as n}from"./debounce-de679ab25156.js";var r=e(((e,r)=>{var i=n(),a=t(),o=`Expected a function`;function s(e,t,n){var r=!0,s=!0;if(typeof e!=`function`)throw TypeError(o);return a(n)&&(r=`leading`in n?!!n.leading:r,s=`trailing`in n?!!n.trailing:s),i(e,t,{leading:r,maxWait:t,trailing:s})}r.exports=s}));export{r as t};
+//# sourceMappingURL=throttle-a5ce0020b515.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{a as t,i as n}from"./app-initial-13f932cb2f13.js";import{n as r,r as i}from"./rpc-256c20b50b7b.js";function a(e,n){(r?.clientCoordination??r?.queryCache)?.invalidateQueryCache({queryKey:[...e],...n}).catch(n=>{t.warning(`Failed to broadcast query cache invalidation`,{safe:{},sensitive:{error:n,queryKey:e}})})}function o(){return(o=e((()=>{i(),n()})))()}export{o as n,a as t};
+//# sourceMappingURL=broadcast-query-cache-invalidation-25dbf278b004.js.map

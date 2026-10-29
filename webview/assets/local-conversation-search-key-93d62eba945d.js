@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e,t){return e??`turn-index-${t}`}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=local-conversation-search-key-93d62eba945d.js.map

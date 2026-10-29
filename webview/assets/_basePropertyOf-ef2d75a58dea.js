@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime-2d059c5e81f4.js";var t=e(((e,t)=>{function n(e){return function(t){return e?.[t]}}t.exports=n}));export{t};
+//# sourceMappingURL=_basePropertyOf-ef2d75a58dea.js.map

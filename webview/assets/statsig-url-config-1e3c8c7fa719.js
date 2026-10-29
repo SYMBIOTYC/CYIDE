@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Hv as t,dh as n}from"./app-initial-13f932cb2f13.js";function r(e,t){let n=i.safeParse(e.url);return n.success?n.data:t}var i;function a(){return(a=e((()=>{n(),i=t().refine(e=>e.startsWith(`https://`))})))()}export{a as n,r as t};
+//# sourceMappingURL=statsig-url-config-1e3c8c7fa719.js.map

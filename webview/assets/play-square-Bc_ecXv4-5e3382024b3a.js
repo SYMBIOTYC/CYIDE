@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./square-play-P_-hP7hX-7a5c3a7d2428.js";function r(){return(r=e((()=>{t()})))()}r();export{n as default};
+//# sourceMappingURL=play-square-Bc_ecXv4-5e3382024b3a.js.map

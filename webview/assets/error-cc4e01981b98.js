@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n,r;function i(){return(i=e((()=>{t=class extends Error{reason;constructor(e,t){super(`page_generation_${e}`,t),this.reason=e,this.name=`PageGenerationError`}},n=class extends Error{constructor(){super(`page_generation_task_uncertain`),this.name=`PageGenerationTaskUncertainError`}},r=class extends t{constructor(){super(`changed`)}}})))()}export{i,t as n,n as r,r as t};
+//# sourceMappingURL=error-cc4e01981b98.js.map

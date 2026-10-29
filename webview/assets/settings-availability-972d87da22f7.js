@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{T as t,n,r,t as i}from"./app-scope-2dce3358324c.js";import{n as a}from"./use-host-config-e86732ef3454.js";import{m as o,r as s}from"./signals-ac7eae4e4994.js";import{n as c}from"./first-party-plugin-availability-fd560ec85815.js";var l,u;function d(){return(d=e((()=>{r(),s(),n(),a(),c(),l=t(i,(e,{get:t})=>null),u=t(i,(e,{get:t})=>{let n=t(l,e);return n==null?void 0:t(o,e).find(e=>e.pluginId===n)})})))()}export{l as n,u as r,d as t};
+//# sourceMappingURL=settings-availability-972d87da22f7.js.map

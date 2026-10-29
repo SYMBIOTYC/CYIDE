@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{k as t,n,r,t as i,u as a}from"./app-scope-2dce3358324c.js";import{n as o,t as s}from"./registry-30374645eb4c.js";function c(){return a(l)}var l;function u(){return(u=e((()=>{r(),o(),n(),l=t(i,({get:e})=>e(s,{name:`voice.realtime`}).isCapable)})))()}export{l as n,c as r,u as t};
+//# sourceMappingURL=use-is-thread-realtime-enabled-79734f0d6264.js.map

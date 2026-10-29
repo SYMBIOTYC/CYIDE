@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-e9cfa6369265cc4d.js";var r;function i(){return(i=e((()=>{t(),r=n(`SquareDivide`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,ry:`2`,key:`1m3agn`}],[`line`,{x1:`8`,x2:`16`,y1:`12`,y2:`12`,key:`1jonct`}],[`line`,{x1:`12`,x2:`12`,y1:`16`,y2:`16`,key:`aqc6ln`}],[`line`,{x1:`12`,x2:`12`,y1:`8`,y2:`8`,key:`1mkcni`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-square-divide-a5035711d58930d9.js.map

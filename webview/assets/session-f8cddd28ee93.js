@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{G as t,W as n}from"./cookies-e98545a6daab.js";import{m as r,s as i,y as a}from"./chatgpt-token-auth.browser-45a4ebe4fe94.js";import{S as o,t as s,x as c}from"./logout-engine-32fd896b2d18.js";function l(){return i()==null&&!a()}function u(e,t,r,i=`login`,a){let{provider:s}=n().auth;return o(`signin/${s}`,e,i===`login`?{prompt:`login`,screen_hint:`login_or_signup`,...t}:t,r,a)}function d(){return(d=e((()=>{r(),t(),c(),s()})))()}export{d as n,u as r,l as t};
+//# sourceMappingURL=session-f8cddd28ee93.js.map

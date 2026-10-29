@@ -1,0 +1,1 @@
+import"./app-initial-13f932cb2f13.js";import{a as e,o as t}from"./space-suggested-prefetch-dd037a21e894.js";e();export{t as prefetchSpaceSuggested};

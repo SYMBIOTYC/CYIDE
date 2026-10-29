@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{a as t,i as n,r}from"./rich-preview-file-kind-c2dfbdae6366.js";function i(e){return t(e)?`markdown`:r(e)===`txt`?`plain-text`:null}function a(){return(a=e((()=>{n()})))()}export{a as n,i as t};
+//# sourceMappingURL=editable-text-file-kind-d9ee67fbf936.js.map

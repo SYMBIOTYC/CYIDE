@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(){let e=document.querySelector(`[data-embedded-frame-host-root]`);if(e!=null)return e;let t=document.createElement(`div`);return t.dataset.embeddedFrameHostRoot=`true`,t.className=`pointer-events-none fixed inset-0 overflow-visible`,document.body.append(t),t}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=embedded-frame-host-root-319f71cc9e1c.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./v4-8365dc4dccae.js";function r(){return`${s}${t()}`}function i(e){return e}function a(e){return o(e)?e:i(e)}function o(e){return e.startsWith(s)}var s;function c(){return(c=e((()=>{n(),s=`local-chatgpt:`})))()}export{c as a,a as i,r as n,o,i as r,s as t};
+//# sourceMappingURL=chatgpt-thread-ids-9aa25d9f6e71.js.map

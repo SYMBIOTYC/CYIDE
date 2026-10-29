@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{t}from"./embedded-frame-host-root-319f71cc9e1c.js";function n(e){return()=>{if(e.isConnected&&typeof e.moveBefore==`function`)for(let n of e.querySelectorAll(`:scope > [data-mcp-app-frame]`))n.style.display=`none`,t().moveBefore(n,null)}}function r(){return(r=e((()=>{})))()}export{n,r as t};
+//# sourceMappingURL=frame-container-9671a8097064.js.map

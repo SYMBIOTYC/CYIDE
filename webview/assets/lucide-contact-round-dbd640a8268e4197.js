@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-contact-round-9e8dbf72dbaadd65.js";e();export{t as default};

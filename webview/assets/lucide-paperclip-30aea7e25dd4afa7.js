@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-paperclip-8c15af73bc8003be.js";e();export{t as default};

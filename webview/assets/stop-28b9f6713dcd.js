@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{rS as t,ym as n}from"./app-initial-13f932cb2f13.js";var r,i;function a(){return(a=e((()=>{t(),r=n(),i=e=>(0,r.jsx)(`svg`,{width:20,height:20,viewBox:`0 0 20 20`,fill:`currentColor`,xmlns:`http://www.w3.org/2000/svg`,...e,children:(0,r.jsx)(`path`,{d:`M4.5 5.75C4.5 5.05964 5.05964 4.5 5.75 4.5H14.25C14.9404 4.5 15.5 5.05964 15.5 5.75V14.25C15.5 14.9404 14.9404 15.5 14.25 15.5H5.75C5.05964 15.5 4.5 14.9404 4.5 14.25V5.75Z`})})})))()}export{a as n,i as t};
+//# sourceMappingURL=stop-28b9f6713dcd.js.map

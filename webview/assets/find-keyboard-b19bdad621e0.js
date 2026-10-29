@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e,t){if(!t.enabled||e.altKey)return!1;let n=e.metaKey||e.ctrlKey,r=e.key.toLowerCase(),i=n&&r===`f`?t.onOpen:n&&r===`g`&&t.open?e.shiftKey?t.onPrevious:t.onNext:e.key===`Escape`&&t.open?t.onClose:null;return i?(e.preventDefault(),e.stopPropagation(),i(),!0):!1}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=find-keyboard-b19bdad621e0.js.map

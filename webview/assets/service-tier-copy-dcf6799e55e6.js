@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{ym as t}from"./app-initial-13f932cb2f13.js";import{s as n}from"./lib-72ce426c00b2.js";import{t as r}from"./message-a17254c4ba02.js";function i(e){return typeof e==`string`?(0,o.jsx)(o.Fragment,{children:e}):(0,o.jsx)(r,{...e})}function a(e,t){return typeof t==`string`?t:e.formatMessage(t)}var o;function s(){return(s=e((()=>{n(),o=t()})))()}export{s as n,i as r,a as t};
+//# sourceMappingURL=service-tier-copy-dcf6799e55e6.js.map

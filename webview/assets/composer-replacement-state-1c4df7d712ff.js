@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{F as t,k as n,r}from"./app-scope-2dce3358324c.js";import{c as i,t as a}from"./route-scope-38f8c9923d9d.js";var o,s;function c(){return(c=e((()=>{r(),i(),o=t(a,()=>new Set),s=n(a,({get:e})=>e(o).size>0)})))()}export{s as n,o as r,c as t};
+//# sourceMappingURL=composer-replacement-state-1c4df7d712ff.js.map

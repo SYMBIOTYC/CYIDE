@@ -1,0 +1,1 @@
+import{n as e,t}from"./wheat-B8-XUf-s-0c832a7dfc23.js";t();export{e as default};

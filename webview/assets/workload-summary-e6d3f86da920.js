@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{c as t,l as n,r}from"./local-thread-catalog-signals-f20c856d8a1d.js";import{i,n as a}from"./thread-read-state-b3fe4a956d46.js";function o(e){let r=e.get(n),a=e.get(t);return{schemaVersion:1,unread:i.getWorkloadSummary(),catalog:{published:r.initialized?r.entries.length:null,reads:a?.getWorkloadSummary()??null}}}function s(){return(s=e((()=>{a(),r()})))()}s();export{o as collectFeedbackWorkloadSummary};
+//# sourceMappingURL=workload-summary-e6d3f86da920.js.map

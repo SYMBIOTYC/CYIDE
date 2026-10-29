@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){return i(e,a)}function n(e){return i(e,o)}function r(e){return i(e,s)}function i(e,t){return e.plugin.name===t&&e.marketplaceName===d&&e.plugin.id===`${t}@${d}`}var a,o,s,c,l,u,d;function f(){return(f=e((()=>{a=`spreadsheets`,o=`presentations`,s=`documents`,c=`1288674243`,l=`1623794951`,u=`819296327`,d=`openai-primary-runtime`})))()}export{u as a,t as c,o as i,n as l,c as n,s as o,l as r,f as s,a as t,r as u};
+//# sourceMappingURL=microsoft-office-control-plugins-42f1be557a5b.js.map

@@ -1,0 +1,2 @@
+import{n as e,r as t}from"./rolldown-runtime-2d059c5e81f4.js";var n=t({CodexAccountSettingsConnectedAppDisconnectConfirmed:()=>r,CodexAccountSettingsPersonalizationSaveAttempted:()=>i}),r,i;function a(){return(a=e((()=>{r={$type:`protobuf_analytics_events.v1.CodexAccountSettingsConnectedAppDisconnectConfirmed`},i={$type:`protobuf_analytics_events.v1.CodexAccountSettingsPersonalizationSaveAttempted`}})))()}export{a as i,i as n,n as r,r as t};
+//# sourceMappingURL=codex_account_settings-a7556848f5ac.js.map

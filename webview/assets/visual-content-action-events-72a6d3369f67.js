@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{r as t,t as n}from"./product-logger-6eb6e3599809.js";import{Ws as r,js as i}from"./codex-5a0f63bbeb77.js";function a(e,{action:n,inputMessageId:r,messageId:a,surface:o,threadId:s,turnId:c}){t(e,i,{action:n,inputMessageId:r??void 0,messageId:a??void 0,surface:o,threadId:s,turnId:c})}function o(){return(o=e((()=>{r(),n()})))()}export{a as n,o as t};
+//# sourceMappingURL=visual-content-action-events-72a6d3369f67.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n,r;function i(){return(i=e((()=>{t=`local-side-chat-loading`,n=`sidechat:`,r=`local-side-chat`})))()}export{i,n,r,t};
+//# sourceMappingURL=local-conversation-side-chat-tab-id-3c26de1c6cf5.js.map

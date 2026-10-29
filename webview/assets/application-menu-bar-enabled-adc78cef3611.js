@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,r as n}from"./rpc-256c20b50b7b.js";import{o as r,s as i}from"./client-performance-service-c4697ebcc7d1.js";function a(){return i()&&t.applicationMenu!=null}function o(){return(o=e((()=>{r(),n()})))()}export{o as n,a as t};
+//# sourceMappingURL=application-menu-bar-enabled-adc78cef3611.js.map

@@ -1,0 +1,1 @@
+import{n as e,r as t,t as n}from"./editor-startup-cded425bf940.js";e();export{n as getPageEditorRequestedScope,t as pageEditorStartup};

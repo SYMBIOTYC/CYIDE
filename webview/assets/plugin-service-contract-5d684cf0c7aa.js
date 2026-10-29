@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{M as t,_ as n}from"./app-connect-actions-16bd90836c00.js";function r(e){return{[t]:{catalog:`CONNECTOR_SETTING`,chatgpt:`PROMPT_TEXT_AREA`,codex:`CODEX`,tpp:`TPP`}[e??`catalog`]}}function i(){return(i=e((()=>{n()})))()}export{i as n,r as t};
+//# sourceMappingURL=plugin-service-contract-5d684cf0c7aa.js.map

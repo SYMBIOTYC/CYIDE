@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{d as t,p as n}from"./persisted-atom-store-e87799503e1d.js";import{a as r,t as i}from"./writing-block-context-5091dc90ab08.js";function a(e,n,r){return n==null?r:i(e,n,e=>t(e,void 0),r,!0)}function o(){return(o=e((()=>{r(),n()})))()}export{o as n,a as t};
+//# sourceMappingURL=codex-writing-block-additional-context-8ac0d22af6bb.js.map

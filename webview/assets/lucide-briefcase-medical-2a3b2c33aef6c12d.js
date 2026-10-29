@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-briefcase-medical-787844aa87a6df23.js";e();export{t as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{t}from"./markdown-to-plain-text-eb8feda889d9.js";function n(){return(n=e((()=>{t()})))()}export{n as t};
+//# sourceMappingURL=content-reference-markers-20bee752fd52.js.map

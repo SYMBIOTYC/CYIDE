@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Cs as t}from"./app-initial-13f932cb2f13.js";import{o as n}from"./presentation-7b1f6b1f2c4c.js";function r(e){return`/settings/computer-use/${e}`}function i(e){return e===`google-chrome`?`chrome`:e!=null&&t(e)?e:null}var a,o;function s(){return(s=e((()=>{n(),a=`computer-use/:browserFamily`,o=`/settings/${a}`})))()}export{s as a,r as i,a as n,i as r,o as t};
+//# sourceMappingURL=computer-use-browser-settings-route-1497fbe39e3f.js.map

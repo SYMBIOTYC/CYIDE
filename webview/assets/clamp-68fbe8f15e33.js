@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime-2d059c5e81f4.js";import{sm as t}from"./app-initial-13f932cb2f13.js";import{t as n}from"./_baseClamp-732802428ef0.js";var r=e(((e,r)=>{var i=n(),a=t();function o(e,t,n){return n===void 0&&(n=t,t=void 0),n!==void 0&&(n=a(n),n=n===n?n:0),t!==void 0&&(t=a(t),t=t===t?t:0),i(a(e),t,n)}r.exports=o}));export{r as t};
+//# sourceMappingURL=clamp-68fbe8f15e33.js.map

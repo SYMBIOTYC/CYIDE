@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{ym as t}from"./app-initial-13f932cb2f13.js";import{n,t as r}from"./clsx-4831e7669c42.js";function i(e){let{children:t,indentLevel:n,alignment:i}=e,o=i===void 0?`tree`:i,s=t;for(let e=0;e<n;e+=1)s=(0,a.jsx)(`div`,{className:r(`flex min-w-0 flex-1`,o===`parent-label`?`ps-[var(--sidebar-child-icon-indent)]`:`ps-4`),children:s});return s}var a;function o(){return(o=e((()=>{n(),a=t()})))()}export{o as n,i as t};
+//# sourceMappingURL=sidebar-row-indent-ac1168e78417.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./mail-open-LVkuRXTV-7edee0f8ff82.js";t();export{e as default};

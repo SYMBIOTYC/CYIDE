@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{r as t,st as n}from"./app-scope-2dce3358324c.js";import{c as r,t as i}from"./route-scope-38f8c9923d9d.js";var a;function o(){return(o=e((()=>{t(),r(),a=n(`TabThumbnailScope`,{parent:i})})))()}export{o as n,a as t};
+//# sourceMappingURL=scope-a0173ced6a28.js.map

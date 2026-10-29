@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{rS as t}from"./app-initial-13f932cb2f13.js";function n(){return(0,r.useContext)(i)}var r,i;function a(){return(a=e((()=>{r=t(),i=(0,r.createContext)(!0)})))()}export{a as n,n as r,i as t};
+//# sourceMappingURL=composer-request-hotkeys-context-895923401d07.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{i as t}from"./app-initial-13f932cb2f13.js";import{n}from"./browser-hydration-performance-d389f8c1eff6.js";import{t as r}from"./src-c2603561eb40.js";function i(){return(i=e((()=>{r(),t(),n()})))()}export{i as t};
+//# sourceMappingURL=browser-page-performance-679b313f4024.js.map

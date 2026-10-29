@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-e9cfa6369265cc4d.js";var r;function i(){return(i=e((()=>{t(),r=n(`ArrowBigDownDash`,[[`path`,{d:`M15 5H9`,key:`1tp3ed`}],[`path`,{d:`M15 9v3h4l-7 7-7-7h4V9z`,key:`ncdc4b`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-arrow-big-down-dash-397e91fb0e063b8d.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-e9cfa6369265cc4d.js";var r;function i(){return(i=e((()=>{t(),r=n(`Ungroup`,[[`rect`,{width:`8`,height:`6`,x:`5`,y:`4`,rx:`1`,key:`nzclkv`}],[`rect`,{width:`8`,height:`6`,x:`11`,y:`14`,rx:`1`,key:`4tytwb`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-ungroup-268e03c8223adf73.js.map

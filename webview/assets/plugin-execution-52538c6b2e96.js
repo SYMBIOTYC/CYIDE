@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t}from"./use-host-config-e86732ef3454.js";function n(e,t){return!1}function r(){return(r=e((()=>{t()})))()}export{n,r as t};
+//# sourceMappingURL=plugin-execution-52538c6b2e96.js.map

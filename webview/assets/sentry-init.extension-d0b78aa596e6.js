@@ -1,0 +1,1 @@
+import{a as e,i as t,n,o as r,r as i,t as a}from"./sentry-init.extension-810e01615ea6.js";i();export{r as addRendererBreadcrumb,a as getEventWithStableAssetUrls,n as initRendererSentry,t as reportRendererErrorBoundary,e as setRendererSentryUser};

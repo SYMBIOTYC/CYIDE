@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./lucide-createLucideIcon-e9cfa6369265cc4d.js";var r;function i(){return(i=e((()=>{t(),r=n(`Battery`,[[`rect`,{width:`16`,height:`10`,x:`2`,y:`7`,rx:`2`,ry:`2`,key:`1w10f2`}],[`line`,{x1:`22`,x2:`22`,y1:`11`,y2:`13`,key:`4dh1rd`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-battery-43b5fea475aea568.js.map

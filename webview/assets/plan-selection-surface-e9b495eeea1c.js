@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{a as t,r as n}from"./markdown-renderer-ea39f808f855.js";function r(e){return`[${a}="${i(e)}"] [${n}]`}function i(e){return typeof CSS<`u`&&typeof CSS.escape==`function`?CSS.escape(e):e.replace(/\\/g,`\\\\`).replace(/"/g,`\\"`)}var a;function o(){return(o=e((()=>{t(),a=`data-plan-selection-surface`})))()}export{r as n,o as r,a as t};
+//# sourceMappingURL=plan-selection-surface-e9b495eeea1c.js.map

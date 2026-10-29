@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{rS as t}from"./app-initial-13f932cb2f13.js";function n(e,t,n){(0,r.useInsertionEffect)(()=>e.on(t,n),[e,t,n])}var r;function i(){return(i=e((()=>{r=t()})))()}export{n,i as t};
+//# sourceMappingURL=use-motion-value-event-844db257043b.js.map

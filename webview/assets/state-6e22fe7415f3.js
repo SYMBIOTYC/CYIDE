@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{r as t,t as n}from"./persisted-signal-d37b45014398.js";var r,i,a,o,s,c;function l(){return(l=e((()=>{n(),r=t(`debug-panel-width`,600),i=t(`debug-panel-floating-rect`,null,{publishDelayMs:250}),a=t(`debug-panel-position`,`right`),o=t(`debug-panel-selected-section`,`conversation`),s=t(`debug-panel-sidebar-expanded`,!1),c=t(`debug-panel-pinned-sections`,[])})))()}export{l as a,i,r as n,c as o,s as r,o as s,a as t};
+//# sourceMappingURL=state-6e22fe7415f3.js.map

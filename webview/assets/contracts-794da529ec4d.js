@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n,r,i,a,o;function s(){return(s=e((()=>{t=`/business-profiles`,n=`2789236610`,r=`3295749912`,i=`2756547663`,a=`751400112`,o=`3962601666`})))()}export{t as a,a as i,o as n,r as o,n as r,s,i as t};
+//# sourceMappingURL=contracts-794da529ec4d.js.map

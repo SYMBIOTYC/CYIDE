@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{c as t,n,r}from"./app-initial-13f932cb2f13.js";import{r as i,t as a}from"./is-compact-window-context-329e1634b286.js";import{t as o}from"./page-window-d36d10527681.js";var s;function c(){return(c=e((()=>{t(),a(),n(),o(),s=!i()&&r!==`/debug`})))()}export{c as n,s as t};
+//# sourceMappingURL=completion-window-241d918226f9.js.map

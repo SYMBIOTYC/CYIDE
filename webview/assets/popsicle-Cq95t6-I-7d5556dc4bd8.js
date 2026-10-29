@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-d83fee8684c3.js";var r;function i(){return(i=e((()=>{t(),r=n(`Popsicle`,[[`path`,{d:`M18.6 14.4c.8-.8.8-2 0-2.8l-8.1-8.1a4.95 4.95 0 1 0-7.1 7.1l8.1 8.1c.9.7 2.1.7 2.9-.1Z`,key:`1o68ps`}],[`path`,{d:`m22 22-5.5-5.5`,key:`17o70y`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=popsicle-Cq95t6-I-7d5556dc4bd8.js.map

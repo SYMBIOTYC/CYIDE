@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t({scrollTop:e,scrollHeight:t,height:n,fitPerfectly:r=!1,fitPerfectlyOverscroll:i=0,overscrollSize:a}){let o=n+a*2,s=r?n+i*2:o;if(t=Math.max(t,s),o>=t||r){let n=Math.max(e-i,0),r=Math.min(e+s,t);return{top:n,bottom:Math.max(r,n)}}let c=e+n/2-o/2,l=c+o;return c<0&&(c=0),l>t&&(l=t),c=Math.floor(Math.max(c,0)),{top:c,bottom:Math.ceil(Math.max(Math.min(l,t),c))}}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=createWindowFromScrollPosition-af2cabb983d7.js.map

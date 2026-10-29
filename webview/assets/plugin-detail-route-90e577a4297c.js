@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{c as t,nf as n}from"./app-initial-13f932cb2f13.js";import{i as r,s as i}from"./external-link-open-98237ae373ed.js";function a(e,t,n){i({href:o(e),initiator:`open_in_browser_bridge`})}function o(e){return`https://chatgpt.com${n({pluginId:e})}?no_universal_links=1`}function s(e){return n(e)}function c(){return(c=e((()=>{t(),r()})))()}export{a as i,o as n,c as r,s as t};
+//# sourceMappingURL=plugin-detail-route-90e577a4297c.js.map

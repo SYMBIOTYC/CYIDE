@@ -1,0 +1,1 @@
+import{n as e,t}from"./boxes-BcVM_hO1-64a5bb0e74fe.js";t();export{e as default};

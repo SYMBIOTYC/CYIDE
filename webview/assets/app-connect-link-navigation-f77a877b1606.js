@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{i as t}from"./external-link-open-98237ae373ed.js";function n(e,t){return!1}function r(){return(r=e((()=>{t()})))()}export{n,r as t};
+//# sourceMappingURL=app-connect-link-navigation-f77a877b1606.js.map

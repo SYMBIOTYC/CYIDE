@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Rr as t}from"./app-initial-13f932cb2f13.js";import{u as n}from"./pull-request-domain-aeb2f3000b16.js";function r(e){if(!(`provider`in e)||e.provider===`gitlab-connector`)return t(e);throw Error(`Unsupported Code Review account provider: ${String(e.provider)}`)}function i(e){switch(e){case`github`:return`github.com`;case`gitlab`:return`gitlab.com`}}function a(){return(a=e((()=>{n()})))()}export{i as n,a as r,r as t};
+//# sourceMappingURL=target-73176ab28bee.js.map

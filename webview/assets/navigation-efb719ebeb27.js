@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{a as t,r as n}from"./work-conversation-routes-9cb644d65cfc.js";import{a as r,i,r as a}from"./app-navigation-signal-88c769d35573.js";function o(e,t){t.backend===`chatgpt`?i(e,n(t.threadId??t.clientThreadId)):t.threadId!=null&&r(e,t.threadId,t.hostId)}function s(){return(s=e((()=>{a(),t()})))()}export{o as n,s as t};
+//# sourceMappingURL=navigation-efb719ebeb27.js.map

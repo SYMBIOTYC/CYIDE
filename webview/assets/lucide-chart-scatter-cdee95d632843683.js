@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-chart-scatter-7ff18948d8f9589e.js";e();export{t as default};

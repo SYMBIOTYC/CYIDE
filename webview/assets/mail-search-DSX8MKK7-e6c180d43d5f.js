@@ -1,0 +1,1 @@
+import{n as e,t}from"./mail-search-DSX8MKK7-47be053a6f7e.js";e();export{t as default};

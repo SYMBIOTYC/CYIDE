@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{d as t,p as n}from"./persisted-atom-store-e87799503e1d.js";import{er as r,tr as i}from"./src-622b307a9baf.js";function a(e){return t(r(e),!1)}var o;function s(){return(s=e((()=>{i(),n(),o=`thread_references_unavailable`})))()}export{a as n,s as r,o as t};
+//# sourceMappingURL=thread-reference-capability-c7b3642addec.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){return e.previousValue==null?`${e.property}: ${e.nextValue}`:`${e.property}: ${e.previousValue} -> ${e.nextValue}`}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=user-message-design-tweak-history-89008ff71666.js.map

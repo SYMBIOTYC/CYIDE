@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Gt as t,I as n,_r as r,vr as i}from"./app-server-manager-signals-36cb05284065.js";import{n as a,t as o}from"./sidebar-local-thread-title-signals-7132fba7836d.js";function s(e,n){return r({id:n.conversationId,title:n.title,turns:null})??e(t,{hostId:n.hostId,threadId:n.conversationId})??e(a,{hostId:n.hostId,threadId:n.conversationId})}function c(){return(c=e((()=>{n(),i(),o()})))()}export{c as n,s as t};
+//# sourceMappingURL=sidebar-thread-search-title-fe517d57b66f.js.map

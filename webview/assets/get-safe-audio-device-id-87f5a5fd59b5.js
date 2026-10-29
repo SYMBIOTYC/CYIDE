@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";async function t(){let e=(await navigator.mediaDevices.enumerateDevices()).filter(e=>e.kind===`audioinput`),t=e.find(e=>e.deviceId==="default"),n=e.some(e=>e.label.toLowerCase().includes(`iphone`));return e.find(e=>{let r=n&&!e.label.toLowerCase().includes(`iphone`),i=!!(t&&e.deviceId===t.deviceId);return r||i})?.deviceId??e[0]?.deviceId}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=get-safe-audio-device-id-87f5a5fd59b5.js.map

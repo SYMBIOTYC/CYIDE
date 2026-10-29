@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,r as n}from"./statsig-gate-signal-4df082acfadb.js";import{c as r,l as i}from"./chatgpt_finance-8813e3c9edb2.js";import{n as a,r as o}from"./plaid-link-ed03f49df22d.js";async function s(e,t){let r={...t,startOnboarding:!0};if(e.get(n,`2515239199`)){let{openPersonalFinanceAccountLinking:t}=await i();return t(e,r)}return o(e,r)}function c(){return(c=e((()=>{t(),r(),a()})))()}export{s as n,c as t};
+//# sourceMappingURL=onboarding-account-linking-143a7a320a93.js.map

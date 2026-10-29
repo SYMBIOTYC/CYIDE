@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-microwave-fec7d46c319cbd9c.js";e();export{t as default};

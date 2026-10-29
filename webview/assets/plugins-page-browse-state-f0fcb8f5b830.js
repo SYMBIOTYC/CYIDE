@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{O as t,n,r,t as i}from"./app-scope-2dce3358324c.js";var a,o,s,c;function l(){return(l=e((()=>{r(),n(),a=t(i,e=>null),o=t(i,({initialTab:e})=>e),s=t(i,({initialHostId:e})=>e),c=t(i,e=>!1)})))()}export{a,s as i,o as n,c as r,l as t};
+//# sourceMappingURL=plugins-page-browse-state-f0fcb8f5b830.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{a as t,i as n}from"./app-initial-13f932cb2f13.js";async function r(e,n){try{return await n(e)}catch(n){return t.error(`Browser page command failed`,{safe:{command:e.command.type},sensitive:{error:n}}),`failed`}}function i(){return(i=e((()=>{n()})))()}export{r as n,i as t};
+//# sourceMappingURL=run-command-35fd46af8269.js.map

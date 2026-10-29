@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Ov as t,dh as n,gv as r,p_ as i}from"./app-initial-13f932cb2f13.js";function a(e){return{hiddenPluginIds:o.parse(e).hidden_plugin_ids}}var o;function s(){return(s=e((()=>{n(),o=r({hidden_plugin_ids:i(t()).default([])}).catch({hidden_plugin_ids:[]})})))()}export{a as n,s as t};
+//# sourceMappingURL=plugin-page-visibility-config-a315efb54719.js.map

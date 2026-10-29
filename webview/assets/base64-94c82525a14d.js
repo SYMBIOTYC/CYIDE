@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){let t=atob(e),n=new Uint8Array(t.length);for(let e=0;e<t.length;e+=1)n[e]=t.charCodeAt(e);return n}function n(e){if(e.toBase64!=null)return e.toBase64();let t=``,n=32768;for(let r=0;r<e.byteLength;r+=n)t+=String.fromCharCode(...e.subarray(r,r+n));return btoa(t)}function r(){return(r=e((()=>{})))()}export{n,r,t};
+//# sourceMappingURL=base64-94c82525a14d.js.map

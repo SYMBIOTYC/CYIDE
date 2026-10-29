@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Dv as t,Ov as n,dh as r}from"./app-initial-13f932cb2f13.js";var i,a;function o(){return(o=e((()=>{r(),i=`artifact`,a=t({environmentId:n().min(1).optional(),hostId:n().min(1),path:n().min(1)})})))()}export{a as n,o as r,i as t};
+//# sourceMappingURL=artifact-tab-route-56e74ac3d9da.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,r as n}from"./rpc-256c20b50b7b.js";function r(e,n){if(t.repositoryOrigins==null)throw Error(`Repository discovery is unavailable`);return t.repositoryOrigins.read(e,n)}function i(){return(i=e((()=>{n()})))()}export{r as n,i as t};
+//# sourceMappingURL=read-repository-origins-e3d03aa01d18.js.map

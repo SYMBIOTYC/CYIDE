@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{rS as t}from"./app-initial-13f932cb2f13.js";function n(){return(0,r.useSyncExternalStore)(i,a,o)}var r,i,a,o;function s(){return(s=e((()=>{r=t(),i=()=>()=>{},a=()=>!0,o=()=>!0})))()}export{n,s as t};
+//# sourceMappingURL=use-is-rendering-on-client-ecbdfaa70e48.js.map

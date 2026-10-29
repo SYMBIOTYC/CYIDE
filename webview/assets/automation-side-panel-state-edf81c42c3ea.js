@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t({request:e,savedAutomationId:t}){return t==null?e.type===`automation`?{type:`persisted`,automationId:e.automationId}:{type:`proposal`,seed:e.seed,targetAutomationId:e.seed.id}:{type:`persisted`,automationId:t}}function n(e){return e.type===`persisted`?`persisted:${e.automationId}`:`proposal:${e.seed.directiveKey}`}function r(e){return`automation-suggestion:${encodeURIComponent(e)}`}function i(){return(i=e((()=>{})))()}export{i,n,r,t};
+//# sourceMappingURL=automation-side-panel-state-edf81c42c3ea.js.map

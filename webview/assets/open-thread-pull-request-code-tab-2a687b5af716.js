@@ -1,0 +1,1 @@
+import{n as e,t}from"./open-thread-pull-request-code-tab-288aa9f81a55.js";t();export{e as openThreadPullRequestCodeTab};

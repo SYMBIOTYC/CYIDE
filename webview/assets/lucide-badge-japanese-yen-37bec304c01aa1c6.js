@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-badge-japanese-yen-6352cb4ab454a60c.js";e();export{t as default};

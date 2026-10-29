@@ -1,0 +1,1 @@
+import{i as e,n as t,r as n,t as r}from"./task-artifact-session-d9987aa92b61.js";n();export{r as connectPageArtifactForTask,t as disconnectPageArtifactForTask,e as movePageArtifactCursorForTask};

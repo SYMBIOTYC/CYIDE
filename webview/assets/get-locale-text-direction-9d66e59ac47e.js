@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){let t=new Intl.Locale(e);return(t.getTextInfo?.().direction??t.textInfo?.direction)===`rtl`?`rtl`:`ltr`}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=get-locale-text-direction-9d66e59ac47e.js.map

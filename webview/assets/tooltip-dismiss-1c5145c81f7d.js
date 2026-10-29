@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(){typeof window>`u`||window.dispatchEvent(new Event(n))}var n;function r(){return(r=e((()=>{n=`codex:dismiss-tooltips`})))()}export{t as n,r,n as t};
+//# sourceMappingURL=tooltip-dismiss-1c5145c81f7d.js.map

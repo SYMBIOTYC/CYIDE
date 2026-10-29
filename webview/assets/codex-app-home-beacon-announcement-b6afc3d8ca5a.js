@@ -1,0 +1,1 @@
+import"./app-initial-13f932cb2f13.js";import"./compiler-runtime-2015039f3c68.js";import{r as e,t}from"./codex-app-home-beacon-announcement-a3c7216fca62.js";e();export{t as CodexAppHomeBeaconAnnouncementContent};

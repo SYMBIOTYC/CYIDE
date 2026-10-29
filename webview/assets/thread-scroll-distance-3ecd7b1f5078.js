@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){return Math.max(0,e.scrollHeight-e.clientHeight-e.scrollTop)}function n(e){return e.scrollHeight-e.clientHeight-t(e)}function r(e,t){let n=Math.max(0,e.scrollHeight-e.clientHeight-Math.max(0,t));e.scrollTop!==n&&(e.scrollTop=n)}function i(){return(i=e((()=>{})))()}export{r as i,n,i as r,t};
+//# sourceMappingURL=thread-scroll-distance-3ecd7b1f5078.js.map

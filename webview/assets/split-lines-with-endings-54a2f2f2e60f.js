@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){return e.match(/[^\n]*\n|[^\n]+/g)??[``]}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=split-lines-with-endings-54a2f2f2e60f.js.map

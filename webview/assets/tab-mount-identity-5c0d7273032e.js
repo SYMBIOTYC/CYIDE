@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{F as t,r as n}from"./app-scope-2dce3358324c.js";import{T as r,u as i}from"./route-scope-38f8c9923d9d.js";var a;function o(){return(o=e((()=>{n(),r(),a=t(i,({scope:e})=>e.value.clientThreadId)})))()}export{a as n,o as t};
+//# sourceMappingURL=tab-mount-identity-5c0d7273032e.js.map

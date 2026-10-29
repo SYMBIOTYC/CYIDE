@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t;function n(){return(n=e((()=>{t={blue:`var(--brand-blue-400)`,green:`var(--brand-green-400)`,yellow:`var(--brand-yellow-400)`,pink:`var(--brand-pink-400)`,orange:`var(--brand-orange-400)`,purple:`var(--brand-purple-400)`,black:`var(--black)`}})))()}export{n,t};
+//# sourceMappingURL=chat-accent-colors-4cf6efb20fae.js.map

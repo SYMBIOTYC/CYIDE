@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Ov as t,dh as n,gv as r,nv as i}from"./app-initial-13f932cb2f13.js";var a,o;function s(){return(s=e((()=>{n(),a=`space-page`,o=r({accountId:t().min(1),isWorkspaceHome:i(!0).optional(),pageId:t().min(1)})})))()}export{s as n,o as r,a as t};
+//# sourceMappingURL=route-45b4f01eff32.js.map

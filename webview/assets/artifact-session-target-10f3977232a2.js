@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./artifact-session-target-baedbffa9a2d.js";e();export{t as openPageArtifactTarget};

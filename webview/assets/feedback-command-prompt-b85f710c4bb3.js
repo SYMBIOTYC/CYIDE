@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{i as t,n}from"./run-command-14c467d29ac3.js";function r(e){let n=/^\s*\/feedback(?:\s+([\s\S]*))?\s*$/.exec(e);return n!=null&&t(`feedback`,`composer_slash_command`,{feedbackDetails:n[1]?.trim()??``})}function i(){return(i=e((()=>{n()})))()}export{r as n,i as t};
+//# sourceMappingURL=feedback-command-prompt-b85f710c4bb3.js.map

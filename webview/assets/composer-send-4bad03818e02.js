@@ -1,0 +1,1 @@
+import"./mime-types-80e4a58719d0.js";import{n as e,t}from"./composer-send-67927339ed18.js";t();export{e as sendCloudOrbitComposerMessage};

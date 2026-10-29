@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{r as t,u as n}from"./app-scope-2dce3358324c.js";import{n as r,r as i}from"./use-host-config-e86732ef3454.js";import{C as a,I as o}from"./app-server-manager-signals-36cb05284065.js";function s(){let e=n(a);return i(e).kind!==`local`}function c(){return(c=e((()=>{t(),o(),r()})))()}export{s as n,c as t};
+//# sourceMappingURL=use-is-remote-host-c4ea15fcc14b.js.map

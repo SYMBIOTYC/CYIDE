@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){let t=e.split(`/`).map(e=>e.trim()).filter(e=>e.length>0&&e!==`root`).at(-1);if(t==null)return null;let n=t.replace(/[_-]+/g,` `).replace(/\s+/g,` `).trim().toLowerCase();return n.length===0?null:n[0].toUpperCase()+n.slice(1)}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=subagent-activity-ce2b116a777a.js.map

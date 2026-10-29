@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t({unifiedWorkspaceName:e,enrollmentEnabled:t,workspaceDiscoverable:n,discoverabilityChanged:r}){let i=e===!0||e!=null&&t;return{useUnifiedWorkspaceName:i,requestBody:r||i&&e!==!0?{value:n,public_display_name:null,use_workspace_name_for_discovery:i||n,unified_workspace_name:i}:null}}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=workspace-naming-policy-b91d55598b6d.js.map

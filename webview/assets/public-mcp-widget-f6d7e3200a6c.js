@@ -1,0 +1,1 @@
+import{n as e,r as t,t as n}from"./public-mcp-widget-788b5fe03edc.js";n();export{e as readPublicMcpResource,t as readPublicMcpWidgetResource};

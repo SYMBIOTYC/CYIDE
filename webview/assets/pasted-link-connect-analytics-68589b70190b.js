@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{r as t,t as n}from"./product-logger-6eb6e3599809.js";import{J as r,K as i,W as a,rt as o}from"./app-connect-actions-16bd90836c00.js";function s(e,n,o,s){t(e,a,{authReason:i.CHATGPT_CONNECTOR_AUTH_REASON_MISSING_LINK,connectorId:n,productExperience:o,stage:s,surface:r.CHATGPT_CONNECTOR_AUTH_SURFACE_CONVERSATION_CARD})}function c(){return(c=e((()=>{o(),n()})))()}export{s as n,c as t};
+//# sourceMappingURL=pasted-link-connect-analytics-68589b70190b.js.map

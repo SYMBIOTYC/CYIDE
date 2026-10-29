@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Vd as t,df as n}from"./app-initial-13f932cb2f13.js";var r,i,a;function o(){return(o=e((()=>{n(),r=`sites@${t}`,i=`plugin://${r}`,a=/(^|[^\p{L}\p{N}_$\\])\$sites(?![\p{L}\p{N}_$-])/gu})))()}export{o as i,i as n,a as r,r as t};
+//# sourceMappingURL=sites-plugin-ids-bcf740713a00.js.map

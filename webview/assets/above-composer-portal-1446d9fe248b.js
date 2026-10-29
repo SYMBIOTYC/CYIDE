@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e,t){if(typeof document>`u`)return null;for(let r of document.querySelectorAll(`[${n}]`))if(r.getAttribute(`data-above-composer-conversation-id`)===e&&(t==null||r.closest(t)!=null))return r;return null}var n;function r(){return(r=e((()=>{n=`data-above-composer-portal`})))()}export{t as n,r,n as t};
+//# sourceMappingURL=above-composer-portal-1446d9fe248b.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){return n[e.toUpperCase()]}var n;function r(){return(r=e((()=>{n={USD:2,AUD:2,CLP:0,GBP:2,EUR:2,JPY:0,INR:2,IDR:2,PKR:2,THB:2,MYR:2,TWD:2,VND:0,PHP:2,NGN:2,ZAR:2,KZT:2,TZS:2,EGP:2,BRL:2,SEK:2,CZK:2,PLN:2,DKK:2,NOK:2,KRW:0,COP:2,MXN:2,PEN:2,HUF:2,QAR:2,RON:2,CAD:2,ILS:2,AED:2,SGD:2,NZD:2,CHF:2,SAR:2,DZD:2,LBP:2,MAD:2,YER:2}})))()}export{r as n,t};
+//# sourceMappingURL=currency-30c9fca8d8f1.js.map

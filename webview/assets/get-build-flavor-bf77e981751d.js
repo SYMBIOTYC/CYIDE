@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(){return window.electronBridge?.getBuildFlavor?.()??`public-beta`}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=get-build-flavor-bf77e981751d.js.map

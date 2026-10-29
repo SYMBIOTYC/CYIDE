@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./cookies-e98545a6daab.js";function r(e){let t=n(`oai-locale`);e.searchParams.set(`locale`,t===`fa`?`en-US`:t??`auto`)}function i(){return(i=e((()=>{t()})))()}export{i as n,r as t};
+//# sourceMappingURL=admin-console-locale-9ab8d31b5276.js.map

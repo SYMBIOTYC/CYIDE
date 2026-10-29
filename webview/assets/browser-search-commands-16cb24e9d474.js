@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,r as n}from"./rpc-256c20b50b7b.js";async function r(e){let n=t.browserHost;return n==null?`page-unavailable`:n.runPageCommand(e)}function i(){return(i=e((()=>{n()})))()}export{r as n,i as t};
+//# sourceMappingURL=browser-search-commands-16cb24e9d474.js.map

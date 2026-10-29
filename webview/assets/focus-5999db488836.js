@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{O as t,n,r,t as i}from"./app-scope-2dce3358324c.js";function a(e,t,n){let r=n.localArtifactAnnotationMetadata?.target,i=n.localArtifactAnnotationContext?.annotationId;t!=null&&r?.type===`site-element-selection`&&i!=null&&e.get(o,{conversationId:t,projectId:r.projectId})?.focus(i.slice(`site:${r.projectId}:`.length))}var o;function s(){return(s=e((()=>{r(),n(),o=t(i,e=>null)})))()}export{s as n,o as r,a as t};
+//# sourceMappingURL=focus-5999db488836.js.map

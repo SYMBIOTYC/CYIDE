@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{ym as t}from"./app-initial-13f932cb2f13.js";import{t as n}from"./compiler-runtime-2015039f3c68.js";function r(e){let t=(0,i.c)(2),{children:n}=e,r;return t[0]===n?r=t[1]:(r=(0,a.jsx)(`div`,{className:`grid grid-cols-1 gap-3 @md:grid-cols-2 @2xl:grid-cols-3`,children:n}),t[0]=n,t[1]=r),r}var i,a;function o(){return(o=e((()=>{i=n(),a=t()})))()}export{o as n,r as t};
+//# sourceMappingURL=content-grid-c0b81a8efbce.js.map

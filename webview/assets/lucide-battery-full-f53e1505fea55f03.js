@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-battery-full-8078e8ad9926ba76.js";e();export{t as default};

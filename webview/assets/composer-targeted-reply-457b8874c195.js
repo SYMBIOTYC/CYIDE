@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{O as t,T as n,n as r,r as i,t as a}from"./app-scope-2dce3358324c.js";import{K as o}from"./registry-30374645eb4c.js";import{n as s}from"./browser-apps-account-686dee119787.js";function c(e,t,n){e.set(l,t,n)}var l,u;function d(){return(d=e((()=>{i(),r(),o(),l=t(a,e=>null),u=n(a,(e,{get:t})=>{let n=t(l,e);return n?.accountId===t(s)?n:null})})))()}export{d as n,c as r,u as t};
+//# sourceMappingURL=composer-targeted-reply-457b8874c195.js.map

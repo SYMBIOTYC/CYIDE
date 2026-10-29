@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-split-horizontal-DnBHrayW-ee35f7bd0499.js";e();export{t as default};

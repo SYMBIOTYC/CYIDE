@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){return e instanceof n&&(e.status===401||e.status===403||e.status===404)}var n;function r(){return(r=e((()=>{n=class extends Error{status;deliveryUnknown;retryWithSameRequest;constructor(e,t,n){super(e),this.status=t,this.deliveryUnknown=n?.deliveryUnknown??!1,this.retryWithSameRequest=n?.retryWithSameRequest??!1}}})))()}export{r as n,t as r,n as t};
+//# sourceMappingURL=errors-49716763d973.js.map

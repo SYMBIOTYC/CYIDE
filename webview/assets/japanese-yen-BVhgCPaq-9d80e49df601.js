@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-d83fee8684c3.js";var r;function i(){return(i=e((()=>{t(),r=n(`JapaneseYen`,[[`path`,{d:`M12 9.5V21m0-11.5L6 3m6 6.5L18 3`,key:`2ej80x`}],[`path`,{d:`M6 15h12`,key:`1hwgt5`}],[`path`,{d:`M6 11h12`,key:`wf4gp6`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=japanese-yen-BVhgCPaq-9d80e49df601.js.map

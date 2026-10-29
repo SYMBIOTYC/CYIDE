@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){return new Promise((t,n)=>{let r=new FileReader;r.onload=()=>{typeof r.result==`string`?t(r.result):n(Error(`Could not read image data URL`))},r.onerror=()=>n(r.error??Error(`Could not read image data URL`)),r.readAsDataURL(e)})}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=blob-to-data-url-877a078fbc59.js.map

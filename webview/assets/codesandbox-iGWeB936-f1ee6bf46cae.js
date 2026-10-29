@@ -1,0 +1,1 @@
+import{n as e,t}from"./codesandbox-iGWeB936-39b99ecad149.js";t();export{e as default};

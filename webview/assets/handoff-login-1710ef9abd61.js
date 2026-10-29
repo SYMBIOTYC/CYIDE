@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{i as t,n,r}from"./browser-handoff-target-efd462ace22a.js";function i(e,r,i){let a=t(`${r}${i}`);if(a==null&&(r===`/login`||r===`/welcome`||r===`/select-workspace`)){let e=new URLSearchParams(i).getAll(`next`);e.length===1&&(a=t(e[0]))}if(a==null)return e;let o=n(a);return e===`/`?o:`${e}?${new URLSearchParams({next:o})}`}function a(){return(a=e((()=>{r()})))()}export{a as n,i as t};
+//# sourceMappingURL=handoff-login-1710ef9abd61.js.map

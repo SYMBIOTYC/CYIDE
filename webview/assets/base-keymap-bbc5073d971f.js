@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,o as n}from"./dist-78d3a130072f.js";import{r,t as i}from"./dist-9e89ae981f35.js";function a({undo:e,redo:n,bindings:i={}}){return r({...t,...i,"Mod-z":e,"Mod-y":n,"Mod-Shift-z":n})}function o(){return(o=e((()=>{n(),i()})))()}export{o as n,a as t};
+//# sourceMappingURL=base-keymap-bbc5073d971f.js.map

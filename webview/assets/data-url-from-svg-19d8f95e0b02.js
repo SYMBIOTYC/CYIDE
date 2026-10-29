@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){return`data:image/svg+xml;utf8,${encodeURIComponent(e)}`}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=data-url-from-svg-19d8f95e0b02.js.map

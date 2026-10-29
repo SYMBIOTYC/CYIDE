@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-wifi-low-31692362636f75c2.js";e();export{t as default};

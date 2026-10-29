@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{a as t,i as n}from"./app-initial-13f932cb2f13.js";function r(e,n,r){let i={connectorId:r.sensitive?.connectorId,linkId:r.sensitive?.linkId,threadId:r.sensitive?.threadId,parentLinkId:r.sensitive?.parentLinkId,requestId:r.sensitive?.requestId};t[e](n,{safe:r.safe,sensitive:i})}function i(){return(i=e((()=>{n()})))()}export{r as n,i as t};
+//# sourceMappingURL=app-connect-diagnostics-d30928f1433f.js.map

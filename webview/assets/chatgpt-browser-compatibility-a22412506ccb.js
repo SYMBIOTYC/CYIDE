@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./chatgpt-browser-legacy-product-event-names-a7690151b644.js";function r(e){return!1}function i(e,t){return!1}function a(e,t,n){return t}function o(){return(o=e((()=>{t(),[...n.keys()],[...n.keys()]})))()}export{a as i,r as n,i as r,o as t};
+//# sourceMappingURL=chatgpt-browser-compatibility-a22412506ccb.js.map

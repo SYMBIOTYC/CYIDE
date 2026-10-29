@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t;function n(){return(n=e((()=>{t={FIVE_SECONDS:5e3,FIFTEEN_SECONDS:15e3,THIRTY_SECONDS:3e4,ONE_MINUTE:6e4,FIVE_MINUTES:3e5,TEN_MINUTES:6e5,ONE_HOUR:36e5,SIX_HOURS:216e5,INFINITE:1/0}})))()}export{n,t};
+//# sourceMappingURL=query-stale-times-4ac7dce757af.js.map

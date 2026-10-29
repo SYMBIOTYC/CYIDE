@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Fp as t,Mp as n,c as r}from"./app-initial-13f932cb2f13.js";import{n as i,t as a}from"./skill-path-utils-f646a75bed0c.js";function o(e,r,i=null){let o=a(e.path)?.pluginMarketplaceName??null;return r==null||o==null||!t(o)||o===n(r)}function s(){return(s=e((()=>{r(),i()})))()}export{o as n,s as t};
+//# sourceMappingURL=skill-autocomplete-visibility-123dcbf46ac4.js.map

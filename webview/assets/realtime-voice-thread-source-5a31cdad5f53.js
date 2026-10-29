@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{c as t}from"./app-initial-13f932cb2f13.js";function n(e,t){return e===`realtime_voice`||t===`New voice chat`||t===`New Realtime Voice Chat`}var r;function i(){return(i=e((()=>{t(),r=`realtime_voice`})))()}export{i as n,n as r,r as t};
+//# sourceMappingURL=realtime-voice-thread-source-5a31cdad5f53.js.map

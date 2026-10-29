@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(){return`3594220468`}function n(){return r()}function r(){return!1}function i(){return(i=e((()=>{})))()}export{r as i,n,i as r,t};
+//# sourceMappingURL=mcp-app-render-policy-891c03cfd94a.js.map

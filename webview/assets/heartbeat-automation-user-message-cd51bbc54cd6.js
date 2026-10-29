@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Ax as t}from"./app-initial-13f932cb2f13.js";function n(e){if(e?.automationKind===`heartbeat`||e?.params.turnTrigger?.startsWith(`automation_heartbeat_`)===!0)return!0;if(e?.permissionParamsSource!==`inferred`)return!1;let n=e.items.find(e=>e?.type===`userMessage`);return e.params.clientUserMessageId==null&&n!=null&&n.clientId==null&&t(n.content)?.automationId!=null}function r(){return(r=e((()=>{})))()}export{n,r as t};
+//# sourceMappingURL=heartbeat-automation-user-message-cd51bbc54cd6.js.map

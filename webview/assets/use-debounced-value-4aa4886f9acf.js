@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{rS as t}from"./app-initial-13f932cb2f13.js";import{t as n}from"./compiler-runtime-2015039f3c68.js";function r(e,t){let n=(0,i.c)(4),[r,o]=(0,a.useState)(e),s,c;return n[0]!==t||n[1]!==e?(s=()=>{let n=window.setTimeout(()=>o(e),t);return()=>window.clearTimeout(n)},c=[e,t],n[0]=t,n[1]=e,n[2]=s,n[3]=c):(s=n[2],c=n[3]),(0,a.useEffect)(s,c),r}var i,a;function o(){return(o=e((()=>{i=n(),a=t()})))()}export{r as n,o as t};
+//# sourceMappingURL=use-debounced-value-4aa4886f9acf.js.map

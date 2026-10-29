@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-sandwich-2bee717683cc3445.js";e();export{t as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(){return!0}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=use-is-background-subagents-enabled-939d6f96af92.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./shirt-CNGyKEGQ-eb72fcd5ebf2.js";e();export{t as default};

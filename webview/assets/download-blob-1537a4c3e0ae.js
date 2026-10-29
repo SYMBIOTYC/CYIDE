@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e,t){let n=URL.createObjectURL(e),r=document.createElement(`a`);r.href=n,r.download=t,r.style.display=`none`,document.body.append(r),r.click(),r.remove(),window.setTimeout(()=>URL.revokeObjectURL(n),0)}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=download-blob-1537a4c3e0ae.js.map

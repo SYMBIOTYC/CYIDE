@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./invalidate-queries-and-broadcast-a651e5b17ed8.js";import{r,t as i}from"./recommended-skills-query-b02e58e73ce1.js";async function a(e){await Promise.all([[`skills`],i,[`artifact-template-skill-manifests`],[`artifact-template-skill-creation-times`]].map(n=>t(e,n)))}function o(){return(o=e((()=>{n(),r()})))()}export{a as n,o as t};
+//# sourceMappingURL=invalidate-skill-queries-4329582d8e1e.js.map

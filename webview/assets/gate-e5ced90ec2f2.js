@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{ym as t}from"./app-initial-13f932cb2f13.js";import{t as n}from"./compiler-runtime-2015039f3c68.js";function r(e){let t=(0,i.c)(2),{children:n}=e,r;return t[0]===n?r=t[1]:(r=(0,a.jsx)(a.Fragment,{children:n}),t[0]=n,t[1]=r),r}var i,a;function o(){return(o=e((()=>{i=n(),a=t()})))()}o();export{r as WorkspaceRecoveryGate};
+//# sourceMappingURL=gate-e5ced90ec2f2.js.map

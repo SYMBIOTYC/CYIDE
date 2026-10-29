@@ -1,0 +1,1 @@
+import{n as e,t}from"./table-properties-D68AOvC9-b921631e17bf.js";t();export{e as default};

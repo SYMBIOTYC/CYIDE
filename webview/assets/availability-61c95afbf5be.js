@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{k as t,n,r,t as i}from"./app-scope-2dce3358324c.js";import{n as a,r as o}from"./statsig-gate-signal-4df082acfadb.js";import{r as s,t as c}from"./statsig-layer-signal-25fdc1262656.js";function l(e){return!1}function u(){return(u=e((()=>{r(),n(),a(),c(),t(i,({get:e})=>e(o,`1950211113`)||e(s,{layer:`2232827372`,parameter:`enable_presentation_creation`}))})))()}export{l as n,u as t};
+//# sourceMappingURL=availability-61c95afbf5be.js.map

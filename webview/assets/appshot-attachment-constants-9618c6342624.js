@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){return(e??140)+8}function n({transitionSpringDampingFraction:e,transitionSpringResponse:t}){return{type:`spring`,visualDuration:t==null||t<=0?.35:t,bounce:Math.max(0,Math.min(1,1-(e??.73))),delay:.15}}function r(){return(r=e((()=>{})))()}export{n,r,t};
+//# sourceMappingURL=appshot-attachment-constants-9618c6342624.js.map

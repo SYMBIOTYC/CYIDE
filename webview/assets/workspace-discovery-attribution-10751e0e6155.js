@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{dh as t,gv as n,nv as r,o_ as i}from"./app-initial-13f932cb2f13.js";function a(e){let t=o.safeParse({beaconId:e.beacon_id,copyVariant:e.custom_fields?.workspace_discovery_copy_variant});return t.success?t.data:void 0}var o;function s(){return(s=e((()=>{t(),o=n({beaconId:r(`workspace_discovery_home_banner`),copyVariant:i([`company_pays`,`bring_your_work`]).optional().catch(void 0)})})))()}export{s as n,a as t};
+//# sourceMappingURL=workspace-discovery-attribution-10751e0e6155.js.map

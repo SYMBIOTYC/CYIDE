@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e,t=`claim`){return!!e?.ownership_state_enabled&&(e.ownership?.available_action===t||e.ownership?.available_action===`view_request`&&e.ownership.current_request?.kind===t)&&!e.profiles.some(e=>e.allowed_actions.includes(`manage`))&&(t===`claim`||e.is_verified===!0)}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=claim-action-c583a4ef2b78.js.map

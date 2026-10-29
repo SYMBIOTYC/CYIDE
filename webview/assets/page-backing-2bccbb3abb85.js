@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){return e?.drive_scope!=null||e?.drive_space_id!=null}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=page-backing-2bccbb3abb85.js.map

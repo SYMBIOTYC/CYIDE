@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{r as t}from"./locale-4988703545e9.js";function n(e){return e===`/`||!1}function r(){return(r=e((()=>{t()})))()}export{n,r as t};
+//# sourceMappingURL=home-route-e9a44d7a54ca.js.map

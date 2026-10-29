@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t}from"./format-currency-1b2c57cd020f.js";function n(e,n,r){let i=r.toUpperCase(),a=t({intl:e,currencyCode:i});return e.formatNumber(n/10**a,{style:`currency`,currency:i})}function r(){return(r=e((()=>{})))()}export{r as n,n as t};
+//# sourceMappingURL=format-amount-74c908ee039d.js.map

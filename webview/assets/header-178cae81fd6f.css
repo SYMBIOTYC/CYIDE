@@ -1,0 +1,1 @@
+@layer components{._header_cpwja_2:not(:where([data-codex-window-type=browser] *))>:is([data-sidebar-header-search],:has([data-sidebar-header-search])){margin-bottom:calc(var(--spacing) * 2)}}

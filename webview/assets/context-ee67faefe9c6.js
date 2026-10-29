@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){switch(e?.toLowerCase()){case`personal`:return{programId:`codex_referral_consumer`,entrypoint:`persistent`};case`workspace`:return{programId:`codex_referral_workspace`,entrypoint:`persistent`};case void 0:case null:return null;default:return null}}function n({grants:e,remainingRewardCapacity:t,remainingSendCapacity:n}){return Math.min(5,n??0,...e.length>0?[t??0]:[])}function r(){return(r=e((()=>{})))()}export{t as n,r,n as t};
+//# sourceMappingURL=context-ee67faefe9c6.js.map

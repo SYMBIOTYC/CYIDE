@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{k as t,n,r,t as i}from"./app-scope-2dce3358324c.js";import{n as a,t as o}from"./registry-30374645eb4c.js";var s;function c(){return(c=e((()=>{r(),a(),n(),s=t(i,({get:e})=>e(o,{name:`work.cloud-orchestration`}).isCapable)})))()}export{c as n,s as t};
+//# sourceMappingURL=cloud-orchestration-ef9842d13ab2.js.map

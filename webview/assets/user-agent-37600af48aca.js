@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(){return typeof navigator>`u`?``:navigator.userAgent}function n(){return/iPad|iPhone|iPod/.test(t())}function r(){return t().includes(`Mac OS X`)}function i(){return typeof window>`u`?!1:n()||/Android/.test(t())||window.matchMedia?.(`(pointer: coarse)`).matches===!0}function a(){return(a=e((()=>{})))()}export{r as i,n,i as r,a as t};
+//# sourceMappingURL=user-agent-37600af48aca.js.map

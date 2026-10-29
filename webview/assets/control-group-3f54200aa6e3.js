@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{ym as t}from"./app-initial-13f932cb2f13.js";import{t as n}from"./compiler-runtime-2015039f3c68.js";import{n as r,t as i}from"./clsx-4831e7669c42.js";function a(e){let t=(0,o.c)(5),{children:n,className:r}=e,a;t[0]===r?a=t[1]:(a=i(`flex items-center gap-2`,r),t[0]=r,t[1]=a);let c;return t[2]!==n||t[3]!==a?(c=(0,s.jsx)(`div`,{className:a,children:n}),t[2]=n,t[3]=a,t[4]=c):c=t[4],c}var o,s;function c(){return(c=e((()=>{o=n(),r(),s=t()})))()}export{c as n,a as t};
+//# sourceMappingURL=control-group-3f54200aa6e3.js.map

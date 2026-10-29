@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t({containerWidth:e,maxWidth:t,minWidth:r,visibleInset:i=0}){let a=Math.min(r,e),o=Math.min(t??e,Math.max(0,e-i)),s=Math.min(e*n,o);return Math.min(e,Math.max(a,s))}var n;function r(){return(r=e((()=>{n=.9})))()}export{r as n,t};
+//# sourceMappingURL=split-view-layout-52b8d9d38b67.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./git-query-signal-115863b0f613.js";var r,i,a;function o(){return(o=e((()=>{t(),r=n({method:`config-value`,getParams:e=>({key:e.key,operationSource:e.operationSource,root:e.root,scope:e.scope}),getOptions:e=>({select:e=>e.value,...e.staleTime==null?{}:{staleTime:e.staleTime}})}),i=r.fromTarget$,a=r.queryByMetadata$})))()}export{i as n,o as r,a as t};
+//# sourceMappingURL=git-config-value-query-f13b6db19cb5.js.map

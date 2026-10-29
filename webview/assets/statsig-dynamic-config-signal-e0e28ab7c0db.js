@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{E as t,n,r,t as i}from"./app-scope-2dce3358324c.js";import{a,n as o}from"./statsig-gate-signal-4df082acfadb.js";var s;function c(){return(c=e((()=>{r(),n(),o(),s=t(i,(e,{get:t})=>t(a)?.getDynamicConfig(e)??null,(e,{get:t,set:n})=>{let r=t(a);if(r==null)return;let i=()=>{n(r.getDynamicConfig(e))};return r.on(`values_updated`,i),()=>{r.off(`values_updated`,i)}})})))()}export{s as n,c as t};
+//# sourceMappingURL=statsig-dynamic-config-signal-e0e28ab7c0db.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Bv as t,Iv as n,Ov as r,dh as i,gv as a,p_ as o}from"./app-initial-13f932cb2f13.js";var s,c;function l(){return(l=e((()=>{i(),s=`openai/deepLink`,c=a({url:r()}),t([c,a({path:o(r()),query:o(n([r(),r()]))}).transform(({path:e,query:t})=>{let n=new URLSearchParams(t).toString();return{url:`/${e.map(encodeURIComponent).join(`/`)}${n?`?${n}`:``}`}})])})))()}export{c as n,l as r,s as t};
+//# sourceMappingURL=deep-link-efb6a71d06e1.js.map

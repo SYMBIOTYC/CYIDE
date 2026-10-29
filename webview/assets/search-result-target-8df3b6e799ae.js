@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e,t){return r.set(e,t),e.setAttribute(i,``),()=>{r.delete(e),e.removeAttribute(i)}}function n(e){return[e,...e.querySelectorAll(`[${i}]`)].flatMap(e=>{let t=r.get(e);return t==null?[]:[{element:e,target:t}]})}var r,i;function a(){return(a=e((()=>{r=new WeakMap,i=`data-search-result-target`})))()}export{a as n,t as r,n as t};
+//# sourceMappingURL=search-result-target-8df3b6e799ae.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Qc as t,Ys as n,xc as r}from"./icons-7cdacefd7acc.js";import{n as i,t as a}from"./native-artifact-icons-e3e23d447d3a.js";var o;function s(){return(s=e((()=>{t(),a(),o={canvas:n,document:r,file:r,presentation:i.presentation[16],spreadsheet:i.spreadsheet[16]}})))()}export{o as n,s as t};
+//# sourceMappingURL=icons-2c4378255769.js.map

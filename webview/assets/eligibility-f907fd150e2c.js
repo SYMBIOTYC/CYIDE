@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{N as t,n,r,t as i}from"./app-scope-2dce3358324c.js";import{a,n as o}from"./statsig-gate-signal-4df082acfadb.js";var s;function c(){return(c=e((()=>{r(),n(),o(),s=t(i,()=>!1,({get:e,set:t})=>{let n=e(a),r=()=>{t(n?.getExperiment(`3333071866`,{disableExposureLog:!1}).get(`enabled`,!1)===!0)};return r(),n?.on(`values_updated`,r),()=>{n?.off(`values_updated`,r)}})})))()}export{s as n,c as t};
+//# sourceMappingURL=eligibility-f907fd150e2c.js.map

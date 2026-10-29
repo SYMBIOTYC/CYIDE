@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-mouse-pointer-BwInUBE8-8dd3ab69acc3.js";t();export{e as default};

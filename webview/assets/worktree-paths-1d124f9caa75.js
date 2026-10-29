@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{lu as t}from"./app-server-manager-signals-36cb05284065.js";import{p as n,u as r}from"./path-9d75f818f99e.js";function i(e){if(!e)return null;let t=n(e).replace(/\/+$/,``),r=t.indexOf(`/.git/worktrees/`);return r===-1?t.endsWith(`/.git`)?t.slice(0,-5):null:t.slice(0,r)}function a(){return(a=e((()=>{r(),t()})))()}export{i as n,a as t};
+//# sourceMappingURL=worktree-paths-1d124f9caa75.js.map

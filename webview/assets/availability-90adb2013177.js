@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{k as t,n,r,t as i}from"./app-scope-2dce3358324c.js";import{b as a,f as o}from"./codex-feature-access-37e786565697.js";import{c as s,t as c}from"./route-scope-38f8c9923d9d.js";import{i as l,r as u}from"./route-f90bb995a74b.js";var d,f;function p(){return(p=e((()=>{r(),o(),n(),s(),u(),d=t(i,({get:e})=>e(l)&&e(a)),f=t(c,({get:e,scope:t})=>t.value.persistentWorkspace?.key===`/space`&&e(d))})))()}export{f as n,d as r,p as t};
+//# sourceMappingURL=availability-90adb2013177.js.map

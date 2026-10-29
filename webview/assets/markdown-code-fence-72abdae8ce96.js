@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e,t){let n=t.match(/^ {0,3}(`{3,}|~{3,})(.*)$/);if(n==null)return e;let[,r=``,i=``]=n,a=r.startsWith("`")?"`":`~`;return e==null?a==="`"&&i.includes("`")?null:{marker:a,markerLength:r.length}:a===e.marker&&r.length>=e.markerLength&&i.trim().length===0?null:e}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=markdown-code-fence-72abdae8ce96.js.map

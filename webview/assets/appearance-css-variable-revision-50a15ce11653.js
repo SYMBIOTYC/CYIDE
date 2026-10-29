@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{F as t,n,r,t as i}from"./app-scope-2dce3358324c.js";function a(e){e.set(o,Symbol())}var o,s;function c(){return(c=e((()=>{r(),n(),o=t(i,Symbol()),s=t(i,()=>null)})))()}export{a as i,s as n,c as r,o as t};
+//# sourceMappingURL=appearance-css-variable-revision-50a15ce11653.js.map

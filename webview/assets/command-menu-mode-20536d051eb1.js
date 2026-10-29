@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{F as t,n,r,t as i}from"./app-scope-2dce3358324c.js";var a,o,s;function c(){return(c=e((()=>{r(),n(),a=[`root`,`actions`,`chats`,`space`,`files`,`text`],o=`command-menu-first-chat-item`,s=t(i,`root`)})))()}export{c as i,a as n,s as r,o as t};
+//# sourceMappingURL=command-menu-mode-20536d051eb1.js.map

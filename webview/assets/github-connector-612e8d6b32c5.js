@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n,r;function i(){return(i=e((()=>{t=`connector_76869538009648d5b282a4bb21c3d157`,n=`templated_apps_GitHubEnterprise`,r=`https://github.com/apps/chatgpt-codex-connector/installations/select_target`})))()}export{i,r as n,t as r,n as t};
+//# sourceMappingURL=github-connector-612e8d6b32c5.js.map

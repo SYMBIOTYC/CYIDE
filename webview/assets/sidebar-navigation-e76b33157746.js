@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t}from"./message-bus-4113ba7287d7.js";import{n}from"./statsig-gate-signal-4df082acfadb.js";import{r,t as i}from"./is-command-shortcut-modifier-pressed-e9e4d409263d.js";import{i as a}from"./external-link-open-98237ae373ed.js";function o(e,t,n){return r(t),!1}function s(){return(s=e((()=>{a(),i(),t(),n()})))()}export{o as n,s as t};
+//# sourceMappingURL=sidebar-navigation-e76b33157746.js.map

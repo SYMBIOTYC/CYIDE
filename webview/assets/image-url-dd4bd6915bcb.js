@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{i as t,n}from"./chatgpt-request-844fd00c23f4.js";function r(e){if(e==null||e.trim().length===0)return null;try{return new URL(n(e)??e,window.location.href).href}catch{return null}}function i(){return(i=e((()=>{t()})))()}export{i as n,r as t};
+//# sourceMappingURL=image-url-dd4bd6915bcb.js.map

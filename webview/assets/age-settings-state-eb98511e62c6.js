@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{k as t,n,r,t as i}from"./app-scope-2dce3358324c.js";import{i as a,n as o,r as s,t as c}from"./chatgpt-age-status-query-bc6faf995604.js";var l;function u(){return(u=e((()=>{r(),a(),n(),l=t(i,({get:e})=>e(c)&&s(e(o).data)?.ageGroup!==`adult`)})))()}export{u as n,l as t};
+//# sourceMappingURL=age-settings-state-eb98511e62c6.js.map

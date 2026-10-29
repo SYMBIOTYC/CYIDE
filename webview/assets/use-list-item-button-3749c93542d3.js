@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t({onSelect:e,isDisabled:t=!1}){let n=t||e==null;return{role:`button`,tabIndex:n?-1:0,"aria-disabled":n,onClick:t=>{n||t.defaultPrevented||t.target instanceof Node&&t.currentTarget.contains(t.target)&&e?.(t)},onKeyDown:t=>{n||t.defaultPrevented||t.currentTarget===t.target&&(t.key===`Enter`||t.key===` `)&&(t.preventDefault(),e?.(t))}}}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=use-list-item-button-3749c93542d3.js.map

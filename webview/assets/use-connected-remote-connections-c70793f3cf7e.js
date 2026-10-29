@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{t}from"./compiler-runtime-2015039f3c68.js";import{n,t as r}from"./use-remote-connection-states-53781d0efff5.js";function i(e){let t=(0,a.c)(5),r=n(e);if(e==null||r==null)return;let i;if(t[0]!==r||t[1]!==e){let n;t[3]===r?n=t[4]:(n=e=>r[e.hostId]===`connected`,t[3]=r,t[4]=n),i=e.filter(n),t[0]=r,t[1]=e,t[2]=i}else i=t[2];return i}var a;function o(){return(o=e((()=>{a=t(),r()})))()}export{i as n,o as t};
+//# sourceMappingURL=use-connected-remote-connections-c70793f3cf7e.js.map

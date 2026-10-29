@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){return a.add(e),()=>a.delete(e)}function n(){return o}function r(){o=Array.from(i);for(let e of a)e()}var i,a,o,s;function c(){return(c=e((()=>{i=new Set,a=new Set,o=[],s=e=>{if(e!=null)return i.add(e),r(),()=>{i.delete(e),r()}}})))()}export{t as i,c as n,s as r,n as t};
+//# sourceMappingURL=library-onboarding-anchor-d7d9bb6f29c5.js.map

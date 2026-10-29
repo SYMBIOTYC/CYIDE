@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){if(e.borderBoxSize){let t=Array.isArray(e.borderBoxSize)?e.borderBoxSize[0]:e.borderBoxSize;return{width:t.inlineSize,height:t.blockSize}}return{width:e.contentRect.width,height:e.contentRect.height}}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=get-resize-observer-entry-size-6c50ec642bad.js.map

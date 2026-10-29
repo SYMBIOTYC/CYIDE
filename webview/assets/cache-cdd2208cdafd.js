@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{k as t,n,r,t as i}from"./app-scope-2dce3358324c.js";import{a,f as o}from"./codex-feature-access-37e786565697.js";import{i as s}from"./browser-apps-account-686dee119787.js";function c(e,t){let n=e.get(l);n!=null&&e.queryClient.invalidateQueries({queryKey:[`chatgpt-task-suggestions`,n],predicate:({queryKey:e})=>e[3]===t,refetchType:`none`})}var l;function u(){return(u=e((()=>{r(),s(),o(),n(),l=t(i,({get:e})=>e(a).accountId)})))()}export{c as n,l as r,u as t};
+//# sourceMappingURL=cache-cdd2208cdafd.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{n as t,t as n}from"./admission.browser-29ff9e4a3101.js";var r;function i(){return(i=e((()=>{t(),r=`google-drive-copy-tip-seen-v1`,n(r)})))()}var a;function o(){return(o=e((()=>{a=`dictation-typing-tip-seen-v1`})))()}var s;function c(){return(c=e((()=>{s=`google-drive-paste-tip-seen-v1`})))()}var l;function u(){return(u=e((()=>{l=`email-paste-tip-seen-v1`})))()}export{a,i as c,c as i,u as n,o,s as r,r as s,l as t};
+//# sourceMappingURL=gmail-state-ae1b43ee01e5.js.map

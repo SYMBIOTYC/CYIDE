@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){let t=14695981039346656037n;for(let n of e)t^=BigInt(n.codePointAt(0)??0),t=BigInt.asUintN(64,t*1099511628211n);return t.toString(16).padStart(16,`0`).slice(0,16)}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=hash-code-11984da2ca2a.js.map

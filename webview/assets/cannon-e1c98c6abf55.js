@@ -1,0 +1,1 @@
+import{n as e,t}from"./cannon-972c88b689f3.js";e();export{t as fireConfettiCannon};

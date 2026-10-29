@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t;function n(){return(n=e((()=>{t=/^(?:[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}|00000000-0000-0000-0000-000000000000|ffffffff-ffff-ffff-ffff-ffffffffffff)$/i})))()}function r(e){return typeof e==`string`&&t.test(e)}function i(){return(i=e((()=>{n()})))()}export{r as n,i as t};
+//# sourceMappingURL=validate-d5a50ef1cec6.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./restore-catalog-page-cc5c3453c24b.js";t();export{e as restoreCatalogPage};

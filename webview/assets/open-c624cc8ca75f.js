@@ -1,0 +1,1 @@
+import{n as e,t}from"./open-b5166983a73c.js";e();export{t as createAndOpenPage};

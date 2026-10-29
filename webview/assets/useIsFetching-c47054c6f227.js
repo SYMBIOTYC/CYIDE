@@ -1,0 +1,2 @@
+import{n as e,o as t}from"./rolldown-runtime-2d059c5e81f4.js";import{rS as n}from"./app-initial-13f932cb2f13.js";import{d as r,u as i}from"./queryObserver-2a8300a2852f.js";import{i as a,r as o}from"./QueryClientProvider-bedff5d12f49.js";function s(e,t){let n=a(t),i=n.getQueryCache();return c.useSyncExternalStore(c.useCallback(e=>i.subscribe(r.batchCalls(e)),[i]),()=>n.isFetching(e),()=>n.isFetching(e))}var c;function l(){return(l=e((()=>{c=t(n(),1),i(),o()})))()}export{s as n,l as t};
+//# sourceMappingURL=useIsFetching-c47054c6f227.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{ym as t}from"./app-initial-13f932cb2f13.js";function n(e,{header:t,headerPlacement:n,content:i}){return e({headerRows:[{id:`artifact-header`,height:`content`,placement:n,content:t}],content:(0,r.jsx)(`div`,{className:`isolate flex h-full min-h-0 min-w-0 flex-col`,children:i})})}var r;function i(){return(i=e((()=>{r=t()})))()}export{n,i as t};
+//# sourceMappingURL=pane-layout-36b2403ea3bc.js.map

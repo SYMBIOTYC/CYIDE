@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";var t,n,r,i,a;function o(){return(o=e((()=>{t=`_compactMessageBubble_1hoj5_1`,n=`_compactContentWidth_1hoj5_2`,r=`_compactMessageBubbleWithAttachment_1hoj5_32`,i=`_compactMessageBody_1hoj5_37`,a={compactMessageBubble:t,compactContentWidth:n,compactMessageBubbleWithAttachment:r,compactMessageBody:i}})))()}export{o as n,a as t};
+//# sourceMappingURL=content.module-776581282424.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-test-tube-diagonal-942827bdd15f112e.js";e();export{t as default};

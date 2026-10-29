@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{i as t,t as n}from"./request-c956dcf11877.js";async function r(e){return(await n.safePost(`/ecosystem/url_safe`,{requestBody:{resolved_pineapple_uri:null,url:e}})).safe===!0}function i(){return(i=e((()=>{t()})))()}export{r as n,i as t};
+//# sourceMappingURL=url-safety-347f4f58d1e8.js.map

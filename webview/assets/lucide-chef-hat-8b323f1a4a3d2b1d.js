@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-chef-hat-3cf0a7358e60427d.js";e();export{t as default};

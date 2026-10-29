@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t(e){return{lockedLayout:e?.isCompact?`single-line`:void 0}}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=floating-composer-appearance-5305ce47637f.js.map

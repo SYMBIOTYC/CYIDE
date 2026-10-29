@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{Ov as t,dh as n,gv as r,hv as i}from"./app-initial-13f932cb2f13.js";var a,o;function s(){return(s=e((()=>{n(),a=`Could not access this environment's GitHub repository. Make sure it still exists and your connected GitHub account has access, then try again.`,o=`environment configuration is too large; reduce domains, scripts, or other settings`,r({error:r({code:i().int(),message:t()})})})))()}export{a as n,s as r,o as t};
+//# sourceMappingURL=environment-config-error-59c54b2a28e7.js.map

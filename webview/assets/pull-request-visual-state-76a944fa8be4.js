@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";function t({hasOpenPr:e,isDraft:t,state:n,url:r}){return n===`merged`?`merged`:n===`closed`?r==null?null:`closed`:e?t?`draft`:`open`:null}function n({canMerge:e,ciStatus:t,hasMergeConflicts:n=!1,status:r}){return r===`closed`||r===`merged`?r:r===`draft`?`draft`:n||t===`failing`?`failing`:t===`passing`&&!e?`successful`:e?`ready`:`in_progress`}function r(){return(r=e((()=>{})))()}export{n,r,t};
+//# sourceMappingURL=pull-request-visual-state-76a944fa8be4.js.map

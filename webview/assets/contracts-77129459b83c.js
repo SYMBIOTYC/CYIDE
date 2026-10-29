@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{o as t,s as n}from"./lib-72ce426c00b2.js";var r;function i(){return(i=e((()=>{n(),r=t({submissionFailed:{id:`browserSkills.submissionFailed`,defaultMessage:`Selected skills couldn't be checked. Please try again.`,description:`The message was not sent because selected skills could not be loaded`}})})))()}export{i as n,r as t};
+//# sourceMappingURL=contracts-77129459b83c.js.map

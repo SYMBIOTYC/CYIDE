@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{rS as t}from"./app-initial-13f932cb2f13.js";function n(){return(0,i.useContext)(a)}function r(e,t){return e/t}var i,a;function o(){return(o=e((()=>{i=t(),a=(0,i.createContext)(1)})))()}export{n as i,o as n,r,a as t};
+//# sourceMappingURL=window-zoom-context-38b67eb654cf.js.map

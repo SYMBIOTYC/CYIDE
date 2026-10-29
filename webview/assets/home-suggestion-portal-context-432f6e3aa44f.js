@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-2d059c5e81f4.js";import{rS as t}from"./app-initial-13f932cb2f13.js";var n,r;function i(){return(i=e((()=>{n=t(),r=(0,n.createContext)(null)})))()}export{i as n,r as t};
+//# sourceMappingURL=home-suggestion-portal-context-432f6e3aa44f.js.map

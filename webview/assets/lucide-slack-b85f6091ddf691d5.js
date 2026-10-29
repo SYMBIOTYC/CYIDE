@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-slack-c3da08f0e7e004f6.js";e();export{t as default};
