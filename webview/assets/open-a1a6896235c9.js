@@ -1,0 +1,1 @@
+import{cI as e,lI as t}from"./app-initial-25ee126179db.js";t();export{e as createAndOpenPage};

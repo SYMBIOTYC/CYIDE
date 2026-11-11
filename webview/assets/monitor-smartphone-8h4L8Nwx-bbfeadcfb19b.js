@@ -1,0 +1,1 @@
+import{n as e,t}from"./monitor-smartphone-8h4L8Nwx-bbb025694e32.js";e();export{t as default};

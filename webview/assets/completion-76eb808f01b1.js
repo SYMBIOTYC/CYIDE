@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{AI as t,iL as n}from"./app-initial-48d97b67aa1f.js";import{Hxn as r,Uxn as i,lTn as a,uTn as o}from"./app-initial-25ee126179db.js";var s;function c(){return(c=e((()=>{t(),o(),r(),s=n(a,({accountId:e,userId:t})=>i(`workspace-joiner-setup-completed:${JSON.stringify([e,t])}`,!1))})))()}export{c as n,s as t};
+//# sourceMappingURL=completion-76eb808f01b1.js.map

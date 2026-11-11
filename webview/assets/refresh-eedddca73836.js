@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Yet as t,_Ct as n,vCt as r,wQ as i,zSt as a}from"./app-initial-bf355fcf8471.js";import{n as o,t as s}from"./data-ffbe7289a0e0.js";async function c(e,i,a){let s=e=>JSON.stringify([e.get(n),e.get(r)])===a;await e.when(e=>!s(e)||!e.get(t,i)),s(e)&&await e.query.invalidate(o)}function l(){return(l=e((()=>{a(),i(),s()})))()}export{c as n,l as t};
+//# sourceMappingURL=refresh-eedddca73836.js.map

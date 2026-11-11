@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{yit as t}from"./app-initial-48d97b67aa1f.js";function n(e,t,n){return e===t||n?.sharedConversationId!=null&&n.sharedConversationId===t&&n.conversationId===e}var r,i;function a(){return(a=e((()=>{r=t(),i=(0,r.createContext)(null)})))()}export{a as n,n as r,i as t};
+//# sourceMappingURL=chatgpt-conversation-composer-context-efcd86e632d7.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./rocking-chair-S3J8NPZS-5bc7d55165bf.js";t();export{e as default};

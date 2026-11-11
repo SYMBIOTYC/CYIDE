@@ -1,0 +1,1 @@
+import"./app-initial-48d97b67aa1f.js";import{n as e,r as t,t as n}from"./composer-host-a4fcfd1e3bd7.js";t();export{n as SketchComposerHost,e as SketchDiscardDialog};

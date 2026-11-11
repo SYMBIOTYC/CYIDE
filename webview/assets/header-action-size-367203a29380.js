@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{AI as t,nL as n}from"./app-initial-48d97b67aa1f.js";import{O_t as r,f_t as i,h_t as a}from"./app-initial-bf355fcf8471.js";import{Gmn as o,ehn as s,oJt as c,uJt as l,xJt as u,yJt as d}from"./app-initial-25ee126179db.js";var f;function p(){return(p=e((()=>{t(),a(),s(),d(),c(),f=n(o,({get:e})=>{let t=e(l);return e(i)&&e(u)&&(t===`full`||t===`split`&&e(r))?`iconMd`:`toolbar`})})))()}export{f as n,p as t};
+//# sourceMappingURL=header-action-size-367203a29380.js.map

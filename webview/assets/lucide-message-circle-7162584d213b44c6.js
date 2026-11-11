@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-747597830b159d4e.js";var r;function i(){return(i=e((()=>{t(),r=n(`MessageCircle`,[[`path`,{d:`M7.9 20A9 9 0 1 0 4 16.1L2 22Z`,key:`vv11sd`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-message-circle-7162584d213b44c6.js.map

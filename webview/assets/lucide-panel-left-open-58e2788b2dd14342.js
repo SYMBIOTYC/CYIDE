@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-747597830b159d4e.js";var r;function i(){return(i=e((()=>{t(),r=n(`PanelLeftOpen`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M9 3v18`,key:`fh3hqa`}],[`path`,{d:`m14 9 3 3-3 3`,key:`8010ee`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-panel-left-open-58e2788b2dd14342.js.map

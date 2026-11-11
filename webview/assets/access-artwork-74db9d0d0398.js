@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{O6 as t,vit as n}from"./app-initial-48d97b67aa1f.js";function r(){let e=(0,i.c)(1),t;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(t=(0,a.jsx)(`img`,{className:`h-auto w-full`,src:`https://persistent.oaistatic.com/notification-campaign-studio/dots-access/dots-access-259123912161aa52.png`,width:1096,height:585,alt:``}),e[0]=t):t=e[0],t}var i,a;function o(){return(o=e((()=>{i=n(),a=t()})))()}export{o as n,r as t};
+//# sourceMappingURL=access-artwork-74db9d0d0398.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-lamp-desk-4fdda780af6e0a67.js";e();export{t as default};

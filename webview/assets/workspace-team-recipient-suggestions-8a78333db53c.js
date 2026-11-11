@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{AI as t,QI as n}from"./app-initial-48d97b67aa1f.js";import{Wbn as r,cxn as i,lTn as a,sxn as o,uTn as s}from"./app-initial-25ee126179db.js";var c,l;function u(){return(u=e((()=>{t(),s(),r(),c=n(a,(e,{get:t})=>t(o,e)),l=n(a,(e,{get:t})=>{if(t(c,e)){let{data:n,isError:r,isLoading:a}=t(i,e);return{data:n?.filter(t=>t.workspace_id===e),isError:r,isLoading:a}}return null})})))()}export{l as n,c as r,u as t};
+//# sourceMappingURL=workspace-team-recipient-suggestions-8a78333db53c.js.map

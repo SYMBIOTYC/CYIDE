@@ -1,0 +1,1 @@
+import{n as e,t}from"./wallpaper-CGRHcOYT-81d3d43f9a73.js";e();export{t as default};

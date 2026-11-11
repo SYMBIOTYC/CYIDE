@@ -1,0 +1,1 @@
+import{n as e,t}from"./badge-swiss-franc-DZr9MOoo-8fd865626451.js";t();export{e as default};

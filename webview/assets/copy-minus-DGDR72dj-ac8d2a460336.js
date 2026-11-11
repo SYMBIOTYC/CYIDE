@@ -1,0 +1,1 @@
+import{n as e,t}from"./copy-minus-DGDR72dj-4f70832f3a05.js";t();export{e as default};

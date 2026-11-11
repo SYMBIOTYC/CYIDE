@@ -1,0 +1,1 @@
+import"./app-initial-48d97b67aa1f.js";import{n as e,r as t,t as n}from"./message-submission-861d26f34217.js";e();export{n as createMcpAppNewThreadSubmission,t as sendMcpAppMessage};

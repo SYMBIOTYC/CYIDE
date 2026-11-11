@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-mouse-pointer-ban-5c507a407b3d89cd.js";e();export{t as default};

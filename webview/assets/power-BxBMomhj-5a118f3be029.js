@@ -1,0 +1,1 @@
+import{n as e,t}from"./power-BxBMomhj-248030870822.js";e();export{t as default};

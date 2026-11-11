@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-rectangle-ellipsis-a7c61acf9083bbe5.js";e();export{t as default};

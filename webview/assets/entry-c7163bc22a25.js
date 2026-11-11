@@ -1,0 +1,1 @@
+import"./app-initial-48d97b67aa1f.js";import{n as e,t}from"./entry-b3b5837f1a86.js";e();export{t as PageMoveDestinationDialog};

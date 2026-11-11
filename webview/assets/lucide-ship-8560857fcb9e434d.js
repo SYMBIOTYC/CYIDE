@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-ship-4acc513f4b505aba.js";e();export{t as default};

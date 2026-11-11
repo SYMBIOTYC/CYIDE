@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{c_t as t,u_t as n}from"./app-initial-25ee126179db.js";import{BL as r,UR as i,VR as a,_L as o}from"./app-initial-5ab9006bca67.js";async function s(e,n,r){r.preventDefault();let a=new URL(o);a.searchParams.set(`account_id`,n);let s=t(e,a.href,n),c=s==null?null:await s;i({event:r,href:c??a.href,initiator:`open_in_browser_bridge`,openTarget:c==null?void 0:`external-browser`})}function c(){return(c=e((()=>{r(),a(),n()})))()}export{s as n,c as t};
+//# sourceMappingURL=workspace-billing-action-dc00313c33a4.js.map

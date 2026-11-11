@@ -1,0 +1,1 @@
+import{n as e,t}from"./cake-slice-DPqX1GKZ-dd50c6ebcb82.js";e();export{t as default};

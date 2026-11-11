@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-router-e2d10ecabc044941.js";e();export{t as default};

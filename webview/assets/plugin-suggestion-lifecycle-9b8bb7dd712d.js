@@ -1,0 +1,1 @@
+import"./app-initial-bf355fcf8471.js";import{o as e,t}from"./plugin-suggestion-lifecycle-8beef2440bff.js";t();export{e as recordPluginSuggestionInstallation};

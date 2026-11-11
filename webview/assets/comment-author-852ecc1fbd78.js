@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e){let t=e.trim().split(/\s+/).filter(Boolean);return t.length===0?`??`:t.slice(0,2).map(e=>e[0]??``).join(``).toUpperCase()}function n(e){return e.userId===`chatgpt`&&e.providerId===`openai`||e.displayName===`ChatGPT`}function r(){return(r=e((()=>{})))()}export{r as n,n as r,t};
+//# sourceMappingURL=comment-author-852ecc1fbd78.js.map

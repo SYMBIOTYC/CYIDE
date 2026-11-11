@@ -1,0 +1,1 @@
+import{n as e,t}from"./menu-BWap5RC3-37b4a8817487.js";t();export{e as default};

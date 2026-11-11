@@ -1,0 +1,1 @@
+import"./app-initial-48d97b67aa1f.js";import{n as e,t}from"./workspace-97e0e902b50b.js";e();export{t as LatexWorkspace};

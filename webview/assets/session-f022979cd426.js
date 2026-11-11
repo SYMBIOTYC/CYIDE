@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{FSt as t,_Ct as n,vCt as r,zSt as i}from"./app-initial-bf355fcf8471.js";import{cit as a,tit as o}from"./app-initial-25ee126179db.js";function s(e,i,o){return e.get(t).status===`allowed`&&e.get(n)===i&&e.get(r)===o&&e.get(a)}function c(){return(c=e((()=>{i(),o()})))()}export{s as n,c as t};
+//# sourceMappingURL=session-f022979cd426.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{AI as t,D6 as n,oL as r}from"./app-initial-48d97b67aa1f.js";import{lTn as i,uTn as a}from"./app-initial-25ee126179db.js";var o,s;function c(){return(c=e((()=>{t(),o=n(),a(),s=r(i,()=>!1,({set:e})=>{let t=()=>(0,o.flushSync)(()=>e(!0)),n=()=>e(!1);return window.addEventListener(`beforeprint`,t),window.addEventListener(`afterprint`,n),()=>{window.removeEventListener(`beforeprint`,t),window.removeEventListener(`afterprint`,n)}})})))()}export{s as n,c as t};
+//# sourceMappingURL=browser-print-state-a4b1b5d3526b.js.map

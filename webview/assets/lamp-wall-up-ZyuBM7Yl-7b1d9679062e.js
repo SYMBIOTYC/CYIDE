@@ -1,0 +1,1 @@
+import{n as e,t}from"./lamp-wall-up-ZyuBM7Yl-bdd749eb71f1.js";t();export{e as default};

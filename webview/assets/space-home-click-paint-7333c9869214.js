@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{AI as t,LI as n,O6 as r,vit as i}from"./app-initial-48d97b67aa1f.js";import{GP as a,WP as o,elt as s,tlt as c}from"./app-initial-25ee126179db.js";function l(e){let t=(0,u.c)(3),{milestone:r}=e,i=n(a),o;return t[0]!==i||t[1]!==r?(o=i==null?null:(0,d.jsx)(s,{requireVisibleAtPaint:!0,paintIdentity:i,onPaint:()=>i.paint(r)}),t[0]=i,t[1]=r,t[2]=o):o=t[2],o}var u,d;function f(){return(f=e((()=>{u=i(),t(),c(),o(),d=r()})))()}export{f as n,l as t};
+//# sourceMappingURL=space-home-click-paint-7333c9869214.js.map

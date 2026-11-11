@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Fwn as t,ICn as n,Pwn as r}from"./app-initial-25ee126179db.js";function i(){let e=r?.localAutomations;if(e==null)throw Error(`Automations are not available in this host.`);return e}var a;function o(){return(o=e((()=>{t(),a={create:e=>n(i().create(e)),update:e=>n(i().update(e)),delete:e=>n(i().delete(e))}})))()}export{a as n,o as t};
+//# sourceMappingURL=mutations-17f93049d4ca.js.map

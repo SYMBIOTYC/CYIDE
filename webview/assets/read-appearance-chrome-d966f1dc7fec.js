@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{_C as t,gC as n,kOt as r,mEt as i}from"./app-initial-bf355fcf8471.js";import{lCn as a,uCn as o}from"./app-initial-25ee126179db.js";async function s(e){let{chromeThemeSetting:n,codeThemeSetting:i}=r[e],a=await o(n),s=a==null?await o(i):void 0;return t(a,e,`extension`,s)}function c(){return(c=e((()=>{i(),n(),a()})))()}export{s as n,c as t};
+//# sourceMappingURL=read-appearance-chrome-d966f1dc7fec.js.map

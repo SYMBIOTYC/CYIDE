@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(){return`0.167.0-alpha.4.1`}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=model-catalog-client-version-16c590ae1bee.js.map

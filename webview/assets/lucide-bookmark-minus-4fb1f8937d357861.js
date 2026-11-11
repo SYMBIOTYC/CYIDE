@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-747597830b159d4e.js";var r;function i(){return(i=e((()=>{t(),r=n(`BookmarkMinus`,[[`path`,{d:`m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z`,key:`1fy3hk`}],[`line`,{x1:`15`,x2:`9`,y1:`10`,y2:`10`,key:`1gty7f`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-bookmark-minus-4fb1f8937d357861.js.map

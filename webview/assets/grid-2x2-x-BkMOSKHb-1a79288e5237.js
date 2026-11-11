@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-aad5794522c4.js";var r;function i(){return(i=e((()=>{t(),r=n(`Grid2x2X`,[[`path`,{d:`M12 3v17a1 1 0 0 1-1 1H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v6a1 1 0 0 1-1 1H3`,key:`11za1p`}],[`path`,{d:`m16 16 5 5`,key:`8tpb07`}],[`path`,{d:`m16 21 5-5`,key:`193jll`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=grid-2x2-x-BkMOSKHb-1a79288e5237.js.map

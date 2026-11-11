@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-car-taxi-front-52bbfb3dce674e0b.js";e();export{t as default};

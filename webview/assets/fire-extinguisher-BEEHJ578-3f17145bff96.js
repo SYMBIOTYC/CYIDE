@@ -1,0 +1,1 @@
+import{n as e,t}from"./fire-extinguisher-BEEHJ578-4b21375f3c5f.js";e();export{t as default};

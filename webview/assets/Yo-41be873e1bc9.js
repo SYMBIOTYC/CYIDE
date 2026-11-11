@@ -1,0 +1,1 @@
+import"./app-initial-48d97b67aa1f.js";import{n as e,r as t,t as n}from"./Yo-e201016033d2.js";t();export{n as YoIcon,e as YoIconSm};
