@@ -1,0 +1,1 @@
+import{n as e,t}from"./open-side-panel-67df03a96caf.js";t();export{e as openFlashcardsSidePanel};

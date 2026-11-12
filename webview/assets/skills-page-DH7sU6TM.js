@@ -1,1 +1,0 @@
-import{n as e,r as t,t as n}from"./skills-page-B7pB8byp.js";t();export{n as ManagePluginsPage,e as SkillsPage};

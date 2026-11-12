@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-alarm-smoke-b909d2c7bc7d5cf1.js";e();export{t as default};

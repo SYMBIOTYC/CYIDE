@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{AI as t,MI as n,vit as r,yit as i}from"./app-initial-48d97b67aa1f.js";import{lTn as a,uTn as o}from"./app-initial-25ee126179db.js";import{Eh as s,wh as c}from"./app-initial-5ab9006bca67.js";function l(){let e=(0,u.c)(3),t=n(a),r,i;return e[0]===t?(r=e[1],i=e[2]):(r=()=>s(t),i=[t],e[0]=t,e[1]=r,e[2]=i),(0,d.useEffect)(r,i),null}var u,d;function f(){return(f=e((()=>{u=r(),t(),d=i(),o(),c()})))()}f();export{l as FirstPartyPluginBackgroundBridge};
+//# sourceMappingURL=lifetime-5c37f27d6e4e.js.map

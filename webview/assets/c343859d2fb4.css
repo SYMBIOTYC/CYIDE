@@ -1,0 +1,1 @@
+@layer components{._stackZoomControl_1avwd_1{inline-size:calc(var(--spacing) * 20);flex-shrink:0;display:grid}._stackZoomControl_1avwd_1>*{grid-area:1/1}._stackZoomControl_1avwd_1>span>button,._stackZoomControl_1avwd_1>button{justify-content:center;inline-size:100%}._stackZoomControl_1avwd_1>span:not(:empty)+._loadingZoomControl_1avwd_16{visibility:hidden}}

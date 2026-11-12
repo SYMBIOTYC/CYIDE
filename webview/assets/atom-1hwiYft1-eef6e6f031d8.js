@@ -1,0 +1,1 @@
+import{n as e,t}from"./atom-1hwiYft1-c3c2d42fba7b.js";t();export{e as default};

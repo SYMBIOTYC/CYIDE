@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e,t){return{cancel:t,then:(t,n)=>e.then(t,n)}}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=CancelablePromise-bf092f23c42b.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-bus-front-4750e0975a7310e4.js";e();export{t as default};

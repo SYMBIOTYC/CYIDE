@@ -1,0 +1,1 @@
+import"./app-initial-48d97b67aa1f.js";import{i as e,t}from"./controller-65073ccd5817.js";e();export{t as CanonicalProfileClaim};

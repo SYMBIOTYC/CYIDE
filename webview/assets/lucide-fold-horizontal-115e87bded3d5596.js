@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-fold-horizontal-40fc35ffe3877806.js";e();export{t as default};

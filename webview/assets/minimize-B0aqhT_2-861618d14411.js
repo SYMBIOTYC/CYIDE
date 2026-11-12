@@ -1,0 +1,1 @@
+import{n as e,t}from"./minimize-B0aqhT_2-c96ffa822cb7.js";t();export{e as default};

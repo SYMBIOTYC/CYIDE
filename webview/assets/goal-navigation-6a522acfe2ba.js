@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Ebt as t,Tbt as n,_Tt as r,xTt as i}from"./app-initial-bf355fcf8471.js";import{n as a,t as o}from"./task-unread-942a6a3878c0.js";function s(e,n){let i=o(e);return!t(e)||!i?null:{to:r(i),state:{sidebarArea:`scheduled`,sidebarAutomationId:e.automation.id,sidebarAutomationSource:`cloud`,sidebarAutomationAccountId:n,openGoalPlan:!0,navigationSource:`scheduled_page`}}}function c(){return(c=e((()=>{i(),n(),a()})))()}export{c as n,s as t};
+//# sourceMappingURL=goal-navigation-6a522acfe2ba.js.map

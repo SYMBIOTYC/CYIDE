@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-aad5794522c4.js";var r;function i(){return(i=e((()=>{t(),r=n(`ArrowUpNarrowWide`,[[`path`,{d:`m3 8 4-4 4 4`,key:`11wl7u`}],[`path`,{d:`M7 4v16`,key:`1glfcx`}],[`path`,{d:`M11 12h4`,key:`q8tih4`}],[`path`,{d:`M11 16h7`,key:`uosisv`}],[`path`,{d:`M11 20h10`,key:`jvxblo`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=arrow-up-narrow-wide-CJ3ofI6Y-134ef5ad9262.js.map

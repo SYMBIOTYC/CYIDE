@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-747597830b159d4e.js";var r;function i(){return(i=e((()=>{t(),r=n(`Merge`,[[`path`,{d:`m8 6 4-4 4 4`,key:`ybng9g`}],[`path`,{d:`M12 2v10.3a4 4 0 0 1-1.172 2.872L4 22`,key:`1hyw0i`}],[`path`,{d:`m20 22-5-5`,key:`1m27yz`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-merge-c87988ccaf270b84.js.map

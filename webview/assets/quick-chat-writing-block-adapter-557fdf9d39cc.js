@@ -1,0 +1,1 @@
+import"./app-initial-48d97b67aa1f.js";import{n as e,r as t}from"./quick-chat-writing-block-adapter-e32824d72e1d.js";t();export{e as QuickChatWritingBlockDirectiveRenderer};

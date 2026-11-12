@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-sticky-note-6273455f39a70ab7.js";e();export{t as default};

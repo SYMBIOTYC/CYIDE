@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-scissors-C0W02Scx-aee82e71f585.js";t();export{e as default};

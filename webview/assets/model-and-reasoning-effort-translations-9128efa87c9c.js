@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{O6 as t,mI as n,vit as r,yI as i}from"./app-initial-48d97b67aa1f.js";import{$c as a,el as o}from"./app-initial-5ab9006bca67.js";function s(e){let t=(0,c.c)(2),{effort:n}=e,r=o[n],a;return t[0]===r?a=t[1]:(a=(0,l.jsx)(i,{...r}),t[0]=r,t[1]=a),a}var c,l;function u(){return(u=e((()=>{c=r(),n(),a(),l=t()})))()}export{u as n,s as t};
+//# sourceMappingURL=model-and-reasoning-effort-translations-9128efa87c9c.js.map

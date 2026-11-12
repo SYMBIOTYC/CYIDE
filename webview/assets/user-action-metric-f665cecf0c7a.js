@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e,t=`round`){if(e!=null&&Number.isFinite(e))return Math.max(0,Math.min(2147483647,Math[t](e)))}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=user-action-metric-f665cecf0c7a.js.map

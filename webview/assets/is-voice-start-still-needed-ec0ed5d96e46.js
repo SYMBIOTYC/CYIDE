@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{$Cn as t,B8t as n,JCn as r,P8t as i}from"./app-initial-25ee126179db.js";import{FD as a,ID as o}from"./app-initial-5ab9006bca67.js";function s(e,{sessionId:t,navigation:i,signal:a},s){let c=a?.aborted===!0,l=e.get(n)!==t,u=i!==void 0&&e.get(r)!==i;return c||l||u||!o(e,t)?!1:s?.()??!0}function c(){return(c=e((()=>{a(),t(),i()})))()}export{s as n,c as t};
+//# sourceMappingURL=is-voice-start-still-needed-ec0ed5d96e46.js.map

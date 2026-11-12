@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-plane-32c80f905ebf42b8.js";e();export{t as default};

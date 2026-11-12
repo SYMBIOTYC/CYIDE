@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-clock-2-a6b9b809b31e0f1e.js";e();export{t as default};

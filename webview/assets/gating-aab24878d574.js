@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e){return e.getLayer(`933354605`).get(`enable_customization_controls`,!1)}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=gating-aab24878d574.js.map

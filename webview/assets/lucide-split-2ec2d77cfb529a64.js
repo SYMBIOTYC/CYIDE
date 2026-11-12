@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-747597830b159d4e.js";var r;function i(){return(i=e((()=>{t(),r=n(`Split`,[[`path`,{d:`M16 3h5v5`,key:`1806ms`}],[`path`,{d:`M8 3H3v5`,key:`15dfkv`}],[`path`,{d:`M12 22v-8.3a4 4 0 0 0-1.172-2.872L3 3`,key:`1qrqzj`}],[`path`,{d:`m15 9 6-6`,key:`ko1vev`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-split-2ec2d77cfb529a64.js.map

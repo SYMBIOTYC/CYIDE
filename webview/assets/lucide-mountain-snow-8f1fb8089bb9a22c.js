@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-mountain-snow-46f9c0c2325eb9cb.js";e();export{t as default};

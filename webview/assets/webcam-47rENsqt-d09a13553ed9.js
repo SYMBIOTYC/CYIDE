@@ -1,0 +1,1 @@
+import{n as e,t}from"./webcam-47rENsqt-1979c1e98acf.js";t();export{e as default};

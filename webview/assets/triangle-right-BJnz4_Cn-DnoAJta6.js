@@ -1,1 +1,0 @@
-import{n as e,t}from"./triangle-right-BJnz4_Cn-Lvlt_GSJ.js";e();export{t as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e){try{let t=new URL(e);return t.protocol===`http:`||t.protocol===`https:`?t.href:null}catch{return null}}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=browser-bookmarks-976e3d5ae1de.js.map

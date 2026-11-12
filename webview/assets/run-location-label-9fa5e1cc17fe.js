@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{O6 as t,mI as n,vit as r,yI as i}from"./app-initial-48d97b67aa1f.js";function a(){let e=(0,o.c)(1),t;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(t=(0,s.jsx)(i,{id:`composer.chatSettings.runLocation`,defaultMessage:`Run location`,description:`Label for the execution location picker in chat settings`}),e[0]=t):t=e[0],t}var o,s;function c(){return(c=e((()=>{o=r(),n(),s=t()})))()}export{c as n,a as t};
+//# sourceMappingURL=run-location-label-9fa5e1cc17fe.js.map

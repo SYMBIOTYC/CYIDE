@@ -1,0 +1,1 @@
+import"./app-initial-48d97b67aa1f.js";import{n as e,t}from"./local-file-tab-2dc4669486b9.js";t();export{e as openSpacesLocalFileTab};

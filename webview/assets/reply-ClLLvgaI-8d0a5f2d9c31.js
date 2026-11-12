@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-aad5794522c4.js";var r;function i(){return(i=e((()=>{t(),r=n(`Reply`,[[`polyline`,{points:`9 17 4 12 9 7`,key:`hvgpf2`}],[`path`,{d:`M20 18v-2a4 4 0 0 0-4-4H4`,key:`5vmcpk`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=reply-ClLLvgaI-8d0a5f2d9c31.js.map

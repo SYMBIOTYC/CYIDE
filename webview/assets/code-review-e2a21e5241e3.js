@@ -1,0 +1,35 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{AI as t,KP as n,MI as r,mI as i,qP as a,vit as o,wI as s}from"./app-initial-48d97b67aa1f.js";import{$Tt as c,H_ as l,Hk as u,Lst as d,Uk as f,V_ as p,Wk as m,_Bt as h,cBt as g,ggt as _,ift as v,mEt as y,mIt as b,pIt as x,pft as S,tEt as C}from"./app-initial-bf355fcf8471.js";import{Xt as w,Yt as T,aTn as E,iTn as D,iyn as O,lTn as k,uTn as A}from"./app-initial-25ee126179db.js";import{a as j,n as M}from"./start-turn-ebe0c40ce7b6.js";var N;function P(){return(P=e((()=>{N=`# Review Guidelines
+
+You are acting as a reviewer for a proposed code change made by another engineer.
+
+Review the change and respond in normal Markdown. Do not return JSON, XML, a findings object, or any structured review schema.
+
+When feedback should be attached directly to a changed line, emit one \`::code-comment{...}\` directive for that issue. The directive creates an inline code comment in the review UI; keep the visible response as normal Markdown. Emit no directives when there are no actionable inline comments.
+
+Required \`code-comment\` attributes: \`title\`, \`body\`, and \`file\`. Optional attributes: \`start\`, \`end\`, and \`priority\`. Use the shortest useful line range. \`file\` should be an absolute path or include the workspace folder segment.
+
+Focus on discrete, actionable issues the original author would likely fix if they knew about them. Prefer no issues over speculative or low-signal feedback.
+
+General guidelines for whether to call out an issue:
+
+1. It meaningfully impacts correctness, performance, security, or maintainability.
+2. It is discrete and actionable.
+3. It was introduced by the change under review.
+4. The author would likely fix it once aware.
+5. It does not rely on unstated assumptions about intent.
+6. It identifies the affected behavior clearly rather than speculating broadly.
+
+## Repository Rule Attribution
+
+Use the root and scoped project instruction files applicable to changed files, respecting normal project-document precedence (\`AGENTS.override.md\`, \`AGENTS.md\`, then configured fallback filenames) and selecting at most one file per directory. Guidance may use headings, checklists, bullets, tables, or concise prose; do not require formal IDs or schemas. More-specific guidance wins on conflict, and user instructions about review scope or style take precedence.
+
+Review the diff independently and deduplicate findings by changed location and defect/remedy. A finding is rule-supported only when applicable guidance materially contributes repository-specific scope, an invariant, remedy, convention, or confirmation behavior beyond generic correctness advice. Preserve and union rule support when candidates merge, then check every final candidate against the applicable rules. Do not omit ordinary findings or invent findings solely because a rule file exists.
+
+When collaboration is available, use at most one focused investigator per applicable rule. For each rule-supported finding, verify the applicable project instruction file that supplies the rule and its smallest supporting line range, then include one compact Markdown or local-file reference in the visible comment body. Do not fabricate citations or add hidden metadata.
+
+When you call out an issue, include the relevant file and line or function in prose, explain the scenario where it matters, and keep the explanation concise. Use priority labels such as \`[P1]\` or \`[P2]\` only when helpful to communicate severity.
+
+If there are no actionable issues, say that directly and briefly.
+`})))()}function F({reviewInstructions:e,requestMessage:t}){return[v,N.trim(),e.trim(),g,t].join(`
+`)}async function I({context:e,hostId:t,intl:n}){if(e.mode===`uncommitted`){let e=n.formatMessage({id:`quickAction.request.codeReview.uncommitted`,defaultMessage:`Please review my uncommitted changes`,description:`User message used when reviewing uncommitted changes`});return{diffFilter:`unstaged`,prompt:F({reviewInstructions:B,requestMessage:e}),baseBranch:null}}let r=await O(T().mergeBase({gitRoot:e.gitRoot,baseBranch:e.baseBranch,hostId:t},`review_model`));if(!r.mergeBaseSha)throw Error(`Failed to resolve a merge base between HEAD and ${e.baseBranch}.`);let i=n.formatMessage({id:`quickAction.request.codeReview.branches`,defaultMessage:`Please review changes on {from} against {to}`,description:`User message used when reviewing against a selected base branch`},{from:e.sourceBranch,to:e.baseBranch});return{diffFilter:`branch`,prompt:F({reviewInstructions:z.replaceAll(`{baseBranch}`,e.baseBranch).replaceAll(`{mergeBaseSha}`,r.mergeBaseSha.trim()),requestMessage:i}),baseBranch:e.baseBranch}}function L(e){let t=(0,R.c)(15),{hostId:n,permissions:i,onError:o,onSuccess:d}=e,f=r(k),p=s(),h;t[0]!==n||t[1]!==p||t[2]!==i||t[3]!==f?(h=async e=>{let{context:t,conversationId:r,delivery:a}=e,{gitRoot:o,cwd:s}=t,d=await I({context:t,hostId:n,intl:p}),h=r==null?null:f.get(_,r);if(a===`inline`&&r!=null&&h===n){if(f.get(c,n)==null)throw Error(`Code review host is unavailable`);return await j(f,n,r,{request:{turnTrigger:`code_review`,threadId:r,cwd:s,input:[{type:`text`,text:d.prompt,text_elements:[]}],approvalsReviewer:i.approvalsReviewer,...b(i),...i.activePermissionProfile==null?{}:{runtimeWorkspaceRoots:x(i)},collaborationMode:null,serviceTier:await l(f,n,null)},context:{inheritThreadSettings:!1}}),{delivery:`inline`,diffFilter:d.diffFilter,baseBranch:d.baseBranch}}let g=await m(f,n,{threadSource:`code_review`,turnTrigger:`code_review`,input:[{type:`text`,text:d.prompt,text_elements:[]}],cwd:s,workspaceRoots:[o],collaborationMode:null,serviceTier:await l(f,n,null),permissionsConfig:i,approvalsReviewer:i.approvalsReviewer});if(g.status!==`created`)throw u(f,g);return{baseBranch:d.baseBranch,conversationId:g.conversationId,creation:g,delivery:`detached`,diffFilter:d.diffFilter}},t[0]=n,t[1]=p,t[2]=i,t[3]=f,t[4]=h):h=t[4];let g;t[5]!==o||t[6]!==d||t[7]!==f?(g=e=>{if(d(e),e.delivery===`detached`&&e.creation!=null){let t=u(f,e.creation);t!=null&&o(t)}},t[5]=o,t[6]=d,t[7]=f,t[8]=g):g=t[8];let v;t[9]===o?v=t[10]:(v=e=>{E.error(`Failed to start quick review conversation`,{safe:{},sensitive:{error:e}}),o(e)},t[9]=o,t[10]=v);let y;return t[11]!==h||t[12]!==g||t[13]!==v?(y={mutationFn:h,onSuccess:g,onError:v},t[11]=h,t[12]=g,t[13]=v,t[14]=y):y=t[14],a(y)}var R,z,B;function V(){return(V=e((()=>{R=o(),n(),t(),y(),h(),S(),i(),C(),d(),f(),M(),p(),P(),w(),A(),D(),z="Review the code changes against the base branch '{baseBranch}'. The merge base commit for this comparison is {mergeBaseSha}. Run `git diff {mergeBaseSha}` to inspect the changes relative to {baseBranch}. Provide concise, actionable feedback in a normal Markdown response.",B=`Review the current code changes (staged, unstaged, and untracked files) and provide concise, actionable feedback in a normal Markdown response.`})))()}export{I as n,L as r,V as t};
+//# sourceMappingURL=code-review-e2a21e5241e3.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./octagon-alert-DEL6niv7-7e535cfad1ca.js";e();export{t as default};

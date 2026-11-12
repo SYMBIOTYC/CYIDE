@@ -1,0 +1,1 @@
+import{r as e,t}from"./initial-update-79287d6be3f0.js";e();export{t as createNativePageInitialUpdate};

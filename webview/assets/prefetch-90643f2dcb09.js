@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{DHt as t,EHt as n,NHt as r,Oq as i,PHt as a,kq as o}from"./app-initial-25ee126179db.js";async function s(e){e.get(a)||await Promise.all([o(e),t(e)])}function c(){return(c=e((()=>{i(),n(),r()})))()}c();export{s as prefetchSpaceHome};
+//# sourceMappingURL=prefetch-90643f2dcb09.js.map

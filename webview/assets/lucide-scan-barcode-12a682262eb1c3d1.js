@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-scan-barcode-c6cb04546e3b92eb.js";e();export{t as default};

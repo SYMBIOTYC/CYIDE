@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-washing-machine-d9fc78cbed14efa0.js";e();export{t as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{H2t as t,KFt as n,NU as r,P4t as i,PU as a,XPt as o,l4t as s,wFt as c}from"./app-initial-25ee126179db.js";function l(e,t,a){e.get(i)!=null&&e.get(s)&&r(t.interaction_mode,e.query.getData(c,t.id)?.interaction_mode,e.query.getData(n)?.items.find(e=>e.id===t.id)?.interaction_mode)!==`request_changes`&&a()}function u(){return(u=e((()=>{t(),a(),o()})))()}export{l as n,u as t};
+//# sourceMappingURL=space-sharing-a3697e0dddca.js.map

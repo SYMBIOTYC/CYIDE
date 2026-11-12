@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-747597830b159d4e.js";var r;function i(){return(i=e((()=>{t(),r=n(`AlignHorizontalSpaceAround`,[[`rect`,{width:`6`,height:`10`,x:`9`,y:`7`,rx:`2`,key:`yn7j0q`}],[`path`,{d:`M4 22V2`,key:`tsjzd3`}],[`path`,{d:`M20 22V2`,key:`1bnhr8`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-align-horizontal-space-around-8e17ecdeeeb4c1dc.js.map

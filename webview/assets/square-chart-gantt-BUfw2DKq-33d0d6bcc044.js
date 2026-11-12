@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-chart-gantt-BUfw2DKq-aeae84ed29dd.js";e();export{t as default};

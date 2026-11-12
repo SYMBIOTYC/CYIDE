@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+#
+#           .d88888b.             
+#         .8P"     "9bd888b.      
+#        .8P     .d8P"   `"988.   
+#     .8888   .d8P"    ,     98.  
+#   .8P" 88   8"    .d98b.    88  
+#  .8P   88   8 .d8P"   "98b. 88  
+#  88    88   8P"  `"8b.    "98.  
+#  88.   88   8       8"8b.    88 
+#   88    "98.8       8   88   "88
+#    `8b.    "98.,  .d8   88    88
+#    88 "98b.   .d8P" 8   88   d8"
+#    88    "98bP"    .8   88 .d8" 
+#    "8b     `    .d8P"   8888"   
+#     "88b.,   .d8P"     d8"      
+#       "9888P98b.     .d8"       
+#               "988888P"         
+#
+Contact: https://bugcrowd.com/openai
+Acknowledgments: https://bugcrowd.com/engagements/openai/hall_of_fames
+Policy: https://openai.com/policies/coordinated-vulnerability-disclosure-policy
+Hiring: https://openai.com/careers/search?c=security
+Canonical: https://openai.com/.well-known/security.txt
+Encryption: https://cdn.openai.com/security/disclosure.asc.pub
+
+# You may also email us directly.
+Contact: mailto:disclosure@openai.com
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQ5fYPd6Hi19rZDZ+kKj1HZ7OnINQUCZn11hQAKCRAKj1HZ7OnI
+NRamAP9QAv9dOv/s+UuinoaOdGd05fb+MiY4G1QFzlCSje7OwwEA7AgB8X8K/gHG
+KLX9WW6t+XUHh2h/n/Py1/2PHikdcws=
+=+KGY
+-----END PGP SIGNATURE-----

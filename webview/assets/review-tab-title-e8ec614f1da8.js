@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e,t,n,r){return t===`gitlab`?e.formatMessage({id:`thread.sidePanel.mergeRequestTab.title`,defaultMessage:`MR !{number}`,description:`Title for a GitLab merge request side-panel tab`},{number:n}):e.formatMessage({id:`thread.sidePanel.pullRequestTab.title`,defaultMessage:`PR #{number}`,description:`Title for a pull request side-panel tab`},{number:n})}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=review-tab-title-e8ec614f1da8.js.map

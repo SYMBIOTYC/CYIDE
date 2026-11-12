@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-angry-8428e48abacd26b5.js";e();export{t as default};

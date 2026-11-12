@@ -1,0 +1,1 @@
+import"./app-initial-48d97b67aa1f.js";import{n as e,r as t}from"./tab-thumbnail-72a30c68b9e4.js";t();export{e as SpacePageTabThumbnail};

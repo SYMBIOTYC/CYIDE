@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-receipt-text-5ce4c108d2d91681.js";e();export{t as default};

@@ -1,0 +1,1 @@
+import"./app-initial-48d97b67aa1f.js";import{Jct as e,Kct as t,Xct as n,Zct as r}from"./app-initial-25ee126179db.js";t();export{e as readPageDocument,n as updatePageDocument,r as updatePageTitle};

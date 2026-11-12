@@ -1,0 +1,1 @@
+import"./app-initial-48d97b67aa1f.js";import{r as e,t}from"./cloud-project-unavailable-banner-3f68bcc0e034.js";e();export{t as WorkCloudProjectUnavailableBanner};

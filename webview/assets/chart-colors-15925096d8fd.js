@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e){return a.has(e)}function n({chatTheme:e,isDarkMode:n,colorCount:a}){if(!Number.isFinite(a)||a<=0)return[];let o=t(e)?i.indexOf(e):0;return Array.from({length:Math.floor(a)},(e,t)=>{let n=(o+t)%i.length,a=i[n]??r;return`var(--color-chart-${a===`pink`?`red`:a})`})}var r,i,a;function o(){return(o=e((()=>{r=`blue`,i=[`blue`,`green`,`orange`,`yellow`,`purple`,`pink`],a=new Set(i)})))()}export{o as n,n as t};
+//# sourceMappingURL=chart-colors-15925096d8fd.js.map

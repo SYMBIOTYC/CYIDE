@@ -1,0 +1,1 @@
+import{Ogt as e,kgt as t}from"./app-initial-bf355fcf8471.js";import{ySn as n}from"./app-initial-25ee126179db.js";t();export{n as Request,e as getChatGptRequestProfile};

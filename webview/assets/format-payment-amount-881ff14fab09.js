@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{bft as t,xft as n}from"./app-initial-25ee126179db.js";import{Ag as r,gg as i,jg as a}from"./app-initial-de6cf345968e.js";function o(e,i,a){let o=a.toUpperCase(),s=r(o),c=Number.isFinite(s)?s:n({intl:e,currencyCode:o});return t({intl:e,amount:i/10**c,currencyCode:o,currencyFractionDigits:c})}function s(){return(s=e((()=>{a(),i()})))()}export{s as n,o as t};
+//# sourceMappingURL=format-payment-amount-881ff14fab09.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-aad5794522c4.js";var r;function i(){return(i=e((()=>{t(),r=n(`ArrowBigRight`,[[`path`,{d:`M6 9h6V5l7 7-7 7v-4H6V9z`,key:`7fvt9c`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=arrow-big-right-Crf-FMyK-23406cb1c1e1.js.map

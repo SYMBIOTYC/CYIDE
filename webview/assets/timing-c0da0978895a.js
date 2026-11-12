@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{iTn as t}from"./app-initial-25ee126179db.js";function n(e,t,n={}){}function r(){return(r=e((()=>{t()})))()}export{n,r as t};
+//# sourceMappingURL=timing-c0da0978895a.js.map

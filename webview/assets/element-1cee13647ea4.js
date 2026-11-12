@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{ejt as t,mEt as n}from"./app-initial-bf355fcf8471.js";function r(e,n,r=t(n)){let i=document.createElement(e);if(i instanceof HTMLIFrameElement)i.setAttribute(`sandbox`,`allow-scripts allow-same-origin`),i.setAttribute(`referrerpolicy`,`no-referrer`);else{let e=document.createElement(`style`);e.textContent=`iframe { border-radius: inherit; }`,i.shadowRoot?.append(e)}return i.setAttribute(`partition`,r),i}function i(){return(i=e((()=>{n()})))()}export{i as n,r as t};
+//# sourceMappingURL=element-1cee13647ea4.js.map

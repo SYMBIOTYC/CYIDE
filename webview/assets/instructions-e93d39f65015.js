@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e){return`The user's course adjustment request is for course_id ${JSON.stringify(e)}. Read that course and use the sectioned-conversations plugin to apply the requested changes. Treat relative adjustments as relative to the current lessons.`}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=instructions-e93d39f65015.js.map

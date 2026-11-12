@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-747597830b159d4e.js";var r;function i(){return(i=e((()=>{t(),r=n(`SquareParking`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M9 17V7h4a3 3 0 0 1 0 6H9`,key:`1dfk2c`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-square-parking-3b6761d09f1ae9e0.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-origami-db1291bfe65814c1.js";e();export{t as default};

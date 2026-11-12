@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-dice-6-cca0d7a7abe4d8ed.js";e();export{t as default};

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-lamp-ceiling-e7334a68476e2609.js";e();export{t as default};

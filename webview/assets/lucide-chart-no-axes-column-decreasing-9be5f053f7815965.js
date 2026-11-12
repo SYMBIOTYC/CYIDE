@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-747597830b159d4e.js";var r;function i(){return(i=e((()=>{t(),r=n(`ChartNoAxesColumnDecreasing`,[[`path`,{d:`M12 20V10`,key:`g8npz5`}],[`path`,{d:`M18 20v-4`,key:`8uic4z`}],[`path`,{d:`M6 20V4`,key:`1w1bmo`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-chart-no-axes-column-decreasing-9be5f053f7815965.js.map

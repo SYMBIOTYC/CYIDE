@@ -1,0 +1,1 @@
+import{n as e,t}from"./laugh-DQDrDkvO-618c19092d56.js";e();export{t as default};

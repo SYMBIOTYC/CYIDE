@@ -1,0 +1,1 @@
+import{n as e,t}from"./beer-CCCW67B4-d772e9929931.js";t();export{e as default};

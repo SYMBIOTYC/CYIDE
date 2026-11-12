@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-megaphone-45f6ac4b9744da88.js";e();export{t as default};

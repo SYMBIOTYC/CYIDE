@@ -1,0 +1,1 @@
+import{o as e,t}from"./browser-file-attachments-aad67b8985da.js";e();export{t as createBrowserFileAttachmentDescriptors};

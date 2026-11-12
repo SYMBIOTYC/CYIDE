@@ -1,0 +1,1 @@
+import{n as e,t}from"./fish-CaM0sM43-d4e1eb42f401.js";e();export{t as default};

@@ -1,0 +1,5 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{B3 as t,Q5 as n,U3 as r,W3 as i,Z5 as a,f3 as o,p3 as s,z3 as c}from"./app-initial-48d97b67aa1f.js";function l(e){return((e??m).trim().replace(g,``).trim()||m).slice(0,h)}function u(e){return e.replace(_,v)}function d(e){return e.replace(/\u00a0/g,` `).replaceAll(v,`
+`).replace(b,``).replace(y,``).replace(/\r/g,``).replace(/[ \t]+\n/g,`
+`).replace(/\n[ \t]+/g,`
+`).trim()}function f(e){let t=x.parse(u(e)).children.find(e=>e.type===`table`);if(!t)throw Error(`Unable to build workbook: no markdown table rows found.`);let r=[];for(let e of t.children){let t=e.children.map(e=>d(n(e)));t.every(e=>e.length===0)||r.push(t)}return r}function p(e){return f(e)}var m,h,g,_,v,y,b,x;function S(){return(S=e((()=>{c(),r(),o(),a(),m=`Markdown table`,h=31,g=/\\|\/|\?|\*|\[|\]|:/g,_=/<br\s*\/?>/gi,v=`BPS_TABLE_BR_PLACEHOLDER`,y=/:{1,3}contentReference\[[^\]]+\](?:\{[^}]*\})?/g,b=/\u200b/g,x=t().use(i).use(s)})))()}S();export{p as buildTableValuesFromMarkdown,l as sanitizeSheetName};
+//# sourceMappingURL=workbook-from-markdown-f7fe730438f5.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./diamond-percent-D8o_tFky-eb1b6192221b.js";function r(){return(r=e((()=>{n()})))()}r();export{t as default};
+//# sourceMappingURL=percent-diamond-BQXrrUWX-e75de53826ef.js.map
