@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Mtt as t}from"./app-initial-ef83d79c5fa7.js";function n(e){let t=(0,r.useRef)(e);return t.current=e,(0,r.useCallback)((...e)=>t.current(...e),[])}var r;function i(){return(i=e((()=>{r=t()})))()}export{n,i as t};
+//# sourceMappingURL=useStableCallback-2dfc314eeb7c.js.map

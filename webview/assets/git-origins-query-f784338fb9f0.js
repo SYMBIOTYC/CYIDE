@@ -1,0 +1,1 @@
+import{HBt as e,VBt as t}from"./app-initial-17dd08407f00.js";e();export{t as gitOriginsQuery$};

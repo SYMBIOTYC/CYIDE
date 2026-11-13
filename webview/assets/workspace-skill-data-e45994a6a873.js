@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(){return Promise.resolve(null)}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=workspace-skill-data-e45994a6a873.js.map

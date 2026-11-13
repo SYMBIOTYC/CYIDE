@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-panel-top-dashed-4e4e3c572d4be58c.js";function r(){return(r=e((()=>{t()})))()}r();export{n as default};
+//# sourceMappingURL=lucide-panel-top-inactive-cff801c6f6da838f.js.map

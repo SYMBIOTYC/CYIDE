@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Mln as t,scn as n}from"./app-initial-f8f84852daaa.js";function r(e){return e.size>0&&i(e)}function i(e){return t(e)||a(e)}function a(e){let t=e.type.toLowerCase();return t===`image/avif`||!t.startsWith(`image/`)&&e.name.toLowerCase().endsWith(`.avif`)}function o(){return(o=e((()=>{n()})))()}export{r as i,a as n,i as r,o as t};
+//# sourceMappingURL=file-d4a6a6e7d732.js.map

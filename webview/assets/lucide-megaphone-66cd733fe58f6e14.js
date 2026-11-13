@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-d3115a37a409c98c.js";var r;function i(){return(i=e((()=>{t(),r=n(`Megaphone`,[[`path`,{d:`m3 11 18-5v12L3 14v-3z`,key:`n962bs`}],[`path`,{d:`M11.6 16.8a3 3 0 1 1-5.8-1.6`,key:`1yl0tm`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-megaphone-66cd733fe58f6e14.js.map

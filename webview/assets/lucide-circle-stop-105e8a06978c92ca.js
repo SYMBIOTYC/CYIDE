@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-d3115a37a409c98c.js";var r;function i(){return(i=e((()=>{t(),r=n(`CircleStop`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`rect`,{x:`9`,y:`9`,width:`6`,height:`6`,rx:`1`,key:`1ssd4o`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-circle-stop-105e8a06978c92ca.js.map

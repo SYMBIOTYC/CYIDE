@@ -1,0 +1,1 @@
+import"./contracts-1870154aa322.js";import{n as e,t}from"./eligibility-5ab2964d58d0.js";e();export{t as getMigrationEligibility};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{cd as t,dl as n}from"./app-initial-ef83d79c5fa7.js";async function r(e,n){let r=e===t.MARKDOWN?n:`${e}\0${n}`,i=await crypto.subtle.digest(`SHA-256`,new TextEncoder().encode(r));return Array.from(new Uint8Array(i),e=>e.toString(16).padStart(2,`0`)).join(``)}function i(){return(i=e((()=>{n()})))()}export{i as n,r as t};
+//# sourceMappingURL=block-hash-fc0f5008eb56.js.map

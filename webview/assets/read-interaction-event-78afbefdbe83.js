@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{nht as t,uht as n}from"./app-initial-f8f84852daaa.js";import{cYt as r,oYt as i}from"./app-initial-17dd08407f00.js";function a(e,{defaultPrevented:n,nativeEvent:i}){return n?!1:i instanceof KeyboardEvent?!o.has(i.key)&&!e.get(t,`openCommandMenu`).some(e=>r(i,e)):!0}var o;function s(){return(s=e((()=>{n(),i(),o=new Set([`Meta`,`Control`,`Alt`,`AltGraph`,`Shift`])})))()}export{a as n,s as t};
+//# sourceMappingURL=read-interaction-event-78afbefdbe83.js.map

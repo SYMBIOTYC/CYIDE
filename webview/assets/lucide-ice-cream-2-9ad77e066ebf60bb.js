@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-ice-cream-bowl-a45e0bc383f81785.js";function r(){return(r=e((()=>{t()})))()}r();export{n as default};
+//# sourceMappingURL=lucide-ice-cream-2-9ad77e066ebf60bb.js.map

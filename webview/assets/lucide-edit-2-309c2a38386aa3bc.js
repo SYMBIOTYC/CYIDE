@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-pen-b48313d118ed41da.js";function r(){return(r=e((()=>{t()})))()}r();export{n as default};
+//# sourceMappingURL=lucide-edit-2-309c2a38386aa3bc.js.map

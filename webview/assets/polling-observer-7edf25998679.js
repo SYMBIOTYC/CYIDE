@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{jtt as t,oR as n,tR as r}from"./app-initial-ef83d79c5fa7.js";import{a as i,i as a,o}from"./state-6278273ccd0e.js";function s(e){let t=(0,c.c)(2),{tracked:r}=e,i;return t[0]===r?i=t[1]:(i=a(r),t[0]=r,t[1]=i),n(o,i),null}var c;function l(){return(l=e((()=>{c=t(),r(),i()})))()}export{l as n,s as t};
+//# sourceMappingURL=polling-observer-7edf25998679.js.map

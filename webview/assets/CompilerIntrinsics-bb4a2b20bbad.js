@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e){return!0}function n(){return(n=e((()=>{globalThis.__PLACEHOLDER__=2**53-1})))()}export{t as n,n as t};
+//# sourceMappingURL=CompilerIntrinsics-bb4a2b20bbad.js.map

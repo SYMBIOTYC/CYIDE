@@ -1,0 +1,1 @@
+import"./app-initial-ef83d79c5fa7.js";import{i as e,n as t,r as n,t as r}from"./shared-home-cards-836ab2820ac0.js";r();export{t as sharedWorkspaceHomeCardDetails,n as sharedWorkspaceHomeCards,e as startWorkspaceSetupCard};

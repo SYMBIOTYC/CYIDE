@@ -1,0 +1,1 @@
+import{n as e,t}from"./text-quote-DK2olNZF-48e1c68b39d2.js";t();export{e as default};

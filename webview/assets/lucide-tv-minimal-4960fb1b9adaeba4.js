@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-d3115a37a409c98c.js";var r;function i(){return(i=e((()=>{t(),r=n(`TvMinimal`,[[`path`,{d:`M7 21h10`,key:`1b0cd5`}],[`rect`,{width:`20`,height:`14`,x:`2`,y:`3`,rx:`2`,key:`48i651`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-tv-minimal-4960fb1b9adaeba4.js.map
