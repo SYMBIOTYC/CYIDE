@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Mtt as t,jtt as n}from"./app-initial-ef83d79c5fa7.js";function r(e){let t=(0,i.c)(2),n=(0,a.useRef)(e),r;return t[0]===e?r=t[1]:(r=()=>{n.current=e},t[0]=e,t[1]=r),(0,a.useLayoutEffect)(r),n}var i,a;function o(){return(o=e((()=>{i=n(),a=t()})))()}export{r as n,o as t};
+//# sourceMappingURL=use-stable-ref-c6c38378bac4.js.map

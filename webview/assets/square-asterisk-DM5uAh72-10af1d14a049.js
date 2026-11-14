@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-332800b98fb4.js";var r;function i(){return(i=e((()=>{t(),r=n(`SquareAsterisk`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M12 8v8`,key:`napkw2`}],[`path`,{d:`m8.5 14 7-4`,key:`12hpby`}],[`path`,{d:`m8.5 10 7 4`,key:`wwy2dy`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=square-asterisk-DM5uAh72-10af1d14a049.js.map

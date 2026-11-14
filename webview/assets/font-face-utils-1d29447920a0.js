@@ -1,0 +1,1 @@
+import{a as e,i as t,n,o as r,r as i,t as a}from"./font-face-utils-1ae2fe833074.js";t();export{a as getPopcornCarlitoFontFaceSourcesFromDocument,n as getPopcornFontDebugState,i as getPopcornFontFaceSourcesFromDocument,e as installPopcornFontFaces,r as registerPopcornPdfFonts};

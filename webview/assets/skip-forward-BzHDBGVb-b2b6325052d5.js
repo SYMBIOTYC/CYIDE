@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-332800b98fb4.js";var r;function i(){return(i=e((()=>{t(),r=n(`SkipForward`,[[`polygon`,{points:`5 4 15 12 5 20 5 4`,key:`16p6eg`}],[`line`,{x1:`19`,x2:`19`,y1:`5`,y2:`19`,key:`futhcm`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=skip-forward-BzHDBGVb-b2b6325052d5.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./file-axis-3d-_nBW3GqY-77c32a170f00.js";t();export{e as default};

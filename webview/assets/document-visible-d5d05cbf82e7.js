@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{jR as t,tR as n}from"./app-initial-ef83d79c5fa7.js";import{cEn as r,lEn as i}from"./app-initial-17dd08407f00.js";var a;function o(){return(o=e((()=>{n(),i(),a=t(r,()=>!1,({set:e})=>{let t=globalThis.document;if(t==null)return;let n=()=>e(t.visibilityState===`visible`);return n(),t.addEventListener(`visibilitychange`,n),()=>t.removeEventListener(`visibilitychange`,n)})})))()}export{o as n,a as t};
+//# sourceMappingURL=document-visible-d5d05cbf82e7.js.map

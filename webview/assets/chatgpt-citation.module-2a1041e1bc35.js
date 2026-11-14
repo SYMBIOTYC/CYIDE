@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";var t,n,r,i,a,o,s;function c(){return(c=e((()=>{t=`_palette_1p0h8_2`,n=`_fileHoverCard_1p0h8_13`,r=`_filePill_1p0h8_19`,i=`_connectorIcon_1p0h8_31`,a=`_connectorFallback_1p0h8_35`,o=`_questionButton_1p0h8_39`,s={palette:t,fileHoverCard:n,filePill:r,connectorIcon:i,connectorFallback:a,questionButton:o}})))()}export{c as n,s as t};
+//# sourceMappingURL=chatgpt-citation.module-2a1041e1bc35.js.map

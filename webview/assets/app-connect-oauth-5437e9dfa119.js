@@ -1,0 +1,1 @@
+import"./app-initial-ef83d79c5fa7.js";import{ivt as e,lvt as t}from"./app-initial-f8f84852daaa.js";t();export{e as clearPendingAppConnect};

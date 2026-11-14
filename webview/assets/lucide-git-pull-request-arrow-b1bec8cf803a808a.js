@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-d3115a37a409c98c.js";var r;function i(){return(i=e((()=>{t(),r=n(`GitPullRequestArrow`,[[`circle`,{cx:`5`,cy:`6`,r:`3`,key:`1qnov2`}],[`path`,{d:`M5 9v12`,key:`ih889a`}],[`circle`,{cx:`19`,cy:`18`,r:`3`,key:`1qljk2`}],[`path`,{d:`m15 9-3-3 3-3`,key:`1lwv8l`}],[`path`,{d:`M12 6h5a2 2 0 0 1 2 2v7`,key:`1yj91y`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-git-pull-request-arrow-b1bec8cf803a808a.js.map

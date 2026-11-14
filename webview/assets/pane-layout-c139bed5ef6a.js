@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{i3 as t}from"./app-initial-ef83d79c5fa7.js";function n(e,{header:t,headerPlacement:n,content:i}){return e({headerRows:[{id:`artifact-header`,height:`content`,placement:n,content:t}],content:(0,r.jsx)(`div`,{className:`isolate flex h-full min-h-0 min-w-0 flex-col`,children:i})})}var r;function i(){return(i=e((()=>{r=t()})))()}export{n,i as t};
+//# sourceMappingURL=pane-layout-c139bed5ef6a.js.map

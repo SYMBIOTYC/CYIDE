@@ -1,0 +1,1 @@
+import"./app-initial-ef83d79c5fa7.js";import{i as e,n as t}from"./gallery-surface-52c68d2507cc.js";e();export{t as TextEditingGallerySurface};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{r3 as t}from"./app-initial-ef83d79c5fa7.js";import{_vn as n,gvn as r}from"./app-initial-17dd08407f00.js";function i(e){r(e,`2160290604`).get(`checkout_loading_perf_enabled`,!1)&&(0,a.preload)(o,{as:`script`})}var a,o;function s(){return(s=e((()=>{a=t(),n(),o=`https://js.stripe.com/basil/stripe.js`})))()}export{s as n,i as r,o as t};
+//# sourceMappingURL=stripe-script-8793aa17f361.js.map

@@ -1,0 +1,1 @@
+import"./app-initial-ef83d79c5fa7.js";import{n as e,t}from"./slate-create-menu-eaa92e9ffade.js";e();export{t as SlateSpaceCreateMenu};

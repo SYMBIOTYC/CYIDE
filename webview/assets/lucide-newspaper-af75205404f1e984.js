@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-newspaper-6e6bf87b7ac77167.js";e();export{t as default};
