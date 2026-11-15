@@ -1,0 +1,1 @@
+import{n as e,t}from"./ghost-DqVOHtkh-b8695c7a328b.js";e();export{t as default};

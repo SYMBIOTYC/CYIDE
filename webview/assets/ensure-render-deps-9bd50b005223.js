@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./preset-shape-definitions-4c40de21ab8d.js";import{n as r,r as i,t as a}from"./ensure-fonts-loaded-23c77624b911.js";function o(){l||=(t(),!0)}function s(){return a()&&l}function c(){return u??=Promise.all([r(),Promise.resolve().then(()=>{o()})]).then(()=>{}),u}var l,u;function d(){return(d=e((()=>{n(),i(),l=!1,u=null})))()}export{c as n,d as r,s as t};
+//# sourceMappingURL=ensure-render-deps-9bd50b005223.js.map

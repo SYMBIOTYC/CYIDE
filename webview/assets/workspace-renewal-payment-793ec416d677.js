@@ -1,0 +1,1 @@
+import"./app-initial-ef83d79c5fa7.js";import{n as e,t}from"./workspace-renewal-payment-43a880dbbd5c.js";e();export{t as WorkspaceRenewalPaymentAnnouncement};

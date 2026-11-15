@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e,t){return e?.structure===`workspace`&&e.plan_type!==`quorum`&&t}function n(e,n,r){return e!=null&&(!t(e,n)||r?.includes(`chatgpt.workspace_plugins.use`)===!0)}function r(){return(r=e((()=>{})))()}export{r as n,t as r,n as t};
+//# sourceMappingURL=workspace-plugin-permissions-8f7884aaae4c.js.map

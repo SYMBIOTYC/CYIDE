@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-baggage-claim-20be806816917d3b.js";e();export{t as default};

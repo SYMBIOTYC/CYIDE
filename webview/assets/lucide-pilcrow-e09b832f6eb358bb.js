@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-d3115a37a409c98c.js";var r;function i(){return(i=e((()=>{t(),r=n(`Pilcrow`,[[`path`,{d:`M13 4v16`,key:`8vvj80`}],[`path`,{d:`M17 4v16`,key:`7dpous`}],[`path`,{d:`M19 4H9.5a4.5 4.5 0 0 0 0 9H13`,key:`sh4n9v`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-pilcrow-e09b832f6eb358bb.js.map

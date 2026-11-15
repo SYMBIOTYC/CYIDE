@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-table-columns-split-c67c906124374e83.js";e();export{t as default};

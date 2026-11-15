@@ -1,0 +1,1 @@
+import{fa as e,pa as t}from"./app-initial-2301d91e88a2.js";e();export{t as openWorkspaceFile};

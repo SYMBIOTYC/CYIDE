@@ -1,0 +1,1 @@
+import"./app-initial-ef83d79c5fa7.js";import{n as e,r as t,t as n}from"./Fuego-86e096081b2b.js";t();export{n as FuegoIcon,e as FuegoIconSm};

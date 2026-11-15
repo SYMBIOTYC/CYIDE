@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e){return r.get(e)?.()??!0}function n(e,t){t==null?r.delete(e):r.set(e,t),e.dispatchEvent(new Event(i))}var r,i;function a(){return(a=e((()=>{r=new WeakMap,i=`orbit-transcript-entrance-change`})))()}export{n as i,a as n,t as r,i as t};
+//# sourceMappingURL=entrance-visibility-263a9bfe4358.js.map

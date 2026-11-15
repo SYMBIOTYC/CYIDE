@@ -1,0 +1,1 @@
+import{hR as e,mR as t}from"./app-initial-17dd08407f00.js";e();export{t as createAndOpenPage};

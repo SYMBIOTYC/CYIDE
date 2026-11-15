@@ -1,0 +1,1 @@
+import"./app-initial-ef83d79c5fa7.js";import{n as e,t}from"./page-460e14c36b55.js";e();export{t as BusinessSuccessPage};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e,t){let r=n(e);return r.length===0||n(t.join(` `)).includes(r)}function n(e){return e.toLocaleLowerCase().replace(/\s+/g,` `).trim()}function r(){return(r=e((()=>{})))()}export{t as n,r as t};
+//# sourceMappingURL=automation-search-3738e1efb950.js.map

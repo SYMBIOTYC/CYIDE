@@ -1,0 +1,1 @@
+import{n as e,t}from"./palette-lzFbWMQk-46abd1360671.js";e();export{t as default};

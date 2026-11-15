@@ -1,0 +1,1 @@
+import{n as e,t}from"./move-vertical-DhP1kP4Z-eb52651ac7bc.js";e();export{t as default};

@@ -1,0 +1,1 @@
+import{n as e,t}from"./pipette-BE_nXHrw-c3c881230a6a.js";e();export{t as default};

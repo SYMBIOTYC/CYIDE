@@ -1,0 +1,1 @@
+import"./app-initial-ef83d79c5fa7.js";import{n as e,t}from"./polling-observer-7edf25998679.js";e();export{t as PageMovePollingObserver};

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="48" viewBox="0 0 64 48">
+  <!-- Thumbnail palettes sampled from Orbit OS's soft-gradient wallpapers.
+       Fragment names follow orbit-colors.toml in the project/orbit-os asset bundle. -->
+  <style>
+    defs { --shade: #6d7b94; --base: #a3b0c9; --sky: #aab6cc; --shine: #d6e0f1; }
+    #blue:target ~ defs { --shade: #0e49d3; --base: #1e74e1; --sky: #2786f0; --shine: #5fbff5; }
+    #coral:target ~ defs,
+    #orange:target ~ defs { --shade: #e75038; --base: #ff9679; --sky: #fd8668; --shine: #f7a88c; }
+    #cyan:target ~ defs { --shade: #0495e2; --base: #00baff; --sky: #1cbffc; --shine: #8fe6f7; }
+    #green:target ~ defs,
+    #teal:target ~ defs { --shade: #00837e; --base: #0ebbaa; --sky: #03c3af; --shine: #76f3da; }
+    #lime:target ~ defs { --shade: #7fa506; --base: #b5db03; --sky: #c5e81a; --shine: #eeff87; }
+    #magenta:target ~ defs,
+    #orchid:target ~ defs { --shade: #b72cbb; --base: #d557d4; --sky: #e36adf; --shine: #f7b4f2; }
+    #pink:target ~ defs { --shade: #f43996; --base: #fe62ae; --sky: #fa74b7; --shine: #facde3; }
+    #purple:target ~ defs,
+    #violet:target ~ defs { --shade: #6228d6; --base: #964df6; --sky: #a85dfb; --shine: #ddb1fd; }
+    #yellow:target ~ defs { --shade: #e1a53a; --base: #fbdb45; --sky: #fed554; --shine: #fff0ac; }
+    #fold stop { stop-color: var(--sky); }
+    #highlight stop { stop-color: var(--shine); }
+  </style>
+  <view id="blue"/>
+  <view id="coral"/>
+  <view id="cyan"/>
+  <view id="gray"/>
+  <view id="green"/>
+  <view id="lime"/>
+  <view id="magenta"/>
+  <view id="orange"/>
+  <view id="orchid"/>
+  <view id="pink"/>
+  <view id="purple"/>
+  <view id="slate"/>
+  <view id="teal"/>
+  <view id="violet"/>
+  <view id="yellow"/>
+  <defs>
+    <linearGradient id="ground" x1="87%" y1="99%" x2="30%" y2="34%">
+      <stop stop-color="var(--shade)"/>
+      <stop offset="1" stop-color="var(--base)"/>
+    </linearGradient>
+    <radialGradient id="fold" cx="0" cy="0" r="1" gradientTransform="translate(-.034 1.155) scale(2.793 .98)">
+      <stop offset=".58" stop-opacity="0"/>
+      <stop offset=".65" stop-opacity=".05"/>
+      <stop offset=".72" stop-opacity=".20"/>
+      <stop offset=".79" stop-opacity=".50"/>
+      <stop offset=".86" stop-opacity=".80"/>
+      <stop offset=".93" stop-opacity=".95"/>
+      <stop offset="1"/>
+    </radialGradient>
+    <radialGradient id="highlight" cx="0" cy="0" r="1" gradientTransform="matrix(1.203 -.437 0 .431 -.336 .542)">
+      <stop/>
+      <stop offset=".15" stop-opacity=".91"/>
+      <stop offset=".30" stop-opacity=".70"/>
+      <stop offset=".45" stop-opacity=".45"/>
+      <stop offset=".60" stop-opacity=".24"/>
+      <stop offset=".75" stop-opacity=".10"/>
+      <stop offset=".90" stop-opacity=".04"/>
+      <stop offset="1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="64" height="48" fill="url(#ground)"/>
+  <rect width="64" height="48" fill="url(#fold)"/>
+  <rect width="64" height="48" fill="url(#highlight)"/>
+</svg>
