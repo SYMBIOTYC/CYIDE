@@ -1,0 +1,1 @@
+[data-pierre-editor-surface] diffs-container{--diffs-editor-selection-bg:var(--color-background-text-selection)}[data-pierre-editor-annotation]::selection{background-color:var(--color-background-text-selection,Highlight)}[data-pierre-editor-annotation] ::selection{background-color:var(--color-background-text-selection,Highlight)}

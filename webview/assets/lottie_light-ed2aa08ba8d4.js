@@ -1,0 +1,1 @@
+import{t as e}from"./lottie_light-c815d06f80f2.js";export default e();

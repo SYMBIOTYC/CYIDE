@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{lQt as t,sQt as n}from"./app-initial-f8f84852daaa.js";function r(e){if(e==null||e.trim().length===0)return null;try{return new URL(n(e)??e,window.location.href).href}catch{return null}}function i(){return(i=e((()=>{t()})))()}export{i as n,r as t};
+//# sourceMappingURL=image-url-5380ce2db11e.js.map

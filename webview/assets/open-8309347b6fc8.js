@@ -1,0 +1,1 @@
+import{c7 as e,d7 as t,f7 as n,i7 as r,m7 as i,p7 as a,s7 as o,u7 as s}from"./app-initial-17dd08407f00.js";r();export{o as adoptCreatedSpacePageTab,e as getOpenSpacePageTab,s as navigateSpacePageTab,t as openSpacePageResource,n as openSpacePageSidePanelTab,a as restoreSpacePageSidePanelTab,i as spacePageTabType};

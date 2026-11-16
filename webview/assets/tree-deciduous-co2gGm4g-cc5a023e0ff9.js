@@ -1,0 +1,1 @@
+import{n as e,t}from"./tree-deciduous-co2gGm4g-fe052e9e4dde.js";t();export{e as default};

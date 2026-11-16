@@ -1,0 +1,1 @@
+import{n as e,t}from"./wifi-high-BgsHpmmA-37742ff86e63.js";e();export{t as default};

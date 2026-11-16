@@ -1,0 +1,1 @@
+import{n as e,t}from"./clock-4-BD-g3eX7-ad4b3bd221f9.js";t();export{e as default};

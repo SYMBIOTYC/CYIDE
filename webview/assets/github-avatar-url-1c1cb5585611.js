@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e,t,n=`github.com`){let r=e?.trim();return r==null||r.length===0||/\s/.test(r)?null:`https://${n}/${encodeURIComponent(r)}.png?size=${t}`}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=github-avatar-url-1c1cb5585611.js.map

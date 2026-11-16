@@ -1,0 +1,1 @@
+import{n as e,t}from"./vote-BGhfYaAg-77cdb89e5d86.js";e();export{t as default};

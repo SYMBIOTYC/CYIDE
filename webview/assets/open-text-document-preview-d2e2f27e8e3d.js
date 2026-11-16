@@ -1,0 +1,1 @@
+import"./app-initial-ef83d79c5fa7.js";import{Om as e,km as t}from"./app-initial-f8f84852daaa.js";e();export{t as openChatGptTextDocumentPreview};

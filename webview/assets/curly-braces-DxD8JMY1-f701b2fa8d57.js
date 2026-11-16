@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./braces-BJijY9RE-f3b8fb92625f.js";function r(){return(r=e((()=>{t()})))()}r();export{n as default};
+//# sourceMappingURL=curly-braces-DxD8JMY1-f701b2fa8d57.js.map

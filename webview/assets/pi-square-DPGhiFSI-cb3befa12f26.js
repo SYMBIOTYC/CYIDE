@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./square-pi-C6fAK0xB-5720c62736c5.js";function r(){return(r=e((()=>{t()})))()}r();export{n as default};
+//# sourceMappingURL=pi-square-DPGhiFSI-cb3befa12f26.js.map

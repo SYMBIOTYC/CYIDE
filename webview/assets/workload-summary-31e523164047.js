@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{fzt as t,pzt as n}from"./app-initial-f8f84852daaa.js";import{_ln as r,dln as i,gln as a}from"./app-initial-17dd08407f00.js";function o(e){let t=e.get(r),i=e.get(a);return{schemaVersion:1,unread:n.getWorkloadSummary(),catalog:{published:t.initialized?t.entries.length:null,reads:i?.getWorkloadSummary()??null}}}function s(){return(s=e((()=>{t(),i()})))()}s();export{o as collectFeedbackWorkloadSummary};
+//# sourceMappingURL=workload-summary-31e523164047.js.map
