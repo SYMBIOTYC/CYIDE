@@ -1,0 +1,1 @@
+import{az as e,oz as t}from"./app-initial-17dd08407f00.js";t();export{e as getMcpExtensionContextMenuItems};

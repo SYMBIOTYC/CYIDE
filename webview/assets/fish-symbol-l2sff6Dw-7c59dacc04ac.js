@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-332800b98fb4.js";var r;function i(){return(i=e((()=>{t(),r=n(`FishSymbol`,[[`path`,{d:`M2 16s9-15 20-4C11 23 2 8 2 8`,key:`h4oh4o`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=fish-symbol-l2sff6Dw-7c59dacc04ac.js.map

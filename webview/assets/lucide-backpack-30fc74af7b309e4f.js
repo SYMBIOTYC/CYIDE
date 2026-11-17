@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-backpack-2216776c6b53c6e1.js";e();export{t as default};

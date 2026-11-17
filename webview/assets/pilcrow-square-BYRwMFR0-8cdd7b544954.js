@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./square-pilcrow-3nh5pLAg-f2a1dd603d36.js";function r(){return(r=e((()=>{n()})))()}r();export{t as default};
+//# sourceMappingURL=pilcrow-square-BYRwMFR0-8cdd7b544954.js.map

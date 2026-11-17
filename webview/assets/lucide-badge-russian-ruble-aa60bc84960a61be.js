@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-badge-russian-ruble-91aaf985f4ab7341.js";e();export{t as default};

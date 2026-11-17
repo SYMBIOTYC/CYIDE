@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e){return new URL(e,`https://chatgpt.com`).href}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=gpt-management-url-d65543219407.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-satellite-dish-495320a91b5ca15d.js";e();export{t as default};

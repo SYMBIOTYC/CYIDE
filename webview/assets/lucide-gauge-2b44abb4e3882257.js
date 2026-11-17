@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-gauge-927e610c5369364e.js";e();export{t as default};

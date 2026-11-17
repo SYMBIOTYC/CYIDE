@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e,t){try{sessionStorage.setItem(r,JSON.stringify([e,t]))}catch{}}function n(e,t){try{return sessionStorage.getItem(r)===JSON.stringify([e,t])}catch{return!1}}var r;function i(){return(i=e((()=>{r=`workspace-onboarding-migration-handoff`})))()}export{i as n,t as r,n as t};
+//# sourceMappingURL=workspace-migration-handoff-c30f01a3140b.js.map

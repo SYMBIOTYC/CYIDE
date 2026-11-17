@@ -1,0 +1,1 @@
+@layer components{._creditPositioner_1mbwt_1{z-index:50;width:calc(100vw / var(--codex-window-zoom));height:calc(100dvh / var(--codex-window-zoom));zoom:var(--codex-window-zoom);pointer-events:none;position:fixed;inset:0}._creditContent_1mbwt_11{width:calc(100vw / var(--codex-window-zoom) - 32px);grid-area:2/2;justify-self:center}}

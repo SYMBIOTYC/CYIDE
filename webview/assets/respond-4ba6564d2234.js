@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Y0 as t,Z0 as n}from"./app-initial-f8f84852daaa.js";async function r(e,{action:t,conversationId:r,elicitationResponse:i,isApiToolElicitation:a,isTemporaryChat:o,model:s,recipient:c,...l}){await n(e,{...l,conversationId:r,isTemporaryChat:o,model:s,prompt:``,toolApproval:{action:t.type,actionData:t,elicitationResponse:i,isApiToolElicitation:a,recipient:c,targetMessageId:t.target_message_id}})}function i(){return(i=e((()=>{t()})))()}export{r as n,i as t};
+//# sourceMappingURL=respond-4ba6564d2234.js.map

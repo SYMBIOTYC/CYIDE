@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(){let e=globalThis.window?.electronBridge?.getDesktopUserAgent?.();return{"x-openai-use-sheep":`1`,...e?{"User-Agent":e}:{}}}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=onboarding-recommendation-headers-f05f5d36101e.js.map

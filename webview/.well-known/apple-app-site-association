@@ -1,0 +1,432 @@
+{
+    "webcredentials": {
+        "apps": [
+            "XN94N9AMD4.com.openai.chat.enterprise",
+            "XN94N9AMD4.com.openai.chat.enterprise.alpha",
+            "XN94N9AMD4.com.openai.chat.tuistpreview",
+            "2DC432GLL2.com.openai.chat",
+            "2DC432GLL2.com.openai.chat.intune"
+        ]
+    },
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [ "XN94N9AMD4.com.openai.chat.enterprise", "XN94N9AMD4.com.openai.chat.enterprise.alpha", "XN94N9AMD4.com.openai.chat.tuistpreview", "2DC432GLL2.com.openai.chat", "2DC432GLL2.com.openai.chat.intune" ],
+                "components": [
+                    {
+                        "#": "no_universal_links",
+                        "exclude": true,
+                        "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
+                    },
+                    {
+                        "?": {
+                            "no_universal_links": "1"
+                        },
+                        "exclude": true,
+                        "comment": "Matches any URL with no_universal_links=1 and instructs the system not to open it as a universal link."
+                    },
+                    {
+                        "/": "/start/*",
+                        "comment": "Matches bootstrap campaign links."
+                    },
+                    {
+                        "/": "/college-plan/share/*/?*",
+                        "exclude": true,
+                        "comment": "Keep paths below a shared College Plan in the browser."
+                    },
+                    {
+                        "/": "/college-plan/share/?*",
+                        "comment": "Open shared College Plan viewing links."
+                    },
+                    {
+                        "/": "/share/*",
+                        "comment": "Matches shared links."
+                    },
+                    {
+                        "/": "/library/share/*",
+                        "comment": "Matches shared Library file and folder links."
+                    },
+                    {
+                        "/": "/space/*",
+                        "comment": "Matches shared Page links."
+                    },
+                    {
+                        "/": "/maps/lbe1_*",
+                        "comment": "Matches shared local-business links."
+                    },
+                    {
+                        "/": "/*/maps/lbe1_*",
+                        "comment": "Matches localized shared local-business links."
+                    },
+                    {
+                        "/": "/products/*",
+                        "comment": "Matches shared product links."
+                    },
+                    {
+                        "/": "/*/products/*",
+                        "comment": "Matches localized shared product links."
+                    },
+                    {
+                        "/": "/g/*",
+                        "comment": "Matches shared g links."
+                    },
+                    {
+                        "/": "/s/cd_*",
+                        "comment": "Matches Codex shared task links."
+                    },
+                    {
+                        "/": "/s/i_*",
+                        "comment": "Matches shared search image permalinks."
+                    },
+                    {
+                        "/": "/s/m_*",
+                        "comment": "Matches shared image permalinks."
+                    },
+                    {
+                        "/": "/s/bday_*",
+                        "comment": "Matches shared Birthday deck permalinks."
+                    },
+                    {
+                        "/": "/s/p_*",
+                        "comment": "Matches shared prompt permalinks."
+                    },
+                    {
+                        "/": "/s/s_*",
+                        "comment": "Matches shared video permalinks."
+                    },
+                    {
+                        "/": "/s/task_*",
+                        "comment": "Matches shared scheduled task permalinks."
+                    },
+                    {
+                        "/": "/s/shareauto_*",
+                        "comment": "Matches legacy shared scheduled task permalinks."
+                    },
+                    {
+                        "/": "/images/*",
+                        "comment": "Matches Images app URLs."
+                    },
+                    {
+                        "/": "/stickers",
+                        "comment": "Matches the stickers prompt shortcut."
+                    },
+                    {
+                        "/": "/s/t_*",
+                        "comment": "Matches conversation slice permalinks."
+                    },
+                    {
+                        "/": "/s/w_*",
+                        "comment": "Matches shared widget permalinks."
+                    },
+                    {
+                        "/": "/c/*",
+                        "comment": "Matches conversation links."
+                    },
+                    {
+                        "/": "/codex/tasks/*",
+                        "comment": "Matches codex task URLs."
+                    },
+                    {
+                        "/": "/codex/cloud/tasks/*",
+                        "comment": "Matches codex cloud task URLs."
+                    },
+                    {
+                        "/": "/codex/pair",
+                        "?": {
+                            "pairing_code": "?*"
+                        },
+                        "comment": "Matches Codex Remote pairing URLs with a pairing code."
+                    },
+                    {
+                        "/": "/qr-login",
+                        "?": {
+                            "token": "?*"
+                        },
+                        "comment": "Matches QR login links with a token."
+                    },
+                    {
+                        "/": "/account-link/*",
+                        "comment": "Matches account link URLs."
+                    },
+                    {
+                        "/": "/elicitation",
+                        "comment": "Matches elicitation URLs."
+                    },
+                    {
+                        "/": "/browser/handoff",
+                        "comment": "Matches browser takeover URLs."
+                    },
+                    {
+                        "/": "/ledger/plaid/oauth_redirect",
+                        "comment": "Matches Ledger Plaid OAuth redirect URLs."
+                    },
+                    {
+                        "/": "/wallet/bank/callback",
+                        "comment": "Matches Wallet bank callback URLs."
+                    },
+                    {
+                        "/": "/onepassword/callback",
+                        "comment": "Matches 1Password enrollment callback URLs."
+                    },
+                    {
+                        "/": "/continue-registration",
+                        "comment": "Matches continue-registration link URLs."
+                    },
+                    {
+                        "/": "/apps",
+                        "comment": "Matches the apps root page."
+                    },
+                    {
+                        "/": "/apps/*",
+                        "comment": "Matches app detail and connector links."
+                    },
+                    {
+                        "/": "/skills",
+                        "comment": "Matches the Skills directory root page."
+                    },
+                    {
+                        "/": "/skills/*",
+                        "comment": "Matches Skills detail links."
+                    },
+                    {
+                        "/": "/plugins",
+                        "comment": "Matches the plugins root page."
+                    },
+                    {
+                        "/": "/plugins/*",
+                        "comment": "Matches plugin detail links."
+                    },
+                    {
+                        "/": "/cfc-plan",
+                        "comment": "Matches the cfc-plan landing page."
+                    },
+                    {
+                        "/": "/cfc-verification",
+                        "comment": "Matches the cfc-verification landing page."
+                    },
+                    {
+                        "/": "/open-app",
+                        "comment": "Matches the open-app URL, which redirects to the App Store as a fallback."
+                    },
+                    {
+                        "/": "/announcements/subscription_onboarding",
+                        "?": {
+                            "campaign": "students_2026"
+                        },
+                        "comment": "Opens student onboarding in the app with a browser-safe web fallback."
+                    },
+                    {
+                        "/": "/app",
+                        "comment": "Matches the /app URL, which redirects to the App Store as a fallback."
+                    },
+                    {
+                        "/": "/app/*",
+                        "comment": "Matches wrapped /app/* URLs, which open specific in-app destinations with an App Store fallback."
+                    },
+                    {
+                        "/": "/dots",
+                        "comment": "Matches the Dots entry URL."
+                    },
+                    {
+                        "/": "/dots/",
+                        "comment": "Matches the Dots entry URL with a trailing slash."
+                    },
+                    {
+                        "/": "/dots/approve",
+                        "comment": "Matches the Dots saved-request approval URL."
+                    },
+                    {
+                        "/": "/",
+                        "?": {
+                            "cta_tab": "?*"
+                        },
+                        "#": "pricing",
+                        "exclude": true,
+                        "comment": "Keeps pricing links with web-specific tab routing in the browser."
+                    },
+                    {
+                        "/": "/",
+                        "?": {
+                            "highlight_plan": "?*"
+                        },
+                        "#": "pricing",
+                        "exclude": true,
+                        "comment": "Keeps pricing links with web-specific plan routing in the browser."
+                    },
+                    {
+                        "/": "/",
+                        "?": {
+                            "auth_if_needed": "?*"
+                        },
+                        "#": "pricing",
+                        "exclude": true,
+                        "comment": "Keeps pricing links requiring web authentication in the browser."
+                    },
+                    {
+                        "/": "/",
+                        "?": {
+                            "default_tab": "?*"
+                        },
+                        "#": "pricing",
+                        "exclude": true,
+                        "comment": "Keeps pricing links with a web-specific default tab in the browser."
+                    },
+                    {
+                        "/": "/",
+                        "?": {
+                            "plan": "?*"
+                        },
+                        "#": "pricing",
+                        "exclude": true,
+                        "comment": "Keeps pricing links with web-specific plan selection in the browser."
+                    },
+                    {
+                        "/": "/",
+                        "?": {
+                            "q": "?*"
+                        },
+                        "comment": "Matches query links if they have a value for the q parameter."
+                    },
+                    {
+                        "/": "/",
+                        "?": {
+                            "prompt": "?*"
+                        },
+                        "comment": "Matches query links if they have a value for the prompt parameter."
+                    },
+                    {
+                        "/": "/",
+                        "?": {
+                            "hints": "?*"
+                        },
+                        "comment": "Matches query links if they have a value for the hints parameter."
+                    },
+                    {
+                        "/": "/",
+                        "?": {
+                            "mode": "?*"
+                        },
+                        "comment": "Matches mode links if they have a value for the mode parameter."
+                    },
+                    {
+                        "/": "/",
+                        "#": "native",
+                        "comment": "Matches ChatGPT home. This will start a new conversation in-app."
+                    },
+                    {
+                        "/": "/",
+                        "#": "pricing",
+                        "comment": "Opens the pricing surface directly in the app."
+                    },
+                    {
+                        "/": "/",
+                        "#": "settings",
+                        "comment": "Opens settings root from legacy hash links in-app."
+                    },
+                    {
+                        "/": "/",
+                        "#": "settings/Notifications",
+                        "comment": "Opens notification settings from legacy hash links in-app."
+                    },
+                    {
+                        "/": "/",
+                        "#": "settings/Connectors?connector=asdk_app_69a089a326dc8191b32a3f2553f5be2c",
+                        "exclude": true,
+                        "comment": "Exclude Linear connector settings so only this URL opens in the browser. TODO: remove once the Linear connector deeplink is fixed."
+                    },
+                    {
+                        "/": "/",
+                        "#": "settings/Connectors?connector=*",
+                        "comment": "Opens specific connector settings deep links in-app."
+                    },
+                    {
+                        "/": "/continue_from_api",
+                        "?": {
+                            "token": "?*"
+                        },
+                        "comment": "Matches links with a token parameter for API continuation."
+                    },
+                    {
+                        "/": "/trusted-contact/nominee",
+                        "?": {
+                            "token": "?*"
+                        },
+                        "comment": "Matches trusted contact nominee links."
+                    },
+                    {
+                        "/": "/voice",
+                        "comment": "Enters voice mode directly on the app."
+                    },
+                    {
+                        "/": "/finance",
+                        "comment": "Matches the finance root page."
+                    },
+                    {
+                        "/": "/football",
+                        "comment": "Matches the football root page."
+                    },
+                    {
+                        "/": "/finances",
+                        "comment": "Matches the finances root page."
+                    },
+                    {
+                        "/": "/health",
+                        "comment": "Matches the Health root page."
+                    },
+                    {
+                        "/": "/shopping",
+                        "comment": "Matches the shopping root page."
+                    },
+                    {
+                        "/": "/discovery-hub",
+                        "comment": "Matches the discovery hub root page."
+                    },
+                    {
+                        "/": "/tasks",
+                        "comment": "Matches the tasks root page."
+                    },
+                    {
+                        "/": "/scheduled",
+                        "comment": "Matches the scheduled tasks root page."
+                    },
+                    {
+                        "/": "/m/?*"
+                    },
+                    {
+                        "/": "/gg/v/?*",
+                        "?": { "token": "?*" }
+                    },
+                    {
+                        "/": "/parentalControls",
+                        "comment": "Opens parental control settings directly on the app."
+                    },
+                    {
+                        "/": "/settings",
+                        "comment": "Opens the settings root page directly in the app."
+                    },
+                    {
+                        "/": "/settings/notifications",
+                        "comment": "Opens notification settings directly in the app."
+                    },
+                    {
+                        "/": "/settings/personalization",
+                        "comment": "Opens personalization settings directly in the app."
+                    },
+                    {
+                        "/": "/settings/security",
+                        "comment": "Opens Security settings directly in the app."
+                    },
+                    {
+                        "/": "/settings/security/*",
+                        "comment": "Opens Security factor and passkey settings directly in the app."
+                    },
+                    {
+                        "/": "/",
+                        "#": "settings/Advertising",
+                        "comment": "Opens specific advertising settings deep links in-app."
+                    }
+                ]
+            }
+        ]
+    }
+}

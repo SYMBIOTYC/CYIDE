@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{gEn as t,hEn as n}from"./app-initial-17dd08407f00.js";function r({hostId:e,navigate:n,section:r,setSelectedHostId:i}){i(e),t.dispatchMessage(`show-settings`,{section:r})}function i(){return(i=e((()=>{n()})))()}export{r as n,i as t};
+//# sourceMappingURL=hooks-settings-navigation-d2d634523883.js.map

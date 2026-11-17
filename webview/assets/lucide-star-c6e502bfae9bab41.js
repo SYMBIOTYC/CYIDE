@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-star-1a01c30790928c8a.js";e();export{t as default};

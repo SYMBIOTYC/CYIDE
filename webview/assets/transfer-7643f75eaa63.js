@@ -1,0 +1,1 @@
+import{hZ as e,mZ as t}from"./app-initial-f8f84852daaa.js";t();export{e as moveTabToNewWindow};

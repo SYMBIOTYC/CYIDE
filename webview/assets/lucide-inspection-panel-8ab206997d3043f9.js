@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-d3115a37a409c98c.js";var r;function i(){return(i=e((()=>{t(),r=n(`InspectionPanel`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M7 7h.01`,key:`7u93v4`}],[`path`,{d:`M17 7h.01`,key:`14a9sn`}],[`path`,{d:`M7 17h.01`,key:`19xn7k`}],[`path`,{d:`M17 17h.01`,key:`1sd3ek`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-inspection-panel-8ab206997d3043f9.js.map
