@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e){if(e!=null&&(e.appMetadata!=null&&`firstPartyType`in e.appMetadata&&typeof e.appMetadata.firstPartyType==`string`&&e.appMetadata.firstPartyType.trim()!==``||e.distributionChannel===`DEFAULT_OAI_CATALOG`||e.distributionChannel===`ECOSYSTEM_DIRECTORY`))return e.name}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=mcp-app-analytics-38610ea5b981.js.map

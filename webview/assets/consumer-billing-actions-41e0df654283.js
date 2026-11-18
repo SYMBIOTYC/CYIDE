@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";async function t(e,t){await Promise.all([e.queryClient.invalidateQueries({queryKey:[`consumer-billing`,t]}),e.queryClient.invalidateQueries({queryKey:[`accounts`]}),e.queryClient.invalidateQueries({queryKey:[`usage-settings`]})])}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=consumer-billing-actions-41e0df654283.js.map

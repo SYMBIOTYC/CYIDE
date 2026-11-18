@@ -1,0 +1,1 @@
+import"./app-initial-ef83d79c5fa7.js";import{xvt as e,yvt as t}from"./app-initial-f8f84852daaa.js";e();export{t as getAppsReadQueryOptions};

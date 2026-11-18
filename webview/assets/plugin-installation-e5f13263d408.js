@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{KCn as t,Nz as n,Pz as r,qCn as i}from"./app-initial-17dd08407f00.js";async function a(e,n){t(e,`735391738`)&&await r(e,n,`learning`,!0,{showPinLimitToast:!1})}function o(){return(o=e((()=>{n(),i()})))()}o();export{a as handleLearningPluginInstalled};
+//# sourceMappingURL=plugin-installation-e5f13263d408.js.map

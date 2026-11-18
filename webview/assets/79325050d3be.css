@@ -1,0 +1,1 @@
+@layer components{._summary_13j0r_2{color:var(--agent-activity-summary-color);--agent-activity-summary-color:var(--color-text-tertiary)}._execDescendants_13j0r_2{--agent-activity-child-color:var(--color-text)}@supports (color:color-mix(in lab, red, red)){._execDescendants_13j0r_2{--agent-activity-child-color:color-mix(in oklab, var(--color-text) 30%, transparent)}}}

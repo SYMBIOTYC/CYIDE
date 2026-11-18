@@ -1,0 +1,1 @@
+import{$p as e,Ott as t,Qp as n}from"./app-initial-17dd08407f00.js";t(),n();export{e as mcpExtensionTabRouteParamsSchema};

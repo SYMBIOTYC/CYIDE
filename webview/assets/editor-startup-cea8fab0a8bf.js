@@ -1,0 +1,1 @@
+import{D7 as e,O7 as t,k7 as n}from"./app-initial-17dd08407f00.js";t();export{e as getPageEditorRequestedScope,n as pageEditorStartup};

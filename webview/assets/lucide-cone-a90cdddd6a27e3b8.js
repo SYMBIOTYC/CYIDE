@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-d3115a37a409c98c.js";var r;function i(){return(i=e((()=>{t(),r=n(`Cone`,[[`path`,{d:`m20.9 18.55-8-15.98a1 1 0 0 0-1.8 0l-8 15.98`,key:`53pte7`}],[`ellipse`,{cx:`12`,cy:`19`,rx:`9`,ry:`3`,key:`1ji25f`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-cone-a90cdddd6a27e3b8.js.map

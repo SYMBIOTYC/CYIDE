@@ -1,0 +1,2 @@
+import{n as e,o as t}from"./rolldown-runtime-428824ca0286.js";import{Mtt as n}from"./app-initial-ef83d79c5fa7.js";import{Ht as r,Vt as i}from"./CategoricalChart-59db591d26fb.js";import{n as a,t as o}from"./CartesianChart-27e1f921ae62.js";var s,c,l,u;function d(){return(d=e((()=>{s=t(n()),c=n(),r(),a(),l=[`axis`],u=(0,c.forwardRef)((e,t)=>s.createElement(o,{chartName:`AreaChart`,defaultTooltipEventType:`axis`,validateTooltipEventTypes:l,tooltipPayloadSearcher:i,categoricalChartProps:e,ref:t}))})))()}export{d as n,u as t};
+//# sourceMappingURL=AreaChart-f642d703d817.js.map

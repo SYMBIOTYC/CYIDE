@@ -1,0 +1,1 @@
+import{GFt as e,KFt as t}from"./app-initial-17dd08407f00.js";t();export{e as applyPageRealtimeMetadata};

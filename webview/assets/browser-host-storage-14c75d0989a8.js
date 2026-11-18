@@ -1,0 +1,1 @@
+import{V2 as e,W2 as t}from"./app-initial-f8f84852daaa.js";t();export{e as accessBrowserHostRecordDurably};

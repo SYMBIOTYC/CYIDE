@@ -1,0 +1,1 @@
+import{n as e,t}from"./bird-BH-ekwqn-8cd4e3a21251.js";e();export{t as default};

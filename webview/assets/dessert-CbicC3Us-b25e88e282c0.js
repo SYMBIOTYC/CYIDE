@@ -1,0 +1,1 @@
+import{n as e,t}from"./dessert-CbicC3Us-270f00646bb1.js";e();export{t as default};

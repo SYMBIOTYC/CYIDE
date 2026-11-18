@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{i3 as t,jtt as n}from"./app-initial-ef83d79c5fa7.js";import{n as r,t as i}from"./effects.module-42748d1eda1d.js";function a(){let e=(0,s.c)(1),t;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(t=(0,c.jsx)(`span`,{"aria-hidden":!0,className:i.Burst,children:Array.from({length:16},o)}),e[0]=t):t=e[0],t}function o(e,t){return(0,c.jsx)(`span`,{},t)}var s,c;function l(){return(l=e((()=>{s=n(),r(),c=t()})))()}l();export{a as ModelPickerPowerSliderMaxBurst};
+//# sourceMappingURL=max-burst-ff2efa63a6bc.js.map

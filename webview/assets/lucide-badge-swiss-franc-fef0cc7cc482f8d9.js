@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-badge-swiss-franc-4f361efec9e10cf0.js";e();export{t as default};

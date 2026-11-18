@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";var t,n,r,i,a,o,s,c;function l(){return(l=e((()=>{t=`_FastTrackParticles_1x0dj_1`,n=`_FastTrackParticleTravel_1x0dj_236`,r=`_FastTrackParticlePath_1x0dj_7`,i=`_TrackParticle_1x0dj_22`,a=`_TrackParticles_1x0dj_38`,o=`_Burst_1x0dj_78`,s=`_ParticleBurst_1x0dj_236`,c={FastTrackParticles:t,FastTrackParticleTravel:n,FastTrackParticlePath:r,TrackParticle:i,TrackParticles:a,Burst:o,ParticleBurst:s}})))()}export{l as n,c as t};
+//# sourceMappingURL=effects.module-42748d1eda1d.js.map

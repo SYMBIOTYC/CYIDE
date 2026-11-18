@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";var t,n,r;function i(){return(i=e((()=>{t=function(e){return e.Local=`local`,e.Remote=`remote`,e}({}),n=function(e){return e.Audio=`audio`,e.Video=`video`,e}({}),r=function(e){return e.Camera=`camera`,e.Microphone=`microphone`,e.ScreenShare=`screen_share`,e}({})})))()}export{i,t as n,r,n as t};
+//# sourceMappingURL=contracts-c143a6cf528c.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-ribbon-d5db2a73a131bc40.js";e();export{t as default};
