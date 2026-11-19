@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-gavel-584891960b7c2eae.js";e();export{t as default};

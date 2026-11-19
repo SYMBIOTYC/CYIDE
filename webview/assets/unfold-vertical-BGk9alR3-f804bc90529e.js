@@ -1,0 +1,1 @@
+import{n as e,t}from"./unfold-vertical-BGk9alR3-16478b4d21c1.js";e();export{t as default};

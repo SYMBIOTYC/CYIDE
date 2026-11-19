@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{H as t,V as n}from"./src-f7b154d0e64f.js";function r(e,t){if(e===0)return t;let n=((...e)=>t(...e));return o.configureCallback(e,n),n}function i(e){return r(1,e)}function a(e){return r(6,e)}var o;function s(){return(s=e((()=>{t(),o=n()})))()}export{i as n,a as r,s as t};
+//# sourceMappingURL=FunctionUtils-86abdb911c6a.js.map

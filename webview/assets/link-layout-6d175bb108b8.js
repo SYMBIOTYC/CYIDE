@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{i3 as t,jtt as n,mL as r,oL as i}from"./app-initial-ef83d79c5fa7.js";import{czt as a,fw as o,szt as s,uw as c}from"./app-initial-f8f84852daaa.js";function l(){let e=(0,u.c)(2),{authMethod:t}=a(),n;return e[0]===t?n=e[1]:(n=t?(0,d.jsx)(c,{}):(0,d.jsx)(`main`,{className:`h-full bg-surface`,children:(0,d.jsx)(i,{})}),e[0]=t,e[1]=n),n}var u,d;function f(){return(f=e((()=>{u=n(),r(),o(),s(),d=t()})))()}f();export{l as TrustedContactLinkLayout};
+//# sourceMappingURL=link-layout-6d175bb108b8.js.map

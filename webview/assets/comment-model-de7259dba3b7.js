@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e){return`${e.localPdfContext?.path??``}:${e.localPdfContext?.pageNumber??0}:${e.position.line}`}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=comment-model-de7259dba3b7.js.map

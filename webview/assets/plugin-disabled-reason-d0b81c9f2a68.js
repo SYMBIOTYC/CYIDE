@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{WL as t,i3 as n,jtt as r,zL as i}from"./app-initial-ef83d79c5fa7.js";import{n as a,r as o}from"./messages-b0b0a732cb57.js";function s(e){let n=(0,c.c)(5),{children:r,disabledReason:i}=e,o;n[0]===i?o=n[1]:(o=a(i),n[0]=i,n[1]=o);let s=o,u;return n[2]!==r||n[3]!==s?(u=s==null?r:(0,l.jsx)(t,{...s}),n[2]=r,n[3]=s,n[4]=u):u=n[4],u}var c,l;function u(){return(u=e((()=>{c=r(),i(),o(),l=n()})))()}export{u as n,s as t};
+//# sourceMappingURL=plugin-disabled-reason-d0b81c9f2a68.js.map

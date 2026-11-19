@@ -1,0 +1,1 @@
+@layer components{._cardSlot_6rb17_1{grid-template-rows:1fr;transition:grid-template-rows .3s cubic-bezier(.22,1,.36,1),margin-block-end .3s cubic-bezier(.22,1,.36,1),opacity .15s ease-out;display:grid}._cardSlot_6rb17_1[data-collapsed]{opacity:0;grid-template-rows:0fr;margin-block-end:-1.5rem}@media (prefers-reduced-motion:reduce){._cardSlot_6rb17_1{transition:none}}}

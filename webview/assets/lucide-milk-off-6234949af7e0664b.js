@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-milk-off-3d528f3ec872d374.js";e();export{t as default};

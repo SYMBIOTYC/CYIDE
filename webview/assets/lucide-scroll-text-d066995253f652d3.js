@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-scroll-text-68a3eb8501bdc64b.js";e();export{t as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{P7 as t,W9 as n,p8 as r}from"./app-initial-ef83d79c5fa7.js";var i;function a(){return(a=e((()=>{r(),i=n({protocol:/^https$/}).or(t()).nullish().catch(null)})))()}export{a as n,i as t};
+//# sourceMappingURL=icon-value-357bfa9a9c5e.js.map

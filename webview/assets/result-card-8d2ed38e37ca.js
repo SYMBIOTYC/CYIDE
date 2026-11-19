@@ -1,0 +1,1 @@
+import"./app-initial-ef83d79c5fa7.js";import{r as e,t}from"./result-card-8977f3407ee6.js";e();export{t as EnvironmentSetupPrototypeResultCard};

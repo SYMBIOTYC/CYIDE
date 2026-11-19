@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-square-percent-21d1af721e1f6101.js";e();export{t as default};

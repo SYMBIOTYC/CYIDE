@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";var t;function n(){return(n=e((()=>{t=function(){return null}})))()}n();export{t as ReactQueryDevtoolsPanel};
+//# sourceMappingURL=modern-340717e94263.js.map
