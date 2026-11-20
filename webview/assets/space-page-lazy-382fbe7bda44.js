@@ -1,0 +1,1 @@
+import{G0 as e,K0 as t}from"./app-initial-cb9d23c7d437.js";e();export{t as prefetchSpacePageForCreation};

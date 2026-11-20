@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-80b69fe6a904befa.js";var r;function i(){return(i=e((()=>{t(),r=n(`SquareSigma`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M16 8.9V7H8l4 5-4 5h8v-1.9`,key:`9nih0i`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-square-sigma-2d98077476554779.js.map

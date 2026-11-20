@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-57e7d8cb8190.js";var r;function i(){return(i=e((()=>{t(),r=n(`ArrowDownLeft`,[[`path`,{d:`M17 7 7 17`,key:`15tmo1`}],[`path`,{d:`M17 17H7V7`,key:`1org7z`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=arrow-down-left-B0Z-4ZQL-1750025eaca1.js.map

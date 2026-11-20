@@ -1,0 +1,1 @@
+import"./app-initial-3aea4f07841c.js";import{n as e,r as t,t as n}from"./Scribble-9038327b6bdc.js";t();export{n as ScribbleIcon,e as ScribbleIconSm};

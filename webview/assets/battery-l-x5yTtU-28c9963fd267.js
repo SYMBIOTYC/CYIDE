@@ -1,0 +1,1 @@
+import{n as e,t}from"./battery-l-x5yTtU-2d3dcec2016d.js";t();export{e as default};

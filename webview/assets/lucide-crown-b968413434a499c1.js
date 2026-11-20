@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-crown-f60aa0f9302e51f3.js";e();export{t as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-57e7d8cb8190.js";var r;function i(){return(i=e((()=>{t(),r=n(`ReceiptRussianRuble`,[[`path`,{d:`M4 2v20l2-1 2 1 2-1 2 1 2-1 2 1 2-1 2 1V2l-2 1-2-1-2 1-2-1-2 1-2-1-2 1Z`,key:`q3az6g`}],[`path`,{d:`M8 15h5`,key:`vxg57a`}],[`path`,{d:`M8 11h5a2 2 0 1 0 0-4h-3v10`,key:`1usi5u`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=receipt-russian-ruble-DsDD1ttB-8c5520a9367b.js.map

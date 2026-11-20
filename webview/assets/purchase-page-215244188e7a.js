@@ -1,0 +1,1 @@
+import"./app-initial-3aea4f07841c.js";import{n as e,t}from"./purchase-page-3e0dedfa7e24.js";e();export{t as CreditPurchasePage};

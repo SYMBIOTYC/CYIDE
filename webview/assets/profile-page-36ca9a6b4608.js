@@ -1,0 +1,1 @@
+import"./app-initial-3aea4f07841c.js";import{r as e,t}from"./profile-page-aa8e9f40091f.js";e();export{t as ProfilePage};

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-badge-indian-rupee-f06beacaab08366e.js";e();export{t as default};

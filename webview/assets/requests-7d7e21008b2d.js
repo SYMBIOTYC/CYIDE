@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{SMn as t,vjn as n,xMn as r}from"./app-initial-cb9d23c7d437.js";function i(e){return[...s,JSON.stringify(e)]}function a(e){return[...c,JSON.stringify(e)]}async function o(e,t){let i=r?.ambientSuggestions;i!=null&&await n(i.refresh(e),t)}var s,c;function l(){return(l=e((()=>{t(),s=[`vscode`,`ambient-suggestions`],c=[`vscode`,`ambient-suggestions-refresh`]})))()}export{l as a,a as i,c as n,o,i as r,s as t};
+//# sourceMappingURL=requests-7d7e21008b2d.js.map

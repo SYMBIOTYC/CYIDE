@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-80b69fe6a904befa.js";var r;function i(){return(i=e((()=>{t(),r=n(`Columns2`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M12 3v18`,key:`108xh3`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-columns-2-fc0945adce1d5955.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-plane-landing-6bf2bc0b66f627b2.js";e();export{t as default};

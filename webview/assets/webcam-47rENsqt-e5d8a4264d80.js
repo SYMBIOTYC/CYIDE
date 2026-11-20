@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-57e7d8cb8190.js";var r;function i(){return(i=e((()=>{t(),r=n(`Webcam`,[[`circle`,{cx:`12`,cy:`10`,r:`8`,key:`1gshiw`}],[`circle`,{cx:`12`,cy:`10`,r:`3`,key:`ilqhr7`}],[`path`,{d:`M7 22h10`,key:`10w4w3`}],[`path`,{d:`M12 22v-4`,key:`1utk9m`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=webcam-47rENsqt-e5d8a4264d80.js.map

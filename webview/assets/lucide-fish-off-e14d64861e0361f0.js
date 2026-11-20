@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-fish-off-4d11819bbc2d9e8d.js";e();export{t as default};

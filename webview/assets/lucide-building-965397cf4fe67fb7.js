@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-building-e1f7620f5776a23e.js";e();export{t as default};

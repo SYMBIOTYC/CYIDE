@@ -1,0 +1,1 @@
+import"./app-initial-3aea4f07841c.js";import{n as e,t}from"./setup-form-e3a1ccfdb5b8.js";e();export{t as FeedSetupForm};

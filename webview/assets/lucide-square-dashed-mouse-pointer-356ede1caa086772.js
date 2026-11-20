@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-square-dashed-mouse-pointer-3190dbd68e7af259.js";e();export{t as default};

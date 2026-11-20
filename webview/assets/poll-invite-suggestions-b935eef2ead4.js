@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Dwn as t,Own as n}from"./app-initial-cb9d23c7d437.js";import{n as r,t as i}from"./invite-suggestions-471eb0ebc18c.js";async function a(e,t){let i=await r(e,t,e=>e instanceof Error&&n(e));if(i.status!==`ready`||i.emails==null)throw Error(`Invite suggestions unavailable`);return i.emails}function o(){return(o=e((()=>{i(),t()})))()}export{a as n,o as t};
+//# sourceMappingURL=poll-invite-suggestions-b935eef2ead4.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Mgt as t,Wgt as n,ZNt as r,bct as i,iVt as a,rVt as o,xct as s}from"./app-initial-8772a6c252d5.js";function c(e,t){let n=i(t),a=new URLSearchParams(e).get(`prompt`)??``,s=`@${n}`;a.startsWith(s)&&(a.length===s.length||/[\s\p{P}]/u.test(a[s.length]))&&(a=a.slice(s.length));let c=a.replaceAll(`](`,`]\\(`);return{prefillPrompt:`${r(s,o(t.plugin.id))} ${c}`,prefillPromptFormat:`plain`}}function l(){return(l=e((()=>{s(),a(),t(),n()})))()}export{l as n,c as t};
+//# sourceMappingURL=composer-prefill-1b0855d8261c.js.map

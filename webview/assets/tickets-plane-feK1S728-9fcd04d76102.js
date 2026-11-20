@@ -1,0 +1,1 @@
+import{n as e,t}from"./tickets-plane-feK1S728-26d8b671c9c4.js";e();export{t as default};

@@ -1,0 +1,1 @@
+import"./app-initial-3aea4f07841c.js";import{n as e,t}from"./workspace-discovery-416a7f6d1275.js";e();export{t as WorkspaceDiscovery};

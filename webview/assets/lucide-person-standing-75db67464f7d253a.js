@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-80b69fe6a904befa.js";var r;function i(){return(i=e((()=>{t(),r=n(`PersonStanding`,[[`circle`,{cx:`12`,cy:`5`,r:`1`,key:`gxeob9`}],[`path`,{d:`m9 20 3-6 3 6`,key:`se2kox`}],[`path`,{d:`m6 8 6 2 6-2`,key:`4o3us4`}],[`path`,{d:`M12 10v4`,key:`1kjpxc`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-person-standing-75db67464f7d253a.js.map

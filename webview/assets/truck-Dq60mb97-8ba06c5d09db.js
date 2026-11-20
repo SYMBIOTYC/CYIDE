@@ -1,0 +1,1 @@
+import{n as e,t}from"./truck-Dq60mb97-2e8526e62eb5.js";e();export{t as default};

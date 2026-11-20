@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-80b69fe6a904befa.js";var r;function i(){return(i=e((()=>{t(),r=n(`StepBack`,[[`line`,{x1:`18`,x2:`18`,y1:`20`,y2:`4`,key:`cun8e5`}],[`polygon`,{points:`14,20 4,12 14,4`,key:`ypakod`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-step-back-31d35f62656776d8.js.map

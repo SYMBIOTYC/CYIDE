@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{dR as t,fR as n}from"./app-initial-3aea4f07841c.js";var r;function i(){return(i=e((()=>{n(),r=t({accept:{id:`codex.joinApproval.acceptInvite`,defaultMessage:`Accept invite`,description:`Accept one person's pending request to join the workspace.`},acceptAll:{id:`codex.joinApproval.acceptAll`,defaultMessage:`Accept all invites`,description:`Accept all pending requests to join this workspace.`}})})))()}export{r as n,i as t};
+//# sourceMappingURL=messages-21ae3371024a.js.map

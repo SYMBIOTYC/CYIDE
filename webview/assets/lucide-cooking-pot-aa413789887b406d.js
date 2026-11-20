@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-cooking-pot-e4499b95ab98fcff.js";e();export{t as default};

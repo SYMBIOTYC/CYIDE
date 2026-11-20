@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-80b69fe6a904befa.js";var r;function i(){return(i=e((()=>{t(),r=n(`Twitch`,[[`path`,{d:`M21 2H3v16h5v4l4-4h5l4-4V2zm-10 9V7m5 4V7`,key:`c0yzno`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-twitch-b6238396c2fabb88.js.map

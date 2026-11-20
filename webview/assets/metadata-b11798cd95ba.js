@@ -1,0 +1,1 @@
+import"./app-initial-3aea4f07841c.js";import{a as e,r as t}from"./metadata-8ee81af533a5.js";import"./metadata-view-10aec2db7acf.js";e();export{t as ChatGptLocalBusinessMetadata};

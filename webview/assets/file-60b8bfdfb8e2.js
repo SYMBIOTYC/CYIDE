@@ -1,0 +1,1 @@
+import"./app-initial-3aea4f07841c.js";import{n as e,t}from"./file-43365cfe690e.js";e();export{t as ChatGptFileReference};

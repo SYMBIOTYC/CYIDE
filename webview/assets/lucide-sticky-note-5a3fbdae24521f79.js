@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-80b69fe6a904befa.js";var r;function i(){return(i=e((()=>{t(),r=n(`StickyNote`,[[`path`,{d:`M16 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V8Z`,key:`qazsjp`}],[`path`,{d:`M15 3v4a2 2 0 0 0 2 2h4`,key:`40519r`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-sticky-note-5a3fbdae24521f79.js.map

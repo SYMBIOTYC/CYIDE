@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-80b69fe6a904befa.js";var r;function i(){return(i=e((()=>{t(),r=n(`TextQuote`,[[`path`,{d:`M17 6H3`,key:`16j9eg`}],[`path`,{d:`M21 12H8`,key:`scolzb`}],[`path`,{d:`M21 18H8`,key:`1wfozv`}],[`path`,{d:`M3 12v6`,key:`fv4c87`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-text-quote-2713fe5545470d5e.js.map

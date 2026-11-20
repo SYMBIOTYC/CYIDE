@@ -1,0 +1,1 @@
+import"./app-initial-3aea4f07841c.js";import{n as e,r as t}from"./loading-723041d944c7.js";t();export{e as TeamSpaceHomeLoading};

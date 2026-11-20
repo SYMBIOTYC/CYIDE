@@ -1,0 +1,1 @@
+import{n as e,t}from"./receipt-indian-rupee-C49AolMQ-fe96f09c1d05.js";t();export{e as default};

@@ -1,0 +1,1 @@
+import{I0 as e,L0 as t}from"./app-initial-8772a6c252d5.js";e();export{t as moveTabToNewWindow};

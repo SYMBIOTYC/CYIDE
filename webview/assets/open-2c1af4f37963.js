@@ -1,0 +1,1 @@
+import"./app-initial-3aea4f07841c.js";import{n as e,t}from"./open-77d6db2fd600.js";t();export{e as openMcpSourceCitation};

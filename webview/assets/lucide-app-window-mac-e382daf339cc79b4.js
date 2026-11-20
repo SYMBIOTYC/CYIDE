@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-80b69fe6a904befa.js";var r;function i(){return(i=e((()=>{t(),r=n(`AppWindowMac`,[[`rect`,{width:`20`,height:`16`,x:`2`,y:`4`,rx:`2`,key:`18n3k1`}],[`path`,{d:`M6 8h.01`,key:`x9i8wu`}],[`path`,{d:`M10 8h.01`,key:`1r9ogq`}],[`path`,{d:`M14 8h.01`,key:`1primd`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-app-window-mac-e382daf339cc79b4.js.map

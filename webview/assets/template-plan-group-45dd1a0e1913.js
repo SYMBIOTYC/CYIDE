@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{mdn as t}from"./app-initial-8772a6c252d5.js";import{JOn as n,QOn as r,YOn as i,tkn as a}from"./app-initial-cb9d23c7d437.js";function o(e){if(i(e))return`education`;if(r(e)||a(e))return`business`;switch(e){case t.FREE:case t.GO:case t.PLUS:case t.PRO:case t.PROMAX:case t.PROLITE:return`individual`;default:return`fallback`}}function s(){return(s=e((()=>{n()})))()}export{s as n,o as t};
+//# sourceMappingURL=template-plan-group-45dd1a0e1913.js.map

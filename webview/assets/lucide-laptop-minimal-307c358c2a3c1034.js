@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-80b69fe6a904befa.js";var r;function i(){return(i=e((()=>{t(),r=n(`LaptopMinimal`,[[`rect`,{width:`18`,height:`12`,x:`3`,y:`4`,rx:`2`,ry:`2`,key:`1qhy41`}],[`line`,{x1:`2`,x2:`22`,y1:`20`,y2:`20`,key:`ni3hll`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-laptop-minimal-307c358c2a3c1034.js.map

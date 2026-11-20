@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-57e7d8cb8190.js";var r;function i(){return(i=e((()=>{t(),r=n(`TableCellsMerge`,[[`path`,{d:`M12 21v-6`,key:`lihzve`}],[`path`,{d:`M12 9V3`,key:`da5inc`}],[`path`,{d:`M3 15h18`,key:`5xshup`}],[`path`,{d:`M3 9h18`,key:`1pudct`}],[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=table-cells-merge-BHWOV9Fo-5084a2fea912.js.map

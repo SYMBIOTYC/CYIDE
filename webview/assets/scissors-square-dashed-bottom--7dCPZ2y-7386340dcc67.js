@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./square-bottom-dashed-scissors-DXjuZVKD-0bb41ec30d3b.js";function r(){return(r=e((()=>{t()})))()}r();export{n as default};
+//# sourceMappingURL=scissors-square-dashed-bottom--7dCPZ2y-7386340dcc67.js.map

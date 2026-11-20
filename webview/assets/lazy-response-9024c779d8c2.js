@@ -1,0 +1,1 @@
+import"./app-initial-3aea4f07841c.js";import{n as e,t}from"./lazy-response-fe5604f21c49.js";e();export{t as DilResponse};

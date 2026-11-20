@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{SR as t,ent as n,fR as r}from"./app-initial-3aea4f07841c.js";import{Dan as i,Oan as a}from"./app-initial-8772a6c252d5.js";import{iwn as o,lwn as s}from"./app-initial-cb9d23c7d437.js";function c(e){(0,l.c)(4);let{parameter:n,children:r}=e,{locale:i}=t(),{authMethod:o,isLoading:c}=a();return s(),r}var l;function u(){return(u=e((()=>{l=n(),r(),i(),o()})))()}export{u as n,c as t};
+//# sourceMappingURL=hindi-copy-afb02dc70b0a.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{dR as t,fR as n}from"./app-initial-3aea4f07841c.js";var r;function i(){return(i=e((()=>{n(),r=t({heading:{id:`space.slideTemplates.heading`,defaultMessage:`Slides`,description:`Category heading and tab for native ChatGPT Slides templates`}})})))()}export{r as n,i as t};
+//# sourceMappingURL=messages-c4cd78844fa5.js.map

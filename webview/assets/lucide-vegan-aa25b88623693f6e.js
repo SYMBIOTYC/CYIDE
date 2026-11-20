@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-vegan-517c5acd8a6b1af1.js";e();export{t as default};

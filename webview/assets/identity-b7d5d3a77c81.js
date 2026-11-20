@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Rtn as t}from"./app-initial-8772a6c252d5.js";function n({accountId:e,userId:n,source:r,file:i,fragment:a,desiredAccessMode:o}){return e==null||n==null?null:{accountId:e,userId:n,sourceHostId:r.kind===`codex`?r.hostId:`chatgpt`,sourceThreadId:r.threadId,file:i,revision:`fragment-v1-${t(a)}`,desiredAccessMode:o}}function r(){return(r=e((()=>{})))()}export{r as n,n as t};
+//# sourceMappingURL=identity-b7d5d3a77c81.js.map

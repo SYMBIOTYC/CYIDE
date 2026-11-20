@@ -1,0 +1,1 @@
+import"./app-initial-3aea4f07841c.js";import{n as e,r as t,t as n}from"./open-viewer-a3474657c0ee.js";e();export{n as FlashcardsDialog,t as openFlashcardsViewer};

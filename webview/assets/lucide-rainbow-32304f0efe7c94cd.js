@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-80b69fe6a904befa.js";var r;function i(){return(i=e((()=>{t(),r=n(`Rainbow`,[[`path`,{d:`M22 17a10 10 0 0 0-20 0`,key:`ozegv`}],[`path`,{d:`M6 17a6 6 0 0 1 12 0`,key:`5giftw`}],[`path`,{d:`M10 17a2 2 0 0 1 4 0`,key:`gnsikk`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-rainbow-32304f0efe7c94cd.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-wand-sparkles-d22f370e5230ba73.js";e();export{t as default};

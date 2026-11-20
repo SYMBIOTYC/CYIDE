@@ -1,0 +1,1 @@
+import{n as e,t}from"./octagon-pause-BBKd2xNd-786406d2da33.js";t();export{e as default};

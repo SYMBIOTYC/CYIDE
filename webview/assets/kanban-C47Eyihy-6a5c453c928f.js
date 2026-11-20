@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-57e7d8cb8190.js";var r;function i(){return(i=e((()=>{t(),r=n(`Kanban`,[[`path`,{d:`M6 5v11`,key:`mdvv1e`}],[`path`,{d:`M12 5v6`,key:`14ar3b`}],[`path`,{d:`M18 5v14`,key:`7ji314`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=kanban-C47Eyihy-6a5c453c928f.js.map

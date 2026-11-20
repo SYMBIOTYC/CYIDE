@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{tnt as t}from"./app-initial-3aea4f07841c.js";var n,r,i;function a(){return(a=e((()=>{n=t(),r=(0,n.createContext)({}),i=(0,n.createContext)(`legacy`)})))()}export{i as n,a as r,r as t};
+//# sourceMappingURL=user-message-mode-ee974a5546ab.js.map

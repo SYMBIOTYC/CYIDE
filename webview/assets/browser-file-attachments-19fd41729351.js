@@ -1,0 +1,1 @@
+import"./app-initial-3aea4f07841c.js";import{a as e,t}from"./browser-file-attachments-ea721077212f.js";e();export{t as createBrowserFileAttachmentDescriptors};

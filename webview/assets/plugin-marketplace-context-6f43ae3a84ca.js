@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{atn as t,ltn as n}from"./app-initial-8772a6c252d5.js";import{CTn as r,STn as i}from"./app-initial-cb9d23c7d437.js";import{gj as a,hj as o}from"./app-initial-941db623807a.js";function s(e,n){if(!e.get(r))return;let i=e.get(t);if(i!=null)return{productExperience:i===`chat`?o.CHATGPT_PRODUCT_EXPERIENCE_CHAT:o.CHATGPT_PRODUCT_EXPERIENCE_WORK,surface:n}}function c(){return(c=e((()=>{a(),n(),i()})))()}export{c as n,s as t};
+//# sourceMappingURL=plugin-marketplace-context-6f43ae3a84ca.js.map

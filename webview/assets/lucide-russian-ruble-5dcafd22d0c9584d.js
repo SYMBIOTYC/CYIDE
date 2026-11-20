@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-russian-ruble-3d5a6b52cb0ba59b.js";e();export{t as default};

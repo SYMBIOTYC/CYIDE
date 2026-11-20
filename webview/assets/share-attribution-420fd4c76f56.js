@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{My as t,Uy as n}from"./app-initial-941db623807a.js";import{a as r,c as i,d as a,f as o,r as s,s as c}from"./intent-6420c8b324f6.js";function l(e,n){let o=r(n);return o==null||!a(e,o)?!1:(i(e,o,t.CHATGPT_SHARE_FLOW_ACTION_FIRST_MESSAGE_SENT),!0)}function u(){return(u=e((()=>{n(),c(),o(),s()})))()}u();export{l as logBusinessProfileShareFirstMessage};
+//# sourceMappingURL=share-attribution-420fd4c76f56.js.map

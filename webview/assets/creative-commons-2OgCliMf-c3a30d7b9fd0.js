@@ -1,0 +1,1 @@
+import{n as e,t}from"./creative-commons-2OgCliMf-379d27c3ed20.js";t();export{e as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-57e7d8cb8190.js";var r;function i(){return(i=e((()=>{t(),r=n(`Crop`,[[`path`,{d:`M6 2v14a2 2 0 0 0 2 2h14`,key:`ron5a4`}],[`path`,{d:`M18 22V8a2 2 0 0 0-2-2H2`,key:`7s9ehn`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=crop-D9YhCwTh-de85c589866d.js.map

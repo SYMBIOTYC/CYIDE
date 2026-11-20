@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-80b69fe6a904befa.js";var r;function i(){return(i=e((()=>{t(),r=n(`ChartColumnDecreasing`,[[`path`,{d:`M13 17V9`,key:`1fwyjl`}],[`path`,{d:`M18 17v-3`,key:`1sqioe`}],[`path`,{d:`M3 3v16a2 2 0 0 0 2 2h16`,key:`c24i48`}],[`path`,{d:`M8 17V5`,key:`1wzmnc`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-chart-column-decreasing-bfdd997fb4379ec9.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-webhook-9c43da06c96825b2.js";e();export{t as default};

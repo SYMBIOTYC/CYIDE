@@ -1,0 +1,1 @@
+import{n as e,t}from"./book-lock-hAlPTyS2-982beac168f0.js";e();export{t as default};

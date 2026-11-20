@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-frown-8dbdc5795f545124.js";e();export{t as default};

@@ -1,0 +1,1 @@
+import"./app-initial-3aea4f07841c.js";import{HG as e,UG as t}from"./app-initial-8772a6c252d5.js";t();export{e as CodeSnippet};

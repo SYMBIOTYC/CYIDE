@@ -1,0 +1,1 @@
+import"./app-initial-3aea4f07841c.js";import{o as e,r as t}from"./actions-ecf8b1c1b0d9.js";t();export{e as preparePageMoveDialog};

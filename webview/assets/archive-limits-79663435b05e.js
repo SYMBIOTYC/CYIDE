@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{P8 as t,R9 as n}from"./app-initial-3aea4f07841c.js";var r;function i(){return(i=e((()=>{t(),r=n().int().positive().catch(104857600)})))()}export{r as n,i as t};
+//# sourceMappingURL=archive-limits-79663435b05e.js.map

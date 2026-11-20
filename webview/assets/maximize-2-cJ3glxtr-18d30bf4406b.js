@@ -1,0 +1,1 @@
+import{n as e,t}from"./maximize-2-cJ3glxtr-44ae8a6b8ad3.js";t();export{e as default};

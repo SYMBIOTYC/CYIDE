@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-flame-kindling-3740f8d2c49f11ad.js";e();export{t as default};

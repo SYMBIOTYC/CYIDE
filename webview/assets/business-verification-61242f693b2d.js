@@ -1,0 +1,1 @@
+import"./app-initial-3aea4f07841c.js";import{i as e,n as t}from"./business-verification-9cb0b31f334b.js";e();export{t as BusinessProfileVerificationEntry};

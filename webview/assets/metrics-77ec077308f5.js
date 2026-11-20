@@ -1,0 +1,1 @@
+import"./app-initial-3aea4f07841c.js";import{r as e,t}from"./metrics-a9b5cefce386.js";e();export{t as BusinessInsightsMetrics};

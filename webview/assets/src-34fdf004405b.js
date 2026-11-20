@@ -1,0 +1,1 @@
+import{r as e,t}from"./src-9ee105b1df55.js";t();export{e as remarkMath};

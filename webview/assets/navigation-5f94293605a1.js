@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Ffn as t,Mfn as n,jfn as r,mfn as i,vfn as a}from"./app-initial-8772a6c252d5.js";function o(e,r){r.backend===`chatgpt`?n(e,i(r.threadId??r.clientThreadId)):r.threadId!=null&&t(e,r.threadId,r.hostId)}function s(){return(s=e((()=>{r(),a()})))()}export{o as n,s as t};
+//# sourceMappingURL=navigation-5f94293605a1.js.map

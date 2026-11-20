@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{h as t,t as n}from"./src-cb4cd91178f2.js";import{n as r,r as i}from"./chunk-Y2CYZVJY-f8b781fc3942.js";var a;function o(){return(o=e((()=>{i(),n(),a=r((e,n)=>{let r;return n===`sandbox`&&(r=t(`#i`+e)),t(n===`sandbox`?r.nodes()[0].contentDocument.body:`body`).select(`[id="${e}"]`)},`getDiagramElement`)})))()}export{o as n,a as t};
+//# sourceMappingURL=chunk-XXDRQBXY-45eef8e99be2.js.map

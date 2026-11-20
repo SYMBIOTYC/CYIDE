@@ -1,0 +1,1 @@
+import{n as e,t}from"./open-discovery-9d62980bb0e6.js";t();export{e as openWorkspaceDiscovery};

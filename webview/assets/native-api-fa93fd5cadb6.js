@@ -1,0 +1,1 @@
+import"./app-initial-3aea4f07841c.js";import"./app-initial-cb9d23c7d437.js";import{n as e,r as t}from"./native-api-f71198120366.js";t();export{e as createNativeMessagingApi};

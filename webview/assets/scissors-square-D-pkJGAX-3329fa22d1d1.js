@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./square-scissors-C0W02Scx-a453296a3c1d.js";function r(){return(r=e((()=>{n()})))()}r();export{t as default};
+//# sourceMappingURL=scissors-square-D-pkJGAX-3329fa22d1d1.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{akn as t,rkn as n}from"./app-initial-cb9d23c7d437.js";var r;function i(){return(i=e((()=>{n(),r=t(`electron:onboarding-login-entrypoint`,void 0)})))()}export{r as n,i as t};
+//# sourceMappingURL=onboarding-entrypoint-e7e5ede05d6d.js.map

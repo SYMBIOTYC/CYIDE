@@ -1,0 +1,1 @@
+import"./app-initial-3aea4f07841c.js";import{n as e,t}from"./SparkleFill-82ee54f8371f.js";e();export{t as default};

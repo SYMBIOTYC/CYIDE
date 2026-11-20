@@ -1,0 +1,1 @@
+import{n as e,t}from"./shapes-BH3R-w7d-10042f920e28.js";e();export{t as default};

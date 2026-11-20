@@ -1,0 +1,1 @@
+import{XDt as e,YDt as t}from"./app-initial-cb9d23c7d437.js";t();export{e as renameLinkedProject};

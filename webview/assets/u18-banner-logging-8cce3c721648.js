@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{TOn as t,kOn as n}from"./app-initial-cb9d23c7d437.js";import{n as r,t as i}from"./current-family-account-b0eab8431c66.js";function a(e,t,i){r(e,t)&&e.get(n).logU18ModelPolicyBannerEvent?.(i==null?`U18 Model Policy Banner Shown`:`U18 Model Policy Banner Clicked`,{user_id:t.userId,account_id:t.accountId,timestamp_iso:new Date().toISOString(),cta:i})}function o(){return(o=e((()=>{t(),i()})))()}export{a as n,o as t};
+//# sourceMappingURL=u18-banner-logging-8cce3c721648.js.map

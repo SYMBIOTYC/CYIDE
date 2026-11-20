@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e,t){let n=Math.max(1,t),r=e<0?n+1+e:e;return Math.min(Math.max(1,r),n)}function n(e){let t=new RegExp(i,`g`),n=1;for(;t.test(e);)n+=1;return n}function r(e,t){return e.split(i,t)}var i;function a(){return(a=e((()=>{i=/\r\n|[\r\n]/})))()}export{r as i,a as n,t as r,n as t};
+//# sourceMappingURL=go-to-line-667c28bbdf57.js.map
