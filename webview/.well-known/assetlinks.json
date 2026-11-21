@@ -1,0 +1,95 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds",
+      "delegate_permission/common.use_as_origin"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.openai.chatgpt",
+      "sha256_cert_fingerprints": [
+        "B2:4F:4B:FB:B3:CF:29:3F:93:87:03:B9:D8:70:27:C1:10:2C:C3:6D:C4:FA:20:69:10:E0:89:27:DB:40:47:3C"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.openai.chatgpt.internal",
+      "sha256_cert_fingerprints": [
+        "C2:BE:4B:72:64:44:73:3E:F7:02:95:69:A3:DD:8F:24:F3:2A:4C:51:80:31:66:35:17:83:A9:96:13:0B:07:D3",
+        "7F:98:C7:5C:88:61:22:0B:86:E0:0D:C4:CF:C3:56:CD:1C:B6:6C:A7:D0:E2:70:C3:82:2B:4A:39:64:B9:EA:A3"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.openai.chatgpt.debug",
+      "sha256_cert_fingerprints": [
+        "C0:3F:24:4A:95:26:1D:C2:88:E8:3F:75:48:DC:32:78:3E:7C:AC:AF:7E:10:A7:C5:1C:AB:74:76:14:C2:82:C1"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.openai.chatgpt.internal.debug",
+      "sha256_cert_fingerprints": [
+        "C0:3F:24:4A:95:26:1D:C2:88:E8:3F:75:48:DC:32:78:3E:7C:AC:AF:7E:10:A7:C5:1C:AB:74:76:14:C2:82:C1"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.openai.sora",
+      "sha256_cert_fingerprints": [
+        "AB:82:DD:2B:2F:48:6D:77:D7:39:35:9A:DC:2B:97:B6:92:FF:4B:15:F8:9B:76:B9:8A:DE:96:74:53:51:36:16"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.openai.sora.internal",
+      "sha256_cert_fingerprints": [
+        "63:E7:98:62:87:C2:44:EF:FB:32:16:8D:51:6F:BF:EA:AC:4D:68:93:B1:8C:B9:C3:01:CD:61:73:01:34:91:C1"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.openai.sora.internal.debug",
+      "sha256_cert_fingerprints": [
+        "C0:3F:24:4A:95:26:1D:C2:88:E8:3F:75:48:DC:32:78:3E:7C:AC:AF:7E:10:A7:C5:1C:AB:74:76:14:C2:82:C1"
+      ]
+    }
+  }
+]

@@ -1,0 +1,1 @@
+import"./app-initial-1f5245639493.js";import{n as e,t}from"./suggestions-9121fcf7ff72.js";e();export{t as ImageSuggestions};

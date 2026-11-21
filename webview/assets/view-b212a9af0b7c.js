@@ -1,0 +1,1 @@
+import"./app-initial-1f5245639493.js";import{n as e,r as t}from"./view-5efc3a2420f3.js";t();export{e as PermissionPromptView};

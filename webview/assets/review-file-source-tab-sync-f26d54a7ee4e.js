@@ -1,0 +1,1 @@
+import"./app-initial-4ce6c66b1093.js";import{Hvt as e,Uvt as t,Vvt as n,Wvt as r}from"./app-initial-a7e8bddc3c95.js";t();export{n as getFileTabCwd,e as getFileTabEnvironmentId,r as syncOpenWorkspaceFileSidePanelTabs};

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-beer-f124565ad6bd16ca.js";e();export{t as default};

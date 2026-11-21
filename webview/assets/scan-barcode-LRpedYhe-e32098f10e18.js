@@ -1,0 +1,1 @@
+import{n as e,t}from"./scan-barcode-LRpedYhe-484695cf125b.js";e();export{t as default};

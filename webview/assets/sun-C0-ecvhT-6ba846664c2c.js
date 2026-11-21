@@ -1,0 +1,1 @@
+import{n as e,t}from"./sun-C0-ecvhT-f1f387b7c8dd.js";e();export{t as default};

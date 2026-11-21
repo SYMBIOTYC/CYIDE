@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-768b647cde943109.js";var r;function i(){return(i=e((()=>{t(),r=n(`Flag`,[[`path`,{d:`M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z`,key:`i9b6wo`}],[`line`,{x1:`4`,x2:`4`,y1:`22`,y2:`15`,key:`1cm3nv`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-flag-ce4691dc2faf20b4.js.map

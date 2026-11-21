@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-768b647cde943109.js";var r;function i(){return(i=e((()=>{t(),r=n(`ChartBarBig`,[[`path`,{d:`M3 3v16a2 2 0 0 0 2 2h16`,key:`c24i48`}],[`rect`,{x:`7`,y:`13`,width:`9`,height:`4`,rx:`1`,key:`1iip1u`}],[`rect`,{x:`7`,y:`5`,width:`12`,height:`4`,rx:`1`,key:`1anskk`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-chart-bar-big-6b7af37467b745e9.js.map

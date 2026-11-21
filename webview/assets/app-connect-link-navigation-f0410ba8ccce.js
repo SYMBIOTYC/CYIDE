@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Kan as t,Yan as n,hln as r,uln as i,zTt as a}from"./app-initial-4ce6c66b1093.js";function o(e,t){return!1}function s(e,n,r){let a=n?.redirectAfterNavigation;if(a!=null&&a.accountId===e.get(t)&&a.userId===e.get(i))return r===`pending`?a.pendingState??a.state:r===`success`?a.state:a.failureState}function c(){return(c=e((()=>{n(),r(),a()})))()}export{c as n,o as r,s as t};
+//# sourceMappingURL=app-connect-link-navigation-f0410ba8ccce.js.map

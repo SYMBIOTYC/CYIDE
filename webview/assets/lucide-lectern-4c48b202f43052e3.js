@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-lectern-4f119d52c134d2c3.js";e();export{t as default};

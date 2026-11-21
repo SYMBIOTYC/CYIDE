@@ -1,0 +1,1 @@
+import{UDt as e,WDt as t}from"./app-initial-4ce6c66b1093.js";t();export{e as fetchChatGptProject};

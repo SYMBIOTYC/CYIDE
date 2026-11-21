@@ -1,0 +1,1 @@
+import"./app-initial-1f5245639493.js";import{n as e,t}from"./appgen-publication-terms-route-9b6b81c66464.js";e();export{t as AppgenPublicationTermsRoute};

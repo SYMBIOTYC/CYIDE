@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-dbc0df566436.js";var r;function i(){return(i=e((()=>{t(),r=n(`Framer`,[[`path`,{d:`M5 16V9h14V2H5l14 14h-7m-7 0 7 7v-7m-7 0h7`,key:`1a2nng`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=framer-DufHT1bL-7f6fcc8a0281.js.map

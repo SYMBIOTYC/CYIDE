@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{OR as t,QR as n,cz as r}from"./app-initial-1f5245639493.js";import{iNn as i,rNn as a}from"./app-initial-a7e8bddc3c95.js";var o,s,c;function l(){return(l=e((()=>{t(),i(),o=r(a,()=>null),s=r(a,()=>null),c=n(a,(e,{get:t})=>{let n=t(o);return n?.conversationId===e?n.phase:null})})))()}export{l as i,o as n,c as r,s as t};
+//# sourceMappingURL=dot-onboarding-handoff-state-e391198135ef.js.map

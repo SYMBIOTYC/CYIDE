@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-768b647cde943109.js";var r;function i(){return(i=e((()=>{t(),r=n(`GitCommitVertical`,[[`path`,{d:`M12 3v6`,key:`1holv5`}],[`circle`,{cx:`12`,cy:`12`,r:`3`,key:`1v7zrd`}],[`path`,{d:`M12 15v6`,key:`a9ows0`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-git-commit-vertical-52df7c06b39f9bd5.js.map

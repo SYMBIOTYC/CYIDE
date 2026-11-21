@@ -1,0 +1,1 @@
+import"./app-initial-1f5245639493.js";import{n as e,t}from"./migration-onboarding-775e97ac71e6.js";e();export{t as MigrationOnboarding};

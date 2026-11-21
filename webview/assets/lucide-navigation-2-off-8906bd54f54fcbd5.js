@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-navigation-2-off-354c678201379e16.js";e();export{t as default};

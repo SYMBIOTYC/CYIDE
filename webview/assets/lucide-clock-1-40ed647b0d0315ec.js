@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-768b647cde943109.js";var r;function i(){return(i=e((()=>{t(),r=n(`Clock1`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`polyline`,{points:`12 6 12 12 14.5 8`,key:`12zbmj`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-clock-1-40ed647b0d0315ec.js.map

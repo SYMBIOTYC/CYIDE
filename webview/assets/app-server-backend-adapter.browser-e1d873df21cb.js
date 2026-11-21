@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{ECn as t,_pn as n}from"./app-initial-4ce6c66b1093.js";var r;function i(){return(i=e((()=>{n(),r=new t})))()}i();export{r as appServerBackendAdapter};
+//# sourceMappingURL=app-server-backend-adapter.browser-e1d873df21cb.js.map

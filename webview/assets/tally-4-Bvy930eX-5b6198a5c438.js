@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-dbc0df566436.js";var r;function i(){return(i=e((()=>{t(),r=n(`Tally4`,[[`path`,{d:`M4 4v16`,key:`6qkkli`}],[`path`,{d:`M9 4v16`,key:`81ygyz`}],[`path`,{d:`M14 4v16`,key:`12vmem`}],[`path`,{d:`M19 4v16`,key:`8ij5ei`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=tally-4-Bvy930eX-5b6198a5c438.js.map

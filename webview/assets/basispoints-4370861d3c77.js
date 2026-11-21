@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";var t;function n(){return(n=e((()=>{t={$type:`protobuf_analytics_events.v1.BasispointsCompanyPageProviderViewed`}})))()}export{n,t};
+//# sourceMappingURL=basispoints-4370861d3c77.js.map

@@ -1,0 +1,1 @@
+import"./app-initial-1f5245639493.js";import{n as e,r as t}from"./chatgpt-gizmo-header-af11d8da12e4.js";t();export{e as ChatGptGizmoHeader};

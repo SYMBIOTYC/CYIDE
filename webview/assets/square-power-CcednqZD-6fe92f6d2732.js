@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-power-CcednqZD-2035bb1fb638.js";t();export{e as default};

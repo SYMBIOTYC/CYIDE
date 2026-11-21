@@ -1,0 +1,1 @@
+@layer components{._bubble_o2wif_1{animation:_appear_o2wif_16 var(--transition-duration-relaxed) ease-in-out .2s both}._bubble_o2wif_1+._bubble_o2wif_1{animation-delay:.3s}@keyframes _appear_o2wif_16{0%{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}}
