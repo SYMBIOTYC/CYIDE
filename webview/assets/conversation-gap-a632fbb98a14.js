@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{C3 as t,b3 as n,ent as r,x3 as i}from"./app-initial-1f5245639493.js";function a(e){let t=(0,o.c)(5),{variant:r,className:i}=e,a=c[r===void 0?`item`:r],l;t[0]!==i||t[1]!==a?(l=n(`w-full shrink-0`,a,i),t[0]=i,t[1]=a,t[2]=l):l=t[2];let u;return t[3]===l?u=t[4]:(u=(0,s.jsx)(`div`,{"aria-hidden":!0,className:l}),t[3]=l,t[4]=u),u}var o,s,c;function l(){return(l=e((()=>{o=r(),i(),s=t(),c={activity:`h-3`,item:`h-4`,compact:`h-2`}})))()}export{l as n,a as t};
+//# sourceMappingURL=conversation-gap-a632fbb98a14.js.map

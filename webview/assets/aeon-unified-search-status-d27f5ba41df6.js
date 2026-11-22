@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e){switch(e){case`off`:return null;case`working`:return`loading`;case`sleeping`:case`stopped`:return`idle`;case`failed`:return`error`}}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=aeon-unified-search-status-d27f5ba41df6.js.map

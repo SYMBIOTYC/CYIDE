@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e){switch(e.state){case`queued`:case`starting`:case`joining`:return e.cancel_requested_at==null?`joining`:`leaving`;case`active`:return e.cancel_requested_at==null?`active`:`leaving`;case`stopping`:return`leaving`}return null}function n(e){return/^agenda_[0-9a-f]{64}$/.test(e)}function r(){return(r=e((()=>{})))()}export{r as n,n as r,t};
+//# sourceMappingURL=rows-e900a03aecc5.js.map

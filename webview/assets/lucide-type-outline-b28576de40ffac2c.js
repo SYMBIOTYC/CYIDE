@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-type-outline-16299615693d0895.js";e();export{t as default};

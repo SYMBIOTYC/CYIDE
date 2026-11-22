@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e){return e.source.type===`remote`&&e.installed&&e.installPolicy===`INSTALLED_BY_DEFAULT`}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=plugin-install-policy-556ef94aca4e.js.map

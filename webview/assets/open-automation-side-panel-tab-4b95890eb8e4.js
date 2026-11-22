@@ -1,0 +1,1 @@
+import"./app-initial-1f5245639493.js";import{a as e,i as t,n,o as r,r as i,t as a}from"./open-automation-side-panel-tab-34667b96c7d4.js";a();export{n as openAutomationSidePanelTab,i as openAutomationSuggestionSidePanelTab,t as openSiteAutomationSidePanelTab,e as prepareSiteAutomationDialog,r as restoreAutomationSidePanelTab};

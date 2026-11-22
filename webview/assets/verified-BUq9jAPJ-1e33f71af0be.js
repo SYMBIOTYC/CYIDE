@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./badge-check-BE58yuJO-4642ce26259d.js";function r(){return(r=e((()=>{t()})))()}r();export{n as default};
+//# sourceMappingURL=verified-BUq9jAPJ-1e33f71af0be.js.map

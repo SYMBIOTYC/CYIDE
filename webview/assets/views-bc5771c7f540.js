@@ -1,0 +1,1 @@
+import"./app-initial-1f5245639493.js";import{n as e,t}from"./views-873918b06ddc.js";e();export{t as BusinessProfileManagerView};

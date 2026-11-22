@@ -1,0 +1,1 @@
+import{n as e,t}from"./waves-CSl9o_Uy-23951e47eee1.js";e();export{t as default};

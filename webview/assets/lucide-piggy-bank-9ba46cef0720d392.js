@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-piggy-bank-c46a2a97719a6331.js";e();export{t as default};

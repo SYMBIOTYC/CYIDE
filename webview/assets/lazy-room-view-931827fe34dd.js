@@ -1,0 +1,1 @@
+import"./app-initial-1f5245639493.js";import{n as e,t}from"./lazy-room-view-cc9d2c5c6faf.js";e();export{t as MessagingRoomView};

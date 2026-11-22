@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-message-circle-off-f52c8b7db8e36dac.js";e();export{t as default};

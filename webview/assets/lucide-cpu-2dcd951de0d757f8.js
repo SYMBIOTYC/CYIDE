@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-cpu-2f2f20149ae942bf.js";e();export{t as default};

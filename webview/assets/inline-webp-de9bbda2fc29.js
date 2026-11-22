@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e){if(e!=null&&e.length<=2097152&&e.startsWith(`data:image/webp;base64,`))return e}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=inline-webp-de9bbda2fc29.js.map

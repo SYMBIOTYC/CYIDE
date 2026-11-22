@@ -1,0 +1,1 @@
+import"./app-initial-1f5245639493.js";import"./app-initial-4ce6c66b1093.js";import"./app-initial-a7e8bddc3c95.js";import{n as e,r as t}from"./suggestions-c484abb6ada5.js";t();export{e as WorkOnboardingSuggestions};

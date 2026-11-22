@@ -1,0 +1,1 @@
+import"./app-initial-1f5245639493.js";import{n as e,t}from"./text-document-preview-430c8eefee9f.js";e();export{t as ChatGptTextDocumentPreview};

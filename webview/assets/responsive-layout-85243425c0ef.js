@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e,t,n){if(e<n+48+24+240+16)return{hasRoom:!1,railWidth:48,railEndInset:0,readingWidth:t,readingShift:0};let r=Math.min(320,Math.max(240,(e-100)*.3)),i=Math.max(16,(e-t)/2-r-24),a=Math.max(0,Math.min(r-8,t+2*(r+24+16)-e));return{hasRoom:!0,railWidth:r,railEndInset:i,readingWidth:Math.min(t,e-a-96),readingShift:-a/2}}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=responsive-layout-85243425c0ef.js.map

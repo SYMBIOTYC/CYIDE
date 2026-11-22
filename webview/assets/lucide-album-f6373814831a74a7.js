@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-768b647cde943109.js";var r;function i(){return(i=e((()=>{t(),r=n(`Album`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,ry:`2`,key:`1m3agn`}],[`polyline`,{points:`11 3 11 11 14 8 17 11 17 3`,key:`1wcwz3`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-album-f6373814831a74a7.js.map

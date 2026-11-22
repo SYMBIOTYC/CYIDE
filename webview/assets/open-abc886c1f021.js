@@ -1,0 +1,1 @@
+import{JV as e,qV as t}from"./app-initial-a7e8bddc3c95.js";e();export{t as createAndOpenPage};

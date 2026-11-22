@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-square-Cm0RH-_Z-2816ff7680ad.js";t();export{e as default};

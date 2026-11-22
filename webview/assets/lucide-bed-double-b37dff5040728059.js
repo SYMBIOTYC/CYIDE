@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-bed-double-773b69961ab50eec.js";e();export{t as default};

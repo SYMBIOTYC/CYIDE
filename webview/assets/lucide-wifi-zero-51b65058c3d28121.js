@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-768b647cde943109.js";var r;function i(){return(i=e((()=>{t(),r=n(`WifiZero`,[[`path`,{d:`M12 20h.01`,key:`zekei9`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-wifi-zero-51b65058c3d28121.js.map

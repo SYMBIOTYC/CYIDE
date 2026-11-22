@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-tree-palm-6e0820a342d69be3.js";e();export{t as default};

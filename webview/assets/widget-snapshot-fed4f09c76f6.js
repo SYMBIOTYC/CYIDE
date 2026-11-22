@@ -1,0 +1,1 @@
+import"./app-initial-1f5245639493.js";import{n as e,t}from"./widget-snapshot-a131c2617a0b.js";e();export{t as PageDilWidgetSnapshot};

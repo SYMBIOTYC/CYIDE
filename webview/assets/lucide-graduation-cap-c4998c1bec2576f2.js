@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-graduation-cap-ef5de5cc1fc6d444.js";e();export{t as default};

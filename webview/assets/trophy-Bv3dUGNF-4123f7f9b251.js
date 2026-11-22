@@ -1,0 +1,1 @@
+import{n as e,t}from"./trophy-Bv3dUGNF-c9fbd1977adf.js";t();export{e as default};

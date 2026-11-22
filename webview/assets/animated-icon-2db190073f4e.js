@@ -1,0 +1,1 @@
+import"./app-initial-1f5245639493.js";import{n as e,t}from"./animated-icon-bc13cf1f8004.js";e();export{t as AnimatedIcon};

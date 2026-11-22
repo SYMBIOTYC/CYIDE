@@ -1,0 +1,1 @@
+import"./app-initial-1f5245639493.js";import{n as e,r as t,t as n}from"./Mailman-765a58af9395.js";t();export{n as MailmanIcon,e as MailmanIconSm};

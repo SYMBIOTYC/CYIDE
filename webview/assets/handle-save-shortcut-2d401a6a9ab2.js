@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Ndn as t,jdn as n}from"./app-initial-a7e8bddc3c95.js";function r(e,n){!e.defaultPrevented&&t(e.nativeEvent,`CmdOrCtrl+S`)&&e.target instanceof Node&&e.currentTarget.contains(e.target)&&(e.preventDefault(),e.stopPropagation(),e.repeat||n())}function i(){return(i=e((()=>{n()})))()}export{i as n,r as t};
+//# sourceMappingURL=handle-save-shortcut-2d401a6a9ab2.js.map

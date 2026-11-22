@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Ejt as t,Ojt as n,bjt as r,vjt as i}from"./app-initial-4ce6c66b1093.js";function a({path:e,contentKind:n}){switch(n){case`image`:case`pdf`:case`audio`:case`video`:return n;case`archive`:case`binary`:case`text`:case void 0:return i(e)??n??(t(e)===`none`?void 0:`image`)}}function o(){return(o=e((()=>{r(),n()})))()}export{o as n,a as t};
+//# sourceMappingURL=format-3fad4db00a29.js.map

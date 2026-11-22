@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{bRt as t,xRt as n}from"./app-initial-4ce6c66b1093.js";function r(e,n){let r=t(n??void 0)??e.url??n;return r==null?null:{...e,url:r}}function i(){return(i=e((()=>{n()})))()}export{i as n,r as t};
+//# sourceMappingURL=site-summary-resource-a120d2569f41.js.map

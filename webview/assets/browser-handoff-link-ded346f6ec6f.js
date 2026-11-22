@@ -1,0 +1,1 @@
+import"./app-initial-1f5245639493.js";import{n as e,r as t}from"./browser-handoff-link-4bc447024cc6.js";t();export{e as LocalBrowserHandoffLink};

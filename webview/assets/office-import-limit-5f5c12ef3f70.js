@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";var t;function n(){return(n=e((()=>{t=class extends Error{dimension;actual;maximum;constructor(e,t,n,r){super(e),this.dimension=t,this.actual=n,this.maximum=r}}})))()}export{n,t};
+//# sourceMappingURL=office-import-limit-5f5c12ef3f70.js.map
