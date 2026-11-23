@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-swiss-franc-2a12359892f45a72.js";e();export{t as default};

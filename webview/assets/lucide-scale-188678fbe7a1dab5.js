@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-scale-1572808b151d9800.js";e();export{t as default};

@@ -1,0 +1,1 @@
+import{n as e,t}from"./spell-check-2-BzfCkBVp-8683858fb962.js";t();export{e as default};

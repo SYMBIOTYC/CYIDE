@@ -1,0 +1,1 @@
+import{n as e,t}from"./bell-ring-PpC2Mlun-d5f4f965b45b.js";t();export{e as default};

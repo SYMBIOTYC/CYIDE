@@ -1,0 +1,1 @@
+import{n as e,t}from"./scroll-text-zWYmAoGC-7040b7ed3f2d.js";e();export{t as default};

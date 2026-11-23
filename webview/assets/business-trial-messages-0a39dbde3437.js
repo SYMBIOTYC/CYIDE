@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{mT as t}from"./app-initial-89d703cbcd2b.js";function n(){}function r(){return(r=e((()=>{t()})))()}export{r as n,n as t};
+//# sourceMappingURL=business-trial-messages-0a39dbde3437.js.map

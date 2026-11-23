@@ -1,0 +1,1 @@
+import{n as e,t}from"./move-C7SH-HWb-c08e35b58086.js";e();export{t as default};

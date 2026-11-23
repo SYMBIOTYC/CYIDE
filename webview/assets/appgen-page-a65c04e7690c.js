@@ -1,0 +1,1 @@
+import"./app-initial-1f5245639493.js";import{r as e,t}from"./appgen-page-9e9cc3cc0a71.js";e();export{t as AppgenPage};

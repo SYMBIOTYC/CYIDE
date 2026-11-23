@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{iwn as t,own as n}from"./app-initial-a7e8bddc3c95.js";function r(e){return n(!1)}function i(){return(i=e((()=>{t()})))()}export{r as n,i as t};
+//# sourceMappingURL=use-desktop-turn-transcript-958b28079dc0.js.map

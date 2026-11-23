@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{_pn as t,rbn as n}from"./app-initial-4ce6c66b1093.js";function r(e){return{expectedIdentity:e,additionalHeaders:{"ChatGPT-Account-ID":e.accountId,[n]:e.accountId}}}function i(){return(i=e((()=>{t()})))()}export{r as n,i as t};
+//# sourceMappingURL=workspace-owner-request-f0a0390cf2f7.js.map

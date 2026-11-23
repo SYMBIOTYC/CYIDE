@@ -1,0 +1,1 @@
+import"./app-initial-1f5245639493.js";import{n as e,t}from"./plugin-detail-empty-state-fddc495aa647.js";e();export{t as PluginDetailEmptyState};

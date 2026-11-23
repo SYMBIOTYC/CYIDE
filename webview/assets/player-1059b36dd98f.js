@@ -1,0 +1,1 @@
+import"./app-initial-1f5245639493.js";import{n as e,t}from"./player-858f62e6fc3d.js";e();export{t as MarkdownVideoPlayer};

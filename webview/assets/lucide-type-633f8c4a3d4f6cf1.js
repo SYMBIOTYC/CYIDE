@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-768b647cde943109.js";var r;function i(){return(i=e((()=>{t(),r=n(`Type`,[[`polyline`,{points:`4 7 4 4 20 4 20 7`,key:`1nosan`}],[`line`,{x1:`9`,x2:`15`,y1:`20`,y2:`20`,key:`swin9y`}],[`line`,{x1:`12`,x2:`12`,y1:`4`,y2:`20`,key:`1tx1rr`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-type-633f8c4a3d4f6cf1.js.map

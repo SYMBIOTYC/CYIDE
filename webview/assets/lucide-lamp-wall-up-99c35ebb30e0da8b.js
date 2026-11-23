@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-lamp-wall-up-a0f4408b15538d60.js";e();export{t as default};

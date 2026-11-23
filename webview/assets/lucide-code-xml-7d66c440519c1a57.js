@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-768b647cde943109.js";var r;function i(){return(i=e((()=>{t(),r=n(`CodeXml`,[[`path`,{d:`m18 16 4-4-4-4`,key:`1inbqp`}],[`path`,{d:`m6 8-4 4 4 4`,key:`15zrgr`}],[`path`,{d:`m14.5 4-5 16`,key:`e7oirm`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-code-xml-7d66c440519c1a57.js.map

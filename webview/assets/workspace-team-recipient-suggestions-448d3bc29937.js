@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{OR as t,QR as n}from"./app-initial-1f5245639493.js";import{_Dn as r,eDn as i,iNn as a,rNn as o,vDn as s}from"./app-initial-a7e8bddc3c95.js";var c,l;function u(){return(u=e((()=>{t(),a(),i(),c=n(o,(e,{get:t})=>t(r,e)),l=n(o,(e,{get:t})=>{if(t(c,e)){let{data:n,isError:r,isLoading:i}=t(s,e);return{data:n?.filter(t=>t.workspace_id===e),isError:r,isLoading:i}}return null})})))()}export{l as n,c as r,u as t};
+//# sourceMappingURL=workspace-team-recipient-suggestions-448d3bc29937.js.map

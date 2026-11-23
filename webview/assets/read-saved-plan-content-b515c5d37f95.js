@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{i as t,r as n}from"./text-file-storage-ed9e5fb96e70.js";async function r({hostId:e,path:n,save:r}){if(r!=null&&!await r())throw Error(`Could not save the edited plan`);return(await t({filePath:n,hostId:e})).content}function i(){return(i=e((()=>{n()})))()}export{r as n,i as t};
+//# sourceMappingURL=read-saved-plan-content-b515c5d37f95.js.map

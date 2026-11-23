@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{C3 as t,ent as n}from"./app-initial-1f5245639493.js";import{n as r,r as i}from"./controls-7317778fca12.js";import{n as a,t as o}from"./annotation-button-host-4ddebd3a3fa6.js";function s(e){let t=(0,c.c)(2),n;return t[0]===e?n=t[1]:(n=(0,l.jsx)(r,{...e,attachButton:o}),t[0]=e,t[1]=n),n}var c,l;function u(){return(u=e((()=>{c=n(),a(),i(),l=t()})))()}u();export{s as DetachedBrowserAnnotationButton};
+//# sourceMappingURL=annotation-button-c0312f9732ea.js.map

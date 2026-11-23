@@ -1,0 +1,1 @@
+import"./app-initial-1f5245639493.js";import{Gm as e,Wm as t}from"./app-initial-4ce6c66b1093.js";t();export{e as openChatGptTextDocumentPreview};

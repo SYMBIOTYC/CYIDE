@@ -1,0 +1,1 @@
+import{n as e,t}from"./octagon-x-CZeTd5no-f7ef48fb7a66.js";e();export{t as default};

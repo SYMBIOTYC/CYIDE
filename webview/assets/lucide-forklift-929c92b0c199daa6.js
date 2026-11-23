@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-forklift-1996bac0f69f5acd.js";e();export{t as default};

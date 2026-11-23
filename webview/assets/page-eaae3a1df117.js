@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{C3 as t,HL as n,XL as r,ent as i,jL as a}from"./app-initial-1f5245639493.js";function o(){let e=(0,s.c)(3),{search:t,hash:n}=r(),i;return e[0]!==n||e[1]!==t?(i=(0,c.jsx)(a,{replace:!0,to:{pathname:`/rosalind/application`,search:t,hash:n}}),e[0]=n,e[1]=t,e[2]=i):i=e[2],i}var s,c;function l(){return(l=e((()=>{s=i(),n(),c=t()})))()}l();export{o as RosalindCustomerStatusRoute};
+//# sourceMappingURL=page-eaae3a1df117.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{zh as t}from"./app-initial-1f5245639493.js";function n(e){if(e?.includes(`*/*`))return;let t=e?.flatMap(e=>{let t=e.toLowerCase();return t.startsWith(`.`)?[t.slice(1)]:t.endsWith(`/*`)?Object.entries(i.extensions).flatMap(([e,n])=>e.startsWith(t.slice(0,-1))?n:[]):i.extensions[t]??[]});return t?.length?t:void 0}function r(e,t){return!t?.length||t.some(t=>e.toLowerCase().endsWith(`.${t}`))}var i;function a(){return(a=e((()=>{i=t()})))()}export{a as n,r,n as t};
+//# sourceMappingURL=file-accept-adc634b294f8.js.map

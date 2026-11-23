@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-school-3dec97fa5c19b4af.js";e();export{t as default};

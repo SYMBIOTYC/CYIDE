@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Jfn as t,_pn as n,gTn as r,idt as i,qfn as a,rdt as o,vWt as s,yZt as c}from"./app-initial-4ce6c66b1093.js";import{ZYt as l,eXt as u}from"./app-initial-a7e8bddc3c95.js";async function d(e,{conversationId:t,hostId:n,navigate:r}){await a(e,n).ensureConversationFirstPage(t,i)&&(c(e,t,n),r(f(t,n)))}function f(e,t){return l(r(e),t)}function p(){return(p=e((()=>{n(),t(),o(),s(),u()})))()}export{p as n,d as r,f as t};
+//# sourceMappingURL=local-conversation-subagent-navigation-6ca1346cc013.js.map

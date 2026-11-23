@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e){let t=e.findLastIndex(e=>!e.isDeleted&&!r(e.author)&&/^@ChatGPT(?=\s|$)/u.test(e.text));return t>=0&&e.some((e,n)=>n>t&&!e.isDeleted&&r(e.author))}function n(e){let t=e.trim().split(/\s+/).filter(Boolean);return t.length===0?`??`:t.slice(0,2).map(e=>e[0]??``).join(``).toUpperCase()}function r(e){return e.userId===`chatgpt`&&e.providerId===`openai`||e.displayName===`ChatGPT`}function i(){return(i=e((()=>{})))()}export{r as i,t as n,i as r,n as t};
+//# sourceMappingURL=comment-author-adb26372faa7.js.map

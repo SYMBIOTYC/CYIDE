@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{DOn as t,TOn as n}from"./app-initial-a7e8bddc3c95.js";import{ct as r,ot as i}from"./app-initial-89d703cbcd2b.js";function a(e){return{setupAttemptId:crypto.randomUUID(),entryPoint:e}}function o(e,n,r,a){if(a.action===`opened`){if(s.has(n))return;s.add(n)}t(e,i,{setupAttemptId:n.setupAttemptId,entryPoint:n.entryPoint,screen:r,...a})}var s;function c(){return(c=e((()=>{r(),n(),s=new WeakSet})))()}export{c as n,o as r,a as t};
+//# sourceMappingURL=setup-telemetry-d2a6a50780c4.js.map

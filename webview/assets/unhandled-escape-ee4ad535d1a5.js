@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Mz as t,Rz as n}from"./app-initial-1f5245639493.js";function r(e){return i.has(e)}var i,a;function o(){return(o=e((()=>{n(),i=new WeakSet,a=new t({props:{handleKeyDown:(e,t)=>(t.key===`Escape`&&!t.defaultPrevented&&i.add(t),!1)}})})))()}export{r as n,a as r,o as t};
+//# sourceMappingURL=unhandled-escape-ee4ad535d1a5.js.map

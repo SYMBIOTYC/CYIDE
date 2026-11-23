@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-square-asterisk-a6f492e822fe8b87.js";e();export{t as default};

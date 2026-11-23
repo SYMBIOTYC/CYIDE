@@ -1,0 +1,1 @@
+@layer components{._preview_onctu_2{aspect-ratio:16/10}._surface_onctu_2{border-radius:inherit}._loading_onctu_2{visibility:hidden;animation:0s .5s forwards _show-loading_onctu_2}@keyframes _show-loading_onctu_2{to{visibility:visible;width:auto;margin-inline-start:calc(var(--spacing) * 1.5)}}}

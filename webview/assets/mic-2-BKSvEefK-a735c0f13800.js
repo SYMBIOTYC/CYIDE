@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./mic-vocal-D9sfr9Lo-ee01279b7998.js";function r(){return(r=e((()=>{t()})))()}r();export{n as default};
+//# sourceMappingURL=mic-2-BKSvEefK-a735c0f13800.js.map

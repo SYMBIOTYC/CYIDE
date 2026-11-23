@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-square-mouse-pointer-690e49562b7a654e.js";e();export{t as default};

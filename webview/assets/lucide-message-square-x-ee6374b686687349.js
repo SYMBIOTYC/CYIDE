@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-message-square-x-83a15e1f5b638307.js";e();export{t as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";var t,n,r,i,a;function o(){return(o=e((()=>{t=`_composer_dertk_1`,n=`_transcriptBackdrop_dertk_23`,r=`_paused_dertk_28`,i=`_uploads_dertk_33`,a={composer:t,transcriptBackdrop:n,paused:r,uploads:i}})))()}export{o as n,a as t};
+//# sourceMappingURL=composer-surface.module-ea1f1a3b21de.js.map
