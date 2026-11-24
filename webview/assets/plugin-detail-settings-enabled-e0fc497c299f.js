@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Dz as t,rz as n}from"./app-initial-cf98d1502e32.js";import{JPn as r,YPn as i,Zkn as a,yMn as o}from"./app-initial-dc3ed2f516f4.js";var s;function c(){return(c=e((()=>{n(),i(),a(),o(),s=t(r,(e,{get:t})=>!1)})))()}export{s as n,c as t};
+//# sourceMappingURL=plugin-detail-settings-enabled-e0fc497c299f.js.map

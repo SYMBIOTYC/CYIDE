@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-paintbrush-vertical-1a742da0aea1b3ee.js";e();export{t as default};

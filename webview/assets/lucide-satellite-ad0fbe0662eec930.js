@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-satellite-4908e128e24d62ae.js";e();export{t as default};

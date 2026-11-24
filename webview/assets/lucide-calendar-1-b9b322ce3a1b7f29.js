@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-2536290cb6cb0927.js";var r;function i(){return(i=e((()=>{t(),r=n(`Calendar1`,[[`path`,{d:`M11 14h1v4`,key:`fy54vd`}],[`path`,{d:`M16 2v4`,key:`4m81vk`}],[`path`,{d:`M3 10h18`,key:`8toen8`}],[`path`,{d:`M8 2v4`,key:`1cmpym`}],[`rect`,{x:`3`,y:`4`,width:`18`,height:`18`,rx:`2`,key:`12vinp`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-calendar-1-b9b322ce3a1b7f29.js.map

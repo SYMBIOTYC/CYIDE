@@ -1,0 +1,1 @@
+import{n as e,t}from"./badge-indian-rupee-Z_RkYeA_-ff31b56ea59f.js";e();export{t as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e,t){let n=r.get(e);n??(n={},r.set(e,n));let i=new WeakRef(e),a=e.renderedFrame;return{token:n,paintIdentity:a??void 0,isCurrent:()=>{let e=i.deref();return a!=null&&t()&&e?.isActive===!0&&e.renderedFrame===a}}}function n(e,n,r){if(r==null||!e.isActive)return()=>{};let i=()=>{let i=t(e,n);i.isCurrent()&&r(i)},a=e.subscribeToRenderedFrame(i);return i(),a}var r;function i(){return(i=e((()=>{r=new WeakMap})))()}export{t as n,n as r,i as t};
+//# sourceMappingURL=renderer-299ee0473d5c.js.map

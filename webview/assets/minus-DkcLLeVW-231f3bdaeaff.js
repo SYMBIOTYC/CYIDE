@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-a1fb8f8f61c4.js";var r;function i(){return(i=e((()=>{t(),r=n(`Minus`,[[`path`,{d:`M5 12h14`,key:`1ays0h`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=minus-DkcLLeVW-231f3bdaeaff.js.map

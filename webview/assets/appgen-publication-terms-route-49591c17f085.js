@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Q3 as t,knt as n}from"./app-initial-cf98d1502e32.js";import{_a as r,va as i}from"./app-initial-8fc7fa71dba8.js";function a(e){let t=(0,o.c)(3),{children:n}=e,i;t[0]===Symbol.for(`react.memo_cache_sentinel`)?(i=(0,s.jsx)(r,{showWhenUnseen:!0}),t[0]=i):i=t[0];let a;return t[1]===n?a=t[2]:(a=(0,s.jsxs)(s.Fragment,{children:[n,i]}),t[1]=n,t[2]=a),a}var o,s;function c(){return(c=e((()=>{o=n(),i(),s=t()})))()}export{c as n,a as t};
+//# sourceMappingURL=appgen-publication-terms-route-49591c17f085.js.map

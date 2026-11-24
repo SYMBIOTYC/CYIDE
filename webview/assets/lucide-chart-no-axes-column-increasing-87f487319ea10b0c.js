@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-chart-no-axes-column-increasing-73c5dc2d1a60462d.js";e();export{t as default};

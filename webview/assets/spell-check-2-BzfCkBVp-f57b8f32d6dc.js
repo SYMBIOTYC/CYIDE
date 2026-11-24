@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-a1fb8f8f61c4.js";var r;function i(){return(i=e((()=>{t(),r=n(`SpellCheck2`,[[`path`,{d:`m6 16 6-12 6 12`,key:`1b4byz`}],[`path`,{d:`M8 12h8`,key:`1wcyev`}],[`path`,{d:`M4 21c1.1 0 1.1-1 2.3-1s1.1 1 2.3 1c1.1 0 1.1-1 2.3-1 1.1 0 1.1 1 2.3 1 1.1 0 1.1-1 2.3-1 1.1 0 1.1 1 2.3 1 1.1 0 1.1-1 2.3-1`,key:`8mdmtu`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=spell-check-2-BzfCkBVp-f57b8f32d6dc.js.map

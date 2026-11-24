@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Ant as t}from"./app-initial-cf98d1502e32.js";var n,r,i;function a(){return(a=e((()=>{n=t(),r=(0,n.createContext)({}),i=(0,n.createContext)(`legacy`)})))()}export{i as n,a as r,r as t};
+//# sourceMappingURL=user-message-mode-4da488222104.js.map

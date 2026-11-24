@@ -1,0 +1,1 @@
+import{n as e,t}from"./ambulance-BjDqgcmE-63c54288af70.js";e();export{t as default};

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-pound-sterling-cf350252d72f2a74.js";e();export{t as default};

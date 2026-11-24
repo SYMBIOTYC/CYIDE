@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-2536290cb6cb0927.js";var r;function i(){return(i=e((()=>{t(),r=n(`MessageCircleWarning`,[[`path`,{d:`M7.9 20A9 9 0 1 0 4 16.1L2 22Z`,key:`vv11sd`}],[`path`,{d:`M12 8v4`,key:`1got3b`}],[`path`,{d:`M12 16h.01`,key:`1drbdi`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-message-circle-warning-5138a38eb72b517e.js.map

@@ -1,0 +1,1 @@
+import{mMt as e,pMt as t}from"./app-initial-dc3ed2f516f4.js";e();export{t as getPluginTargetForReference};

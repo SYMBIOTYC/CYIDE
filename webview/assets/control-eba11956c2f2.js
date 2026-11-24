@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Q3 as t,knt as n}from"./app-initial-cf98d1502e32.js";function r(e){let t=(0,i.c)(3),{children:n,size:r}=e,o=r===void 0?`toolbar`:r,s;return t[0]!==n||t[1]!==o?(s=(0,a.jsx)(a.Fragment,{children:n}),t[0]=n,t[1]=o,t[2]=s):s=t[2],s}var i,a;function o(){return(o=e((()=>{i=n(),a=t()})))()}export{o as n,r as t};
+//# sourceMappingURL=control-eba11956c2f2.js.map

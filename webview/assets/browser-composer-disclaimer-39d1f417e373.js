@@ -1,0 +1,1 @@
+import"./app-initial-cf98d1502e32.js";import{i as e,n as t,t as n}from"./browser-composer-disclaimer-44a144b5d163.js";e();export{n as BrowserComposerDisclaimer,t as BrowserComposerDisclaimerMessage};

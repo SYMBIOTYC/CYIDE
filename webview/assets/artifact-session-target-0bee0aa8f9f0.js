@@ -1,0 +1,1 @@
+import{Du as e,Ou as t}from"./app-initial-dc3ed2f516f4.js";e();export{t as openPageArtifactTarget};

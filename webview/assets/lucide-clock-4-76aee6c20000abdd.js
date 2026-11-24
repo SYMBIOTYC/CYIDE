@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-clock-4-945eb5289565046a.js";e();export{t as default};

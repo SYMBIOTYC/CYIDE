@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-flag-triangle-left-c2087f61b97e88a0.js";e();export{t as default};

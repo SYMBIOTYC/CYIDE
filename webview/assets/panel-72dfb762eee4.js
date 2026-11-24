@@ -1,0 +1,1 @@
+import"./app-initial-cf98d1502e32.js";import{r as e,t}from"./panel-e79fb92333cc.js";e();export{t as CoursePanelTab};

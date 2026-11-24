@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{lHt as t,uHt as n}from"./app-initial-8fc7fa71dba8.js";import{cMn as r,dMn as i}from"./app-initial-dc3ed2f516f4.js";function a(e){return e!=null&&`new_sharing_paused`in e&&e.new_sharing_paused===!0}function o(e){return e instanceof i&&e.status===409&&t(e)===`pages_new_sharing_paused`}function s(){return(s=e((()=>{n(),r()})))()}export{a as n,o as r,s as t};
+//# sourceMappingURL=sharing-pause-f401c1b24974.js.map

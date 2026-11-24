@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-flame-99ed00c08f58b44f.js";e();export{t as default};

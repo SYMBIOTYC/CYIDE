@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-badge-percent-42a0d0d4e5ec20b2.js";e();export{t as default};

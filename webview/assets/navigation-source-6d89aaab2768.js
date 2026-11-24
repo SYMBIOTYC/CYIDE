@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{i9 as t,l5 as n,met as r}from"./app-initial-cf98d1502e32.js";function i(e){let t=a.safeParse(e);return t.success?t.data.navigationSource:void 0}var a;function o(){return(o=e((()=>{n(),a=r({navigationSource:t([`scheduled_page`,`notification`,`conversation`,`conversation_sidebar`,`editor`,`space_schedules_panel`])})})))()}export{o as n,i as t};
+//# sourceMappingURL=navigation-source-6d89aaab2768.js.map

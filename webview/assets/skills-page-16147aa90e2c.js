@@ -1,0 +1,1 @@
+import"./app-initial-cf98d1502e32.js";import{n as e,t}from"./skills-page-f28ed28a0b32.js";e();export{t as SkillsPage};

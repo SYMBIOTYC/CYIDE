@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-chart-no-axes-gantt-b8e1ea1e995c96f3.js";e();export{t as default};

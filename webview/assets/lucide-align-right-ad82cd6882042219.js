@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-align-right-2a4a77111a7042e5.js";e();export{t as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-a1fb8f8f61c4.js";var r;function i(){return(i=e((()=>{t(),r=n(`DoorClosed`,[[`path`,{d:`M18 20V6a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v14`,key:`36qu9e`}],[`path`,{d:`M2 20h20`,key:`owomy5`}],[`path`,{d:`M14 12v.01`,key:`xfcn54`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=door-closed-0bD47Ove-1ac08f98fcad.js.map

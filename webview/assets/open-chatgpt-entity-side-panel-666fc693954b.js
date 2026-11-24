@@ -1,0 +1,1 @@
+import"./app-initial-cf98d1502e32.js";import{a as e,i as t,n,o as r,r as i,t as a}from"./open-chatgpt-entity-side-panel-8bc574d3b0b0.js";t();export{a as chatGptEntitySidePanelAvailable$,n as floatingEntity$,i as getParentBrandPanel,e as openChatGptEntityFloatingPanel,r as openChatGptEntitySidePanel};

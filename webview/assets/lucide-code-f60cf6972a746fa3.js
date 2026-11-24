@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-2536290cb6cb0927.js";var r;function i(){return(i=e((()=>{t(),r=n(`Code`,[[`polyline`,{points:`16 18 22 12 16 6`,key:`z7tu5w`}],[`polyline`,{points:`8 6 2 12 8 18`,key:`1eg1df`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-code-f60cf6972a746fa3.js.map

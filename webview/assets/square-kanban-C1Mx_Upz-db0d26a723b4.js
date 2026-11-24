@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-kanban-C1Mx_Upz-66a1f96cd02b.js";t();export{e as default};

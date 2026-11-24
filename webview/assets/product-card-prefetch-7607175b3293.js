@@ -1,0 +1,1 @@
+import"./app-initial-cf98d1502e32.js";import{n as e,r as t}from"./product-card-prefetch-8099b2f4084a.js";t();export{e as ProductCardTargetPrefetch};

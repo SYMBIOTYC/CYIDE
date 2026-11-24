@@ -1,0 +1,1 @@
+import"./app-initial-cf98d1502e32.js";import{n as e,t}from"./platform-dialog-3615e24a6c1a.js";e();export{t as SubscriptionPlatformDialog};

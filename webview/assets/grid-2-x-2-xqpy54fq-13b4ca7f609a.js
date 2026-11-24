@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./grid-2x2-NAtFSFKG-a50f9906cd17.js";function r(){return(r=e((()=>{t()})))()}r();export{n as default};
+//# sourceMappingURL=grid-2-x-2-xqpy54fq-13b4ca7f609a.js.map

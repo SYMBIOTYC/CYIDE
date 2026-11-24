@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{rz as t,wz as n}from"./app-initial-cf98d1502e32.js";import{Run as r,Sdn as i,Wun as a}from"./app-initial-8fc7fa71dba8.js";import{JPn as o,YPn as s}from"./app-initial-dc3ed2f516f4.js";var c;function l(){return(l=e((()=>{t(),a(),s(),c=n(o,({get:e})=>({queryKey:[`dot-local-record-consent`,e(i),e(r)],enabled:!1,staleTime:6e4,retry:!1,queryFn:async()=>null}))})))()}export{c as n,l as t};
+//# sourceMappingURL=record-consent-query-b6f2a5b5b3bc.js.map

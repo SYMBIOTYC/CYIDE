@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-square-chevron-left-2b584b9f079279cc.js";e();export{t as default};

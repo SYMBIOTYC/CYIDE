@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-2536290cb6cb0927.js";var r;function i(){return(i=e((()=>{t(),r=n(`Rewind`,[[`polygon`,{points:`11 19 2 12 11 5 11 19`,key:`14yba5`}],[`polygon`,{points:`22 19 13 12 22 5 22 19`,key:`1pi1cj`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-rewind-fd61bf93d342ef3a.js.map

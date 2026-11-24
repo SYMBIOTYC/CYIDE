@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Z3 as t}from"./app-initial-cf98d1502e32.js";import{Ipn as n,zpn as r}from"./app-initial-8fc7fa71dba8.js";import{GTn as i,KTn as a}from"./app-initial-dc3ed2f516f4.js";function o(e){i(e,`1883649599`,{disableExposureLog:!0}).get(`checkout_loading_perf_enabled`,!1)&&(0,s.preload)(c,{as:`script`,nonce:n()})}var s,c;function l(){return(l=e((()=>{s=t(),r(),a(),c=`https://js.stripe.com/basil/stripe.js`})))()}export{l as n,o as r,c as t};
+//# sourceMappingURL=stripe-script-30f0d6c12533.js.map

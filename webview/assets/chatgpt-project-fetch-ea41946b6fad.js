@@ -1,0 +1,1 @@
+import{ikt as e,rkt as t}from"./app-initial-8fc7fa71dba8.js";e();export{t as fetchChatGptProject};

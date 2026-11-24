@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{KR as t,Q3 as n,VR as r}from"./app-initial-cf98d1502e32.js";import{Fln as i,Lln as a}from"./app-initial-8fc7fa71dba8.js";function o(e){e.get(a).info((0,s.jsx)(t,{id:`browserUseCard.tabUnavailable`,defaultMessage:`This tab is no longer available`,description:`Toast shown when clicking a browser activity card fails to open the original browser tab.`}))}var s;function c(){return(c=e((()=>{r(),i(),s=n()})))()}export{o as n,c as t};
+//# sourceMappingURL=tab-unavailable-toast-8df2d1133799.js.map

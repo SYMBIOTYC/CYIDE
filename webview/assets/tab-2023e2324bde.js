@@ -1,0 +1,1 @@
+import"./app-initial-cf98d1502e32.js";import{Jo as e,Xo as t,Yo as n,qo as r}from"./app-initial-8fc7fa71dba8.js";e();export{r as getWorkspaceChatLauncherAction,n as openNewWorkspaceChat,t as openWorkspaceChatInstance};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-2536290cb6cb0927.js";var r;function i(){return(i=e((()=>{t(),r=n(`SpellCheck`,[[`path`,{d:`m6 16 6-12 6 12`,key:`1b4byz`}],[`path`,{d:`M8 12h8`,key:`1wcyev`}],[`path`,{d:`m16 20 2 2 4-4`,key:`13tcca`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-spell-check-533d6138c7411de0.js.map

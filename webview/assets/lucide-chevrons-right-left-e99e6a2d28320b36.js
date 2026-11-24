@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-2536290cb6cb0927.js";var r;function i(){return(i=e((()=>{t(),r=n(`ChevronsRightLeft`,[[`path`,{d:`m20 17-5-5 5-5`,key:`30x0n2`}],[`path`,{d:`m4 17 5-5-5-5`,key:`16spf4`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-chevrons-right-left-e99e6a2d28320b36.js.map

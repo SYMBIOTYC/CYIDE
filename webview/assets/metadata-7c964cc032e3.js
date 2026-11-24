@@ -1,0 +1,1 @@
+import{dzt as e,fzt as t}from"./app-initial-dc3ed2f516f4.js";t();export{e as applyPageRealtimeMetadata};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Ant as t}from"./app-initial-cf98d1502e32.js";var n,r;function i(){return(i=e((()=>{n=t(),r=(0,n.createContext)(void 0)})))()}export{i as n,r as t};
+//# sourceMappingURL=markdown-card-context-33a77bd018cb.js.map

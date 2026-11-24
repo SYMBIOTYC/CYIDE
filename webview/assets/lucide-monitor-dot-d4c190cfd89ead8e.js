@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-monitor-dot-a0a1b2a3c7c6beea.js";e();export{t as default};

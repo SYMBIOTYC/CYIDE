@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-delete-f50f7052080efe64.js";e();export{t as default};

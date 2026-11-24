@@ -1,0 +1,1 @@
+import"./app-initial-cf98d1502e32.js";import{Dzt as e,Mzt as t,jzt as n,kzt as r}from"./app-initial-dc3ed2f516f4.js";e();export{r as readPageDocument,n as updatePageDocument,t as updatePageTitle};

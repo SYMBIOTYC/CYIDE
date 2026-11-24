@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-receipt-indian-rupee-85d7602a2995dd11.js";e();export{t as default};

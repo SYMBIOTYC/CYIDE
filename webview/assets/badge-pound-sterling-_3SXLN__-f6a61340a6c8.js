@@ -1,0 +1,1 @@
+import{n as e,t}from"./badge-pound-sterling-_3SXLN__-68361f6392c8.js";e();export{t as default};

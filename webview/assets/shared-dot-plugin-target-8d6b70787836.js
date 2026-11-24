@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{$_n as t,K_n as n,L_n as r,Z_n as i}from"./app-initial-dc3ed2f516f4.js";function a(e,t){let n=e.query.getData(r,t.dotId);return n!=null&&n.service_account_account_user_id===t.serviceAccountId&&i(n)}function o(e,t){if(!a(e,t))throw new DOMException(`Dot access changed`,`AbortError`)}function s(){return(s=e((()=>{t(),n()})))()}export{s as n,a as r,o as t};
+//# sourceMappingURL=shared-dot-plugin-target-8d6b70787836.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./square-check-big-ByNremY3-1b12eb0313ab.js";e();export{t as default};

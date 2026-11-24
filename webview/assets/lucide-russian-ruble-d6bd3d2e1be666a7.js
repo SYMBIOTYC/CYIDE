@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-2536290cb6cb0927.js";var r;function i(){return(i=e((()=>{t(),r=n(`RussianRuble`,[[`path`,{d:`M6 11h8a4 4 0 0 0 0-8H9v18`,key:`18ai8t`}],[`path`,{d:`M6 15h8`,key:`1y8f6l`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-russian-ruble-d6bd3d2e1be666a7.js.map

@@ -1,0 +1,1 @@
+import"./app-initial-8fc7fa71dba8.js";import{Cyt as e,Syt as t,byt as n,xyt as r}from"./app-initial-dc3ed2f516f4.js";t();export{n as getFileTabCwd,r as getFileTabEnvironmentId,e as syncOpenWorkspaceFileSidePanelTabs};

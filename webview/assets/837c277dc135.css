@@ -1,0 +1,1 @@
+@layer components{@media not all and (width>=48rem){._docked_11pl4_2{padding-inline-start:max(0px, var(--images-titlebar-start) - calc(var(--spacing,.25rem) * 4));padding-inline-end:max(0px, var(--images-titlebar-end) - calc(var(--spacing,.25rem) * 4))}}}

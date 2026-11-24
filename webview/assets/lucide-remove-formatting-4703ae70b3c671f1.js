@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-remove-formatting-da4a0d030bd1ef00.js";e();export{t as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-2536290cb6cb0927.js";var r;function i(){return(i=e((()=>{t(),r=n(`Mouse`,[[`rect`,{x:`5`,y:`2`,width:`14`,height:`20`,rx:`7`,key:`11ol66`}],[`path`,{d:`M12 6v4`,key:`16clxf`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-mouse-7c14f101f375c6d2.js.map

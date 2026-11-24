@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Eet as t,eet as n,l5 as r,met as i}from"./app-initial-cf98d1502e32.js";function a(e){return s.safeParse(e).data??null}var o,s;function c(){return(c=e((()=>{r(),o=`connector_246af0940da3457da0e751171dc1ce60`,s=i({orbitContactSetup:n(!0).optional(),orbitTeamsSetup:i({accountId:t(),userId:t(),threadId:t(),linkId:t().optional(),displayName:t().optional(),originalDisplayName:t().optional()})})})))()}export{a as n,c as r,o as t};
+//# sourceMappingURL=oauth-resume-80dd84164c00.js.map

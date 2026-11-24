@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./send-horizontal-DBFjFLHk-484e9fc2dde2.js";function r(){return(r=e((()=>{t()})))()}r();export{n as default};
+//# sourceMappingURL=send-horizonal-Cf6Pbz3b-862e816e3297.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Q3 as t,knt as n}from"./app-initial-cf98d1502e32.js";function r(e){let t=(0,i.c)(3),{ariaLabel:n,icon:r}=e,o;return t[0]!==n||t[1]!==r?(o=(0,a.jsx)(`span`,{role:`img`,"aria-label":n,className:`flex h-7 w-7 items-center justify-center rounded-md text-codex-description`,children:r}),t[0]=n,t[1]=r,t[2]=o):o=t[2],o}var i,a;function o(){return(o=e((()=>{i=n(),a=t()})))()}export{o as n,r as t};
+//# sourceMappingURL=card-status-indicator-8056e1eab685.js.map

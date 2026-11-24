@@ -1,0 +1,1 @@
+import{K0t as e}from"./app-initial-8fc7fa71dba8.js";export default e();

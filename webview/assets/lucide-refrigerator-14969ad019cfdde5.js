@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-2536290cb6cb0927.js";var r;function i(){return(i=e((()=>{t(),r=n(`Refrigerator`,[[`path`,{d:`M5 6a4 4 0 0 1 4-4h6a4 4 0 0 1 4 4v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6Z`,key:`fpq118`}],[`path`,{d:`M5 10h14`,key:`elsbfy`}],[`path`,{d:`M15 7v6`,key:`1nx30x`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-refrigerator-14969ad019cfdde5.js.map

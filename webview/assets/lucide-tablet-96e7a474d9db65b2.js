@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-tablet-200598883f0a241a.js";e();export{t as default};

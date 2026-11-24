@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-heading-6-43f6bddb8df20a29.js";e();export{t as default};

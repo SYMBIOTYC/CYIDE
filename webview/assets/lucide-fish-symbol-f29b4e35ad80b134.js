@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-2536290cb6cb0927.js";var r;function i(){return(i=e((()=>{t(),r=n(`FishSymbol`,[[`path`,{d:`M2 16s9-15 20-4C11 23 2 8 2 8`,key:`h4oh4o`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-fish-symbol-f29b4e35ad80b134.js.map

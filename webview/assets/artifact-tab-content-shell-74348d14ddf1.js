@@ -1,0 +1,1 @@
+import"./app-initial-cf98d1502e32.js";import{n as e,t}from"./artifact-tab-content-shell-f403c9f80526.js";e();export{t as ArtifactTabContentShell};

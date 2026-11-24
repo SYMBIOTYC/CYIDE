@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-square-kanban-46df9e6a1498077f.js";e();export{t as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{osn as t,ssn as n}from"./app-initial-8fc7fa71dba8.js";import{Bmn as r,Nmn as i,Pmn as a}from"./app-initial-dc3ed2f516f4.js";function o(e){let t=e.get(r);return{schemaVersion:1,unread:n.getWorkloadSummary(),catalog:{published:i(e),reads:t?.getWorkloadSummary()??null}}}function s(){return(s=e((()=>{t(),a()})))()}s();export{o as collectFeedbackWorkloadSummary};
+//# sourceMappingURL=workload-summary-1d86db1ddc32.js.map

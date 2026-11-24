@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-2536290cb6cb0927.js";var r;function i(){return(i=e((()=>{t(),r=n(`Music3`,[[`circle`,{cx:`12`,cy:`18`,r:`4`,key:`m3r9ws`}],[`path`,{d:`M16 18V2`,key:`40x2m5`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-music-3-34f00b73a0f512a4.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./book-dashed-DTUqcLEj-5d1ddc4a7071.js";function r(){return(r=e((()=>{t()})))()}r();export{n as default};
+//# sourceMappingURL=book-template-B2It4K81-bff39e3188c0.js.map

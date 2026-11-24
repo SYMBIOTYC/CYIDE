@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-brain-cog-6d9623ccf9eb86ae.js";e();export{t as default};

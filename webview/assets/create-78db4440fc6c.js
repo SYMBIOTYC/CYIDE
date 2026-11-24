@@ -1,0 +1,1 @@
+import{n as e,t}from"./create-ea9fbb395146.js";e();export{t as createNativePage};

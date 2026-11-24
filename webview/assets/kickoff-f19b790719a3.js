@@ -1,0 +1,1 @@
+import{n as e,t}from"./kickoff-2c6b12ab0107.js";t();export{e as submitSheepOnboardingKickoff};

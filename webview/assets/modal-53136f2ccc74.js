@@ -1,0 +1,1 @@
+import"./app-initial-cf98d1502e32.js";import{c$ as e,s$ as t}from"./app-initial-dc3ed2f516f4.js";e();export{t as WorkspaceInviteModal};

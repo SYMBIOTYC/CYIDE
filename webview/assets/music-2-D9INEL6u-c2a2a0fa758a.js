@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-a1fb8f8f61c4.js";var r;function i(){return(i=e((()=>{t(),r=n(`Music2`,[[`circle`,{cx:`8`,cy:`18`,r:`4`,key:`1fc0mg`}],[`path`,{d:`M12 18V2l7 4`,key:`g04rme`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=music-2-D9INEL6u-c2a2a0fa758a.js.map

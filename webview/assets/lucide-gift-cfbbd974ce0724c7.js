@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-gift-1ac67c5069163b4d.js";e();export{t as default};

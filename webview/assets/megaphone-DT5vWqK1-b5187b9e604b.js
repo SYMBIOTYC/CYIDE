@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-a1fb8f8f61c4.js";var r;function i(){return(i=e((()=>{t(),r=n(`Megaphone`,[[`path`,{d:`m3 11 18-5v12L3 14v-3z`,key:`n962bs`}],[`path`,{d:`M11.6 16.8a3 3 0 1 1-5.8-1.6`,key:`1yl0tm`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=megaphone-DT5vWqK1-b5187b9e604b.js.map

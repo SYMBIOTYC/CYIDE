@@ -1,0 +1,1 @@
+import"./app-initial-cf98d1502e32.js";import{n as e,r as t,t as n}from"./pierre-highlights-a457a0a35252.js";t();export{n as getPierreLanguage,e as highlightWithPierre};

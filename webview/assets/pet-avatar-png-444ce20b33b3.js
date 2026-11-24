@@ -1,0 +1,1 @@
+import{n as e,t}from"./pet-avatar-png-e1baae82d2e4.js";e();export{t as createPetAvatarPng};

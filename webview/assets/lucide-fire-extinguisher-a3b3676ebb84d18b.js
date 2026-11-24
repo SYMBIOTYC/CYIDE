@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-fire-extinguisher-e265fe539ee96489.js";e();export{t as default};

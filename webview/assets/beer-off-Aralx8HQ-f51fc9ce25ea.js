@@ -1,0 +1,1 @@
+import{n as e,t}from"./beer-off-Aralx8HQ-45e9cb140617.js";t();export{e as default};

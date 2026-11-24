@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-utensils-db017d6a99e80388.js";e();export{t as default};

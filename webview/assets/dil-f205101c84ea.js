@@ -1,0 +1,1 @@
+import{MX as e,PY as t}from"./app-initial-cf98d1502e32.js";t();export{e as readPageDilModelDocument};

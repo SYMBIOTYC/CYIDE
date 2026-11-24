@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-2536290cb6cb0927.js";var r;function i(){return(i=e((()=>{t(),r=n(`SquareDot`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`circle`,{cx:`12`,cy:`12`,r:`1`,key:`41hilf`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-square-dot-5965dcb5c082ae15.js.map

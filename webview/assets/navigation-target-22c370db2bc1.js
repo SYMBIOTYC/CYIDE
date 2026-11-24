@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{_R as t,bR as n}from"./app-initial-cf98d1502e32.js";import{FYt as r,PYt as i}from"./app-initial-8fc7fa71dba8.js";import{Tgt as a,xgt as o}from"./app-initial-dc3ed2f516f4.js";function s(e,t,r){let o=a(e,t);return{...n(i(t,r?.navigationTarget,r?.blockId)),pathname:o}}function c(){return(c=e((()=>{r(),t(),o()})))()}export{c as n,s as t};
+//# sourceMappingURL=navigation-target-22c370db2bc1.js.map

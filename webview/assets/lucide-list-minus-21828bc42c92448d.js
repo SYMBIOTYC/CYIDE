@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-2536290cb6cb0927.js";var r;function i(){return(i=e((()=>{t(),r=n(`ListMinus`,[[`path`,{d:`M11 12H3`,key:`51ecnj`}],[`path`,{d:`M16 6H3`,key:`1wxfjs`}],[`path`,{d:`M16 18H3`,key:`12xzn7`}],[`path`,{d:`M21 12h-6`,key:`bt1uis`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-list-minus-21828bc42c92448d.js.map

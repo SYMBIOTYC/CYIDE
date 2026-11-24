@@ -1,0 +1,1 @@
+import{n as e,t}from"./snapshot-40ea224c9daa.js";t();export{e as preparePageHandoff};
