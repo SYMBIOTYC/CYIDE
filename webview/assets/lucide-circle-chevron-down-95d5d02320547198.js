@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-a98f67ef07db76e4.js";var r;function i(){return(i=e((()=>{t(),r=n(`CircleChevronDown`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`path`,{d:`m16 10-4 4-4-4`,key:`894hmk`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-circle-chevron-down-95d5d02320547198.js.map

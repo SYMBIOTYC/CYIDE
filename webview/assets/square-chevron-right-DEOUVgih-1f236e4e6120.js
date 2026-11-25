@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-fe5a2d63515a.js";var r;function i(){return(i=e((()=>{t(),r=n(`SquareChevronRight`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`m10 8 4 4-4 4`,key:`1wy4r4`}]])})))()}export{r as n,i as t};
+//# sourceMappingURL=square-chevron-right-DEOUVgih-1f236e4e6120.js.map

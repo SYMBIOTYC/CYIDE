@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-a98f67ef07db76e4.js";var r;function i(){return(i=e((()=>{t(),r=n(`RadioReceiver`,[[`path`,{d:`M5 16v2`,key:`g5qcv5`}],[`path`,{d:`M19 16v2`,key:`1gbaio`}],[`rect`,{width:`20`,height:`8`,x:`2`,y:`8`,rx:`2`,key:`vjsjur`}],[`path`,{d:`M18 12h.01`,key:`yjnet6`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-radio-receiver-f5b60c25a04b4418.js.map

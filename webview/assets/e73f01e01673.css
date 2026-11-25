@@ -1,0 +1,1 @@
+@layer components{._surface_11zbr_2 [data-route-loading] [data-loading-indicator]{display:none!important}._indicator_11zbr_3:not(:has(~div [data-route-loading])){display:none!important}._indicator_11zbr_3:has(~div [data-page-ssr-snapshot]){display:none!important}._indicator_11zbr_3:has(~div [data-page-toolbar]){--page-loading-top:var(--viewer-header-height)}}

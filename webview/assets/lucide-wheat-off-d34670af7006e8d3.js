@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-wheat-off-810fdaaf824323e2.js";e();export{t as default};

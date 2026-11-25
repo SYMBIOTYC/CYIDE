@@ -1,0 +1,1 @@
+import"./app-initial-9f20463a6878.js";import{aMt as e,cMt as t,iMt as n,nMt as r,oMt as i,rMt as a,sMt as o}from"./app-initial-df9c4d3df63b.js";r();export{a as installPlugin,n as isPluginInstallationActive,e as isPluginUninstalling,i as prefetchPluginInstallation,o as resumePluginInstallationAfterOAuth,t as usePluginInstallation};

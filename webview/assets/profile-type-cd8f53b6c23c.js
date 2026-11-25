@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e){return e?.relationship===`creation_pending`&&(e.creation_status===`pending`||e.creation_status===`under_review`)}function n(e){return e.profile_type??e.business_type}function r(){return(r=e((()=>{})))()}export{r as n,t as r,n as t};
+//# sourceMappingURL=profile-type-cd8f53b6c23c.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-snail-50f631b6dd2ca3e6.js";e();export{t as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t({children:e}){return e}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=pierre-highlight-provider-gate-e76cc63635cd.js.map

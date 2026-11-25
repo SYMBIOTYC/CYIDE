@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-square-dashed-mouse-pointer-6ea819143b30ec2f.js";function r(){return(r=e((()=>{t()})))()}r();export{n as default};
+//# sourceMappingURL=lucide-mouse-pointer-square-dashed-28666708b896c8b2.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-shield-question-2d0a687e175319f5.js";e();export{t as default};

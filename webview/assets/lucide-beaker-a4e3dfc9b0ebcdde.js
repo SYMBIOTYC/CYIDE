@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-a98f67ef07db76e4.js";var r;function i(){return(i=e((()=>{t(),r=n(`Beaker`,[[`path`,{d:`M4.5 3h15`,key:`c7n0jr`}],[`path`,{d:`M6 3v16a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V3`,key:`m1uhx7`}],[`path`,{d:`M6 14h12`,key:`4cwo0f`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-beaker-a4e3dfc9b0ebcdde.js.map

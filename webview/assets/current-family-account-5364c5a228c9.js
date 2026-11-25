@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Cdn as t,Sdn as n,Wun as r}from"./app-initial-553f37c950ea.js";import{JCt as i,qCt as a}from"./app-initial-df9c4d3df63b.js";function o(e,r,i=`personal`){if(i===`workspace`)return e.get(n)===r.accountId&&e.get(t)===r.userId;let o=e.get(a);return o.status===`allowed`&&o.userId===r.userId&&o.accountId===r.accountId}function s(){return(s=e((()=>{r(),i()})))()}export{o as n,s as t};
+//# sourceMappingURL=current-family-account-5364c5a228c9.js.map

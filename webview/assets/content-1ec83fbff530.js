@@ -1,0 +1,1 @@
+import"./app-initial-9f20463a6878.js";import{r as e,t}from"./content-e39c187df066.js";e();export{t as DotAnswerAttachment};

@@ -1,0 +1,1 @@
+import{a4 as e,i4 as t}from"./app-initial-df9c4d3df63b.js";t();export{e as prefetchSpacePageRoute};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e,t,n){return e.getQueryData([`business-profiles`,t,n,`read-session`])}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=manager-session-a29fd092b88c.js.map

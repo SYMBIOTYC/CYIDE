@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-scissors-line-dashed-5af3d9f487f7bb7c.js";e();export{t as default};

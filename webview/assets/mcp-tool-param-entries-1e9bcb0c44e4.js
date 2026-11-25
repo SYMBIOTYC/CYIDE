@@ -1,0 +1,2 @@
+import{n as e,o as t}from"./rolldown-runtime-428824ca0286.js";import{qF as n}from"./app-initial-9f20463a6878.js";function r(e,t){return t??(e==null?[]:Object.entries(e).map(([e,t])=>({name:e,value:t,displayName:(0,i.default)(e.trim())})))}var i;function a(){return(a=e((()=>{i=t(n(),1)})))()}export{a as n,r as t};
+//# sourceMappingURL=mcp-tool-param-entries-1e9bcb0c44e4.js.map

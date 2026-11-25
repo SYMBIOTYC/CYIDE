@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{t}from"./markdown-outline-60af6a44cb24.js";function n(e,n){return n===`html`?``:((n===`markdown`?t(e.slice(0,65536)):null)??e).slice(0,600).split(``).join(``)}function r(){return(r=e((()=>{})))()}export{r as n,n as t};
+//# sourceMappingURL=excerpt-c376a534ff67.js.map

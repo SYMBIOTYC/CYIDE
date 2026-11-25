@@ -1,0 +1,1 @@
+import{n as e,t}from"./trash-D1oBWshS-364d400012a2.js";e();export{t as default};

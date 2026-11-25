@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Run as t,Sdn as n,Wun as r}from"./app-initial-553f37c950ea.js";import{HV as i,UV as a}from"./app-initial-df9c4d3df63b.js";import{i as o,n as s,t as c}from"./workspace-agent-detail-query-2392fccd8d73.js";async function l(e,r){e.get(a)===!0&&e.get(n)!=null&&e.get(t)!=null&&await Promise.all([e.query.getOrFetch(o,r),e.query.getOrFetch(s,r)])}function u(){return(u=e((()=>{r(),i(),c()})))()}u();export{l as prefetchWorkspaceAgentDetail};
+//# sourceMappingURL=prefetch-detail-6f9032daeec6.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-bone-5f8ab1bc1f125ad6.js";e();export{t as default};
