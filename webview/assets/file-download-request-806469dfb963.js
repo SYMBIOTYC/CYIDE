@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Bcn as t,Fxn as n,Jmn as r,Wit as i,iPt as a,qit as o,rPt as s}from"./app-initial-553f37c950ea.js";import{Ojn as c}from"./app-initial-df9c4d3df63b.js";function l(e,t){let r=s(e),a=r==null?i({download_url:e}):{downloadUrl:r,requestHeaders:c()};return{...a,requestHeaders:a.requestHeaders==null?void 0:{...a.requestHeaders,[n]:t}}}function u(){return(u=e((()=>{r(),a(),t(),o()})))()}export{u as n,l as t};
+//# sourceMappingURL=file-download-request-806469dfb963.js.map

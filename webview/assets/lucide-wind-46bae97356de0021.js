@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-wind-25c3c0da24566629.js";e();export{t as default};

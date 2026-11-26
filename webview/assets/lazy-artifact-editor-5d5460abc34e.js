@@ -1,0 +1,1 @@
+import"./app-initial-9f20463a6878.js";import{n as e,t}from"./lazy-artifact-editor-2e63056dc04d.js";e();export{t as LazyPageArtifactEditor};

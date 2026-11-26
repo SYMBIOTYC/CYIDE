@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-a98f67ef07db76e4.js";var r;function i(){return(i=e((()=>{t(),r=n(`DollarSign`,[[`line`,{x1:`12`,x2:`12`,y1:`2`,y2:`22`,key:`7eqyqh`}],[`path`,{d:`M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6`,key:`1b0p4s`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-dollar-sign-acee5c3733ac7b10.js.map

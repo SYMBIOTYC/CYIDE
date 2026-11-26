@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{VR as t,zR as n}from"./app-initial-9f20463a6878.js";var r;function i(){return(i=e((()=>{t(),r=n({id:`chatgpt.giftCards.purchase.label`,defaultMessage:`Buy a gift card`,description:`Label for the gift card purchase action and checkout dialog.`})})))()}export{i as n,r as t};
+//# sourceMappingURL=purchase-label-b865a44798fa.js.map

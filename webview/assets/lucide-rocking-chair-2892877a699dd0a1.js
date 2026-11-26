@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-rocking-chair-89d4538599e2585f.js";e();export{t as default};

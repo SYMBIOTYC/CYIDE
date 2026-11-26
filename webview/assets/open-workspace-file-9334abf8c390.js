@@ -1,0 +1,1 @@
+import{ho as e,mo as t}from"./app-initial-a38cc3f1c317.js";t();export{e as openWorkspaceFile};

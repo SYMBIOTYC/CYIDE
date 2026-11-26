@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./createLucideIcon-BrIFp4GW-fe5a2d63515a.js";var r;function i(){return(i=e((()=>{t(),r=n(`Eclipse`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`path`,{d:`M12 2a7 7 0 1 0 10 10`,key:`1yuj32`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=eclipse-C7dY3aA3-1e6d6ea2723e.js.map

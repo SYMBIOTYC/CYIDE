@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-a98f67ef07db76e4.js";var r;function i(){return(i=e((()=>{t(),r=n(`HardDriveDownload`,[[`path`,{d:`M12 2v8`,key:`1q4o3n`}],[`path`,{d:`m16 6-4 4-4-4`,key:`6wukr`}],[`rect`,{width:`20`,height:`8`,x:`2`,y:`14`,rx:`2`,key:`w68u3i`}],[`path`,{d:`M6 18h.01`,key:`uhywen`}],[`path`,{d:`M10 18h.01`,key:`h775k`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-hard-drive-download-2bd7b04f286f44ea.js.map

@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-file-spreadsheet-9b3f3e4d0db68f35.js";e();export{t as default};

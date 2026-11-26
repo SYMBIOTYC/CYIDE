@@ -1,0 +1,1 @@
+import{a as e,i as t,n,r}from"./space-sidebar-indexed-store-fe8c6db5fbfc.js";r();export{n as grantOwnerlessRecentPageIfUnchanged,t as ownerlessRecentDenialEpoch,e as persistOwnerlessRecentDenial};

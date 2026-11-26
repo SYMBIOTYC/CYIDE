@@ -1,0 +1,1 @@
+import"./app-initial-9f20463a6878.js";import{n as e,t}from"./workspace-agent-icon-792ca9fa8d73.js";e();export{t as WorkspaceAgentGraphic};

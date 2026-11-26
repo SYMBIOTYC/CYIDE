@@ -1,0 +1,1 @@
+import"./app-initial-9f20463a6878.js";import"./app-initial-553f37c950ea.js";import{n as e,t}from"./composer-content-a36196b803b7.js";import"./send-integrity-a5815ebcdc71.js";e();export{t as ComposerContent};

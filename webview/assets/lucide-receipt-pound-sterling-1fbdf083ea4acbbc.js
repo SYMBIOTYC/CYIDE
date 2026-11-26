@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-receipt-pound-sterling-7384de32d9d37b49.js";e();export{t as default};

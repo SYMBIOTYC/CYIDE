@@ -1,0 +1,1 @@
+import"./app-initial-9f20463a6878.js";import{n as e,r as t,t as n}from"./plugin-detail-page-f8d58d83eefa.js";t();export{n as ManagePluginDetailPage,e as PluginDetailPage};
