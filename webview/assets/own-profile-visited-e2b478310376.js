@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Run as t,Wun as n}from"./app-initial-553f37c950ea.js";import{GAn as r,cjn as i,ijn as a,qAn as o}from"./app-initial-df9c4d3df63b.js";function s(e){let n=e.get(t);if(n==null)return;let r=Date.now();i(c,{entries:{[n]:{value:r+l}},minNumericValue:r+1,maxEntries:u})}var c,l,u,d;function f(){return(f=e((()=>{n(),a(),r(),c=`own-profile-visited-by-user`,l=7776e6,u=5,d=o(c,{})})))()}export{s as n,d as r,f as t};
+//# sourceMappingURL=own-profile-visited-e2b478310376.js.map

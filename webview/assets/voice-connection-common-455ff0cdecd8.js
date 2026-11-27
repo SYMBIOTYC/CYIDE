@@ -1,0 +1,1 @@
+import{r as e,t}from"./voice-connection-common-b5df1ae001ff.js";t();export{e as waitForOpenDataChannel};

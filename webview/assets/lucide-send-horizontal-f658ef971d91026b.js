@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-send-horizontal-64d2ac0a1e72ed2d.js";e();export{t as default};

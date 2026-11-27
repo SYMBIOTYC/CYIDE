@@ -1,0 +1,1 @@
+import{F2 as e,P2 as t}from"./app-initial-553f37c950ea.js";t();export{e as moveTabToNewWindow};

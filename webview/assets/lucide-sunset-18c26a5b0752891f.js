@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-sunset-2afb4dd5d3d09467.js";e();export{t as default};

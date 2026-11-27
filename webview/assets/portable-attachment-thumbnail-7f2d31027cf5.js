@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./portable-attachment-thumbnail-45f6b09a6e67.js";e();export{t as renderPortableAttachmentThumbnail};

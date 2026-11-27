@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./panel-top-dashed-TbA3YeU7-b54a119c9cc1.js";function r(){return(r=e((()=>{n()})))()}r();export{t as default};
+//# sourceMappingURL=panel-top-inactive-BCSsj85H-6c51f698a606.js.map

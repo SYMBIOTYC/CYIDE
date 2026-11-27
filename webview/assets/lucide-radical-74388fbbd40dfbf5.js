@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-a98f67ef07db76e4.js";var r;function i(){return(i=e((()=>{t(),r=n(`Radical`,[[`path`,{d:`M3 12h3.28a1 1 0 0 1 .948.684l2.298 7.934a.5.5 0 0 0 .96-.044L13.82 4.771A1 1 0 0 1 14.792 4H21`,key:`1mqj8i`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-radical-74388fbbd40dfbf5.js.map

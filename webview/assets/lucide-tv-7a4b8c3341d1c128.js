@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-a98f67ef07db76e4.js";var r;function i(){return(i=e((()=>{t(),r=n(`Tv`,[[`rect`,{width:`20`,height:`15`,x:`2`,y:`7`,rx:`2`,ry:`2`,key:`10ag99`}],[`polyline`,{points:`17 2 12 7 7 2`,key:`11pgbg`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-tv-7a4b8c3341d1c128.js.map

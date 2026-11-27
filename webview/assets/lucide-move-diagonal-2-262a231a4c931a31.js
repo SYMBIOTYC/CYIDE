@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-move-diagonal-2-d1269f8ecf24881b.js";e();export{t as default};

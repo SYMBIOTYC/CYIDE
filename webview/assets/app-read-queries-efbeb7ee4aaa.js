@@ -1,0 +1,1 @@
+import"./app-initial-9f20463a6878.js";import{glt as e,vlt as t}from"./app-initial-553f37c950ea.js";t();export{e as getAppsReadQueryOptions};

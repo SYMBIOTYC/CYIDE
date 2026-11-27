@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Wun as t}from"./app-initial-553f37c950ea.js";import{jNn as n}from"./app-initial-df9c4d3df63b.js";import{r}from"./finance-funnel-5fa79c78fba3.js";function i(e,t,n,r=.5){}function a(){return(a=e((()=>{t(),n(),r()})))()}export{i as n,a as t};
+//# sourceMappingURL=observe-finance-element-a3a1bfa6c9e0.js.map

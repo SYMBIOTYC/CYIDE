@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-arrow-big-left-7d95294c0736aa74.js";e();export{t as default};

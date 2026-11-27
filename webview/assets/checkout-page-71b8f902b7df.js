@@ -1,0 +1,1 @@
+import"./app-initial-9f20463a6878.js";import"./shell-3155eeaf9a23.js";import{r as e,t}from"./checkout-page-874652d96c85.js";e();export{t as CheckoutPage};

@@ -1,0 +1,1 @@
+import{n as e,t}from"./dist-5a71f273cc1c.js";t();export{e as parser};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";var t,n,r,i,a,o,s,c,l;function u(){return(u=e((()=>{t=`_legacyMobileTitle_oqxf6_2`,n=`_confirmationSky_oqxf6_2`,r=`_creationAbout_oqxf6_2`,i=`_warningStatus_oqxf6_2`,a=`_dangerStatus_oqxf6_2`,o=`_statusTooltip_oqxf6_2`,s=`_creationContact_oqxf6_2`,c=`_verificationWarning_oqxf6_2`,l={legacyMobileTitle:t,confirmationSky:n,creationAbout:r,warningStatus:i,dangerStatus:a,statusTooltip:o,creationContact:s,verificationWarning:c}})))()}export{u as n,l as t};
+//# sourceMappingURL=business-page.module-4a96cc8a808f.js.map

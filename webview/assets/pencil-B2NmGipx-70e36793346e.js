@@ -1,0 +1,1 @@
+import{n as e,t}from"./pencil-B2NmGipx-1419fd423d35.js";e();export{t as default};

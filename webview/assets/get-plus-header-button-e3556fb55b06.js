@@ -1,0 +1,1 @@
+import"./app-initial-9f20463a6878.js";import{r as e,t}from"./get-plus-header-button-cc1a46f0fa9e.js";e();export{t as GetPlusHeaderButton};

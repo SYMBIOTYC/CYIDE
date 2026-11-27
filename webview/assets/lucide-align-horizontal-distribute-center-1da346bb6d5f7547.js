@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-align-horizontal-distribute-center-2f4bbf60891d9cc6.js";e();export{t as default};

@@ -1,0 +1,1 @@
+import{n as e,t}from"./armchair-CIYwg-ZJ-f00f4082ce88.js";e();export{t as default};

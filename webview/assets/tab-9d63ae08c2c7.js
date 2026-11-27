@@ -1,0 +1,1 @@
+import{n as e,t}from"./tab-ec40e07dcf7c.js";t();export{e as openProfileTab};

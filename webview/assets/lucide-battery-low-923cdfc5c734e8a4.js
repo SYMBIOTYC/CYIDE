@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-a98f67ef07db76e4.js";var r;function i(){return(i=e((()=>{t(),r=n(`BatteryLow`,[[`rect`,{width:`16`,height:`10`,x:`2`,y:`7`,rx:`2`,ry:`2`,key:`1w10f2`}],[`line`,{x1:`22`,x2:`22`,y1:`11`,y2:`13`,key:`4dh1rd`}],[`line`,{x1:`6`,x2:`6`,y1:`11`,y2:`13`,key:`1wd6dw`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-battery-low-923cdfc5c734e8a4.js.map

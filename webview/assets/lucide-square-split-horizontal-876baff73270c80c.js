@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-square-split-horizontal-c39d37f5d2c972c7.js";e();export{t as default};

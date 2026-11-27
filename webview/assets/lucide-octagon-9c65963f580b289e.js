@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-octagon-d74df27af7b8e14a.js";e();export{t as default};

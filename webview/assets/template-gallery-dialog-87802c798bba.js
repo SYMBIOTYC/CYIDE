@@ -1,0 +1,1 @@
+import"./app-initial-9f20463a6878.js";import{r as e,t}from"./template-gallery-dialog-f7850ef9ec43.js";e();export{t as SpaceTemplateGalleryDialog};

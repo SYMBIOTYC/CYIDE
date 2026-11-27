@@ -1,0 +1,1 @@
+import{n as e,t}from"./tablets-CnA0x0ZE-f041d951bfa2.js";t();export{e as default};

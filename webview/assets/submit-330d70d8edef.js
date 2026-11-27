@@ -1,0 +1,1 @@
+import"./app-initial-9f20463a6878.js";import{Dy as e,Ey as t,Oy as n,Ty as r,wy as i}from"./app-initial-553f37c950ea.js";e();export{i as clearMcpAppDraftAttachments,r as getMcpAppNewThreadDestination,t as getMcpAppSubmit,n as updateMcpAppDraftPrompt};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e){let t=t=>e(t.target instanceof Element&&t.target.matches(`:focus-visible`));return{onFocusCapture:t,onKeyDownCapture:t,onBlurCapture:()=>e(!1)}}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=focus-visible-handlers-10ca7f83eb2b.js.map

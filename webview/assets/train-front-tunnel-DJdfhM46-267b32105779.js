@@ -1,0 +1,1 @@
+import{n as e,t}from"./train-front-tunnel-DJdfhM46-f66fc7a5ecb4.js";t();export{e as default};
