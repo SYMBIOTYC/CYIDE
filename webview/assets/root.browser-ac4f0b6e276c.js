@@ -1,0 +1,1 @@
+import"./app-initial-9f20463a6878.js";import"./app-initial-df9c4d3df63b.js";import"./client-2b28f3eca5d4.js";import{n as e,t}from"./root.browser-8d445274e69e.js";e();export{t as createBrowserVoiceOrbRoot};

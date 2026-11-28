@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";function t(e){switch(e){case`closed`:case`draft`:case`merged`:return e;case`failing`:case`in_progress`:case`ready`:return`open`}}function n(){return(n=e((()=>{})))()}export{n,t};
+//# sourceMappingURL=pull-request-status-utils-88f997f2c710.js.map

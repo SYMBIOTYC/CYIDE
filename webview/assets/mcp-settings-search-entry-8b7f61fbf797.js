@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{VR as t,zR as n}from"./app-initial-9f20463a6878.js";import{Cc as r,wc as i}from"./app-initial-df9c4d3df63b.js";var a;function o(){return(o=e((()=>{t(),i(),a={section:`mcp-settings`,id:`mcp-server-manager`,title:r(`mcp-settings`),description:n({id:`settings.section.mcp-settings.subtitle`,defaultMessage:`Connect external tools and data sources`,description:`Subtitle for MCP settings section`})}})))()}export{a as n,o as t};
+//# sourceMappingURL=mcp-settings-search-entry-8b7f61fbf797.js.map

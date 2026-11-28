@@ -1,0 +1,1 @@
+import"./app-initial-9f20463a6878.js";import{bB as e,xB as t}from"./app-initial-df9c4d3df63b.js";t();export{e as SidebarRenameDialog};

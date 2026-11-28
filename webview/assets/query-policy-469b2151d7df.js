@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";var t;function n(){return(n=e((()=>{t={refetchOnMount:!0,retryOnMount:!0,refetchOnWindowFocus:!1,refetchOnReconnect:!1}})))()}export{n,t};
+//# sourceMappingURL=query-policy-469b2151d7df.js.map

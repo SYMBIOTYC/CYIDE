@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-concierge-bell-129db1ca600cc48f.js";e();export{t as default};

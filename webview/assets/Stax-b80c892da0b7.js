@@ -1,0 +1,1 @@
+import"./app-initial-9f20463a6878.js";import{n as e,r as t,t as n}from"./Stax-25bd30648289.js";t();export{n as StaxIcon,e as StaxIconSm};

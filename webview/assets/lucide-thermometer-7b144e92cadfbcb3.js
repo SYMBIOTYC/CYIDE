@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-thermometer-9f8ac043fa620730.js";e();export{t as default};

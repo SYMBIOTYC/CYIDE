@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-refrigerator-1366d2ce0f4f71e2.js";e();export{t as default};

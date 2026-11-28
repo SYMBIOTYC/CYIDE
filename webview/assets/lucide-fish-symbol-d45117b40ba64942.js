@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-fish-symbol-f9935d43aa0880d1.js";e();export{t as default};

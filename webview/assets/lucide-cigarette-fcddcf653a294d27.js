@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-a98f67ef07db76e4.js";var r;function i(){return(i=e((()=>{t(),r=n(`Cigarette`,[[`path`,{d:`M17 12H3a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h14`,key:`1mb5g1`}],[`path`,{d:`M18 8c0-2.5-2-2.5-2-5`,key:`1il607`}],[`path`,{d:`M21 16a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1`,key:`1yl5r7`}],[`path`,{d:`M22 8c0-2.5-2-2.5-2-5`,key:`1gah44`}],[`path`,{d:`M7 12v4`,key:`jqww69`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-cigarette-fcddcf653a294d27.js.map

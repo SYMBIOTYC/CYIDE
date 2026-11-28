@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-rectangle-horizontal-5b8ba77e0f9bc5e0.js";e();export{t as default};

@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";var t,n;function r(){return(r=e((()=>{t=`/settings/personalization?modal=memories`,n=`/settings/personalization#chatgpt-reference-photos`})))()}export{t as n,r,n as t};
+//# sourceMappingURL=chatgpt-personalization-route-8194d37b581f.js.map

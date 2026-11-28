@@ -1,0 +1,1 @@
+import{n as e,t}from"./octagon-minus-B5bUxWq7-4f49866c0167.js";e();export{t as default};

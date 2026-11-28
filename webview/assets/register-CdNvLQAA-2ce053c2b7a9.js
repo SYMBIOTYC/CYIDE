@@ -1,0 +1,1 @@
+import"./app-initial-9f20463a6878.js";import"./client-2b28f3eca5d4.js";import{a as e,s as t}from"./register-CdNvLQAA-d91cbfa14956.js";t();export{e as r};

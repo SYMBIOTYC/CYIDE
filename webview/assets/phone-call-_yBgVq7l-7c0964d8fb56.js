@@ -1,0 +1,1 @@
+import{n as e,t}from"./phone-call-_yBgVq7l-b0e963ad6f20.js";t();export{e as default};

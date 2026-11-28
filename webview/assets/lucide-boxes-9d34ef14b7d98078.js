@@ -1,0 +1,1 @@
+import{n as e,t}from"./lucide-boxes-c14bb23479fc74e0.js";e();export{t as default};

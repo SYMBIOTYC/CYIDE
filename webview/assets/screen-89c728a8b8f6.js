@@ -1,0 +1,1 @@
+import"./app-initial-9f20463a6878.js";import{n as e,r as t}from"./screen-c18b305ffbc8.js";t();export{e as ChatSeatAccessScreen};

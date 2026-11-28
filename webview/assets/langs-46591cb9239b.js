@@ -1,0 +1,1 @@
+import{a as e,t}from"./langs-298d7306a756.js";e();export{t as bundledLanguages};

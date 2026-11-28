@@ -1,0 +1,1 @@
+import{n as e,t}from"./dices-BsKOGhO_-85100c632baa.js";e();export{t as default};

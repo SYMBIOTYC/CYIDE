@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{Ant as t}from"./app-initial-9f20463a6878.js";var n,r;function i(){return(i=e((()=>{n=t(),r=(0,n.createContext)(null)})))()}export{i as n,r as t};
+//# sourceMappingURL=PlatformUIKitContext-20cd35972b70.js.map

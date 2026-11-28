@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-428824ca0286.js";import{n as t,t as n}from"./lucide-createLucideIcon-a98f67ef07db76e4.js";var r;function i(){return(i=e((()=>{t(),r=n(`IceCreamCone`,[[`path`,{d:`m7 11 4.08 10.35a1 1 0 0 0 1.84 0L17 11`,key:`1v6356`}],[`path`,{d:`M17 7A5 5 0 0 0 7 7`,key:`151p3v`}],[`path`,{d:`M17 7a2 2 0 0 1 0 4H7a2 2 0 0 1 0-4`,key:`1sdaij`}]])})))()}export{i as n,r as t};
+//# sourceMappingURL=lucide-ice-cream-cone-9a3af0ebd1797ca7.js.map

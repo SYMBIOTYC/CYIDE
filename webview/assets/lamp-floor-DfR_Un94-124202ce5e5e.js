@@ -1,0 +1,1 @@
+import{n as e,t}from"./lamp-floor-DfR_Un94-9a0a65373133.js";e();export{t as default};
